@@ -1,0 +1,134 @@
+{
+    "Q9H2K0": {
+        "class": "IF3 (IF-3)",
+        "class_type": "Prokaryotic"
+    },
+    "P47813": {
+        "class": "eIF1A (eIF-1A; eIF-4C)",
+        "class_type": "Eukaryotic"
+    },
+    "O14602": {
+        "class": "eIF1A (eIF-1A; eIF-4C)",
+        "class_type": "Eukaryotic"
+    },
+    "P05198": {
+        "class": "eIF2-alpha (eIF-2 alpha)",
+        "class_type": "Eukaryotic"
+    },
+    "Q2VIR3": {
+        "class": "eIF2-gamma (eIF-2 gamma)",
+        "class_type": "Eukaryotic"
+    },
+    "Q9UL18": {
+        "class": "eIF2C (eIF-2C)",
+        "class_type": "Eukaryotic"
+    },
+    "Q9UKV8": {
+        "class": "eIF2C (eIF-2C)",
+        "class_type": "Eukaryotic"
+    },
+    "Q9H9G7": {
+        "class": "eIF2C (eIF-2C)",
+        "class_type": "Eukaryotic"
+    },
+    "Q9HCK5": {
+        "class": "eIF2C (eIF-2C)",
+        "class_type": "Eukaryotic"
+    },
+    "O75822": {
+        "class": "eIF3 subunit 1",
+        "class_type": "Eukaryotic"
+    },
+    "Q13347": {
+        "class": "eIF3 subunit 2",
+        "class_type": "Eukaryotic"
+    },
+    "O15372": {
+        "class": "eIF3 subunit 3",
+        "class_type": "Eukaryotic"
+    },
+    "O75821": {
+        "class": "eIF3 subunit 4",
+        "class_type": "Eukaryotic"
+    },
+    "O00303": {
+        "class": "eIF3 subunit 5",
+        "class_type": "Eukaryotic"
+    },
+    "P60228": {
+        "class": "eIF3 subunit 6",
+        "class_type": "Eukaryotic"
+    },
+    "O15371": {
+        "class": "eIF3 subunit 7",
+        "class_type": "Eukaryotic"
+    },
+    "Q99613": {
+        "class": "eIF3 subunit 8",
+        "class_type": "Eukaryotic"
+    },
+    "P55884": {
+        "class": "eIF3 subunit 9",
+        "class_type": "Eukaryotic"
+    },
+    "Q14152": {
+        "class": "eIF3 subunit 10",
+        "class_type": "Eukaryotic"
+    },
+    "Q9UBQ5": {
+        "class": "eIF3 subunit 11",
+        "class_type": "Eukaryotic"
+    },
+    "P60842": {
+        "class": "eIF4A (eIF-4A)",
+        "class_type": "Eukaryotic"
+    },
+    "Q14240": {
+        "class": "eIF4A (eIF-4A)",
+        "class_type": "Eukaryotic"
+    },
+    "P38919": {
+        "class": "eIF4A (eIF-4A)",
+        "class_type": "Eukaryotic"
+    },
+    "P23588": {
+        "class": "eIF4B (eIF-4B)",
+        "class_type": "Eukaryotic"
+    },
+    "P06730": {
+        "class": "eIF4E (eIF-4E) (eIF4F subunit 2)",
+        "class_type": "Eukaryotic"
+    },
+    "Q15056": {
+        "class": "eIF4H (eIF-4H)",
+        "class_type": "Eukaryotic"
+    },
+    "P55010": {
+        "class": "eIF5 (eIF-5)",
+        "class_type": "Eukaryotic"
+    },
+    "P63241": {
+        "class": "eIF5A (eIF-5A) (eIF-4D)",
+        "class_type": "Eukaryotic"
+    },
+    "Q9GZV4": {
+        "class": "eIF5A (eIF-5A) (eIF-4D)",
+        "class_type": "Eukaryotic"
+    },
+    "Q6IS14": {
+        "class": "eIF5A (eIF-5A) (eIF-4D)",
+        "class_type": "Eukaryotic"
+    },
+    "P56537": {
+        "class": "eIF6",
+        "class_type": "Eukaryotic"
+    },
+    "O60739": {
+        "class": "eIF1 (eIF-1) (SUI1)",
+        "class_type": "Eukaryotic"
+    },
+    "P41567": {
+        "class": "eIF1 (eIF-1) (SUI1)",
+        "class_type": "Eukaryotic"
+    }
+}

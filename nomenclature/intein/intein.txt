@@ -1,0 +1,158 @@
+--------------------------------------------------------------------------------
+        UniProt - Swiss-Prot Protein Knowledgebase
+        SIB Swiss Institute of Bioinformatics; Geneva, Switzerland
+        European Bioinformatics Institute (EBI); Hinxton, United Kingdom
+        Protein Information Resource (PIR); Washington DC, USA
+--------------------------------------------------------------------------------
+
+Description: Intein-containing proteins: list of entries
+Name:        intein.txt
+Release:     2024_01 of 24-Jan-2024
+
+--------------------------------------------------------------------------------
+
+Protein splicing is defined as the excision of an intervening protein sequence
+(the INTEIN) from a protein precursor and the concomitant ligation of the
+flanking protein fragments (the EXTEINS) to form a mature extein protein and the
+free intein. Protein splicing results in a native peptide bond between the
+ligated exteins. Extein ligation differentiates protein splicing from other
+forms of autoproteolysis. Inteins are named with a 3 letter genus/species
+designation followed by the extein gene name. If more than 1 intein is present
+in an extein gene, the inteins are given a numerical suffix.
+
+ - Number of inteins referenced in Swiss-Prot: 114
+ - Number of Swiss-Prot entries with one or more inteins: 104
+
+Further information about inteins is available from the following WWW page:
+
+InBase: http://tools.neb.com/inbase/
+
+The second column contains (E) if the intein has a potential or proven
+endonuclease activity.
+
+
+Intein name         (E)  Swiss-Prot entry
+___________________ ____ ________________________
+Aae NrdB                 RIR2_AQUAE  (O67475)    
+Asp dnaB            (E)  DNAB_NOSS1  (Q8YZA1)    
+Bsu nrdEB                NRDEB_BACSU (O31875)    
+Ceu clpP                 CLPP_CHLMO  (P42379)    
+CeV01 dpo                DPOL_CEV01  (A7U6F1)    
+Ctr VMA             (E)  VATA_CANTR  (P38078)    
+Ddi rpc2                 RPC2_DICDI  (Q54IZ9)    
+Gth dnaB                 DNAB_GUITH  (O78411)    
+Hma polC                 DP2L_HALMA  (Q5UZ40)    
+Hsp-NRC1 polC            DP2L_HALSA  (Q9HMX8)    
+Hwa polC 1               DP2L_HALWD  (Q18ER3)    
+Hwa polC 2               DP2L_HALWD  (Q18ER3)    
+Hwa RFC                  RFCS_HALWD  (Q18E75)    
+IIV-6 RIR1               RIR1_IIV6   (O55716)    
+Mbo dnaB            (E)  DNAB_MYCBO  (P59966)    
+Mbo RecA            (E)  RECA_MYCBO  (P0A5U5)    
+Mch RecA                 RECA_MYCCI  (Q9F417)    
+Memar polC               DP2L_METMJ  (A3CXE7)    
+Mfa RecA                 RECA_MYCFA  (Q9F416)    
+Mfl GyrA                 GYRA_MYCFV  (Q49166)    
+Mfl RecA                 RECA_MYCFV  (Q9F415)    
+Mga RecA                 RECA_MYCGS  (Q9F414)    
+Mgo GyrA                 GYRA_MYCGO  (Q49467)    
+Mhu polC                 DP2L_METHJ  (Q2FSF9)    
+Mimv polB                DPOL_MIMIV  (Q5UQR0)    
+Min DnaB                 DNAB_MYCIT  (Q9F5P4)    
+Mja gf6p                 GLMS_METJA  (Q58815)    
+Mja Hel             (E)  HELS_METJA  (Q58524)    
+Mja hyp1                 Y043_METJA  (Q60348)    
+Mja hyp2                 RTCB_METJA  (Q58095)    
+Mja infB                 IF2P_METJA  (Q57710)    
+Mja klbA                 Y781_METJA  (Q58191)    
+Mja pep                  PPSA_METJA  (Q57962)    
+Mja pol-1                DPOL_METJA  (Q58295)    
+Mja pol-2                DPOL_METJA  (Q58295)    
+Mja r-Gyr                RGYR_METJA  (Q58907)    
+Mja RFC-1                RFCS_METJA  (Q58817)    
+Mja RFC-2                RFCS_METJA  (Q58817)    
+Mja RFC-3                RFCS_METJA  (Q58817)    
+Mja rnr-1                Y832_METJA  (Q58242)    
+Mja rnr-2                Y832_METJA  (Q58242)    
+Mja rpo1C                RPO1C_METJA (Q58446)    
+Mja rpo1N                RPO1N_METJA (Q58445)    
+Mja TFIIB           (E)  TF2B_METJA  (Q58192)    
+Mja UDPGD                Y1054_METJA (Q58454)    
+Mka AtpB                 VATB_METKA  (Q8TUT0)    
+Mka FusA                 EF2_METKA   (Q8TXJ4)    
+Mka GyrA                 GYRA_MYCKA  (Q49608)    
+Mka hyp2                 RTCB_METKA  (Q8TUS2)    
+Mkn RFC                  RFCS_METKA  (Q8TZC4)    
+Mle dnaB                 DNAB_MYCLE  (P46394)    
+Mle GyrA                 GYRA_MYCLE  (Q57532)    
+Mle pps1                 Y593_MYCLE  (Q49689)    
+Mle RecA                 RECA_MYCLE  (P35901)    
+Mma GyrA                 GYRA_MYCMA  (O33149)    
+Msh RecA                 RECA_MYCSH  (Q9F410)    
+Mth RecA                 RECA_MYCT3  (Q9F407)    
+Mtu dnaB            (E)  DNAB_MYCTO  (P9WMR2)    
+                         DNAB_MYCTU  (P9WMR3)
+Mtu pps1            (E)  Y1461_MYCTO (P9WFP6)    
+                         Y1461_MYCTU (P9WFP7)
+                         Y1496_MYCBO (P67126)
+Mtu RecA            (E)  RECA_MYCTO  (P9WHJ2)    
+                         RECA_MYCTU  (P9WHJ3)
+Mxe GyrA                 GYRA_MYCXE  (P72065)    
+Pab AtpA                 VATA_PYRAB  (Q9UXU7)    
+Pab hyp2                 RTCB_PYRAB  (Q9V168)    
+Pab infB                 IF2P_PYRAB  (Q9UZK7)    
+Pab lon                  LONB_PYRAB  (Q9UYC6)    
+Pab polC                 DP2L_PYRAB  (Q9V2F4)    
+Pab RFC-1                RFCS_PYRAB  (Q9V2G4)    
+Pab RFC-2                RFCS_PYRAB  (Q9V2G4)    
+Pfu AtpA            (E)  VATA_PYRFU  (Q8U4A6)    
+Pfu hyp2                 RTCB_PYRFU  (Q8U0H4)    
+Pfu infB                 IF2P_PYRFU  (Q8U1R8)    
+Pfu RFC                  RFCS_PYRFU  (Q8U4J3)    
+Pfu rnr-1           (E)  NDRZ_PYRFU  (E7FHX6)    
+Pfu rnr-2                NDRZ_PYRFU  (E7FHX6)    
+Pfu topA            (E)  TOP1_PYRFU  (O73954)    
+Pho AtpA            (E)  VATA_PYRHO  (O57728)    
+Pho hyp2                 RTCB_PYRHO  (O59245)    
+Pho infB                 IF2P_PYRHO  (O58822)    
+Pho lon                  LONB_PYRHO  (O58221)    
+Pho pol                  DPOL_PYRHO  (O59610)    
+Pho polC                 DP2L_PYRHO  (O57861)    
+Pho r-Gyr                RGYR_PYRHO  (O58530)    
+Pho RadA                 RADA_PYRHO  (O58001)    
+Pho RFC                  RFCS_PYRHO  (O57852)    
+Pko Hel             (E)  HELS_THEKO  (Q5JGV6)    
+Pko infB                 IF2P_THEKO  (Q5JGR9)    
+Pko pol-1                DPOL_THEKO  (P77933)    
+Pko pol-2                DPOL_THEKO  (P77933)    
+Pko polC                 DP2L_THEKO  (Q5JET0)    
+Pko r-Gyr                RGYR_THEKO  (Q6F598)    
+Pko RadA                 RADA_THEKO  (Q5JET4)    
+Pko RFC                  RFCS_THEKO  (Q5JHP2)    
+Ppu dnaB                 DNAB_PORPU  (P51333)    
+Psp-GDB pol              DPOL_PYRSD  (Q51334)    
+Pye dnaB                 DNAB_NEOYE  (Q1XDF3)    
+Rma dnaB                 DNAB_RHOMR  (O30477)    
+Sce VMA             (E)  VATA_YEAST  (P17255)    
+SPBc2 bnrdE              NRDEB_BPSPB (O64173)    
+Ssp dnaB                 DNAB_SYNY3  (Q55418)    
+Ssp dnaE                 DPO3A_SYNY3 (P74750)    
+Ssp GyrB                 GYRB_SYNY3  (P77966)    
+Tac AtpA                 VATA_THEAC  (Q9P997)    
+Tag pol-1                DPOL_THEAG  (O33845)    
+Tag pol-2                DPOL_THEAG  (O33845)    
+Tag pol-3                DPOL_THEAG  (O33845)    
+Tfu pol-1                DPOL_THEFM  (P74918)    
+Tfu pol-2                DPOL_THEFM  (P74918)    
+Thy pol-1           (E)  DPOL_THEHY  (Q9HH05)    
+Thy pol-2           (E)  DPOL_THEHY  (Q9HH05)    
+Tli pol-1           (E)  DPOL_THELI  (P30317)    
+Tli pol-2           (E)  DPOL_THELI  (P30317)    
+Tsp-GE8 pol-1       (E)  DPOL_THEG8  (Q9HH84)    
+Tsp-GE8 pol-2       (E)  DPOL_THEG8  (Q9HH84)    
+Tvo AtpA                 VATA_THEVO  (Q97CQ0)    
+
+--------------------------------------------------------------------------------
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+--------------------------------------------------------------------------------

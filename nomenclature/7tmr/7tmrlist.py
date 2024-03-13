@@ -39,3 +39,5 @@ with open("extract.txt") as f:
 print("Total GPCR proteins: ", len(gpcr_proteins))
 with open("gpcr_proteins.json", "w") as f:
     json.dump(gpcr_proteins, f, indent=4)
+
+# 825 GPCR proteins

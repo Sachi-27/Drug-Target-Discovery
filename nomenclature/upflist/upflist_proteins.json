@@ -1,0 +1,1052 @@
+{
+    "P55061": {
+        "family": "UPF0005 [DELETED]",
+        "taxonomic_range": "Eubacteria Eukaryota",
+        "comments": "Now characterized as Bax inhibitor 1;"
+    },
+    "Q9Y3I0": {
+        "family": "UPF0027 [DELETED]",
+        "taxonomic_range": "Archaea Eubacteria Eukaryota",
+        "comments": "Now characterized as a family of RNA-splicing ligases;"
+    },
+    "P0C024": {
+        "family": "UPF0035 [DELETED]",
+        "taxonomic_range": "Eubacteria Eukaryota",
+        "comments": "Now characterized as a subfamily of Nudix hydrolase;"
+    },
+    "Q15777": {
+        "family": "UPF0046",
+        "taxonomic_range": "Eukaryota",
+        "comments": "None"
+    },
+    "O15442": {
+        "family": "UPF0046",
+        "taxonomic_range": "Eukaryota",
+        "comments": "None"
+    },
+    "Q86W50": {
+        "family": "UPF0049 [DELETED]",
+        "taxonomic_range": "Archaea Eubacteria Eukaryota",
+        "comments": "Now assigned as methyltransferase superfamily;"
+    },
+    "O14530": {
+        "family": "UPF0071 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Contains a thioredoxin domain, but lack active site disulfide-"
+    },
+    "Q9BSH4": {
+        "family": "UPF0082 [DELETED]",
+        "taxonomic_range": "Eubacteria Eukaryota",
+        "comments": "Now characterized as translational activator of cytochrome c"
+    },
+    "Q9Y3E5": {
+        "family": "UPF0099 [DELETED]",
+        "taxonomic_range": "Archaea Eukaryota Viruses",
+        "comments": "Now characterized as a peptidyl-tRNA hydrolase (EC 3.1.1.29);"
+    },
+    "Q9Y3D8": {
+        "family": "UPF0101 [DELETED]",
+        "taxonomic_range": "Archaea Eukaryota",
+        "comments": "Now characterized as a family of adenylate kinases (EC 2.7.4.3);"
+    },
+    "Q9Y316": {
+        "family": "UPF0103 [DELETED]",
+        "taxonomic_range": "Archaea Eubacteria Eukaryota",
+        "comments": "Now renamed as MEMO1 family;"
+    },
+    "Q9NRG7": {
+        "family": "UPF0105 [DELETED]",
+        "taxonomic_range": "Eubacteria Eukaryota",
+        "comments": "Now assigned as a family of sugar epimerase family;"
+    },
+    "Q7RTV0": {
+        "family": "UPF0123 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Now characterized as a splicing factor 3B associated 14 kDa"
+    },
+    "Q8IV20": {
+        "family": "UPF0124 [DELETED]",
+        "taxonomic_range": "Eubacteria Eukaryota",
+        "comments": "Renamed to family LACC1."
+    },
+    "Q9BVM4": {
+        "family": "UPF0131 [DELETED]",
+        "taxonomic_range": "Archaea Eubacteria Eukaryota",
+        "comments": "3D-structures available. Groups various gamma-"
+    },
+    "O43402": {
+        "family": "UPF0172 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Now characterized as EMC8/EMC9 family;"
+    },
+    "Q9BSU1": {
+        "family": "UPF0183 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Now characterized as a phagosome assembly factor;"
+    },
+    "Q9BUW7": {
+        "family": "UPF0184",
+        "taxonomic_range": "Eukaryota",
+        "comments": "None"
+    },
+    "P61960": {
+        "family": "UPF0185 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Now characterized as ubiquitin-fold modifier 1;"
+    },
+    "Q9BWJ5": {
+        "family": "UPF0186 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Now characterized as splicing factor 3B subunit 5 (SF3b5);"
+    },
+    "Q9BZE7": {
+        "family": "UPF0193",
+        "taxonomic_range": "Eukaryota",
+        "comments": "None"
+    },
+    "Q9Y3D0": {
+        "family": "UPF0195 [DELETED]",
+        "taxonomic_range": "Eubacteria Eukaryota",
+        "comments": "Now characterized as mitotic spindle-associated MMXD complex subunit MIP18."
+    },
+    "Q9P0T7": {
+        "family": "UPF0196 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Now characterized as a potential endosomal/lysosomal transport"
+    },
+    "P61165": {
+        "family": "UPF0197 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Now renamed as the TMEM258 family."
+    },
+    "O43715": {
+        "family": "UPF0203 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Now characterized as TP53-regulated inhibitor of apoptosis 1;"
+    },
+    "Q6ZMB5": {
+        "family": "UPF0206 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Integral membrane protein; one paralog at least may function as a"
+    },
+    "O95807": {
+        "family": "UPF0220",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Integral membrane protein."
+    },
+    "P56557": {
+        "family": "UPF0220",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Integral membrane protein."
+    },
+    "Q8WW33": {
+        "family": "UPF0224",
+        "taxonomic_range": "Eukaryota",
+        "comments": "None"
+    },
+    "Q9H1H1": {
+        "family": "UPF0224",
+        "taxonomic_range": "Eukaryota",
+        "comments": "None"
+    },
+    "Q8WUR7": {
+        "family": "UPF0235",
+        "taxonomic_range": "Archaea Eubacteria Eukaryota",
+        "comments": "3D-structure available;"
+    },
+    "Q9NQG1": {
+        "family": "UPF0239",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Has a N-terminal transmembrane region."
+    },
+    "Q9P032": {
+        "family": "UPF0240 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Now characterized as NADH dehydrogenase [ubiquinone] 1 alpha"
+    },
+    "Q9UPX6": {
+        "family": "UPF0258 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Now characterized as regulator of mTOR signaling;"
+    },
+    "Q9P0R6": {
+        "family": "UPF0279 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Now characterized as A-kinase anchoring protein;"
+    },
+    "Q9BYD5": {
+        "family": "UPF0281 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Now characterized as the cornifelin family;"
+    },
+    "Q7RTV5": {
+        "family": "UPF0308 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Now renamed as protein AAED1"
+    },
+    "Q5TGZ0": {
+        "family": "UPF0327 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Now characterized as mitochondrial organizing structure protein"
+    },
+    "Q9P0I2": {
+        "family": "UPF0347 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Now characterized as EMC3 family;"
+    },
+    "Q86W33": {
+        "family": "UPF0359",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Integral membrane protein."
+    },
+    "Q9NQC8": {
+        "family": "UPF0360 [DELETED]",
+        "taxonomic_range": "Eubacteria Eukaryota",
+        "comments": "Now characterized as ITF46 family;"
+    },
+    "Q9H3Y8": {
+        "family": "UPF0362 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Renamed to family PPDPF."
+    },
+    "Q9H993": {
+        "family": "UPF0364 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Now characterized as protein-glutamate O-methyltransferase;"
+    },
+    "Q9H7C9": {
+        "family": "UPF0366 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Now renamed as AAMDC family."
+    },
+    "Q9BVG4": {
+        "family": "UPF0368 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Renamed to family PBDC1"
+    },
+    "Q8IXW5": {
+        "family": "UPF0385 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Now characterized as a family of RNA polymerase II-associated"
+    },
+    "Q9H6E4": {
+        "family": "UPF0388 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "renamed to family CCDC134."
+    },
+    "Q96A26": {
+        "family": "UPF0389",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Membrane protein;"
+    },
+    "Q5T6X4": {
+        "family": "UPF0389",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Membrane protein;"
+    },
+    "Q9UNZ5": {
+        "family": "UPF0390",
+        "taxonomic_range": "Eukaryota",
+        "comments": "None"
+    },
+    "Q96P16": {
+        "family": "UPF0400",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Now characterized as a family of ribosomal RNA processing protein;"
+    },
+    "Q9NQG5": {
+        "family": "UPF0400",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Now characterized as a family of ribosomal RNA processing protein;"
+    },
+    "Q96FH0": {
+        "family": "UPF0402 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Renamed to MEF2BNB."
+    },
+    "Q6IAA8": {
+        "family": "UPF0404 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Now characterized as the LAMTOR1 family;"
+    },
+    "Q9BQ65": {
+        "family": "UPF0406 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Now characterized as putative U6 snRNA phosphodiesterase."
+    },
+    "Q96MC2": {
+        "family": "UPF0407 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Now characterized as a family of Coiled-coil domain-containing proteins;"
+    },
+    "Q9H6X4": {
+        "family": "UPF0414 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Renamed to TMEM134/TMEM230 family."
+    },
+    "Q9BPX7": {
+        "family": "UPF0415",
+        "taxonomic_range": "Eukaryota",
+        "comments": "DUF1308 in Pfam."
+    },
+    "Q96GL9": {
+        "family": "UPF0417 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Now incorporated into FAM163."
+    },
+    "Q96GY0": {
+        "family": "UPF0418 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Renamed to ZC2HC1."
+    },
+    "Q9NWS1": {
+        "family": "UPF0419 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Now characterized as PCNA-interacting partner;"
+    },
+    "Q9GZP4": {
+        "family": "UPF0424 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Renamed to PITHD1 family."
+    },
+    "Q8N9A8": {
+        "family": "UPF0427  [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Characterized as a nuclear envelope phosphatase-regulatory"
+    },
+    "Q9H5V9": {
+        "family": "UPF0428  [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Characterized as a regulator of membrane curvature formation;"
+    },
+    "Q8N9E0": {
+        "family": "UPF0429  [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Renamed to family FAM133."
+    },
+    "Q9NWB6": {
+        "family": "UPF0430",
+        "taxonomic_range": "Eukaryota",
+        "comments": "None"
+    },
+    "Q96FB5": {
+        "family": "UPF0431 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Renamed to family RRNAD1."
+    },
+    "Q5XKP0": {
+        "family": "UPF0433 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Characterized as MICOS complex subunit;"
+    },
+    "Q9NX38": {
+        "family": "UPF0436 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Renamed to family FAM206."
+    },
+    "Q96H12": {
+        "family": "UPF0439 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Renamed as family MSANTD3;"
+    },
+    "Q9NRQ5": {
+        "family": "UPF0443 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Renamed to family SMCO4"
+    },
+    "Q96DE5": {
+        "family": "UPF0448 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Now characterized as APC16 family."
+    },
+    "Q9UFG5": {
+        "family": "UPF0449",
+        "taxonomic_range": "Eukaryota",
+        "comments": "None"
+    },
+    "Q2M2W7": {
+        "family": "UPF0450",
+        "taxonomic_range": "Eukaryota",
+        "comments": "None"
+    },
+    "Q8N2U0": {
+        "family": "UPF0451 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Renamed to family TMEM256."
+    },
+    "Q9BSB4": {
+        "family": "UPF0453 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Now characterized as ATG101 family."
+    },
+    "Q99622": {
+        "family": "UPF0456",
+        "taxonomic_range": "Eukaryota",
+        "comments": "None"
+    },
+    "Q9NWD8": {
+        "family": "UPF0458 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Now renamed as the TMEM248 family;"
+    },
+    "Q9BQD3": {
+        "family": "UPF0459 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Now renamed as KXD1 family;"
+    },
+    "Q7Z6I8": {
+        "family": "UPF0461",
+        "taxonomic_range": "Eukaryota",
+        "comments": "None"
+    },
+    "Q8N1A6": {
+        "family": "UPF0462",
+        "taxonomic_range": "Eukaryota",
+        "comments": "None"
+    },
+    "Q9NWH2": {
+        "family": "UPF0463 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Now renamed as the TMEM242 family;"
+    },
+    "Q96SY0": {
+        "family": "UPF0464 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Now renamed as the VWA9 family;"
+    },
+    "Q4G0N4": {
+        "family": "UPF0465 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Now characterized as a family of NAD kinase;"
+    },
+    "Q9H4I9": {
+        "family": "UPF0466 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Now renamed as protein SMDT1. Probable mitochondrial protein."
+    },
+    "Q9H1C7": {
+        "family": "UPF0467 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Renamed to CYSTM1 family."
+    },
+    "Q9Y6A4": {
+        "family": "UPF0468 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Renamed to CFAP20 family."
+    },
+    "Q7Z7F0": {
+        "family": "UPF0469  [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Now characterized as mRNA splicing factor."
+    },
+    "Q8N9W5": {
+        "family": "UPF0470 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Now characterized as the DNAAF3 family;"
+    },
+    "Q9BUV0": {
+        "family": "UPF0471 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Now characterized as the RSRP family;"
+    },
+    "Q14CZ0": {
+        "family": "UPF0472 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Now characterized as Telomere attrition and p53 response 1 protein;"
+    },
+    "Q8IUR6": {
+        "family": "UPF0474 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Renamed to CREBRF family."
+    },
+    "Q5EBL4": {
+        "family": "UPF0475 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Now characterized as the RILPL family;"
+    },
+    "Q9NPA0": {
+        "family": "UPF0480 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Now characterized as EMC7 family;"
+    },
+    "Q96KS9": {
+        "family": "UPF0484 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Now incorporated into FAM167."
+    },
+    "Q7Z422": {
+        "family": "UPF0485 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Now renamed as SZRD1 family;"
+    },
+    "Q9H7E9": {
+        "family": "UPF0488",
+        "taxonomic_range": "Eukaryota",
+        "comments": "None"
+    },
+    "Q49AR2": {
+        "family": "UPF0489",
+        "taxonomic_range": "Eukaryota",
+        "comments": "None"
+    },
+    "Q5TH74": {
+        "family": "UPF0490 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Renamed to family STPG1."
+    },
+    "Q5VYV7": {
+        "family": "UPF0492 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Renamed to family SLX4IP."
+    },
+    "Q96A73": {
+        "family": "UPF0498 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Renamed to family P33MONOX."
+    },
+    "Q8TAB5": {
+        "family": "UPF0500",
+        "taxonomic_range": "Eukaryota",
+        "comments": "None"
+    },
+    "Q9P2B7": {
+        "family": "UPF0501 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Renamed as CFAP97 family."
+    },
+    "Q7Z3J2": {
+        "family": "UPF0505 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Renamed to family VPS35L."
+    },
+    "Q5UCC4": {
+        "family": "UPF0510 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Now characterized as EMC10 family;"
+    },
+    "Q6UWV7": {
+        "family": "UPF0514 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Now incorporated into FAM159."
+    },
+    "Q9NUL5": {
+        "family": "UPF0515 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Now characterized as a family of proteins with antiviral"
+    },
+    "Q8IXQ9": {
+        "family": "UPF0516 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Renamed as METTL20 family."
+    },
+    "A5D6W6": {
+        "family": "UPF0517 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Now characterized as a family of proteins important for fat"
+    },
+    "Q05DH4": {
+        "family": "UPF0518 [DELETED]",
+        "taxonomic_range": "Archaea Eubacteria Eukaryota",
+        "comments": "Now characterized as a family of FHF complex subunit HOOK interacting protein (FHIP);"
+    },
+    "A6NLC5": {
+        "family": "UPF0524",
+        "taxonomic_range": "Eukaryota",
+        "comments": "None"
+    },
+    "Q8IWB1": {
+        "family": "UPF0525 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Now characterized as a family of inositol 1,4,5-triphosphate"
+    },
+    "Q4G0A6": {
+        "family": "UPF0526 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Now incorporated into FAM188 as FAM188B."
+    },
+    "A6NC97": {
+        "family": "UPF0528 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Renamed to family FAM172."
+    },
+    "A5PLN9": {
+        "family": "UPF0533 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Now characterized as component of the TRAPP (transport"
+    },
+    "Q96EY4": {
+        "family": "UPF0534 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Now characterized as a ribosome biogenesis factor;"
+    },
+    "Q96MD2": {
+        "family": "UPF0536 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Now characterized as a subunit of the KICSTOR complex;"
+    },
+    "Q3KRA6": {
+        "family": "UPF0538",
+        "taxonomic_range": "Eukaryota",
+        "comments": "None"
+    },
+    "Q0VGL1": {
+        "family": "UPF0539  [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Renamed to family LAMTOR4."
+    },
+    "Q7Z3B0": {
+        "family": "UPF0542 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Renamed to family FAM168."
+    },
+    "Q6NTE8": {
+        "family": "UPF0544 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Renamed to family MRNIP."
+    },
+    "Q6P5X5": {
+        "family": "UPF0545",
+        "taxonomic_range": "Eukaryota",
+        "comments": "None"
+    },
+    "Q6PH81": {
+        "family": "UPF0547",
+        "taxonomic_range": "Eukaryota",
+        "comments": "None"
+    },
+    "P86791": {
+        "family": "UPF0550 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Now characterized as CCZ1 family;"
+    },
+    "Q330K2": {
+        "family": "UPF0551 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Now characterized as NADH dehydrogenase (ubiquinone) complex I, assembly factor 6."
+    },
+    "Q7Z6K5": {
+        "family": "UPF0552 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Now characterized as regulator of Arp2/3 complex."
+    },
+    "O94874": {
+        "family": "UPF0555 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Now characterized as E3 UFM1-protein ligase."
+    },
+    "Q969H8": {
+        "family": "UPF0556 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Now characterized as the MYDGF family."
+    },
+    "Q9BTE3": {
+        "family": "UPF0557 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Now characterized as MCM complex-binding protein."
+    },
+    "Q2NKX9": {
+        "family": "UPF0561",
+        "taxonomic_range": "Eukaryota",
+        "comments": "None"
+    },
+    "Q8WXB1": {
+        "family": "UPF0563 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Renamed as METTL21 family."
+    },
+    "Q86XA0": {
+        "family": "UPF0567 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Renamed as METTL23 family."
+    },
+    "Q9Y224": {
+        "family": "UPF0568 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Now characterized as RNA transcription, translation and transport"
+    },
+    "Q6ZRP0": {
+        "family": "UPF0572 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Now renamed as proline-rich protein 23/PRR23 family;"
+    },
+    "A8MQ03": {
+        "family": "UPF0574 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Now renamed as CYSRT1"
+    },
+    "A6NJJ6": {
+        "family": "UPF0575",
+        "taxonomic_range": "Eukaryota",
+        "comments": "None"
+    },
+    "Q6UXG2": {
+        "family": "UPF0577 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Renamed to family ELAPOR."
+    },
+    "Q6ZNW5": {
+        "family": "UPF0580 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Now characterized as a GDP-D-glucose phosphorylase;"
+    },
+    "Q08AG7": {
+        "family": "UPF0582 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Now characterized as MOZART1."
+    },
+    "Q96S19": {
+        "family": "UPF0585",
+        "taxonomic_range": "Eukaryota",
+        "comments": "DUF938 in Pfam."
+    },
+    "Q9NWV4": {
+        "family": "UPF0587",
+        "taxonomic_range": "Eukaryota",
+        "comments": "DUF866 in Pfam."
+    },
+    "A6NNP5": {
+        "family": "UPF0594 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Renamed to family CCDC169."
+    },
+    "Q6NVV7": {
+        "family": "UPF0595 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Now characterized as the CDPF1 family;"
+    },
+    "Q6P1X6": {
+        "family": "UPF0598",
+        "taxonomic_range": "Eukaryota",
+        "comments": "None"
+    },
+    "A6NDU8": {
+        "family": "UPF0600 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Now characterized as RIMOC1 family;"
+    },
+    "A7E2U8": {
+        "family": "UPF0602 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Renamed to family CFAP96"
+    },
+    "Q9HCM3": {
+        "family": "UPF0606",
+        "taxonomic_range": "Eukaryota",
+        "comments": "None"
+    },
+    "Q6ZVL6": {
+        "family": "UPF0606",
+        "taxonomic_range": "Eukaryota",
+        "comments": "None"
+    },
+    "A6NL46": {
+        "family": "UPF0607",
+        "taxonomic_range": "Eukaryota",
+        "comments": "None"
+    },
+    "A8MUA0": {
+        "family": "UPF0607",
+        "taxonomic_range": "Eukaryota",
+        "comments": "None"
+    },
+    "A8MUI8": {
+        "family": "UPF0607",
+        "taxonomic_range": "Eukaryota",
+        "comments": "None"
+    },
+    "A8MV72": {
+        "family": "UPF0607",
+        "taxonomic_range": "Eukaryota",
+        "comments": "None"
+    },
+    "Q5PR19": {
+        "family": "UPF0607",
+        "taxonomic_range": "Eukaryota",
+        "comments": "None"
+    },
+    "Q8N9G6": {
+        "family": "UPF0607",
+        "taxonomic_range": "Eukaryota",
+        "comments": "None"
+    },
+    "A8MX80": {
+        "family": "UPF0607",
+        "taxonomic_range": "Eukaryota",
+        "comments": "None"
+    },
+    "Q9BQ49": {
+        "family": "UPF0608 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "renamed to the SMIM7 family."
+    },
+    "Q9NWY4": {
+        "family": "UPF0609 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Now characterized as HPF1 family"
+    },
+    "Q494R4": {
+        "family": "UPF0610",
+        "taxonomic_range": "Eukaryota",
+        "comments": "None"
+    },
+    "Q9Y6X4": {
+        "family": "UPF0611 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Now incorporated into FAM169."
+    },
+    "Q6ZS02": {
+        "family": "UPF0621 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Now assigned as dynamin superfamily;"
+    },
+    "Q53TQ3": {
+        "family": "UPF0622 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Now characterized as INO80 complex subunit D."
+    },
+    "Q5JXM2": {
+        "family": "UPF0624 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Renamed to METTL24."
+    },
+    "Q6ZSJ9": {
+        "family": "UPF0626 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Now incorporated into the shisa family, due to weak similarity"
+    },
+    "P0C7W6": {
+        "family": "UPF0628 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Renamed to family CCDC172."
+    },
+    "Q96QE5": {
+        "family": "UPF0629 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Now characterized as mitochondrial transcription elongation"
+    },
+    "A8MSI8": {
+        "family": "UPF0631 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "renamed to the complex I LYR family."
+    },
+    "Q86V40": {
+        "family": "UPF0632 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Now characterized as a metalloprotease family;"
+    },
+    "Q5XG85": {
+        "family": "UPF0633",
+        "taxonomic_range": "Eukaryota",
+        "comments": "None"
+    },
+    "A6NN06": {
+        "family": "UPF0633",
+        "taxonomic_range": "Eukaryota",
+        "comments": "None"
+    },
+    "Q5VV11": {
+        "family": "UPF0633",
+        "taxonomic_range": "Eukaryota",
+        "comments": "None"
+    },
+    "Q5SQI0": {
+        "family": "UPF0635 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Now characterized as alpha-tubulin N-acetyltransferase;"
+    },
+    "Q7Z392": {
+        "family": "UPF0636 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Now characterized as component of the TRAPP (transport protein"
+    },
+    "Q86W67": {
+        "family": "UPF0638 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Renamed to family FAM228."
+    },
+    "A6NEE1": {
+        "family": "UPF0639 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Renamed to family PLEKHD1."
+    },
+    "Q8WVI0": {
+        "family": "UPF0640 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Renamed to family SMIM4;"
+    },
+    "Q8IV36": {
+        "family": "UPF0663 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Renamed to family hid-1."
+    },
+    "Q5T2E6": {
+        "family": "UPF0668 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Now renamed as ARMH3 family."
+    },
+    "Q7Z4R8": {
+        "family": "UPF0669",
+        "taxonomic_range": "Eukaryota",
+        "comments": "None"
+    },
+    "Q8WUY1": {
+        "family": "UPF0670 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Renamed to family THEM6"
+    },
+    "Q8NDZ4": {
+        "family": "UPF0672 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Renamed as DIA1 family; not functionally characterized, but"
+    },
+    "Q9NX78": {
+        "family": "UPF0679 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Renamed to family TMEM260."
+    },
+    "Q2M389": {
+        "family": "UPF0681 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Now characterized as WASH complex subunit 7;"
+    },
+    "Q96GV9": {
+        "family": "UPF0684 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Now characterized as a UNC119-binding proteins;"
+    },
+    "Q9H5F2": {
+        "family": "UPF0686  DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Renamed to CFAP68."
+    },
+    "Q8IYL3": {
+        "family": "UPF0688",
+        "taxonomic_range": "Eukaryota",
+        "comments": "None"
+    },
+    "Q8N6N3": {
+        "family": "UPF0690",
+        "taxonomic_range": "Eukaryota",
+        "comments": "None"
+    },
+    "Q5BKX5": {
+        "family": "UPF0692 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Now characterized to Actin maturation protease."
+    },
+    "Q96B45": {
+        "family": "UPF0693 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Now characterized to family BORCS7."
+    },
+    "Q8N6I4": {
+        "family": "UPF0694 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Now renamed as TMEM251 family;"
+    },
+    "Q9H3H3": {
+        "family": "UPF0696",
+        "taxonomic_range": "Eukaryota",
+        "comments": "None"
+    },
+    "Q96E16": {
+        "family": "UPF0697 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Renamed to family SMIM19."
+    },
+    "Q8NBD8": {
+        "family": "UPF0698 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Renamed as TMEM229;"
+    },
+    "Q9H6J7": {
+        "family": "UPF0705 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Now characterized as regulator of the tubulin polyglutamylase complex;"
+    },
+    "Q96KF7": {
+        "family": "UPF0708 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Renamed to SMIM8 family"
+    },
+    "Q96LK0": {
+        "family": "UPF0709 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Renamed to family CEP19."
+    },
+    "Q32NC0": {
+        "family": "UPF0711",
+        "taxonomic_range": "Eukaryota",
+        "comments": "None"
+    },
+    "Q5RL73": {
+        "family": "UPF0712 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Renamed to RBM48 family."
+    },
+    "Q6UW78": {
+        "family": "UPF0723 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Renamed to UQCC3 family;"
+    },
+    "Q8N6V4": {
+        "family": "UPF0728",
+        "taxonomic_range": "Eukaryota",
+        "comments": "None"
+    },
+    "Q8TCD1": {
+        "family": "UPF0729",
+        "taxonomic_range": "Eukaryota",
+        "comments": "None"
+    },
+    "Q4G0N7": {
+        "family": "UPF0731 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "renamed to family FAM229."
+    },
+    "Q537H7": {
+        "family": "UPF0732 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "renamed to family SPATA45."
+    },
+    "Q9BSF0": {
+        "family": "UPF0733 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Now characterized as a family of small membrane A-kinase anchor"
+    },
+    "Q96LT6": {
+        "family": "UPF0739",
+        "taxonomic_range": "Eukaryota",
+        "comments": "None"
+    },
+    "Q9UKZ1": {
+        "family": "UPF0760 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "renamed to family CNOT11;"
+    },
+    "Q6UX73": {
+        "family": "UPF0764",
+        "taxonomic_range": "Eukaryota",
+        "comments": "None"
+    },
+    "Q9BRX8": {
+        "family": "UPF0765 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "None"
+    },
+    "P0DJ93": {
+        "family": "UPF0766 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "None"
+    },
+    "Q96EX1": {
+        "family": "UPF0767 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "None"
+    },
+    "P57076": {
+        "family": "UPF0769 [DELETED]",
+        "taxonomic_range": "Eukaryota",
+        "comments": "Renamed as the CFAP298 family."
+    }
+}
