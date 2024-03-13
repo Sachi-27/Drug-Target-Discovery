@@ -1,0 +1,234 @@
+{
+    "P49588": [
+        {
+            "class_name": "Alanyl-tRNA synthetases (EC 6.1.1.7)",
+            "class_num": "II"
+        }
+    ],
+    "Q5JTZ9": [
+        {
+            "class_name": "Alanyl-tRNA synthetases (EC 6.1.1.7)",
+            "class_num": "II"
+        }
+    ],
+    "P49589": [
+        {
+            "class_name": "Cysteinyl-tRNA synthetases (EC 6.1.1.16)",
+            "class_num": "I"
+        }
+    ],
+    "Q9HA77": [
+        {
+            "class_name": "Cysteinyl-tRNA synthetases (EC 6.1.1.16)",
+            "class_num": "I"
+        }
+    ],
+    "P14868": [
+        {
+            "class_name": "Aspartyl-tRNA synthetases (EC 6.1.1.12)",
+            "class_num": "II"
+        }
+    ],
+    "Q6PI48": [
+        {
+            "class_name": "Aspartyl-tRNA synthetases (EC 6.1.1.12)",
+            "class_num": "II"
+        }
+    ],
+    "Q5JPH6": [
+        {
+            "class_name": "Glutamyl-tRNA synthetases (EC 6.1.1.17)",
+            "class_num": "I"
+        }
+    ],
+    "P07814": [
+        {
+            "class_name": "Glutamyl-tRNA synthetases (EC 6.1.1.17)",
+            "class_num": "I"
+        },
+        {
+            "class_name": "Prolyl-tRNA synthetases (EC 6.1.1.15)",
+            "class_num": "II"
+        }
+    ],
+    "Q9Y285": [
+        {
+            "class_name": "Phenylalanyl-tRNA synthetases (EC 6.1.1.20)",
+            "class_num": "II"
+        }
+    ],
+    "Q9NSD9": [
+        {
+            "class_name": "Phenylalanyl-tRNA synthetases (EC 6.1.1.20)",
+            "class_num": "II"
+        }
+    ],
+    "O95363": [
+        {
+            "class_name": "Phenylalanyl-tRNA synthetases (EC 6.1.1.20)",
+            "class_num": "II"
+        }
+    ],
+    "P41250": [
+        {
+            "class_name": "Glycyl-tRNA synthetases (EC 6.1.1.14)",
+            "class_num": "II"
+        }
+    ],
+    "P12081": [
+        {
+            "class_name": "Histidyl-tRNA synthetases (EC 6.1.1.21)",
+            "class_num": "II"
+        }
+    ],
+    "P49590": [
+        {
+            "class_name": "Histidyl-tRNA synthetases (EC 6.1.1.21)",
+            "class_num": "II"
+        }
+    ],
+    "P41252": [
+        {
+            "class_name": "Isoleucyl-tRNA synthetases (EC 6.1.1.5)",
+            "class_num": "I"
+        }
+    ],
+    "Q9NSE4": [
+        {
+            "class_name": "Isoleucyl-tRNA synthetases (EC 6.1.1.5)",
+            "class_num": "I"
+        }
+    ],
+    "Q15046": [
+        {
+            "class_name": "Lysyl-tRNA synthetases (EC 6.1.1.6)",
+            "class_num": "II"
+        }
+    ],
+    "Q9P2J5": [
+        {
+            "class_name": "Leucyl-tRNA synthetases (EC 6.1.1.4)",
+            "class_num": "I"
+        }
+    ],
+    "Q15031": [
+        {
+            "class_name": "Leucyl-tRNA synthetases (EC 6.1.1.4)",
+            "class_num": "I"
+        }
+    ],
+    "P56192": [
+        {
+            "class_name": "Methionyl-tRNA synthetases (EC 6.1.1.10)",
+            "class_num": "I"
+        }
+    ],
+    "Q96GW9": [
+        {
+            "class_name": "Methionyl-tRNA synthetases (EC 6.1.1.10)",
+            "class_num": "I"
+        }
+    ],
+    "O43776": [
+        {
+            "class_name": "Asparaginyl-tRNA synthetases (EC 6.1.1.22)",
+            "class_num": "II"
+        }
+    ],
+    "Q96I59": [
+        {
+            "class_name": "Asparaginyl-tRNA synthetases (EC 6.1.1.22)",
+            "class_num": "II"
+        }
+    ],
+    "Q7L3T8": [
+        {
+            "class_name": "Prolyl-tRNA synthetases (EC 6.1.1.15)",
+            "class_num": "II"
+        }
+    ],
+    "P47897": [
+        {
+            "class_name": "Glutaminyl-tRNA synthetases (EC 6.1.1.18)",
+            "class_num": "I"
+        }
+    ],
+    "P54136": [
+        {
+            "class_name": "Arginyl-tRNA synthetases (EC 6.1.1.19)",
+            "class_num": "I"
+        }
+    ],
+    "Q5T160": [
+        {
+            "class_name": "Arginyl-tRNA synthetases (EC 6.1.1.19)",
+            "class_num": "I"
+        }
+    ],
+    "P49591": [
+        {
+            "class_name": "Seryl-tRNA synthetases (EC 6.1.1.11)",
+            "class_num": "II"
+        }
+    ],
+    "Q9NP81": [
+        {
+            "class_name": "Seryl-tRNA synthetases (EC 6.1.1.11)",
+            "class_num": "II"
+        }
+    ],
+    "A2RTX5": [
+        {
+            "class_name": "Threonyl-tRNA synthetases (EC 6.1.1.3)",
+            "class_num": "II"
+        }
+    ],
+    "P26639": [
+        {
+            "class_name": "Threonyl-tRNA synthetases (EC 6.1.1.3)",
+            "class_num": "II"
+        }
+    ],
+    "Q9BW92": [
+        {
+            "class_name": "Threonyl-tRNA synthetases (EC 6.1.1.3)",
+            "class_num": "II"
+        }
+    ],
+    "P26640": [
+        {
+            "class_name": "Valyl-tRNA synthetases (EC 6.1.1.9)",
+            "class_num": "I"
+        }
+    ],
+    "Q5ST30": [
+        {
+            "class_name": "Valyl-tRNA synthetases (EC 6.1.1.9)",
+            "class_num": "I"
+        }
+    ],
+    "P23381": [
+        {
+            "class_name": "Tryptophanyl-tRNA synthetases (EC 6.1.1.2)",
+            "class_num": "I"
+        }
+    ],
+    "Q9UGM6": [
+        {
+            "class_name": "Tryptophanyl-tRNA synthetases (EC 6.1.1.2)",
+            "class_num": "I"
+        }
+    ],
+    "P54577": [
+        {
+            "class_name": "Tyrosyl-tRNA synthetases (EC 6.1.1.1)",
+            "class_num": "I"
+        }
+    ],
+    "Q9Y2Z4": [
+        {
+            "class_name": "Tyrosyl-tRNA synthetases (EC 6.1.1.1)",
+            "class_num": "I"
+        }
+    ]
+}

@@ -1,0 +1,825 @@
+Acetylcholine (muscarinic) receptors::ACM1_HUMAN  (P11229)  Muscarinic acetylcholine M1 [CHRM1] - Human
+Acetylcholine (muscarinic) receptors::ACM2_HUMAN  (P08172)  Muscarinic acetylcholine M2 [CHRM2] - Human
+Acetylcholine (muscarinic) receptors::ACM3_HUMAN  (P20309)  Muscarinic acetylcholine M3 [CHRM3] - Human
+Acetylcholine (muscarinic) receptors::ACM4_HUMAN  (P08173)  Muscarinic acetylcholine M4 [CHRM4] - Human
+Acetylcholine (muscarinic) receptors::ACM5_HUMAN  (P08912)  Muscarinic acetylcholine M5 [CHRM5] - Human
+Adenosine and adenine nucleotide receptors::AA1R_HUMAN  (P30542)  Adenosine A1 [ADORA1] - Human
+Adenosine and adenine nucleotide receptors::AA2AR_HUMAN (P29274)  Adenosine A2A [ADORA2A; ADORA2] - Human
+Adenosine and adenine nucleotide receptors::AA2BR_HUMAN (P29275)  Adenosine A2B [ADORA2B] - Human
+Adenosine and adenine nucleotide receptors::AA3R_HUMAN  (P0DMS8)  Adenosine A3 [ADORA3] - Human
+Adenosine and adenine nucleotide receptors::P2RY1_HUMAN (P47900)  P2Y purinoceptor 1 (ATP receptor) (P2Y1) [P2RY1] - Human
+Adenosine and adenine nucleotide receptors::P2RY2_HUMAN (P41231)  P2Y purinoceptor 2 (P2Y2) (P2U purinoceptor 1) (P2U1) (ATP receptor) [P2RY2; P2RU1] - Human
+Adenosine and adenine nucleotide receptors::P2RY4_HUMAN (P51582)  P2Y purinoceptor 4 (P2Y4) (Uridine nucleotide) (UNR) (P2P) [P2RY4] - Human
+Adenosine and adenine nucleotide receptors::P2RY6_HUMAN (Q15077)  P2Y purinoceptor 6 (P2Y6) [P2RY6] - Human
+Adenosine and adenine nucleotide receptors::P2RY8_HUMAN (Q86VZ1)  P2Y purinoceptor 8 (P2Y8) [P2RY8] - Human
+Adenosine and adenine nucleotide receptors::P2Y10_HUMAN (O00398)  Putative P2Y purinoceptor 10 (P2Y10) (P2Y-like receptor) [P2RY10] - Human
+Adenosine and adenine nucleotide receptors::P2Y11_HUMAN (Q96G91)  P2Y purinoceptor 11 (P2Y11) [P2RY11] - Human
+Adenosine and adenine nucleotide receptors::P2Y12_HUMAN (Q9H244)  P2Y purinoceptor 12 (P2Y12) (P2Y(ADP)) (ADP-glucose receptor) (ADPG-R) (P2Y(AC)) (P2Y(cyc)) (P2T(AC)) [P2RY12; HORK3] - Human
+Adenosine and adenine nucleotide receptors::P2Y13_HUMAN (Q9BPV8)  P2Y purinoceptor 13 (P2Y13) (G-protein coupled receptor 86) (G-protein coupled receptor 94) [P2RY13; GPR86; GPR94; FKSG77] - Human
+Adenosine and adenine nucleotide receptors::P2Y14_HUMAN (Q15391)  P2Y purinoceptor 14 (P2Y14) (UDP-glucose receptor) (G-protein coupled receptor 105) [P2RY14; GPR105; KIAA0001] - Human
+Adenosine and adenine nucleotide receptors::GP174_HUMAN (Q9BXC1)  Probable G-protein coupled receptor 174 (Putative P2Y purinoceptor FKSG79) [GPR174; FKSG79] - Human
+Adenosine and adenine nucleotide receptors::LT4R1_HUMAN (Q15722)  Leukotriene B4 1 (LTB4-R 1) (P2Y purinoceptor 7) (P2Y7) (Chemoattractant receptor-like 1) (G-protein coupled receptor 16) [LTB4R; P2RY7; GPR16; CMKRL1: BLT; BLTR] - Human
+Adenosine and adenine nucleotide receptors::LT4R2_HUMAN (Q9NPC1)  Leukotriene B4 2 (LTB4-R2) (Seven transmembrane receptor BLTR2) (Leukotriene B4 receptor BLT2) (LTB4 receptor JULF2) [LTB4R2; BLT2R; BLTR2] - Human
+Adrenergic receptors::ADA1A_HUMAN (P35348)  Alpha-1a adrenergic (Alpha-1C) [ADRA1A; ADRA1C] - Human
+Adrenergic receptors::ADA1B_HUMAN (P35368)  Alpha-1b adrenergic [ADRA1B] - Human
+Adrenergic receptors::ADA1D_HUMAN (P25100)  Alpha-1d adrenergic (Alpha-1D) [ADRA1D; ADRA1A] - Human
+Adrenergic receptors::ADA2A_HUMAN (P08913)  Alpha-2a adrenergic (Subtype C10) [ADRA2A; ADRA2R; ADRAR] - Human
+Adrenergic receptors::ADA2B_HUMAN (P18089)  Alpha-2b adrenergic (Subtype C2) [ADRA2B] - Human
+Adrenergic receptors::ADA2C_HUMAN (P18825)  Alpha-2c adrenergic (Subtype C4) [ADRA2C] - Human
+Adrenergic receptors::ADRB1_HUMAN (P08588)  Beta-1 adrenergic [ADRB1; ADRB1R; B1AR] - Human
+Adrenergic receptors::ADRB2_HUMAN (P07550)  Beta-2 adrenergic [ADRB2; ADRB2R; B2AR] - Human
+Adrenergic receptors::ADRB3_HUMAN (P13945)  Beta-3 adrenergic [ADRB3; ADRB3R; B3AR] - Human
+Angiotensin receptors::AGTR1_HUMAN (P30556)  Type-1 angiotensin II (AT1) [AGTR1; AGTR1A; AGTR1B; AT2R1; AT2R1B] - Human
+Angiotensin receptors::AGTR2_HUMAN (P50052)  Type-2 angiotensin II (AT2) [AGTR2] - Human
+Apelin receptors::APJ_HUMAN   (P35414)  Apelin receptor (G-protein coupled receptor APJ) (Angiotensin receptor-like 1) (HG11) [APLNR; AGTRL1; APJ] - Human
+Arachidonyl glycine receptors::GPR18_HUMAN (Q14330)  N-arachidonyl glycine receptor (NAGly receptor) (G-protein coupled receptor 18) [GPR18; GPCRW] - Human
+Bile acid receptors::GPBAR_HUMAN (Q8TDU6)  G-protein coupled bile acid receptor 1 (Membrane-type receptor for bile acids) (M-BAR) (hGPCR19) (BG37) (hBG37) [GPBAR1; TGR5] - Human
+Bombesin receptors::NMBR_HUMAN  (P28336)  Neuromedin-B (NMB-R) (Neuromedin-B-preferring bombesin) [NMBR] - Human
+Bombesin receptors::GRPR_HUMAN  (P30550)  Gastrin-releasing peptide (GRP-R) (GRP-preferring bombesin) [GRPR] - Human
+Bombesin receptors::BRS3_HUMAN  (P32247)  Bombesin subtype-3 (BRS-3) [BRS3] - Human
+Bradykinin receptors::BKRB1_HUMAN (P46663)  B1 bradykinin (BK-1R) (B1R) [BDKRB1] - Human
+Bradykinin receptors::BKRB2_HUMAN (P30411)  B2 bradykinin (BK-2R) (B2R) [BDKRB2; BKR2] - Human
+Cannabinoids receptors::CNR1_HUMAN  (P21554)  Cannabinoid 1 (CB1) (CB-R) [CNR1; CNR] - Human
+Cannabinoids receptors::CNR2_HUMAN  (P34972)  Cannabinoid 2 (CB-2) (CB2) (CX5) [CNR2] - Human
+Chemokines and chemotactic factors receptors::ACKR1_HUMAN (Q16570)  Duffy antigen/chemokine receptor (Atypical chemokine receptor 1) (Fy glycoprotein) (GpFy) (Glycoprotein D) (CD234 antigen) [DARC; ACKR1; FY; GPD] - Human
+Chemokines and chemotactic factors receptors::ACKR2_HUMAN (O00590)  Atypical chemokine receptor 2 (Chemokine-binding protein 2 (Chemokine-binding protein D6) (C-C chemokine receptor D6) (CCR-9) (CCR-10) [ACKR2; CCBP2; CMBRK9; CCR10] - Human
+Chemokines and chemotactic factors receptors::ACKR3_HUMAN (P25106)  Atypical chemokine receptor 3 (C-X-C chemokine receptor type 7) (CXC-R7) (CXCR-7) (G-protein coupled receptor RDC1 homolog) (RDC-1) (Chemokine orphan receptor 1) (G-protein coupled receptor 159) [ACKR3; CXCR7; CMKOR1; GPR159; RDC1] - Human
+Chemokines and chemotactic factors receptors::ACKR4_HUMAN (Q9NPB9)  Atypical chemokine receptor 4 (C-C chemokine receptor type 11) (C-C CKR-11) (CCR-11) (CC chemokine receptor-like 1) [ACKR4; CCRL1; CCR11; CCBP2; VSHK1] - Human
+Chemokines and chemotactic factors receptors::C3AR_HUMAN  (Q16581)  C3a anaphylatoxin chemotactic (C3a-R) (C3AR) [C3AR1; C3R1; AZ3B; HNFAG09] - Human
+Chemokines and chemotactic factors receptors::C5AR1_HUMAN  (P21730)  C5a anaphylatoxin chemotactic (C5a-R) (CD88 antigen) [C5AR1; C5R1; C5AR] - Human
+Chemokines and chemotactic factors receptors::C5AR2_HUMAN (Q9P296)  C5a anaphylatoxin chemotactic receptor C5L2 (G-protein coupled receptor 77) [C5L2; GPR77] - Human
+Chemokines and chemotactic factors receptors::FPR1_HUMAN  (P21462)  fMet-Leu-Phe (fMLP-R) (N-formyl peptide) (FPR) [FPR1] - Human
+Chemokines and chemotactic factors receptors::FPR2_HUMAN  (P25090)  N-formyl peptide receptor 2 (FMLP-related I) (FMLP-R-I) (Formyl peptide receptor-like 1) (Lipoxin A4 receptor) (LXA4 receptor) (RFP) (HM63) [FPR2; FPRL1; FPRH2; LXA4R] - Human
+Chemokines and chemotactic factors receptors::FPR3_HUMAN  (P25089)  N-formyl peptide receptor 3 (FMLP-related II) (FMLP-R-II) (Formyl peptide receptor-like 2) [FPR3; FPRL2; FPRH1] - Human
+Chemokines and chemotactic factors receptors::CXCR1_HUMAN (P25024)  High affinity interleukin-8 A (IL-8R A) (CXCR-1) (CD181 antigen) (CDw128a antigen) [IL8RA; CXCR1] - Human
+Chemokines and chemotactic factors receptors::CXCR2_HUMAN (P25025)  High affinity interleukin-8 B (IL-8R B) (CXCR-2) (CD182 antigen) [IL8RB; CXCR2] - Human
+Chemokines and chemotactic factors receptors::CXCR3_HUMAN (P49682)  C-X-C chemokine receptor type 3 (CXC-R3) (CXCR-3) (CD183 antigen) (G protein-coupled receptor 9) [CXCR3; GPR9] - Human
+Chemokines and chemotactic factors receptors::CXCR4_HUMAN (P61073)  C-X-C chemokine receptor type 4 (CXC-R4) (CXCR-4) (Stromal cell-derived factor 1) (SDF-1 receptor) (Fusin) (LESTR) (LCR1) (FB22) (NPYRL) (CD184 antigen) [CXCR4] - Human
+Chemokines and chemotactic factors receptors::CXCR5_HUMAN (P32302)  C-X-C chemokine receptor type 5 (CXC-R5) (CXCR-5) (Burkitt lymphoma receptor 1) (Monocyte-derived receptor 15) (MDR-15) (CD185 antigen) [CXCR5; BLR1; MDR15] - Human
+Chemokines and chemotactic factors receptors::CXCR6_HUMAN (O00574)  C-X-C chemokine receptor type 6 (CXC-R6) (CXCR-6) (G-protein coupled receptor bonzo) (CD186 antigen) (CDw186) [CXCR6; BONZO; STRL33; TYMSTR] - Human
+Chemokines and chemotactic factors receptors::CCR1_HUMAN  (P32246)  C-C chemokine receptor type 1 (C-C CKR-1) (CCR-1) (CD191 antigen) [CCR1; CMKBR1; CMKR1] - Human
+Chemokines and chemotactic factors receptors::CCR2_HUMAN  (P41597)  C-C chemokine receptor type 2 (C-C CKR-2) (CCR-2) (MCP-1-R) (CD192 antigen) [CCR2; CMKBR2] - Human
+Chemokines and chemotactic factors receptors::CCR3_HUMAN  (P51677)  C-C chemokine receptor type 3 (C-C CKR-3) (CCR-3) (CD193 antigen) [CCR3; CMKBR3] - Human
+Chemokines and chemotactic factors receptors::CCR4_HUMAN  (P51679)  C-C chemokine receptor type 4 (C-C CKR-4) (CCR-4) (CD194 antigen) [CCR4; CMKBR4] - Human
+Chemokines and chemotactic factors receptors::CCR5_HUMAN  (P51681)  C-C chemokine receptor type 5 (C-C CKR-5) (CCR-5) (CD195 antigen) [CCR5; CMKBR5] - Human
+Chemokines and chemotactic factors receptors::CCR6_HUMAN  (P51684)  C-C chemokine receptor type 6 (C-C CKR-6) (CCR-6) (GPR-CY4) (GPRCY4) (Chemokine receptor-like 3) (CKR-L3) (G-protein coupled receptor 29) (CD196 antigen) [CCR6; CMKBR6; STRL22; GPR29; CKRL3] - Human
+Chemokines and chemotactic factors receptors::CCR7_HUMAN  (P32248)  C-C chemokine receptor type 7 (C-C CKR-7) (CCR-7) (EBV-induced G-protein coupled receptor 1) (EBI1) (BLR2) (CD197 antigen) (CDw197) [CCR7; CMKBR7; EBI1; EVI1] - Human
+Chemokines and chemotactic factors receptors::CCR8_HUMAN  (P51685)  C-C chemokine receptor type 8 (C-C CKR-8) (CCR-8) (GPR-CY6) (GPRCY6) (Chemokine receptor-like 1) (CKR-L1) (TER1) [CCR8; CMKBR8; CKRL1] - Human
+Chemokines and chemotactic factors receptors::CCR9_HUMAN  (P51686)  C-C chemokine receptor type 9 (C-C CKR-9) (CCR-9) (GPR-9-6) (G-protein coupled receptor 28) (CDw199 antigen) [CCR9; GPR28] - Human
+Chemokines and chemotactic factors receptors::CCR10_HUMAN (P46092)  C-C chemokine receptor type 10 (C-C CKR-10) (CCR-10) [CCR10; GPR2] - Human
+Chemokines and chemotactic factors receptors::CCRL2_HUMAN (O00421)  C-C chemokine receptor-like 2 (Putative MCP-1 chemokine receptor) (Chemokine receptor CCR11) (Chemokine receptor X) [CCRL2; CCR11; CCR6; CKRX; CRAM; HCR] - Human
+Chemokines and chemotactic factors receptors::XCR1_HUMAN  (P46094)  Chemokine XC receptor 1 (XC chemokine receptor 1) (Lymphotactin receptor) [CCXCR1; XCR1; GPR5] - Human
+Chemokines and chemotactic factors receptors::CX3C1_HUMAN (P49238)  CX3C chemokine receptor 1 (C-X3-C CKR-1) (CX3CR1) (Fractalkine receptor) (G-protein coupled receptor 13) (V28) (CMK-BRL-1) [CX3CR1; GPR13] - Human
+Cholecystokinin / gastrin receptors::CCKAR_HUMAN (P32238)  Cholecystokinin type A (CCK-A-R) [CCKAR; CCKRA] - Human
+Cholecystokinin / gastrin receptors::GASR_HUMAN  (P32239)  Gastrin/cholecystokinin type B (CCK-B-R) [CCKBR; CCKRB] - Human
+Cysteinyl leukotriene receptors::CLTR1_HUMAN (Q9Y271)  Cysteinyl leukotriene 1 (CysLTR1) (Cysteinyl leukotriene D4 receptor) (LTD4 receptor) (HG55) (HMTMF81) [CYSLTR1; CYSLT1] - Human
+Cysteinyl leukotriene receptors::CLTR2_HUMAN (Q9NS75)  Cysteinyl leukotriene 2 (CysLTR2) (PSEC0146) (HG57) (HPN321) [CYSLTR2; CYSLT2; CYSLT2R] - Human
+Cysteinyl leukotriene receptors::GPR17_HUMAN (Q13304)  Uracil nucleotide/cysteinyl leukotriene receptor (UDP/CysLT receptor) (G-protein coupled receptor 17) (P2Y-like receptor) (R12) [GPR17] - Human
+Dopamine receptors::DRD1_HUMAN  (P21728)  D(1A) dopamine [DRD1] - Human
+Dopamine receptors::DRD5_HUMAN  (P21918)  D(1B) dopamine (D(5) dopamine) [DRD5; DRD1B] - Human
+Dopamine receptors::DRD2_HUMAN  (P14416)  D(2) dopamine [DRD2] - Human
+Dopamine receptors::DRD3_HUMAN  (P35462)  D(3) dopamine [DRD3] - Human
+Dopamine receptors::DRD4_HUMAN  (P21917)  D(4) dopamine (D(2C) dopamine) [DRD4] - Human
+Eicosanoid receptors::OXER1_HUMAN (Q8TDS5)  Oxoeicosanoid receptor 1 (G-protein coupled receptor TG1019) (5-oxo-ETE G-protein coupled receptor) (G-protein coupled receptor 170) (G-protein coupled receptor R527) [OXER1; GPR170; TG1019] - Human
+Endothelin receptors::EDNRA_HUMAN (P25101)  Endothelin-1 (ET-A) [EDNRA; ETRA] - Human
+Endothelin receptors::EDNRB_HUMAN (P24530)  Endothelin B (ET-B) (Endothelin non-selective type) [EDNRB; ETRB] - Human
+Estrogen receptors::GPER1_HUMAN (Q99527)   G-protein coupled estrogen receptor 1 (Membrane estrogen receptor) (mER) (G-protein coupled receptor 30) (Chemokine receptor-like 2) (IL8-related receptor DRY12) (Flow-induced endothelial G-protein coupled receptor 1) (FEG-1) (Lymphocyte derived G-protein-coupled receptor) (LYGPR) (GPCR-BR) [GPER; GPR30; CMKRL2; DRY12; CEPR] - Human
+Free fatty acid receptors::FFAR1_HUMAN (O14842)  Free fatty acid receptor 1 (G-protein coupled receptor 40) [FFAR1; GPR40] - Human
+Free fatty acid receptors::FFAR2_HUMAN (O15552)  Free fatty acid receptor 2 (G-protein coupled receptor 43) [FFAR2; GPR43] - Human
+Free fatty acid receptors::FFAR3_HUMAN (O14843)  Free fatty acid receptor 3 (G-protein coupled receptor 41) [FFAR3; GPR41] - Human
+Glycoprotein hormones receptors::FSHR_HUMAN  (P23945)  Follicle-stimulating hormone (FSH-R) (Follitropin receptor) [FSHR; LGR1] - Human
+Glycoprotein hormones receptors::LSHR_HUMAN  (P22888)  Lutropin-choriogonadotropic hormone (LH/CG-R) (LSH-R) [LHCGR; LHRHR; LGCR; LGR2] - Human
+Glycoprotein hormones receptors::TSHR_HUMAN  (P16473)  Thyrotropin (TSH-R) (Thyroid-stimulating hormone) [TSHR; LGR3] - Human
+Histamine receptors::HRH1_HUMAN  (P35367)  Histamine H1 [HRH1] - Human
+Histamine receptors::HRH2_HUMAN  (P25021)  Histamine H2 (Gastric receptor I) [HRH2] - Human
+Histamine receptors::HRH3_HUMAN  (Q9Y5N1)  Histamine H3 receptor (HH3R) [HRH3; GPCR97] - Human
+Histamine receptors::HRH4_HUMAN  (Q9H3N8)  Histamine H4 (HH4R) (GPRv53) (G-protein coupled receptor 105) (SP9144) (AXOR35) [HRH4; GPCR105] - Human
+Kisspeptins receptors::KISSR_HUMAN (Q969F8)  KiSS-1 receptor (KiSS-1R) (Kisspeptins receptor) (Metastin receptor) (G-protein coupled receptor 54 (Hypogonadotropin-1) (hOT7T175) [KISS1R; GPR54; AXOR12; OT7T175] - Human
+Krebs cycle intermediates receptors::OXGR1_HUMAN (Q96P68)  2-oxoglutarate receptor 1 (Alpha-ketoglutarate receptor 1) (G-protein coupled receptor 80) (G-protein coupled receptor 99) (P2Y purinoceptor 15) (P2Y-like nucleotide receptor) (P2Y-like GPCR) [OXGR1; GPR80; GPR99; P2RY15; P2Y15] - Human
+Krebs cycle intermediates receptors::SUCR1_HUMAN (Q9BXA5)  Succinate receptor 1 (G-protein coupled receptor 91) (P2Y purinoceptor 1-like) [SUCNR1; GPR91] - Human
+Lysolipids receptors::LPAR1_HUMAN (Q92633)  Lysophosphatidic acid receptor 1 (LPA receptor 1) (LPA-1) (Lysophosphatidic acid receptor Edg-2) [LPAR1; EDG2; LPA1] - Human
+Lysolipids receptors::LPAR2_HUMAN (Q9HBW0)  Lysophosphatidic acid receptor 2 (LPA receptor 2) (LPA-2) (Lysophosphatidic acid receptor Edg-4) [LPAR2; EDG4; LPA2] - Human
+Lysolipids receptors::LPAR3_HUMAN (Q9UBY5)  Lysophosphatidic acid receptor 3 (LPA receptor 3) (LPA-3) (Lysophosphatidic acid receptor Edg-7) [LPAR3; EDG7; LPA3] - Human
+Lysolipids receptors::LPAR4_HUMAN (Q99677)  Lysophosphatidic acid receptor 4 (LPA receptor 4) (LPA-4) (P2Y purinoceptor 9) (P2Y9) (Purinergic receptor 9) (G-protein coupled receptor 23) (P2Y5-like receptor) [LPAR4; GPR23; LPA4; P2RY9] - Human
+Lysolipids receptors::LPAR5_HUMAN (Q9H1C0)  Lysophosphatidic acid receptor 5 (LPA receptor 5) (LPA-5) (G-protein coupled receptor 92) [LPAR5; GPR92; GPR93] - Human
+Lysolipids receptors::S1PR1_HUMAN (P21453)  Sphingosine 1-phosphate receptor 1 (S1P receptor 1) (S1P1) (Sphingosine 1-phosphate receptor Edg-1) (S1P receptor Edg-1) (Endothelial differentiation G-protein coupled receptor 1) [S1PR1; EDG1] - Human
+Lysolipids receptors::S1PR2_HUMAN (O95136)  Sphingosine 1-phosphate receptor 2 (S1P receptor 2) (S1P2) (Sphingosine 1-phosphate receptor Edg-5) (S1P receptor Edg-5) (Endothelial differentiation G-protein coupled receptor 5) [S1PR2; EDG5] - Human
+Lysolipids receptors::S1PR3_HUMAN (Q99500)  Sphingosine 1-phosphate receptor 3 (S1P receptor 3) (S1P3) (Sphingosine 1-phosphate receptor Edg-3) (S1P receptor Edg-3) (Endothelial differentiation G-protein coupled receptor 3) [S1PR3; EDG3] - Human
+Lysolipids receptors::S1PR4_HUMAN (O95977)  Sphingosine 1-phosphate receptor 4 (S1P receptor 4) (S1P4) (Sphingosine 1-phosphate receptor Edg-6) (S1P receptor Edg-6) (Endothelial differentiation G-protein coupled receptor 6) [S1PR4; EDG6] - Human
+Lysolipids receptors::S1PR5_HUMAN (Q9H228)  Sphingosine 1-phosphate receptor 5 (S1P receptor 5) (S1P5) (Sphingosine 1-phosphate receptor Edg-8) (S1P receptor Edg-8) (Endothelial differentiation G-protein-coupled receptor 8) [S1PR5; EDG8] - Human
+Lysolipids receptors::GPR6_HUMAN  (P46095)  G-protein coupled receptor 6 (Sphingosine 1-phosphate receptor GPR6) [GPR6] - Human
+Lysolipids receptors::LPAR6_HUMAN (P43657)  Oleoyl-L-alpha-lysophosphatidic acid receptor (P2Y purinoceptor 5) (P2Y5) (RB intron encoded) [LPAR6; P2RY5] - Human
+Lysolipids receptors::PSYR_HUMAN  (Q8IYL9)  Psychosine receptor (G-protein coupled receptor 65) (T cell-death associated protein 8) [GPR65; TDAG8] - Human
+Lysolipids receptors::GP119_HUMAN (Q8TDV5)  Glucose-dependent insulinotropic receptor (G-protein coupled receptor 119) [GPR119] - Human
+Melanin-concentrating hormone receptors::MCHR1_HUMAN (Q99705)  Melanin-concentrating hormone receptor 1 (MCH receptor 1) (MCHR-1) (MCH-R1) (MCH1R) (MCH-1R) (MCHR) (G protein coupled receptor 24) (Somatostatin receptor-like protein) (SLC-1) [MCHR1; GPR24; SLC1] - Human
+Melanin-concentrating hormone receptors::MCHR2_HUMAN (Q969V1)  Melanin-concentrating hormone receptor 2 (MCH receptor 2) (MCHR-2) (MCH-R2) (MCH2R) (MCH-2R) (MCH2) (G protein coupled receptor 145) (GPRv17) [MCHR2; GPR145; ; SLT] - Human
+Melanocortins receptors::ACTHR_HUMAN (Q01718)  Adrenocorticotropic hormone (ACTH-R) (MC2-R) [MC2R; ACTHR] - Human
+Melanocortins receptors::MSHR_HUMAN  (Q01726)  Melanocyte-stimulating hormone (MSH-R) (Melanotropin receptor) (Melanocortin receptor 1) (MC1-R) [MC1R; MSHR] - Human
+Melanocortins receptors::MC3R_HUMAN  (P41968)  Melanocortin 3 (MC3-R) [MC3R] - Human
+Melanocortins receptors::MC4R_HUMAN  (P32245)  Melanocortin 4 (MC4-R) [MC4R] - Human
+Melanocortins receptors::MC5R_HUMAN  (P33032)  Melanocortin 5 (MC5-R) (MC-2) [MC5R] - Human
+Melanotonin receptors::MTR1A_HUMAN (P48039)  Melatonin type 1A (Mel-1A-R) [MTNR1A] - Human
+Melanotonin receptors::MTR1B_HUMAN (P49286)  Melatonin type 1B (Mel-1B-R) [MTNR1B] - Human
+Melanotonin receptors::MTR1L_HUMAN (Q13585)  Melatonin-related (G protein-coupled receptor 50) [GPR50] - Human
+Neuromedin U receptors::NMUR1_HUMAN (Q9HB89)  Neuromedin-U receptor 1 (NMU-R1) (G-protein coupled receptor 66) (G protein-coupled receptor FM-3) [NMUR1; GPR66] - Human
+Neuromedin U receptors::NMUR2_HUMAN (Q9GZQ4)  Neuromedin-U receptor 2 (NMU-R2) (G-protein coupled receptor TGR-1) (G-protein coupled receptor FM-4) [NMUR2; TGR1] - Human
+Neuropeptides B/W receptors::NPBW1_HUMAN (P48145)  Neuropeptides B/W receptor type 1 (G-protein coupled receptor 7) [NPBWR1; GPR7] - Human
+Neuropeptides B/W receptors::NPBW2_HUMAN (P48146)  Neuropeptides B/W receptor type 2 (G-protein coupled receptor 8) [NPBWR2; GPR8] - Human
+Neuropeptide FF receptors::NPFF1_HUMAN (Q9GZQ6)  Neuropeptide FF receptor 1 (G-protein coupled receptor 147) (RFamide-related peptide receptor OT7T022) [NPFFR1; GPR147; NPFF1] - Human
+Neuropeptide FF receptors::NPFF2_HUMAN (Q9Y5X5)  Neuropeptide FF receptor 2 (G-protein coupled receptor 74) [NPFFR2; GPR74; NPGPR; NPFF2] - Human
+Neuropeptide S receptor::NPSR1_HUMAN (Q6W5P4)  Neuropeptide S receptor (G-protein coupled receptor 154) (G-protein coupled receptor for asthma susceptibility) (G-protein coupled receptor PGR14) [NPSR1; GPR154; GPRA; PGR14] - Human
+Neuropeptide Y receptors::NPY1R_HUMAN (P25929)  Neuropeptide Y type 1 (NPY1-R) [NPY1R; NPYR; NPYY1] - Human
+Neuropeptide Y receptors::NPY2R_HUMAN (P49146)  Neuropeptide Y type 2 (NPY2-R) [NPY2R] - Human
+Neuropeptide Y receptors::NPY4R_HUMAN (P50391)  Neuropeptide Y type 4 (NPY4-R) [PPYR1; NPY4R] - Human
+Neuropeptide Y receptors::NPY5R_HUMAN (Q15761)  Neuropeptide Y type 5 (NPY5-R) [NPY5R; NPYR5] - Human
+Neuropeptide Y receptors::NPY6R_HUMAN (Q99463)  Putative neuropeptide Y type 6 (NPY6-R) (Pancreatic polypeptide receptor 2) (PP2) [NPY6R; NPY1RL; Y2B] - Human
+Neurotensin receptors::NTR1_HUMAN  (P30989)  Neurotensin type 1 (NT-R-1) [NTSR1; NTRR] - Human
+Neurotensin receptors::NTR2_HUMAN  (O95665)  Neurotensin type 2 (NT-R-2) [NTSR2] - Human
+Nicotinic acid receptors::HCAR1_HUMAN (Q9BXC0)  G-protein coupled receptor 81 (G-protein coupled receptor 104) [GPR81; GPR104; FKSG80] - Human
+Nicotinic acid receptors::HCAR2_HUMAN (Q8TDS4)  G-protein coupled receptor 109A (Niacin receptor 1) (Nicotinic acid receptor) (G-protein coupled receptor HM74A) [GPR109A; NIACR1] - Human
+Nicotinic acid receptors::HCAR3_HUMAN (P49019)  G-protein coupled receptor 109B (Niacin receptor 2) (Nicotinic acid receptor 2) (G-protein coupled receptor HM74) (G-protein coupled receptor HM74B) [NIACR2; GPR109B] - Human
+Odorant/olfactory and gustatory receptors::OR1A1_HUMAN (Q9P1Q5)  Olfactory receptor 1A1 (Olfactory receptor OR17-11) (Olfactory receptor 17-7) (OR17-7) [OR1A1] - Human
+Odorant/olfactory and gustatory receptors::OR1A2_HUMAN (Q9Y585)  Olfactory receptor 1A2 (Olfactory receptor OR17-10) (Olfactory receptor 17-6) (OR17-6) [OR1A2] - Human
+Odorant/olfactory and gustatory receptors::OR1B1_HUMAN (Q8NGR6)  Olfactory receptor 1B1 (Olfactory receptor OR9-26) (Olfactory receptor 9-B) (OR9-B) [OR1B1] - Human
+Odorant/olfactory and gustatory receptors::OR1C1_HUMAN (Q15619)  Olfactory receptor 1C1 (Olfactory receptor OR1-42) (Olfactory receptor TPCR27) [OR1C1] - Human
+Odorant/olfactory and gustatory receptors::OR1D2_HUMAN (P34982)  Olfactory receptor 1D2 (Olfactory receptor OR17-6) (Olfactory receptor-like protein HGMP07E) (Olfactory receptor 17-4) (OR17-4) [OR1D2; OLFR1] - Human
+Odorant/olfactory and gustatory receptors::OR1D4_HUMAN (P47884)  Olfactory receptor 1D4 (Olfactory receptor 17-30) (OR17-30) [OR1D4] - Human
+Odorant/olfactory and gustatory receptors::OR1D5_HUMAN (P58170)  Olfactory receptor 1D5 (Olfactory receptor 17-31) (OR17-31) [OR1D5] - Human
+Odorant/olfactory and gustatory receptors::OR1E1_HUMAN (P30953)  Olfactory receptor 1E1 (Olfactory receptor OR17-18) (Olfactory receptor-like protein HGMP07I) (Olfactory receptor 17-2/17-32) (OR17-2) (OR17-32) [OR1E1; OR1E5; OR1E6; OR1E9P] - Human
+Odorant/olfactory and gustatory receptors::OR1E2_HUMAN (P47887)  Olfactory receptor 1E2 (Olfactory receptor 17-93/17-135/17-136) (OR17-93) (OR17-135) (OR17-136) [OR1E2; OR1E4] - Human
+Odorant/olfactory and gustatory receptors::OR1E3_HUMAN (Q8WZA6)  Olfactory receptor 1E3 (Olfactory receptor OR17-7) (Olfactory receptor 17-210) (OR17-210) [OR1E3; OR1E3P] - Human
+Odorant/olfactory and gustatory receptors::OR1F1_HUMAN (O43749)  Olfactory receptor 1F1 (Olfactory receptor OR16-4) (Olfactory receptor 16-35) (OR16-35) [OR1F1; OLFMF; OR1F4; OR1F5; OR1F6; OR1F7; OR1F8; OR1F9; OR1F10] - Human
+Odorant/olfactory and gustatory receptors::OR1F2_HUMAN (Q96R84)  Olfactory receptor 1F2 (OLFmf2) [OR1F2] - Human
+Odorant/olfactory and gustatory receptors::OR1FC_HUMAN (Q8NHA8)  Olfactory receptor 1F12 (Hs6M1-35P) [OR1F12P; OR1F12P] - Human
+Odorant/olfactory and gustatory receptors::OR1G1_HUMAN (P47890)  Olfactory receptor 1G1 (Olfactory receptor OR17-8) (Olfactory receptor 17-209) (OR17-209) [OR1G1; OR1G2] - Human
+Odorant/olfactory and gustatory receptors::OR1I1_HUMAN (O60431)  Olfactory receptor 1I1 (Olfactory receptor 19-20) (OR19-20) [OR1I1] - Human
+Odorant/olfactory and gustatory receptors::OR1J1_HUMAN (Q8NGS3)  Olfactory receptor 1J1 (Olfactory receptor OR9-18) [OR1J1] - Human
+Odorant/olfactory and gustatory receptors::OR1J2_HUMAN (Q8NGS2)  Olfactory receptor 1J2 (Olfactory receptor OR9-19) (OST044) (HSA5) (HTPCRX15) [OR1J2; OR1J3; OR1J5] - Human
+Odorant/olfactory and gustatory receptors::OR1J4_HUMAN (Q8NGS1)  Olfactory receptor 1J4 (Olfactory receptor OR9-21) (HTPCRX01) [OR1J4] - Human
+Odorant/olfactory and gustatory receptors::OR1K1_HUMAN (Q8NGR3)  Olfactory receptor 1K1 [OR1K1] - Human
+Odorant/olfactory and gustatory receptors::OR1L1_HUMAN (Q8NH94)  Olfactory receptor 1L1 (Olfactory receptor OR9-27) (Olfactory receptor 9-C) (OR9-C) [OR1L1; OR1L2] - Human
+Odorant/olfactory and gustatory receptors::OR1L3_HUMAN (Q8NH93)  Olfactory receptor 1L3 (Olfactory receptor OR9-28) (Olfactory receptor 9-D) (OR9-D) [OR1L3] - Human
+Odorant/olfactory and gustatory receptors::OR1L4_HUMAN (Q8NGR5)  Olfactory receptor 1L4 (Olfactory receptor OR9-29) (Olfactory receptor 9-E) (OR9-E) (OST046) [OR1L4; OR1L5] - Human
+Odorant/olfactory and gustatory receptors::OR1L6_HUMAN (Q8NGR2)  Olfactory receptor 1L6 (Olfactory receptor OR9-30) [OR1L6; OR1L7] - Human
+Odorant/olfactory and gustatory receptors::OR1L8_HUMAN (Q8NGR8)  Olfactory receptor 1L8 (Olfactory receptor OR9-24) [OR1L8] - Human
+Odorant/olfactory and gustatory receptors::OR1M1_HUMAN (Q8NGA1)  Olfactory receptor 1M1 (Olfactory receptor OR19-5) (Olfactory receptor 19-6) (OR19-6) [OR1M1] - Human
+Odorant/olfactory and gustatory receptors::OR1N1_HUMAN (Q8NGS0)  Olfactory receptor 1N1 (Olfactory receptor OR9-22) (Olfactory receptor 1-26) (OR1-26) [OR1N1; OR1N3] - Human
+Odorant/olfactory and gustatory receptors::OR1N2_HUMAN (Q8NGR9)  Olfactory receptor 1N2 (Olfactory receptor OR9-23) [OR1N2] - Human
+Odorant/olfactory and gustatory receptors::OR1P1_HUMAN (Q8NH06)  Olfactory receptor 1P1 (Olfactory receptor 17-208) (OR17-208) (Olfactory receptor OR17-9) [OR1P1; OR1P1P] - Human
+Odorant/olfactory and gustatory receptors::OR1Q1_HUMAN (Q15612)  Olfactory receptor 1Q1 (Olfactory receptor OR9-25) (Olfactory receptor TPCR106) (Olfactory receptor 9-A) (OR9-A) (OST226) [OR1Q1; OR1Q2; OR1Q3] - Human
+Odorant/olfactory and gustatory receptors::OR1S1_HUMAN (Q8NH92)  Olfactory receptor 1S1 (Olfactory receptor OR11-232) [OR1S1] - Human
+Odorant/olfactory and gustatory receptors::OR1S2_HUMAN (Q8NGQ3)  Olfactory receptor 1S2 (Olfactory receptor OR11-231) [OR1S2] - Human
+Odorant/olfactory and gustatory receptors::OR2A1_HUMAN (Q8NGT9)  Olfactory receptor 2A1/2A42 (Olfactory receptor OR7-16) (Olfactory receptor OR7-19) [OR2A1; OR2A42] - Human
+Odorant/olfactory and gustatory receptors::OR2A2_HUMAN (Q6IF42)  Olfactory receptor 2A2 (Olfactory receptor OR7-11) [OR2A2; OR2A17P; OR2A2P] - Human
+Odorant/olfactory and gustatory receptors::OR2A4_HUMAN (O95047)  Olfactory receptor 2A4 (Olfactory receptor OR6-37) [OR2A4; OR2A10] - Human
+Odorant/olfactory and gustatory receptors::OR2A5_HUMAN (Q96R48)  Olfactory receptor 2A5 (Olfactory receptor 7-138/7-141) (OR7-138) (OR7-141) [OR2A5; OR2A26; OR2A8] - Human
+Odorant/olfactory and gustatory receptors::OR2A7_HUMAN (Q96R45)  Olfactory receptor 2A7 (Olfactory receptor OR7-18) [OR2A7] - Human
+Odorant/olfactory and gustatory receptors::O2A12_HUMAN (Q8NGT7)  Olfactory receptor 2A12 (Olfactory receptor OR7-10) [OR2A12; OR2A12P] - Human
+Odorant/olfactory and gustatory receptors::O2A14_HUMAN (Q96R47)  Olfactory receptor 2A14 (Olfactory receptor OR7-12) (OST182) [OR2A14; OR2A14P; OR2A6] - Human
+Odorant/olfactory and gustatory receptors::O2A25_HUMAN (A4D2G3)  Olfactory receptor 2A25 [OR2A25; OR2A25P; OR2A27] - Human
+Odorant/olfactory and gustatory receptors::O2AE1_HUMAN (Q8NHA4)  Olfactory receptor 2AE1 [OR2AE1; OR2AE2] - Human
+Odorant/olfactory and gustatory receptors::O2AG1_HUMAN (Q9H205)  Olfactory receptor 2AG1 (Olfactory receptor OR11-79) (HT3) [OR2AG1; OR2AG3] - Human
+Odorant/olfactory and gustatory receptors::O2AG2_HUMAN (A6NM03)  Olfactory receptor 2AG2 [OR2AG2; OR2AG2P] - Human
+Odorant/olfactory and gustatory receptors::O2AJ1_HUMAN (Q8NGZ0)  Olfactory receptor 2AJ1 [OR2AJ1; OR2AJ1P] - Human
+Odorant/olfactory and gustatory receptors::O2AK2_HUMAN (Q8NG84)  Olfactory receptor 2AK2 [OR2AK2; OR2AK1P] - Human
+Odorant/olfactory and gustatory receptors::O2AP1_HUMAN (Q8NGE2)  Olfactory receptor 2AP1 (Olfactory receptor OR12-9) [OR2AP1; OR2AP1P] - Human
+Odorant/olfactory and gustatory receptors::O2AT4_HUMAN (A6NND4)  Olfactory receptor 2AT4 (Olfactory receptor OR11-265) [OR2AT4] - Human
+Odorant/olfactory and gustatory receptors::OR2B2_HUMAN (Q9GZK3)  Olfactory receptor 2B2 (Olfactory receptor 6-1) (OR6-1) (Hs6M1-10) [OR2B2; OR2B9] - Human
+Odorant/olfactory and gustatory receptors::OR2B3_HUMAN (O76000)  Olfactory receptor 2B3 (Olfactory receptor OR6-14) (Olfactory receptor 6-4) (OR6-4) (Hs6M1-1) [OR2B3; OR2B3P] - Human
+Odorant/olfactory and gustatory receptors::OR2B6_HUMAN (P58173)  Olfactory receptor 2B6 (Olfactory receptor OR6-4) (Olfactory receptor 6-31) (OR6-31) (Hs6M1-32) (Olfactory receptor 5-40) (OR5-40) [OR2B6; OR2B1; OR2B1P; OR2B5; OR2B6P] - Human
+Odorant/olfactory and gustatory receptors::OR2B8_HUMAN (P59922)  Olfactory receptor 2B8 (Hs6M1-29P) [OR2B8P; OR2B8] - Human
+Odorant/olfactory and gustatory receptors::OR2BB_HUMAN (Q5JQS5)  Olfactory receptor 2B11 [OR2B1] - Human
+Odorant/olfactory and gustatory receptors::OR2C1_HUMAN (O95371)  Olfactory receptor 2C1 (Olfactory receptor OR16-1) (OLFmf3) [OR2C1; OR2C2P] - Human
+Odorant/olfactory and gustatory receptors::OR2C3_HUMAN (Q8N628)  Olfactory receptor 2C3 (Olfactory receptor OR1-30) [OR2C3; OR2C4; OR2C5P] - Human
+Odorant/olfactory and gustatory receptors::OR2D2_HUMAN (Q9H210)  Olfactory receptor 2D2 (Olfactory receptor OR11-88) (Olfactory receptor 11-610) (OR11-610) (HB2) [OR2D2; OR2D1] - Human
+Odorant/olfactory and gustatory receptors::OR2D3_HUMAN (Q8NGH3)  Olfactory receptor 2D3 (Olfactory receptor OR11-89) [OR2D3] - Human
+Odorant/olfactory and gustatory receptors::OR2F1_HUMAN (Q13607)  Olfactory receptor 2F1 (Olfactory receptor-like protein OLF3) [OR2F1; OLF3; OR2F3; OR2F3P; OR2F4; OR2F5] - Human
+Odorant/olfactory and gustatory receptors::OR2F2_HUMAN (O95006)  Olfactory receptor 2F2 (Olfactory receptor OR7-6) (Olfactory receptor 7-1) (OR7-1) [OR2F2] - Human
+Odorant/olfactory and gustatory receptors::OR2G2_HUMAN (Q8NGZ5)  Olfactory receptor 2G2 [OR2G2] - Human
+Odorant/olfactory and gustatory receptors::OR2G3_HUMAN (Q8NGZ4)  Olfactory receptor 2G3 [OR2G3] - Human
+Odorant/olfactory and gustatory receptors::OR2G6_HUMAN (Q5TZ20)  Olfactory receptor 2G6 [OR2G6] - Human
+Odorant/olfactory and gustatory receptors::OR2H1_HUMAN (Q9GZK4)  Olfactory receptor 2H1 (Olfactory receptor OR6-32) (Hs6M1-16) (Olfactory receptor 6-2) (OR6-2) (OLFR42A-9004.14/9026.2) [OR2H1; OR2H6; OR2H8] - Human
+Odorant/olfactory and gustatory receptors::OR2H2_HUMAN (O95918)  Olfactory receptor 2H2 (Hs6M1-12) (Olfactory receptor-like protein FAT11) [OR2H2; FAT11; OLFR2; OR2H3] - Human
+Odorant/olfactory and gustatory receptors::OR2I1_HUMAN (Q8NGU4)  Olfactory receptor 2I1 [OR2I1P; OR2I2; OR2I3P; OR2I4P] - Human
+Odorant/olfactory and gustatory receptors::OR2J1_HUMAN (Q9GZK6)  Olfactory receptor 2J1 (Olfactory receptor 6-5) (OR6-5) (Hs6M1-4) [OR2J1; OR2J1P] - Human
+Odorant/olfactory and gustatory receptors::OR2J2_HUMAN (O76002)  Olfactory receptor 2J2 (Olfactory receptor OR6-19) (Olfactory receptor 6-8) (OR6-8) (Hs6M1-6) [OR2J2] - Human
+Odorant/olfactory and gustatory receptors::OR2J3_HUMAN (O76001)  Olfactory receptor 2J3 (Olfactory receptor OR6-16) (Olfactory receptor 6-6) (OR6-6) (Hs6M1-3) [OR2J3] - Human
+Odorant/olfactory and gustatory receptors::OR2K2_HUMAN (Q8NGT1)  Olfactory receptor 2K2 (Olfactory receptor OR9-17) (HTPCRH06) [OR2K2; OR2AR1P] - Human
+Odorant/olfactory and gustatory receptors::OR2L2_HUMAN (Q8NH16)  Olfactory receptor 2L2 (HTPCRH07) [OR2L2; OR2L4P; OR2L12] - Human
+Odorant/olfactory and gustatory receptors::OR2L3_HUMAN (Q8NG85)  Olfactory receptor 2L3 [OR2L3] - Human
+Odorant/olfactory and gustatory receptors::OR2L5_HUMAN (Q8NG80)  Olfactory receptor 2L5 (Olfactory receptor OR1-53) [OR2L5; OR2L11] - Human
+Odorant/olfactory and gustatory receptors::OR2L8_HUMAN (Q8NGY9)  Olfactory receptor 2L8 (Olfactory receptor OR1-46) [OR2L8] - Human
+Odorant/olfactory and gustatory receptors::OR2LD_HUMAN (Q8N349)  Olfactory receptor 2L13 [OR2L13; OR2L14] - Human
+Odorant/olfactory and gustatory receptors::OR2M2_HUMAN (Q96R28)  Olfactory receptor 2M2 (OST423) [OR2M2] - Human
+Odorant/olfactory and gustatory receptors::OR2M3_HUMAN (Q8NG83)  Olfactory receptor 2M3 (Olfactory receptor OR1-54) [OR2M3; OR2M3P; OR2M6] - Human
+Odorant/olfactory and gustatory receptors::OR2M4_HUMAN (Q96R27)  Olfactory receptor 2M4 (Olfactory receptor OR1-55) (Olfactory receptor TPCR100) (OST710) (HTPCRX18) [OR2M4] - Human
+Odorant/olfactory and gustatory receptors::OR2M5_HUMAN (A3KFT3)  Olfactory receptor 2M5 [OR2M5] - Human
+Odorant/olfactory and gustatory receptors::OR2M7_HUMAN (Q8NG81)  Olfactory receptor 2M7 [OR2M7] - Human
+Odorant/olfactory and gustatory receptors::OR2S1_HUMAN (Q9NQN1)  Olfactory receptor 2S2 [OR2S2] - Human
+Odorant/olfactory and gustatory receptors::OR2T1_HUMAN (O43869)  Olfactory receptor 2T1 (Olfactory receptor OR1-61) (Olfactory receptor 1-25) (OR1-25) [OR2T1] - Human
+Odorant/olfactory and gustatory receptors::OR2T2_HUMAN (Q6IF00)  Olfactory receptor 2T2 (Olfactory receptor OR1-43) [OR2T2; OR2T2P] - Human
+Odorant/olfactory and gustatory receptors::OR2T3_HUMAN (Q8NH03)  Olfactory receptor 2T3 [OR2T3] - Human
+Odorant/olfactory and gustatory receptors::OR2T4_HUMAN (Q8NH00)  Olfactory receptor 2T4 (Olfactory receptor OR1-60) [OR2T4] - Human
+Odorant/olfactory and gustatory receptors::OR2T5_HUMAN (Q6IEZ7)  Olfactory receptor 2T5 (Olfactory receptor OR1-62) [OR2T5] - Human
+Odorant/olfactory and gustatory receptors::OR2T6_HUMAN (Q8NHC8)  Olfactory receptor 2T6 (OST703) [OR2T6; OR2T6P; OR2T9] - Human
+Odorant/olfactory and gustatory receptors::OR2T7_HUMAN (P0C7T2)  Olfactory receptor 2T7 (Olfactory receptor OR1-44) (OST723) [OR2T7; OR2T7P] - Human
+Odorant/olfactory and gustatory receptors::OR2T8_HUMAN (A6NH00)  Olfactory receptor 2T8 [OR2T8; OR2T8P] - Human
+Odorant/olfactory and gustatory receptors::O2T10_HUMAN (Q8NGZ9)  Olfactory receptor 2T10 (Olfactory receptor OR1-64) [OR2T10] - Human
+Odorant/olfactory and gustatory receptors::O2T11_HUMAN (Q8NH01)  Olfactory receptor 2T11 [OR2T11] - Human
+Odorant/olfactory and gustatory receptors::O2T12_HUMAN (Q8NG77)  Olfactory receptor 2T12 (Olfactory receptor OR1-57) [OR2T12] - Human
+Odorant/olfactory and gustatory receptors::O2T27_HUMAN (Q8NH04)  Olfactory receptor 2T27 (Olfactory receptor OR1-67) [OR2T27] - Human
+Odorant/olfactory and gustatory receptors::O2T29_HUMAN (Q8NH02)  Olfactory receptor 2T29 [OR2T29] - Human
+Odorant/olfactory and gustatory receptors::O2T33_HUMAN (Q8NG76)  Olfactory receptor 2T33 (Olfactory receptor OR1-56) [OR2T33] - Human
+Odorant/olfactory and gustatory receptors::O2T34_HUMAN (Q8NGX1)  Olfactory receptor 2T34 (Olfactory receptor OR1-63) [OR2T34] - Human
+Odorant/olfactory and gustatory receptors::O2T35_HUMAN (Q8NGX2)  Olfactory receptor 2T35 (Olfactory receptor OR1-66) [OR2T35] - Human
+Odorant/olfactory and gustatory receptors::OR2V1_HUMAN (Q8NHB1)  Olfactory receptor 2V1 [OR2V1] - Human
+Odorant/olfactory and gustatory receptors::OR2V2_HUMAN (Q96R30)  Olfactory receptor 2V2 [OR2V2; OR2V3] - Human
+Odorant/olfactory and gustatory receptors::OR2W1_HUMAN (Q9Y3N9)  Olfactory receptor 2W1 (Olfactory receptor OR6-13) (Hs6M1-15) [OR2W1] - Human
+Odorant/olfactory and gustatory receptors::OR2W3_HUMAN (Q7Z3T1)  Olfactory receptor 2W3 [OR2W3; OR2W3P; OR2W8P] - Human
+Odorant/olfactory and gustatory receptors::OR2W5_HUMAN (A6NFC9)  Putative olfactory receptor 2W5 [OR2W5; OR2W5P] - Human
+Odorant/olfactory and gustatory receptors::OR2W6_HUMAN (Q8NHA6)  Olfactory receptor 2W6 (Olfactory receptor OR6-3) [OR2W6P; OR2W7P] - Human
+Odorant/olfactory and gustatory receptors::OR2Y1_HUMAN (Q8NGV0)  Olfactory receptor 2Y1 [OR2Y1] - Human
+Odorant/olfactory and gustatory receptors::OR2Z1_HUMAN (Q8NG97)  Olfactory receptor 2Z1 [OR2Z1; OR2Z2] - Human
+Odorant/olfactory and gustatory receptors::OR3A1_HUMAN (P47881)  Olfactory receptor 3A1 (Olfactory receptor OR17-15) (Olfactory receptor 17-40) (OR17-40) [OR3A1; OLFRA03] - Human
+Odorant/olfactory and gustatory receptors::OR3A2_HUMAN (P47893)  Olfactory receptor 3A2 (Olfactory receptor OR17-14) (Olfactory receptor 17-228) (OR17-228) [OR3A2; OLFRA04] - Human
+Odorant/olfactory and gustatory receptors::OR3A3_HUMAN (P47888)  Olfactory receptor 3A3 (Olfactory receptor OR17-22) (Olfactory receptor 17-201) (OR17-201) [OR3A3; OR3A6; OR3A7; OR3A8P] - Human
+Odorant/olfactory and gustatory receptors::OR3A4_HUMAN (P47883)  Olfactory receptor 3A4 (Olfactory receptor 17-24) (OR17-24) [OR3A4; OR3A4P; OR3A5P] - Human
+Odorant/olfactory and gustatory receptors::OR4A4_HUMAN (Q8NGN8)  Olfactory receptor 4A4 (Olfactory receptor OR11-107) [OR4A4P] - Human
+Odorant/olfactory and gustatory receptors::OR4A5_HUMAN (Q8NH83)  Olfactory receptor 4A5 (Olfactory receptor OR11-111) [OR4A5] - Human
+Odorant/olfactory and gustatory receptors::OR4A8_HUMAN (P0C604)  Putative olfactory receptor 4A8 (Olfactory receptor OR11-110) [OR4A8P; OR4A8] - Human
+Odorant/olfactory and gustatory receptors::O4A15_HUMAN (Q8NGL6)  Olfactory receptor 4A15 (Olfactory receptor OR11-118) [OR4A15] - Human
+Odorant/olfactory and gustatory receptors::O4A16_HUMAN (Q8NH70)  Olfactory receptor 4A16 (Olfactory receptor OR11-117) [OR4A16] - Human
+Odorant/olfactory and gustatory receptors::O4A47_HUMAN (Q6IF82)  Olfactory receptor 4A47 (Olfactory receptor OR11-113) [OR4A47] - Human
+Odorant/olfactory and gustatory receptors::OR4B1_HUMAN (Q8NGF8)  Olfactory receptor 4B1 (Olfactory receptor OR11-106) (OST208) [OR4B1] - Human
+Odorant/olfactory and gustatory receptors::OR4C3_HUMAN (Q8NH37)  Olfactory receptor 4C3 (Olfactory receptor OR11-98) [OR4C3] - Human
+Odorant/olfactory and gustatory receptors::OR4C5_HUMAN (Q8NGB2)  Olfactory receptor 4C5 (Olfactory receptor OR11-99) [OR4C5] - Human
+Odorant/olfactory and gustatory receptors::OR4C6_HUMAN (Q8NH72)  Olfactory receptor 4C6 (Olfactory receptor OR11-138) [OR4C6] - Human
+Odorant/olfactory and gustatory receptors::OR4CB_HUMAN (Q6IEV9)  Olfactory receptor 4C11 (Olfactory receptor OR11-136) [OR4C11; OR4C11P] - Human
+Odorant/olfactory and gustatory receptors::OR4CC_HUMAN (Q96R67)  Olfactory receptor 4C12 (Olfactory receptor OR11-259) [OR4C12] - Human
+Odorant/olfactory and gustatory receptors::OR4CD_HUMAN (Q8NGP0)  Olfactory receptor 4C13 (Olfactory receptor OR11-260) [OR4C13] - Human
+Odorant/olfactory and gustatory receptors::OR4CF_HUMAN (Q8NGM1)  Olfactory receptor 4C15 (Olfactory receptor OR11-127) (Olfactory receptor OR11-134) [OR4C15] - Human
+Odorant/olfactory and gustatory receptors::OR4CG_HUMAN (Q8NGL9)  Olfactory receptor 4C16 (Olfactory receptor OR11-135) [OR4C16] - Human
+Odorant/olfactory and gustatory receptors::O4C45_HUMAN (A6NMZ5)  Olfactory receptor 4C45 [OR4C45] - Human
+Odorant/olfactory and gustatory receptors::O4C46_HUMAN (A6NHA9)  Olfactory receptor 4C46 [OR4C46] - Human
+Odorant/olfactory and gustatory receptors::OR4D1_HUMAN (Q15615)  Olfactory receptor 4D1 (Olfactory receptor TPCR16) [OR4D1; OR4D3] - Human
+Odorant/olfactory and gustatory receptors::OR4D2_HUMAN (P58180)  Olfactory receptor 4D2 (Olfactory receptor OR17-24) (B-lymphocyte membrane protein BC2009) [OR4D2] - Human
+Odorant/olfactory and gustatory receptors::OR4D5_HUMAN (Q8NGN0)  Olfactory receptor 4D5 (Olfactory receptor OR11-276) [OR4D5] - Human
+Odorant/olfactory and gustatory receptors::OR4D6_HUMAN (Q8NGJ1)  Olfactory receptor 4D6 (Olfactory receptor OR11-250) [OR4D6] - Human
+Odorant/olfactory and gustatory receptors::OR4D9_HUMAN (Q8NGE8)  Olfactory receptor 4D9 (Olfactory receptor OR11-253) [OR4D9] - Human
+Odorant/olfactory and gustatory receptors::OR4DA_HUMAN (Q8NGI6)  Olfactory receptor 4D10 (Olfactory receptor OR11-251) [OR4D10; OR4D10P] - Human
+Odorant/olfactory and gustatory receptors::OR4DB_HUMAN (Q8NGI4)  Olfactory receptor 4D11 [OR4D11; OR4D11P] - Human
+Odorant/olfactory and gustatory receptors::OR4E1_HUMAN (P0C645)  Olfactory receptor 4E1 (Olfactory receptor OR14-43) [OR4E1; OR4E1P] - Human
+Odorant/olfactory and gustatory receptors::OR4E2_HUMAN (Q8NGC2)  Olfactory receptor 4E2 (Olfactory receptor OR14-42) [OR4E2] - Human
+Odorant/olfactory and gustatory receptors::OR4F3_HUMAN (Q6IEY1)  Olfactory receptor 4F3/4F16/4F29 (Olfactory receptor OR1-1) [OR4F3; OR4F16; OR4F29] - Human
+Odorant/olfactory and gustatory receptors::OR4F4_HUMAN (Q96R69)  Olfactory receptor 4F4 (Olfactory receptor OR19-3) (HS14a-1-A) [OR4F4] - Human
+Odorant/olfactory and gustatory receptors::OR4F5_HUMAN (Q8NH21)  Olfactory receptor 4F5 [OR4F5] - Human
+Odorant/olfactory and gustatory receptors::OR4F6_HUMAN (Q8NGB9)  Olfactory receptor 4F6 (Olfactory receptor OR15-15) [OR4F6; OR4F12] - Human
+Odorant/olfactory and gustatory receptors::O4F15_HUMAN (Q8NGB8)  Olfactory receptor 4F15 (Olfactory receptor OR15-14) [OR4F15] - Human
+Odorant/olfactory and gustatory receptors::O4F17_HUMAN (Q8NGA8)  Olfactory receptor 4F17 [OR4F17; OR4F11P; ORF4F18; OR4F19] - Human
+Odorant/olfactory and gustatory receptors::O4F21_HUMAN (O95013)  Olfactory receptor 4F21 [OR4F21; OR4F21P] - Human
+Odorant/olfactory and gustatory receptors::OR4K1_HUMAN (Q8NGD4)  Olfactory receptor 4K1 (Olfactory receptor OR14-19) [OR4K1] - Human
+Odorant/olfactory and gustatory receptors::OR4K2_HUMAN (Q8NGD2)  Olfactory receptor 4K2 (Olfactory receptor OR14-15) [OR4K2] - Human
+Odorant/olfactory and gustatory receptors::OR4K3_HUMAN (Q96R72)  Olfactory receptor 4K3 (Olfactory receptor OR14-14) [OR4K3; OR4K3P] - Human
+Odorant/olfactory and gustatory receptors::OR4K5_HUMAN (Q8NGD3)  Olfactory receptor 4K5 (Olfactory receptor OR14-16) [OR4K5] - Human
+Odorant/olfactory and gustatory receptors::OR4KD_HUMAN (Q8NH42)  Olfactory receptor 4K13 (Olfactory receptor OR14-27) [OR4K13] - Human
+Odorant/olfactory and gustatory receptors::OR4KE_HUMAN (Q8NGD5)  Olfactory receptor 4K14 (Olfactory receptor OR14-22) [OR4K14] - Human
+Odorant/olfactory and gustatory receptors::OR4KF_HUMAN (Q8NH41)  Olfactory receptor 4K15 (Olfactory receptor OR14-20) [OR4K15] - Human
+Odorant/olfactory and gustatory receptors::OR4KH_HUMAN (Q8NGC6)  Olfactory receptor 4K17 (Olfactory receptor OR14-29) [OR4K17] - Human
+Odorant/olfactory and gustatory receptors::OR4L1_HUMAN (Q8NH43)  Olfactory receptor 4L1 (Olfactory receptor OR14-28) [OR4L1; OR4L2P] - Human
+Odorant/olfactory and gustatory receptors::OR4M1_HUMAN (Q8NGD0)  Olfactory receptor 4M1 (Olfactory receptor OR14-7) [OR4M1] - Human
+Odorant/olfactory and gustatory receptors::OR4M2_HUMAN (Q8NGB6)  Olfactory receptor 4M2 (Olfactory receptor OR15-3) [OR4M2] - Human
+Odorant/olfactory and gustatory receptors::OR4N2_HUMAN (Q8NGD1)  Olfactory receptor 4N2 (Olfactory receptor OR14-8) (Olfactory receptor OR14-13) [OR4N2] - Human
+Odorant/olfactory and gustatory receptors::OR4N4_HUMAN (Q8N0Y3)  Olfactory receptor 4N4 (Olfactory receptor OR15-1) (Olfactory receptor OR15-5) [OR4N4] - Human
+Odorant/olfactory and gustatory receptors::OR4N5_HUMAN (Q8IXE1)  Olfactory receptor 4N5 (Olfactory receptor OR14-33) [OR4N5] - Human
+Odorant/olfactory and gustatory receptors::OR4P4_HUMAN (Q8NGL7)  Olfactory receptor 4P4 [OR4P4; OR4P3P] - Human
+Odorant/olfactory and gustatory receptors::OR4Q2_HUMAN (P0C623)  Olfactory receptor 4Q2 (Olfactory receptor OR14-21) [OR4Q2; OR4Q2P] - Human
+Odorant/olfactory and gustatory receptors::OR4Q3_HUMAN (Q8NH05)  Olfactory receptor 4Q3 (Olfactory receptor OR14-3) [OR4Q3; OR4Q4; C14orf13] - Human
+Odorant/olfactory and gustatory receptors::OR4S1_HUMAN (Q8NGB4)  Olfactory receptor 4S1 (Olfactory receptor OR11-100) [OR4S1] - Human
+Odorant/olfactory and gustatory receptors::OR4S2_HUMAN (Q8NH73)  Olfactory receptor 4S2 (Olfactory receptor OR11-137) [OR4S2; OR4S2P] - Human
+Odorant/olfactory and gustatory receptors::OR4X1_HUMAN (Q8NH49)  Olfactory receptor 4X1 (Olfactory receptor OR11-104) [OR4X1] - Human
+Odorant/olfactory and gustatory receptors::OR4X2_HUMAN (Q8NGF9)  Olfactory receptor 4X2 (Olfactory receptor OR11-105) [OR4X2] - Human
+Odorant/olfactory and gustatory receptors::OR5A1_HUMAN (Q8NGJ0)  Olfactory receptor 5A1 (Olfactory receptor OR11-249) (OST181) [OR5A1; OR5A1P] - Human
+Odorant/olfactory and gustatory receptors::OR5A2_HUMAN (Q8NGI9)  Olfactory receptor 5A2 (Olfactory receptor OR11-248) [OR5A2] - Human
+Odorant/olfactory and gustatory receptors::O5AC1_HUMAN (P0C628)  Olfactory receptor 5AC1 (Olfactory receptor OR3-2) [OR5AC1; OR5AC1P] - Human
+Odorant/olfactory and gustatory receptors::O5AC2_HUMAN (Q9NZP5)  Olfactory receptor 5AC2 (HSA1) [OR5AC2] - Human
+Odorant/olfactory and gustatory receptors::O5AK2_HUMAN (Q8NH90)  Olfactory receptor 5AK2 [OR5AK2] - Human
+Odorant/olfactory and gustatory receptors::O5AK3_HUMAN (Q8NH89)  Olfactory receptor 5AK3 [OR5AK3P; OR5AK3] - Human
+Odorant/olfactory and gustatory receptors::O5AL1_HUMAN (P0C617)  Olfactory receptor 5AL1 (Olfactory receptor OR11-184) [OR5AL1; OR5AL1P] - Human
+Odorant/olfactory and gustatory receptors::O5AN1_HUMAN (Q8NGI8)  Olfactory receptor 5AN1 (Olfactory receptor OR11-244) [OR5AN1] - Human
+Odorant/olfactory and gustatory receptors::O5AP2_HUMAN (Q8NGF4)  Olfactory receptor 5AP2 [OR5AP2] - Human
+Odorant/olfactory and gustatory receptors::O5AR1_HUMAN (Q8NGP9)  Olfactory receptor 5AR1 (Olfactory receptor OR11-209) [OR5AR1] - Human
+Odorant/olfactory and gustatory receptors::O5AS1_HUMAN (Q8N127)  Olfactory receptor 5AS1 (Olfactory receptor OR11-168) [OR5AS1] - Human
+Odorant/olfactory and gustatory receptors::O5AU1_HUMAN (Q8NGC0)  Olfactory receptor 5AU1 (Olfactory receptor OR14-38) [OR5AU1] - Human
+Odorant/olfactory and gustatory receptors::OR5B2_HUMAN (Q96R09)  Olfactory receptor 5B2 (Olfactory receptor OR11-240) (OST073) [OR5B2] - Human
+Odorant/olfactory and gustatory receptors::OR5B3_HUMAN (Q8NH48)  Olfactory receptor 5B3 (Olfactory receptor OR11-239) [OR5B3; OR5B13] - Human
+Odorant/olfactory and gustatory receptors::OR5BC_HUMAN (Q96R08)  Olfactory receptor 5B12 (Olfactory receptor OR11-241) [OR5B12; OR5B12P; OR5B16] - Human
+Odorant/olfactory and gustatory receptors::OR5BH_HUMAN (Q8NGF7)  Olfactory receptor 5B17 (Olfactory receptor OR11-237) [OR5B17; OR5B20P] - Human
+Odorant/olfactory and gustatory receptors::OR5BL_HUMAN (A6NL26)  Olfactory receptor 5B21 [OR5B21] - Human
+Odorant/olfactory and gustatory receptors::OR5C1_HUMAN (Q8NGR4)  Olfactory receptor 5C1 (Olfactory receptor 9-F) (OR9-F) [OR5C1; OR5C2P] - Human
+Odorant/olfactory and gustatory receptors::OR5DD_HUMAN (Q8NGL4)  Olfactory receptor 5D13 (Olfactory receptor OR11-142) (Olfactory receptor OR11-148) [OR5D13] - Human
+Odorant/olfactory and gustatory receptors::OR5DE_HUMAN (Q8NGL3)  Olfactory receptor 5D14 (Olfactory receptor OR11-141) (Olfactory receptor OR11-150) [OR5D14] - Human
+Odorant/olfactory and gustatory receptors::OR5DG_HUMAN (Q8NGK9)  Olfactory receptor 5D16 (Olfactory receptor OR11-154) [OR5D16] - Human
+Odorant/olfactory and gustatory receptors::OR5DI_HUMAN (Q8NGL1)  Olfactory receptor 5D18 (Olfactory receptor OR11-143) (Olfactory receptor OR11-152) [OR5D18] - Human
+Odorant/olfactory and gustatory receptors::OR5F1_HUMAN (O95221)  Olfactory receptor 5F1 (Olfactory receptor OR11-167) (Olfactory receptor 11-10) (OR11-10) [OR5F1] - Human
+Odorant/olfactory and gustatory receptors::OR5G3_HUMAN (P0C626)  Olfactory receptor 5G3 (Olfactory receptor OR11-213) [OR5G3; OR5G3P; OR5G6P] - Human
+Odorant/olfactory and gustatory receptors::OR5H1_HUMAN (A6NKK0)  Olfactory receptor 5H1 (HTPCRX14) [OR5H1] - Human
+Odorant/olfactory and gustatory receptors::OR5H2_HUMAN (Q8NGV7)  Olfactory receptor 5H2 (Olfactory receptor OR3-10) [OR5H2] - Human
+Odorant/olfactory and gustatory receptors::OR5H6_HUMAN (Q8NGV6)  Olfactory receptor 5H6 (Olfactory receptor OR3-11) [OR5H6] - Human
+Odorant/olfactory and gustatory receptors::O5H14_HUMAN (A6NHG9)  Olfactory receptor 5H14 [OR5H14] - Human
+Odorant/olfactory and gustatory receptors::O5H15_HUMAN (A6NDH6)  Olfactory receptor 5H15 [OR5H15] - Human
+Odorant/olfactory and gustatory receptors::OR5I1_HUMAN (Q13606)  Olfactory receptor 5I1 (Olfactory receptor OR11-159) (Olfactory receptor-like protein OLF1) [OR5I1; OLF1] - Human
+Odorant/olfactory and gustatory receptors::OR5J2_HUMAN (Q8NH18)  Olfactory receptor 5J2 (Olfactory receptor OR11-166) [OR5J2] - Human
+Odorant/olfactory and gustatory receptors::OR5K1_HUMAN (Q8NHB7)  Olfactory receptor 5K1 (Olfactory receptor OR3-8) (HTPCRX10) [OR5K1] - Human
+Odorant/olfactory and gustatory receptors::OR5K2_HUMAN (Q8NHB8)  Olfactory receptor 5K2 (Olfactory receptor OR3-9) [OR5K2] - Human
+Odorant/olfactory and gustatory receptors::OR5K3_HUMAN (A6NET4)  Olfactory receptor 5K3 [OR5K3] - Human
+Odorant/olfactory and gustatory receptors::OR5K4_HUMAN (A6NMS3)  Olfactory receptor 5K4 [OR5K4] - Human
+Odorant/olfactory and gustatory receptors::OR5L1_HUMAN (Q8NGL2)  Olfactory receptor 5L1 (Olfactory receptor OR11-151) (OST262) [OR5L1] - Human
+Odorant/olfactory and gustatory receptors::OR5L2_HUMAN (Q8NGL0)  Olfactory receptor 5L2 (Olfactory receptor OR11-153) (HTPCRX16) [OR5L2] - Human
+Odorant/olfactory and gustatory receptors::OR5M1_HUMAN (Q8NGP8)  Olfactory receptor 5M1 (Olfactory receptor OR11-208) (OST050) [OR5M1] - Human
+Odorant/olfactory and gustatory receptors::OR5M3_HUMAN (Q8NGP4)  Olfactory receptor 5M3 (Olfactory receptor OR11-191) [OR5M3] - Human
+Odorant/olfactory and gustatory receptors::OR5M8_HUMAN (Q8NGP6)  Olfactory receptor 5M8 (Olfactory receptor OR11-194) [OR5M8] - Human
+Odorant/olfactory and gustatory receptors::OR5M9_HUMAN (Q8NGP3)  Olfactory receptor 5M9 (Olfactory receptor OR11-190) [OR5M9] - Human
+Odorant/olfactory and gustatory receptors::OR5MA_HUMAN (Q6IEU7)  Olfactory receptor 5M10 (Olfactory receptor OR11-207) [OR5M10] - Human
+Odorant/olfactory and gustatory receptors::OR5MB_HUMAN (Q96RB7)  Olfactory receptor 5M11 [OR5M11] - Human
+Odorant/olfactory and gustatory receptors::OR5P2_HUMAN (Q8WZ92)  Olfactory receptor 5P2 (Olfactory receptor-like protein JCG3) [OR5P2] - Human
+Odorant/olfactory and gustatory receptors::OR5P3_HUMAN (Q8WZ94)  Olfactory receptor 5P3 (Olfactory receptor OR11-94) (Olfactory receptor-like protein JCG1) [OR5P3] - Human
+Odorant/olfactory and gustatory receptors::OR5R1_HUMAN (Q8NH85)  Olfactory receptor 5R1 (Olfactory receptor OR11-185) [OR5R1; OR5R1P] - Human
+Odorant/olfactory and gustatory receptors::OR5T1_HUMAN (Q8NG75)  Olfactory receptor 5T1 (Olfactory receptor OR11-179) [OR5T1; OR5T1P] - Human
+Odorant/olfactory and gustatory receptors::OR5T2_HUMAN (Q8NGG2)  Olfactory receptor 5T2 (Olfactory receptor OR11-177) [OR5T2] - Human
+Odorant/olfactory and gustatory receptors::OR5T3_HUMAN (Q8NGG3)  Olfactory receptor 5T3 (Olfactory receptor OR11-178) [OR5T3] - Human
+Odorant/olfactory and gustatory receptors::OR5V1_HUMAN (Q9UGF6)  Olfactory receptor 5V1 (Olfactory receptor OR6-26) (Hs6M1-21) [OR5V1] - Human
+Odorant/olfactory and gustatory receptors::OR5W2_HUMAN (Q8NH69)  Olfactory receptor 5W2 (Olfactory receptor OR11-155) [OR5W2; OR5W2P; OR5W3P] - Human
+Odorant/olfactory and gustatory receptors::OR6A2_HUMAN (O95222)  Olfactory receptor 6A2 (Olfactory receptor OR11-83) (Olfactory receptor 11-55) (OR11-55) [OR6A2; OR6A1; OR6A2P] - Human
+Odorant/olfactory and gustatory receptors::OR6B1_HUMAN (O95007)  Olfactory receptor 6B1 (Olfactory receptor OR7-9) (Olfactory receptor 7-3) (OR7-3) [OR6B1] - Human
+Odorant/olfactory and gustatory receptors::OR6B2_HUMAN (Q6IFH4)  Olfactory receptor 6B2 (Olfactory receptor OR2-1) [OR6B2; OR6B2P] - Human
+Odorant/olfactory and gustatory receptors::OR6B3_HUMAN (Q8NGW1)  Olfactory receptor 6B3 (Olfactory receptor OR2-2) [OR6B3; OR6B3P] - Human
+Odorant/olfactory and gustatory receptors::OR6C1_HUMAN (Q96RD1)  Olfactory receptor 6C1 (OST267) [OR6C1] - Human
+Odorant/olfactory and gustatory receptors::OR6C2_HUMAN (Q9NZP2)  Olfactory receptor 6C2 (HSA3) [OR6C2] - Human
+Odorant/olfactory and gustatory receptors::OR6C3_HUMAN (Q9NZP0)  Olfactory receptor 6C3 (HSA8) [OR6C3] - Human
+Odorant/olfactory and gustatory receptors::OR6C4_HUMAN (Q8NGE1)  Olfactory receptor 6C4 (Olfactory receptor OR12-10) [OR6C4] - Human
+Odorant/olfactory and gustatory receptors::OR6C6_HUMAN (A6NF89)  Olfactory receptor 6C6 [OR6C6] - Human
+Odorant/olfactory and gustatory receptors::O6C65_HUMAN (A6NJZ3)  Olfactory receptor 6C65 [OR6C65] - Human
+Odorant/olfactory and gustatory receptors::O6C68_HUMAN (A6NDL8)  Olfactory receptor 6C68 [OR6C68] - Human
+Odorant/olfactory and gustatory receptors::O6C70_HUMAN (A6NIJ9)  Olfactory receptor 6C70 [OR6C70] - Human
+Odorant/olfactory and gustatory receptors::O6C74_HUMAN (A6NCV1)  Olfactory receptor 6C74 [OR6C74] - Human
+Odorant/olfactory and gustatory receptors::O6C75_HUMAN (A6NL08)  Olfactory receptor 6C75 [OR6C75] - Human
+Odorant/olfactory and gustatory receptors::O6C76_HUMAN (A6NM76)  Olfactory receptor 6C76 [OR6C76] - Human
+Odorant/olfactory and gustatory receptors::OR6F1_HUMAN (Q8NGZ6)  Olfactory receptor 6F1 (Olfactory receptor OR1-38) [OR6F1] - Human
+Odorant/olfactory and gustatory receptors::OR6J1_HUMAN (Q8NGC5)  Olfactory receptor 6J1 [OR6J1; OR6J2] - Human
+Odorant/olfactory and gustatory receptors::OR6K2_HUMAN (Q8NGY2)  Olfactory receptor 6K2 (Olfactory receptor OR1-17) [OR6K2] - Human
+Odorant/olfactory and gustatory receptors::OR6K3_HUMAN (Q8NGY3)  Olfactory receptor 6K3 (Olfactory receptor OR1-18) [OR6K3] - Human
+Odorant/olfactory and gustatory receptors::OR6K6_HUMAN (Q8NGW6)  Olfactory receptor 6K6 (Olfactory receptor OR1-21) [OR6K6] - Human
+Odorant/olfactory and gustatory receptors::OR6M1_HUMAN (Q8NGM8)  Olfactory receptor 6M1 (Olfactory receptor OR11-271) [OR6M1] - Human
+Odorant/olfactory and gustatory receptors::OR6N1_HUMAN (Q8NGY5)  Olfactory receptor 6N1 [OR6N1] - Human
+Odorant/olfactory and gustatory receptors::OR6N2_HUMAN (Q8NGY6)  Olfactory receptor 6N2 (Olfactory receptor OR1-23) [OR6N2] - Human
+Odorant/olfactory and gustatory receptors::OR6P1_HUMAN (Q8NGX9)  Olfactory receptor 6P1 (Olfactory receptor OR1-12) [OR6P1] - Human
+Odorant/olfactory and gustatory receptors::OR6Q1_HUMAN (Q8NGQ2)  Olfactory receptor 6Q1 (Olfactory receptor OR11-226) [OR6Q1] - Human
+Odorant/olfactory and gustatory receptors::OR6S1_HUMAN (Q8NH40)  Olfactory receptor 6S1 (Olfactory receptor OR14-37) [OR6S1] - Human
+Odorant/olfactory and gustatory receptors::OR6T1_HUMAN (Q8NGN1)  Olfactory receptor 6T1 (Olfactory receptor OR11-277) [OR6T1] - Human
+Odorant/olfactory and gustatory receptors::OR6V1_HUMAN (Q8N148)  Olfactory receptor 6V1 (Olfactory receptor OR7-3) [OR6V1] - Human
+Odorant/olfactory and gustatory receptors::OR6X1_HUMAN (Q8NH79)  Olfactory receptor 6X1 (Olfactory receptor OR11-270) [OR6X1] - Human
+Odorant/olfactory and gustatory receptors::OR6Y1_HUMAN (Q8NGX8)  Olfactory receptor 6Y1 (Olfactory receptor OR1-11) [OR6Y1; OR6Y2] - Human
+Odorant/olfactory and gustatory receptors::OR7A2_HUMAN (Q8NGA2)  Olfactory receptor 7A2 [OR7A2P; OR7A2; OR7A7] - Human
+Odorant/olfactory and gustatory receptors::OR7A5_HUMAN (Q15622)  Olfactory receptor 7A5 (Olfactory receptor OR19-17) (Olfactory receptor TPCR92) [OR7A5] - Human
+Odorant/olfactory and gustatory receptors::OR7AA_HUMAN (O76100)  Olfactory receptor 7A10 (Olfactory receptor OR19-18) (OST027) [OR7A10] - Human
+Odorant/olfactory and gustatory receptors::OR7AH_HUMAN (O14581)  Olfactory receptor 7A17 [OR7A17] - Human
+Odorant/olfactory and gustatory receptors::OR7C1_HUMAN (O76099)  Olfactory receptor 7C1 (Olfactory receptor OR19-16) (Olfactory receptor TPCR86) [OR7C1; OR7C4] - Human
+Odorant/olfactory and gustatory receptors::OR7C2_HUMAN (O60412)  Olfactory receptor 7C2 (Olfactory receptor OR19-22) (Olfactory receptor 19-18) (OR19-18) [OR7C2; OR7C3] - Human
+Odorant/olfactory and gustatory receptors::OR7D2_HUMAN (Q96RA2)  Olfactory receptor 7D2 (Olfactory receptor OR19-10) (Olfactory receptor 19-4) (OR19-4) (HTPCRH03) [OR7D2] - Human
+Odorant/olfactory and gustatory receptors::OR7D4_HUMAN (Q8NG98)  Olfactory receptor 7D4 (Olfactory receptor OR19-7) (Odorant receptor family subfamily D member 4RT) (OR19-B) [OR7D4; OR7D4P] - Human
+Odorant/olfactory and gustatory receptors::O7E24_HUMAN (Q6IFN5)  Olfactory receptor 7E24 (Olfactory receptor OR19-14) [OR7E24; OR7E24P] - Human
+Odorant/olfactory and gustatory receptors::OR7G1_HUMAN (Q8NGA0)  Olfactory receptor 7G1 (Olfactory receptor OR19-8) (Olfactory receptor 19-15) (OR19-15) [OR7G1; OR7G1P] - Human
+Odorant/olfactory and gustatory receptors::OR7G2_HUMAN (Q8NG99)  Olfactory receptor 7G2 (Olfactory receptor OR19-6) (Olfactory receptor 19-13) (OR19-13) (OST260) [OR7G2] - Human
+Odorant/olfactory and gustatory receptors::OR7G3_HUMAN (Q8NG95)  Olfactory receptor 7G3 (Olfactory receptor OR19-9) (OST085) [OR7G3] - Human
+Odorant/olfactory and gustatory receptors::OR8A1_HUMAN (Q8NGG7)  Olfactory receptor 8A1 (Olfactory receptor OR11-318) (OST025) [OR8A1] - Human
+Odorant/olfactory and gustatory receptors::OR8B2_HUMAN (Q96RD0)  Olfactory receptor 8B2 (Olfactory receptor OR11-309) [OR8B2] - Human
+Odorant/olfactory and gustatory receptors::OR8B3_HUMAN (Q8NGG8)  Olfactory receptor 8B3 (Olfactory receptor OR11-311) [OR8B3] - Human
+Odorant/olfactory and gustatory receptors::OR8B4_HUMAN (Q96RC9)  Olfactory receptor 8B4 (Olfactory receptor OR11-315) [OR8B4; OR8B4P] - Human
+Odorant/olfactory and gustatory receptors::OR8B8_HUMAN (Q15620)  Olfactory receptor 8B8 (Olfactory receptor TPCR85) (Olfactory-like receptor JCG8) [OR8B8] - Human
+Odorant/olfactory and gustatory receptors::OR8BC_HUMAN (Q8NGG6)  Olfactory receptor 8B12 (Olfactory receptor OR11-317) [OR8B12] - Human
+Odorant/olfactory and gustatory receptors::OR8D1_HUMAN (Q8WZ84)  Olfactory receptor 8D1 (Olfactory receptor OR11-301) (Olfactory receptor-like protein JCG9) (OST004) [OR8D1; OR8D3] - Human
+Odorant/olfactory and gustatory receptors::OR8D2_HUMAN (Q9GZM6)  Olfactory receptor 8D2 (Olfactory receptor OR11-303) (Olfactory receptor-like protein JCG2) [OR8D2] - Human
+Odorant/olfactory and gustatory receptors::OR8D4_HUMAN (Q8NGM9)  Olfactory receptor 8D4 (Olfactory receptor OR11-275)[OR8D4] - Human
+Odorant/olfactory and gustatory receptors::OR8G1_HUMAN (Q15617)  Olfactory receptor 8G1 (Olfactory receptor OR11-281) (Olfactory receptor TPCR25) [OR8G1; OR8G1P] - Human
+Odorant/olfactory and gustatory receptors::O8G2P_HUMAN (Q6IF36)  Putative olfactory receptor 8G2 (Olfactory receptor OR11-297) (Olfactory receptor TPCR120) [OR8G2; OR8G2P; OR8G4] - Human
+Odorant/olfactory and gustatory receptors::OR8G5_HUMAN (Q8NG78)  Olfactory receptor 8G6 (Olfactory receptor OR11-298) [OR8G5; OR8G5P; OR8G6] - Human
+Odorant/olfactory and gustatory receptors::OR8H1_HUMAN (Q8NGG4)  Olfactory receptor 8H1 (Olfactory receptor OR11-180) [OR8H1] - Human
+Odorant/olfactory and gustatory receptors::OR8H2_HUMAN (Q8N162)  Olfactory receptor 8H2 (Olfactory receptor OR11-171) [OR8H2] - Human
+Odorant/olfactory and gustatory receptors::OR8H3_HUMAN (Q8N146)  Olfactory receptor 8H3 (Olfactory receptor OR11-172) [OR8H3] - Human
+Odorant/olfactory and gustatory receptors::OR8I2_HUMAN (Q8N0Y5)  Olfactory receptor 8I2 (Olfactory receptor OR11-170) [OR8I2] - Human
+Odorant/olfactory and gustatory receptors::OR8J1_HUMAN (Q8NGP2)  Olfactory receptor 8J1 (Olfactory receptor OR11-183) [OR8J1] - Human
+Odorant/olfactory and gustatory receptors::OR8J2_HUMAN (Q8NGG1)  Olfactory receptor 8J2 [OR8J2; OR8J2P] - Human
+Odorant/olfactory and gustatory receptors::OR8J3_HUMAN (Q8NGG0)  Olfactory receptor 8J3 (Olfactory receptor OR11-173) [OR8J3] - Human
+Odorant/olfactory and gustatory receptors::OR8K1_HUMAN (Q8NGG5)  Olfactory receptor 8K1 (Olfactory receptor OR11-182) [OR8K1] - Human
+Odorant/olfactory and gustatory receptors::OR8K3_HUMAN (Q8NH51)  Olfactory receptor 8K3 (Olfactory receptor OR11-181) [OR8K3] - Human
+Odorant/olfactory and gustatory receptors::OR8K5_HUMAN (Q8NH50)  Olfactory receptor 8K5 (Olfactory receptor OR11-174) [OR8K5] - Human
+Odorant/olfactory and gustatory receptors::OR8S1_HUMAN (Q8NH09)  Olfactory receptor 8S1 [OR8S1] - Human
+Odorant/olfactory and gustatory receptors::OR8U1_HUMAN (Q8NH10)  Olfactory receptor 8U1 [OR8U1] - Human
+Odorant/olfactory and gustatory receptors::OR8U8_HUMAN (P0C7N1)  Olfactory receptor 8U8 [OR8U8] - Human
+Odorant/olfactory and gustatory receptors::OR8U9_HUMAN (P0C7N5)  Olfactory receptor 8U9 [OR8U9] - Human
+Odorant/olfactory and gustatory receptors::OR9A1_HUMAN (Q8NGU1)  Putative olfactory receptor 9A1 [OR9A1P; OR9A1] - Human
+Odorant/olfactory and gustatory receptors::OR9A2_HUMAN (Q8NGT5)  Olfactory receptor 9A2 (Olfactory receptor OR7-2) [OR9A2] - Human
+Odorant/olfactory and gustatory receptors::OR9A4_HUMAN (Q8NGU2)  Olfactory receptor 9A4 (Olfactory receptor OR7-1) [OR9A4] - Human
+Odorant/olfactory and gustatory receptors::OR9G1_HUMAN (Q8NH87)  Olfactory receptor 9G1 (Olfactory receptor 9G5) (Olfactory receptor OR11-114) [OR9G1; OR9G5] - Human
+Odorant/olfactory and gustatory receptors::OR9G4_HUMAN (Q8NGQ1)  Olfactory receptor 9G4 (Olfactory receptor OR11-216) [OR9G4] - Human
+Odorant/olfactory and gustatory receptors::OR9G9_HUMAN (P0C7N8)  Olfactory receptor 9G9 [OR9G9] - Human
+Odorant/olfactory and gustatory receptors::OR9I1_HUMAN (Q8NGQ6)  Olfactory receptor 9I1 (Olfactory receptor OR11-228) [OR9I1] - Human
+Odorant/olfactory and gustatory receptors::OR9K2_HUMAN (Q8NGE7)  Olfactory receptor 9K2 (Olfactory receptor OR12-2) [OR9K2] - Human
+Odorant/olfactory and gustatory receptors::OR9Q1_HUMAN (Q8NGQ5)  Olfactory receptor 9Q1 [OR9Q1] - Human
+Odorant/olfactory and gustatory receptors::OR9Q2_HUMAN (Q8NGE9)  Olfactory receptor 9Q2 [OR9Q2; OR9Q2P] - Human
+Odorant/olfactory and gustatory receptors::O10A2_HUMAN (Q9H208)  Olfactory receptor 10A2 (Olfactory receptor 11-86) (HP4) [OR10A2; OR10A2P] - Human
+Odorant/olfactory and gustatory receptors::O10A3_HUMAN (P58181)  Olfactory receptor 10A3 (Olfactory receptor OR11-97) (HTPCRX12) [OR10A3] - Human
+Odorant/olfactory and gustatory receptors::O10A4_HUMAN (Q9H209)  Olfactory receptor 10A4 (HP2) (Olfactory receptor-like protein JCG5) [OR10A4; OR10A4P] - Human
+Odorant/olfactory and gustatory receptors::O10A5_HUMAN (Q9H207)  Olfactory receptor 10A5 (HP3) (Olfactory receptor-like protein JCG6) (Olfactory receptor 11-403) (OR11-403) [OR10A5; OR10A1] - Human
+Odorant/olfactory and gustatory receptors::O10A6_HUMAN (Q8NH74)  Olfactory receptor 10A6 (Olfactory receptor OR11-96) [OR10A6] - Human
+Odorant/olfactory and gustatory receptors::O10A7_HUMAN (Q8NGE5)  Olfactory receptor 10A7 (Olfactory receptor OR12-6) [OR10A7] - Human
+Odorant/olfactory and gustatory receptors::O10AC_HUMAN (Q8NH08)  Olfactory receptor 10AC1 (Olfactory receptor OR7-5) [OR10AC1P; OR10AC1] - Human
+Odorant/olfactory and gustatory receptors::O10AD_HUMAN (Q8NGE0)  Olfactory receptor 10AD1 (Olfactory receptor OR12-1) [OR10AD1; OR10AD1P] - Human
+Odorant/olfactory and gustatory receptors::O10AG_HUMAN (Q8NH19)  Olfactory receptor 10AG1 (Olfactory receptor OR11-160) [OR10AG1] - Human
+Odorant/olfactory and gustatory receptors::O10C1_HUMAN (Q96KK4)  Olfactory receptor 10C1 (Hs6M1-17) [OR10C1; OR10C2] - Human
+Odorant/olfactory and gustatory receptors::O10D3_HUMAN (Q8NH80)  Olfactory receptor 10D3 (Olfactory receptor OR11-293) (HTPCRX09) [OR10D3P; OR10D3] - Human
+Odorant/olfactory and gustatory receptors::O10D4_HUMAN (Q8NGN7)  Olfactory receptor 10D4 [OR10D4P; OR10D4] - Human
+Odorant/olfactory and gustatory receptors::O10G2_HUMAN (Q8NGC3)  Olfactory receptor 10G2 [OR10G2] - Human
+Odorant/olfactory and gustatory receptors::O10G3_HUMAN (Q8NGC4)  Olfactory receptor 10G3 (Olfactory receptor OR14-40) [OR10G3] - Human
+Odorant/olfactory and gustatory receptors::O10G4_HUMAN (Q8NGN3)  Olfactory receptor 10G4 (Olfactory receptor OR11-278) [OR10G4] - Human
+Odorant/olfactory and gustatory receptors::O10G6_HUMAN (Q8NH81)  Olfactory receptor 10G6 (Olfactory receptor OR11-280) [OR10G6; OR10G6P] - Human
+Odorant/olfactory and gustatory receptors::O10G7_HUMAN (Q8NGN6)  Olfactory receptor 10G7 (Olfactory receptor OR11-283) [OR10G7] - Human
+Odorant/olfactory and gustatory receptors::O10G8_HUMAN (Q8NGN5)  Olfactory receptor 10G8 (Olfactory receptor OR11-282) [OR10G8] - Human
+Odorant/olfactory and gustatory receptors::O10G9_HUMAN (Q8NGN4)  Olfactory receptor 10G9 [OR10G9; OR10G10P] - Human
+Odorant/olfactory and gustatory receptors::O10H1_HUMAN (Q9Y4A9)  Olfactory receptor 10H1 (Olfactory receptor OR19-27) [OR10H1] - Human
+Odorant/olfactory and gustatory receptors::O10H2_HUMAN (O60403)  Olfactory receptor 10H2 (Olfactory receptor OR19-23) [OR10H2] - Human
+Odorant/olfactory and gustatory receptors::O10H3_HUMAN (O60404)  Olfactory receptor 10H3 (Olfactory receptor OR19-24) [OR10H3] - Human
+Odorant/olfactory and gustatory receptors::O10H4_HUMAN (Q8NGA5)  Olfactory receptor 10H4 (Olfactory receptor OR19-28) [OR10H4] - Human
+Odorant/olfactory and gustatory receptors::O10H5_HUMAN (Q8NGA6)  Olfactory receptor 10H5 (Olfactory receptor OR19-25) (Olfactory receptor OR19-26) [OR10H5] - Human
+Odorant/olfactory and gustatory receptors::O10J1_HUMAN (P30954)  Olfactory receptor 10J1 (Olfactory receptor OR1-26) (Olfactory receptor-like protein HGMP07J) [OR10J1] - Human
+Odorant/olfactory and gustatory receptors::O10J3_HUMAN (Q5JRS4)  Olfactory receptor 10J3 [OR10J3; OR10J3P] - Human
+Odorant/olfactory and gustatory receptors::O10J4_HUMAN (P0C629)  Olfactory receptor 10J4 [OR10J4; OR10J4P] - Human
+Odorant/olfactory and gustatory receptors::O10J5_HUMAN (Q8NHC4)  Olfactory receptor 10J5 (Olfactory receptor OR1-28) [OR10J5] - Human
+Odorant/olfactory and gustatory receptors::O10J6_HUMAN (Q8NGY7)  Olfactory receptor 10J6 [OR10J6P; OR10J6] - Human
+Odorant/olfactory and gustatory receptors::O10K1_HUMAN (Q8NGX5)  Olfactory receptor 10K1 (Olfactory receptor OR1-6) [OR10K1] - Human
+Odorant/olfactory and gustatory receptors::O10K2_HUMAN (Q6IF99)  Olfactory receptor 10K2 (Olfactory receptor OR1-4) [OR10K2] - Human
+Odorant/olfactory and gustatory receptors::O10P1_HUMAN (Q8NGE3)  Olfactory receptor 10P1 (Olfactory receptor OR12-7) [OR10P1; OR10P2P; OR10P3P] - Human
+Odorant/olfactory and gustatory receptors::O10Q1_HUMAN (Q8NGQ4)  Olfactory receptor 10Q1 (Olfactory receptor OR11-233) [OR10Q1] - Human
+Odorant/olfactory and gustatory receptors::O10R2_HUMAN (Q8NGX6)  Olfactory receptor 10R2 (Olfactory receptor OR1-8) [OR10R2] - Human
+Odorant/olfactory and gustatory receptors::O10S1_HUMAN (Q8NGN2)  Olfactory receptor 10S1 (Olfactory receptor OR11-279) [OR10S1] - Human
+Odorant/olfactory and gustatory receptors::O10T2_HUMAN (Q8NGX3)  Olfactory receptor 10T2 (Olfactory receptor OR1-3) [OR10T2] - Human
+Odorant/olfactory and gustatory receptors::O10V1_HUMAN (Q8NGI7)  Olfactory receptor 10V1 (Olfactory receptor OR11-256) [OR10V1] - Human
+Odorant/olfactory and gustatory receptors::O10W1_HUMAN (Q8NGF6)  Olfactory receptor 10W1 (Olfactory receptor OR11-236) [OR10W1; OR10W1P] - Human
+Odorant/olfactory and gustatory receptors::O10X1_HUMAN (Q8NGY0)  Olfactory receptor 10X1 (Olfactory receptor OR1-14) [OR10X1; OR10X1P] - Human
+Odorant/olfactory and gustatory receptors::O10Z1_HUMAN (Q8NGY1)  Olfactory receptor 10Z1 (Olfactory receptor OR1-15) [OR10Z1] - Human
+Odorant/olfactory and gustatory receptors::O11A1_HUMAN (Q9GZK7)  Olfactory receptor 11A1 (Olfactory receptor OR6-30) (Hs6M1-18) [OR11A1; OR11A2] - Human
+Odorant/olfactory and gustatory receptors::O11G2_HUMAN (Q8NGC1)  Olfactory receptor 11G2 (Olfactory receptor OR14-34) [OR11G2] - Human
+Odorant/olfactory and gustatory receptors::O11H1_HUMAN (Q8NG94)  Olfactory receptor 11H1 (Olfactory receptor OR22-1) [OR11H1] - Human
+Odorant/olfactory and gustatory receptors::O11H2_HUMAN (Q8NH07)  Olfactory receptor 11H2 (Olfactory receptor OR1-31) [OR11H2; OR11H2P] - Human
+Odorant/olfactory and gustatory receptors::O11H4_HUMAN (Q8NGC9)  Olfactory receptor 11H4 (Olfactory receptor OR14-36) [OR11H4] - Human
+Odorant/olfactory and gustatory receptors::O11H6_HUMAN (Q8NGC7)  Olfactory receptor 11H6 (Olfactory receptor OR14-35) [OR11H6] - Human
+Odorant/olfactory and gustatory receptors::O11H7_HUMAN (Q8NGC8)  Olfactory receptor 11H7 (Olfactory receptor OR14-32) [OR11H7; OR11H7P] - Human
+Odorant/olfactory and gustatory receptors::O11HC_HUMAN (B2RN74)  Olfactory receptor 11H12 [OR11H12] - Human
+Odorant/olfactory and gustatory receptors::O11L1_HUMAN (Q8NGX0)  Olfactory receptor 11L1 [OR11L1] - Human
+Odorant/olfactory and gustatory receptors::O12D2_HUMAN (P58182)  Olfactory receptor 12D2 (Olfactory receptor OR6-28) (Hs6M1-20) [OR12D2] - Human
+Odorant/olfactory and gustatory receptors::O12D3_HUMAN (Q9UGF7)  Olfactory receptor 12D3 (Olfactory receptor OR6-27) (Hs6M1-27) [OR12D3] - Human
+Odorant/olfactory and gustatory receptors::O13A1_HUMAN (Q8NGR1)  Olfactory receptor 13A1 (Olfactory receptor OR10-3) [OR13A1] - Human
+Odorant/olfactory and gustatory receptors::O13C2_HUMAN (Q8NGS9)  Olfactory receptor 13C2 (Olfactory receptor OR9-12) [OR13C2] - Human
+Odorant/olfactory and gustatory receptors::O13C3_HUMAN (Q8NGS6)  Olfactory receptor 13C3 (Olfactory receptor OR9-8) [OR13C3] - Human
+Odorant/olfactory and gustatory receptors::O13C4_HUMAN (Q8NGS5)  Olfactory receptor 13C4 (Olfactory receptor OR9-7) [OR13C4] - Human
+Odorant/olfactory and gustatory receptors::O13C5_HUMAN (Q8NGS8)  Olfactory receptor 13C5 (Olfactory receptor OR9-11) [OR13C5] - Human
+Odorant/olfactory and gustatory receptors::O13C8_HUMAN (Q8NGS7)  Olfactory receptor 13C8 [OR13C8] - Human
+Odorant/olfactory and gustatory receptors::O13C9_HUMAN (Q8NGT0)  Olfactory receptor 13C9 (Olfactory receptor OR9-13) [OR13C9] - Human
+Odorant/olfactory and gustatory receptors::O13D1_HUMAN (Q8NGV5)  Olfactory receptor 13D1 (Olfactory receptor OR9-15) [OR13D1] - Human
+Odorant/olfactory and gustatory receptors::O13F1_HUMAN (Q8NGS4)  Olfactory receptor 13F1 (Olfactory receptor OR9-6) [OR13F1] - Human
+Odorant/olfactory and gustatory receptors::O13G1_HUMAN (Q8NGZ3)  Olfactory receptor 13G1 (Olfactory receptor OR1-37) [OR13G1] - Human
+Odorant/olfactory and gustatory receptors::O13H1_HUMAN (Q8NG92)  Olfactory receptor 13H1 (Olfactory receptor ORX-1) [OR13H1] - Human
+Odorant/olfactory and gustatory receptors::O13J1_HUMAN (Q8NGT2)  Olfactory receptor 13J1 (Olfactory receptor OR9-2) [OR13J1] - Human
+Odorant/olfactory and gustatory receptors::O14A2_HUMAN (Q96R54)  Olfactory receptor 14A2 (Olfactory receptor 5AX1) (Olfactory receptor OR1-31) [OR14A2; OR5AX1; OR5AX1P] - Human
+Odorant/olfactory and gustatory receptors::O14AG_HUMAN (Q8NHC5)  Olfactory receptor 14A16 (Olfactory receptor 5AT1) (Olfactory receptor OR1-45) [OR14A6; OR5AT1] - Human
+Odorant/olfactory and gustatory receptors::O14CZ_HUMAN (Q8NHC7)  Olfactory receptor 14C36 (Olfactory receptor 5BF1) (Olfactory receptor OR1-59) [OR14C36; OR5BF1] - Human
+Odorant/olfactory and gustatory receptors::O14I1_HUMAN (A6ND48)  Olfactory receptor 14I1 (Olfactory receptor 5BU1) [OR14I1; OR5BU1; OR5BU1P] - Human
+Odorant/olfactory and gustatory receptors::O14J1_HUMAN (Q9UGF5)  Olfactory receptor 14J1 (Olfactory receptor 5U1) (Olfactory receptor OR6-25) (Hs6M1-28) [OR14J1; OR5U1] - Human
+Odorant/olfactory and gustatory receptors::O14K1_HUMAN (Q8NGZ2)  Olfactory receptor 14K1 (Olfactory receptor 5AY1) (Olfactory receptor OR1-39) [OR14K1; OR5AY1] - Human
+Odorant/olfactory and gustatory receptors::O14L1_HUMAN (Q8NHC6)  Olfactory receptor 14L1 (Olfactory receptor 5AV1) [OR14L1P; OR5AV1P] - Human
+Odorant/olfactory and gustatory receptors::O51A2_HUMAN (Q8NGJ7)  Olfactory receptor 51A2 [OR51A2] - Human
+Odorant/olfactory and gustatory receptors::O51A4_HUMAN (Q8NGJ6)  Olfactory receptor 51A4 [OR51A4] - Human
+Odorant/olfactory and gustatory receptors::O51A7_HUMAN (Q8NH64)  Olfactory receptor 51A7 (Olfactory receptor OR11-27) [OR51A7] - Human
+Odorant/olfactory and gustatory receptors::O51B2_HUMAN (Q9Y5P1)  Olfactory receptor 51B2 (HOR5'beta3) [OR51B2; OR51B1P] - Human
+Odorant/olfactory and gustatory receptors::O51B4_HUMAN (Q9Y5P0)  Olfactory receptor 51B4 (HOR5'beta1) [OR51B4] - Human
+Odorant/olfactory and gustatory receptors::O51B5_HUMAN (Q9H339)  Olfactory receptor 51B5 (Olfactory receptor OR11-37) (HOR5'beta5) [OR51B5] - Human
+Odorant/olfactory and gustatory receptors::O51B6_HUMAN (Q9H340)  Olfactory receptor 51B6 (HOR5'beta6) [OR51B6] - Human
+Odorant/olfactory and gustatory receptors::O51D1_HUMAN (Q8NGF3)  Olfactory receptor 51D1 (Olfactory receptor OR11-14) [OR51D1] - Human
+Odorant/olfactory and gustatory receptors::O51E1_HUMAN (Q8TCB6)  Olfactory receptor 51E1 (Prostate overexpressed G protein-coupled receptor) (Prostate-specific G protein-coupled receptor 2) (G-protein coupled receptor 164) (D-GPCR) [OR51E1; GPR164; OR51E1P; OR52A3P; POGR; PSGR2] - Human
+Odorant/olfactory and gustatory receptors::O51E2_HUMAN (Q9H255)  Olfactory receptor 51E2 (Olfactory receptor OR11-16) (Prostate specific G-protein coupled receptor) (HPRAJ) [OR51E2; PSGR] - Human
+Odorant/olfactory and gustatory receptors::O51F1_HUMAN (A6NGY5)  Olfactory receptor 51F1 [OR51F1; OR51F1P] - Human
+Odorant/olfactory and gustatory receptors::O51F2_HUMAN (Q8NH61)  Olfactory receptor 51F2 (Olfactory receptor OR11-23) [OR51F2] - Human
+Odorant/olfactory and gustatory receptors::O51G1_HUMAN (Q8NGK1)  Olfactory receptor 51G1 (Olfactory receptor OR11-29) [OR51G1; OR51G3P] - Human
+Odorant/olfactory and gustatory receptors::O51G2_HUMAN (Q8NGK0)  Olfactory receptor 51G2 (Olfactory receptor OR11-28) [OR51G2] - Human
+Odorant/olfactory and gustatory receptors::O51H1_HUMAN (Q8NH63)  Olfactory receptor 51H1 (Olfactory receptor OR11-25) [OR51H1P; OR51H1] - Human
+Odorant/olfactory and gustatory receptors::O51I1_HUMAN (Q9H343)  Olfactory receptor 51I1 (Olfactory receptor OR11-39) (HOR5'beta11) [OR51I1] - Human
+Odorant/olfactory and gustatory receptors::O51I2_HUMAN (Q9H344)  Olfactory receptor 51I2 (Olfactory receptor OR11-38) (HOR5'beta12) [OR51I2] - Human
+Odorant/olfactory and gustatory receptors::O51J1_HUMAN (Q9H342)  Olfactory receptor 51J1 (Odorant receptor HOR5'beta8) [OR51J1; OR51J1P; OR51J2] - Human
+Odorant/olfactory and gustatory receptors::O51L1_HUMAN (Q8NGJ5)  Olfactory receptor 51L1 (Olfactory receptor OR11-32) [OR51L1] - Human
+Odorant/olfactory and gustatory receptors::O51M1_HUMAN (Q9H341)  Olfactory receptor 51M1 (Olfactory receptor OR11-40) (HOR5'beta7) [OR51M1; OR52M1P] - Human
+Odorant/olfactory and gustatory receptors::O51Q1_HUMAN (Q8NH59)  Olfactory receptor 51Q1 [OR51Q1] - Human
+Odorant/olfactory and gustatory receptors::O51S1_HUMAN (Q8NGJ8)  Olfactory receptor 51S1 (Olfactory receptor OR11-24) [OR51S1] - Human
+Odorant/olfactory and gustatory receptors::O51T1_HUMAN (Q8NGJ9)  Olfactory receptor 51T1 (Olfactory receptor OR11-26) [OR51T1] - Human
+Odorant/olfactory and gustatory receptors::O51V1_HUMAN (Q9H2C8)  Olfactory receptor 51V1 (Olfactory receptor OR11-36) (HOR3'beta1) [OR51V1] - Human
+Odorant/olfactory and gustatory receptors::O52A1_HUMAN (Q9UKL2)  Olfactory receptor 52A1 (Olfactory receptor OR11-319) (HPFH1OR) (HOR3'beta4) [OR52A1] - Human
+Odorant/olfactory and gustatory receptors::O52A4_HUMAN (A6NMU1)  Olfactory receptor 52A4 [OR52A4] - Human
+Odorant/olfactory and gustatory receptors::O52A5_HUMAN (Q9H2C5)  Olfactory receptor 52A5 (Olfactory receptor OR11-33) (HOR3'beta5) [OR52A5] - Human
+Odorant/olfactory and gustatory receptors::O52B2_HUMAN (Q96RD2)  Olfactory receptor 52B2 (Olfactory receptor OR11-70) [OR52B2] - Human
+Odorant/olfactory and gustatory receptors::O52B4_HUMAN (Q8NGK2)  Olfactory receptor 52B4 (Olfactory receptor OR11-3) [OR52B4] - Human
+Odorant/olfactory and gustatory receptors::O52B6_HUMAN (Q8NGF0)  Olfactory receptor 52B6 (Olfactory receptor OR11-47) [OR52B6] - Human
+Odorant/olfactory and gustatory receptors::O52D1_HUMAN (Q9H346)  Olfactory receptor 52D1 (Olfactory receptor OR11-43) (HOR5'beta14) [OR52D1] - Human
+Odorant/olfactory and gustatory receptors::O52E1_HUMAN (Q8NGJ3)  Olfactory receptor 52E1 [OR52E1; OR52E1P] - Human
+Odorant/olfactory and gustatory receptors::O52E2_HUMAN (Q8NGJ4)  Olfactory receptor 52E2 [OR52E2] - Human
+Odorant/olfactory and gustatory receptors::O52E4_HUMAN (Q8NGH9)  Olfactory receptor 52E4 (Olfactory receptor OR11-55) [OR52E4] - Human
+Odorant/olfactory and gustatory receptors::O52E5_HUMAN (Q8NH55)  Olfactory receptor 52E5 [OR52E5] - Human
+Odorant/olfactory and gustatory receptors::O52E6_HUMAN (Q96RD3)  Olfactory receptor 52E6 (Olfactory receptor OR11-58) [OR52E6] - Human
+Odorant/olfactory and gustatory receptors::O52E8_HUMAN (Q6IFG1)  Olfactory receptor 52E8 (Olfactory receptor OR11-54) [OR52E8] - Human
+Odorant/olfactory and gustatory receptors::O52H1_HUMAN (Q8NGJ2)  Olfactory receptor 52H1 (Olfactory receptor OR11-45) [OR52H1] - Human
+Odorant/olfactory and gustatory receptors::O52I1_HUMAN (Q8NGK6)  Olfactory receptor 52I1 (Olfactory receptor OR11-13) [OR52I1] - Human
+Odorant/olfactory and gustatory receptors::O52I2_HUMAN (Q8NH67)  Olfactory receptor 52I2 (Olfactory receptor OR11-12) [OR52I2] - Human
+Odorant/olfactory and gustatory receptors::O52J3_HUMAN (Q8NH60)  Olfactory receptor 52J3 (Olfactory receptor OR11-94) [OR52J3] - Human
+Odorant/olfactory and gustatory receptors::O52K1_HUMAN (Q8NGK4)  Olfactory receptor 52K1 (Olfactory receptor OR11-8) [OR52K1] - Human
+Odorant/olfactory and gustatory receptors::O52K2_HUMAN (Q8NGK3)  Olfactory receptor 52K2 (Olfactory receptor OR11-7) [OR52K2] - Human
+Odorant/olfactory and gustatory receptors::O52L1_HUMAN (Q8NGH7)  Olfactory receptor 52L1 (Olfactory receptor OR11-50) [OR52L1] - Human
+Odorant/olfactory and gustatory receptors::O52L2_HUMAN (Q8NGH6)  Olfactory receptor 52L2 (Olfactory receptor OR11-74) [OR52L2P; OR52L2] - Human
+Odorant/olfactory and gustatory receptors::O52M1_HUMAN (Q8NGK5)  Olfactory receptor 52M1 (Olfactory receptor OR11-11) [OR52M1] - Human
+Odorant/olfactory and gustatory receptors::O52N1_HUMAN (Q8NH53)  Olfactory receptor 52N1 (Olfactory receptor OR11-61) [OR52N1] - Human
+Odorant/olfactory and gustatory receptors::O52N2_HUMAN (Q8NGI0)  Olfactory receptor 52N2 (Olfactory receptor OR11-57) [OR52N2] - Human
+Odorant/olfactory and gustatory receptors::O52N4_HUMAN (Q8NGI2)  Olfactory receptor 52N4 (Olfactory receptor OR11-64) [OR52N4] - Human
+Odorant/olfactory and gustatory receptors::O52N5_HUMAN (Q8NH56)  Olfactory receptor 52N5 (Olfactory receptor OR11-62) [OR52N5] - Human
+Odorant/olfactory and gustatory receptors::O52P1_HUMAN (Q8NH57)  Olfactory receptor 52P1 [OR52P1P; OR52P1] - Human
+Odorant/olfactory and gustatory receptors::O52R1_HUMAN (Q8NGF1)  Olfactory receptor 52R1 (Olfactory receptor OR11-22) [OR52R1] - Human
+Odorant/olfactory and gustatory receptors::O52W1_HUMAN (Q6IF63)  Olfactory receptor 52W1 (Olfactory receptor OR11-71) [OR52W1; OR52W1P] - Human
+Odorant/olfactory and gustatory receptors::O52Z1_HUMAN (P0C646)  Olfactory receptor 52Z1 [OR52Z1; OR52Z1P] - Human
+Odorant/olfactory and gustatory receptors::O56A1_HUMAN (Q8NGH5)  Olfactory receptor 56A1 (Olfactory receptor OR11-75) [OR56A1] - Human
+Odorant/olfactory and gustatory receptors::O56A3_HUMAN (Q8NH54)  Olfactory receptor 56A3 [OR56A3; OR56A3P; OR56A6] - Human
+Odorant/olfactory and gustatory receptors::O56A4_HUMAN (Q8NGH8)  Olfactory receptor 56A4 (Olfactory receptor OR11-49) [OR56A4] - Human
+Odorant/olfactory and gustatory receptors::O56A5_HUMAN (P0C7T3)  Olfactory receptor 56A5 [OR56A5; OR56A5P] - Human
+Odorant/olfactory and gustatory receptors::O56B1_HUMAN (Q8NGI3)  Olfactory receptor 56B1 (Olfactory receptor OR11-65) [OR56B1; OR56B1P] - Human
+Odorant/olfactory and gustatory receptors::O56B2_HUMAN (Q8NGI1)  Olfactory receptor 56B2 [OR56B2P] - Human
+Odorant/olfactory and gustatory receptors::O56B4_HUMAN (Q8NH76)  Olfactory receptor 56B4 (Olfactory receptor OR11-67) [OR56B4] - Human
+Odorant/olfactory and gustatory receptors::O13C6_HUMAN (Q8NH95)  Putative olfactory receptor 13C6 - Human
+Opioid peptides receptors::OPRD_HUMAN  (P41143)  Delta-type opioid (DOR-1) [OPRD1; OPRD] - Human
+Opioid peptides receptors::OPRK_HUMAN  (P41145)  Kappa-type opioid (KOR-1) [OPKR1; OPKR] - Human
+Opioid peptides receptors::OPRM_HUMAN  (P35372)  Mu-type opioid (MOR-1) [OPRM1; MOR1] - Human
+Opioid peptides receptors::OPRX_HUMAN  (P41146)  Nociceptin (Orphanin FQ) (Kappa-type 3 opioid) (KOR-3) [OPRL1; ORL1; OOR] - Human
+Opsins::OPSD_HUMAN  (P08100)  Rhodopsin (Opsin-2) [RHO; OPN2] - Human
+Opsins::OPSB_HUMAN  (P03999)  Blue-sensitive opsin [OPN1SW; BCP] - Human
+Opsins::OPSG_HUMAN  (P04001)  Green-sensitive opsin [OPN1MW; GCP] - Human
+Opsins::OPSR_HUMAN  (P04000)  Red-sensitive opsin [OPN1LW; RCP] - Human
+Opsins::OPN3_HUMAN  (Q9H1Y3)  Opsin-3 (Encephalopsin) (Panopsin) [OPN3; ECPN] - Human
+Opsins::OPN4_HUMAN  (Q9UHM6)  Melanopsin (Opsin-4) [OPN4; MOP] - Human
+Opsins::OPN5_HUMAN  (Q6U736)  Opsin-5 (Neuropsin) (G-protein coupled receptor 136) (G-protein coupled receptor PGR12) (Transmembrane protein 13) [OPN5; GPR136; PGR12; TMEM13] - Human
+Opsins::OPSX_HUMAN  (O14718)  Visual pigment-like receptor peropsin [RRH] - Human
+Opsins::RGR_HUMAN   (P47804)  RPE-retinal G-protein coupled receptor [RGR] - Human
+Orexins receptors::OX1R_HUMAN  (O43613)  Orexin type 1 (OX1R) (Hypocretin type 1) [HCRTR1] - Human
+Orexins receptors::OX2R_HUMAN  (O43614)  Orexin type 2 (OX2R) (Hypocretin type 2) [HCRTR2] - Human
+Pheromone receptors::VN1R1_HUMAN (Q9GZP7)  Vomeronasal type-1 receptor 1 (V1r-like 1) (Vomeronasal olfactory receptor chromosome 19 subtype I member 1) (V3r-related gene) [VN1R1; V1RL1; VNR19I1] - Human
+Pheromone receptors::VN1R2_HUMAN (Q8NFZ6)  Vomeronasal type-1 receptor 2 (V1r-like 2) [VN1R2; V1RL2] - Human
+Pheromone receptors::VN1R3_HUMAN (Q9BXE9)  Vomeronasal type-1 receptor 3 (V1r-like 3) (FKSG46 protein) [VN1R3; V1RL3] - Human
+Pheromone receptors::VN1R4_HUMAN (Q7Z5H5)  Vomeronasal type-1 receptor 4 (V1r-like 4) [VN1R4; V1RL4] - Human
+Pheromone receptors::VN1R5_HUMAN (Q7Z5H4)  Vomeronasal type-1 receptor 5 (V1r-like 5) [VN1R5; V1RL5] - Human
+Pheromone receptors::VNRL4_HUMAN (Q8TDU5)  Putative vomeronasal receptor-like protein 4 (hGPCR23) [VNRL4] - Human
+Platelet-activating factor receptors::PTAFR_HUMAN (P25105)  Platelet-activating factor (PAF-R) [PTAFR; PAFR] - Human
+Prokineticin receptors::PKR1_HUMAN  (Q8TCW9)  Prokineticin 1 (PK-R1) (G-protein coupled receptor 73) (GPR73a) (G-protein coupled receptor ZAQ) [PROKR1; GPR73; PKR1] - Human
+Prokineticin receptors::PKR2_HUMAN  (Q8NFJ6)  Prokineticin 2 (PK-R2) (G-protein coupled receptor 73-like 1) (GPR73b) (GPRg2) [PROKR2; GPR73L1; PKR2] - Human
+Prostanoids receptors::PD2R_HUMAN  (Q13258)  Prostaglandin D2 receptor (Prostanoid DP receptor) (PGD receptor) [PTGDR] - Human
+Prostanoids receptors::PE2R1_HUMAN (P34995)  Prostaglandin E2 EP1 subtype (Prostanoid EP1) [PTGER1] - Human
+Prostanoids receptors::PE2R2_HUMAN (P43116)  Prostaglandin E2 EP2 subtype (Prostanoid EP2) [PTGER2] - Human
+Prostanoids receptors::PE2R3_HUMAN (P43115)  Prostaglandin E2 EP3 subtype (Prostanoid EP3) [PTGER3] - Human
+Prostanoids receptors::PE2R4_HUMAN (P35408)  Prostaglandin E2 EP4 subtype (Prostanoid EP4) [PTGER4; PTGER2] - Human
+Prostanoids receptors::PF2R_HUMAN  (P43088)  Prostaglandin F2-alpha (Prostanoid FP) [PTGFR] - Human
+Prostanoids receptors::PI2R_HUMAN  (P43119)  Prostacyclin (Prostanoid IP) [PTGIR; PRIPR] - Human
+Prostanoids receptors::TA2R_HUMAN  (P21731)  Thromboxane A2 (TXA2-R) (Prostanoid TP) [TBXA2R] - Human
+Proteinase-activated receptors::PAR1_HUMAN  (P25116)  Proteinase-activated receptor 1 (PAR-1) (Thrombin receptor) [F2R; PAR1; TR; CF2R] - Human
+Proteinase-activated receptors::PAR2_HUMAN  (P55085)  Proteinase-activated receptor 2 (PAR-2) (Thrombin receptor-like 1) (G-protein coupled receptor 11) [F2RL1; PAR2; GPR11] - Human
+Proteinase-activated receptors::PAR3_HUMAN  (O00254)  Proteinase-activated receptor 3 (PAR-3) (Thrombin receptor-like 2) [F2RL2; PAR3] - Human
+Proteinase-activated receptors::PAR4_HUMAN  (Q96RI0)  Proteinase-activated receptor 4 (PAR-4) (Thrombin receptor-like 3) [F2RL3; PAR4] - Human
+Relaxin receptors::RL3R1_HUMAN (Q9NSD7)  Relaxin-3 receptor 1 (Relaxin family peptide receptor 3) (Somatostatin- and angiogenin-like peptide receptor) (G-protein coupled receptor SALPR) (GPCR135) [RXFP3; RLN3R1; SALPR] - Human
+Relaxin receptors::RL3R2_HUMAN (Q8TDU9)  Relaxin-3 receptor 2 (Relaxin family peptide receptor 4) (G-protein coupled receptor 100) (GPCR142) [RXFP4; RLN3R2; GPR100] - Human
+Relaxin receptors::RXFP1_HUMAN (Q9HBX9)  Relaxin receptor 1 (Relaxin family peptide receptor 1) (Leucine-rich repeat-containing G-protein coupled receptor 7) [RXFP1; LGR7] - Human
+Relaxin receptors::RXFP2_HUMAN (Q8WXD0)  Relaxin receptor 2 (Relaxin family peptide receptor 2) (Leucine-rich repeat-containing G-protein coupled receptor 8) (G-protein coupled receptor 106) [RXFP2; LGR8; GREAT; GPR106] - Human
+Releasing hormones receptors::GNRHR_HUMAN (P30968)  Gonadotropin-releasing hormone (GnRH receptor) (GnRH-R) [GNRHR] - Human
+Releasing hormones receptors::GNRR2_HUMAN (Q96P88)  Gonadotropin-releasing hormone II (Type II GnRH receptor) (GnRH-II-R) [GNRHR2] - Human
+Releasing hormones receptors::TRFR_HUMAN  (P34981)  Thyrotropin-releasing hormone (TRH-R) [TRHR] - Human
+Releasing hormones receptors::GHSR_HUMAN  (Q92847)  Growth hormone secretagogue receptor type 1 (GHS-R) (GH-releasing peptide receptor) (Ghrelin receptor) [GHSR] - Human
+Releasing hormones receptors::MTLR_HUMAN  (O43193)  Motilin [MLNR; MTLR1; MTLR; GPR38] - Human
+Serotonin receptors::5HT1A_HUMAN (P08908)  5-hydroxytryptamine 1A receptor (5-HT-1A) [HTR1A] - Human
+Serotonin receptors::5HT1B_HUMAN (P28222)  5-hydroxytryptamine 1B receptor (5-HT-1B) (5-HT-1D-beta) (S12) [HTR1B; HTR1DB] - Human
+Serotonin receptors::5HT1D_HUMAN (P28221)  5-hydroxytryptamine 1D receptor (5-HT-1D) (5-HT-1D-alpha) [HTR1D; HTR1DA] - Human
+Serotonin receptors::5HT1E_HUMAN (P28566)  5-hydroxytryptamine 1E receptor (5-HT-1E) (S31) [HTR1E] - Human
+Serotonin receptors::5HT1F_HUMAN (P30939)  5-hydroxytryptamine 1F receptor (5-HT-1F) [HTR1F] - Human
+Serotonin receptors::5HT2A_HUMAN (P28223)  5-hydroxytryptamine 2A receptor (5-HT-2A) [HTR2A; HTR2] - Human
+Serotonin receptors::5HT2B_HUMAN (P41595)  5-hydroxytryptamine 2B receptor (5-HT-2B) [HTR2B] - Human
+Serotonin receptors::5HT2C_HUMAN (P28335)  5-hydroxytryptamine 2C receptor (5-HT-2C) (5-HT-1C) [HTR2C; HTR1C] - Human
+Serotonin receptors::5HT4R_HUMAN (Q13639)  5-hydroxytryptamine 4 receptor (5-HT-4) [HTR4] - Human
+Serotonin receptors::5HT5A_HUMAN (P47898)  5-hydroxytryptamine 5A receptor (5-HT-5A) [HTR5A] - Human
+Serotonin receptors::5HT6R_HUMAN (P50406)  5-hydroxytryptamine 6 receptor (5-HT-6) [HTR6] - Human
+Serotonin receptors::5HT7R_HUMAN (P34969)  5-hydroxytryptamine 7 receptor (5-HT-7) (5-HT-X) [HTR7] - Human
+Somatostatin and urotensin receptors::SSR1_HUMAN  (P30872)  Somatostatin type 1 (SS1R) (SRIF-2) [SSTR1] - Human
+Somatostatin and urotensin receptors::SSR2_HUMAN  (P30874)  Somatostatin type 2 (SS2R) (SRIF-1) [SSTR2] - Human
+Somatostatin and urotensin receptors::SSR3_HUMAN  (P32745)  Somatostatin type 3 (SS3R) [SSTR3] - Human
+Somatostatin and urotensin receptors::SSR4_HUMAN  (P31391)  Somatostatin type 4 (SS4R) [SSTR4] - Human
+Somatostatin and urotensin receptors::SSR5_HUMAN  (P35346)  Somatostatin type 5 (SS5R) [SSTR5] - Human
+Somatostatin and urotensin receptors::UR2R_HUMAN  (Q9UKP6)  Urotensin II (UR-II-R) [UTS2R; GPR14] - Human
+Tachykinin receptors::NK1R_HUMAN  (P25103)  Substance-P (SPR) (NK-1R) [TACR1; TAC1R; NK1R] - Human
+Tachykinin receptors::NK2R_HUMAN  (P21452)  Substance-K (SKR) (Neurokinin A) (NK-2R) [TACR2; TAC2R; NK2R] - Human
+Tachykinin receptors::NK3R_HUMAN  (P29371)  Neuromedin-K (NKR) (Neurokinin B) (NK-3R) [TACR3; TAC3R; NK3R] - Human
+Trace amine receptors::TAAR1_HUMAN (Q96RJ0)  Trace amine-associated receptor 1 (Trace amine receptor 1) (TaR-1) [TAAR1; TRAR1; TAR1; TA1] - Human
+Trace amine receptors::TAAR2_HUMAN (Q9P1P5)  Trace amine-associated receptor 2 (G-protein coupled receptor 58) [TAAR2; GPR58] - Human
+Trace amine receptors::TAAR3_HUMAN (Q9P1P4)  Putative trace amine-associated receptor 3 (G-protein coupled receptor 57) [TAAR3; GPR57] - Human
+Trace amine receptors::TAAR5_HUMAN (O14804)  Trace amine-associated receptor 5 [TAAR5; PNR] - Human
+Trace amine receptors::TAAR6_HUMAN (Q96RI8)  Trace amine-associated receptor 6 (Trace amine receptor 4) (TaR-4) [TAAR6; TRAR4; TAR4; TA4] - Human
+Trace amine receptors::TAAR8_HUMAN (Q969N4)  Trace amine-associated receptor 8 (Trace amine receptor 5) (TaR-5) (G-protein coupled receptor 102) [TAAR8; TRAR5; GPR102; TAR5; TA5] - Human
+Trace amine receptors::TAAR9_HUMAN (Q96RI9)  Trace amine-associated receptor 9 (Trace amine receptor 3) (TaR-3) [TAAR9; TRAR3; TAR3; TA3] - Human
+Vasopressin / oxytocin receptors::V1AR_HUMAN  (P37288)  Vasopressin V1a (Vascular/hepatic-type arginine vasopressin) (AVPR V1a) [AVPR1A; AVPR1] - Human
+Vasopressin / oxytocin receptors::V1BR_HUMAN  (P47901)  Vasopressin V1b (AVPR V1b) (Vasopressin V3) (AVPR V3) [AVPR1B; AVPR3] - Human
+Vasopressin / oxytocin receptors::V2R_HUMAN   (P30518)  Vasopressin V2 (Renal-type arginine vasopressin) (AVPR V2) [AVPR2; ADHR; V2R] - Human
+Vasopressin / oxytocin receptors::OXYR_HUMAN  (P30559)  Oxytocin (OTR) [OXTR] - Human
+Other receptors::GALR1_HUMAN (P47211)  Galanin type 1 (GAL1-R) (GALR1) [GALR1; GALNR1; GALNR] - Human
+Other receptors::GALR2_HUMAN (O43603)  Galanin type 2 (GAL2-R) (GALR2) [GALR2; GALNR2] - Human
+Other receptors::GALR3_HUMAN (O60755)  Galanin type 3 (GAL3-R) (GALR3) [GALR3; GALNR3] - Human
+Other receptors::QRFPR_HUMAN (Q96P65)  Pyroglutamylated RFamide peptide receptor (Orexigenic neuropeptide QRFP receptor) (G-protein coupled receptor 103) (SP9155) (AQ27) [GPR103] - Human
+Other receptors::PRLHR_HUMAN (P49683)  Prolactin-releasing peptide receptor (PrRP receptor) (PrRPR) (G-protein coupled receptor 10) [PRLHR; GPR10] - Human
+Orphan receptors::MAS_HUMAN   (P04201)  Mas proto-oncogene [MAS1; MAS] - Human
+Orphan receptors::MAS1L_HUMAN (P35410)  Mas-related MRG (MAS-R) (MAS1-like) [MAS1L; MRG] - Human
+Orphan receptors::MRGRD_HUMAN (Q8TDS7)  Mas-related G-protein coupled receptor member D (Beta-alanine receptor) (G-protein coupled receptor TGR7) [MRGPRD; MRGD] - Human
+Orphan receptors::MRGRE_HUMAN (Q86SM8)  Mas-related G-protein coupled receptor member E (G-protein coupled receptor 167) [MRGPRE; MRGE; GPR167] - Human
+Orphan receptors::MRGRF_HUMAN (Q96AM1)  Mas-related G-protein coupled receptor member F (Mas-related gene F protein) (G-protein coupled receptor 140) (G-protein coupled receptor 168) [MRGPRF; MRGF; GPR140; GPR168] - Human
+Orphan receptors::MRGRG_HUMAN (Q86SM5)  Mas-related G-protein coupled receptor member G (G-protein coupled receptor 169) [MRGPRG; MRGG; GPR169] - Human
+Orphan receptors::MRGX1_HUMAN (Q96LB2)  Mas-related G-protein coupled receptor member X1 (Sensory neuron-specific G-protein coupled receptor 3/4) [MRGPRX1; MRGX1; SNSR3; SNSR4] - Human
+Orphan receptors::MRGX2_HUMAN (Q96LB1)  Mas-related G-protein coupled receptor member X2 [MRGPRX2; MRGX2] - Human
+Orphan receptors::MRGX3_HUMAN (Q96LB0)  Mas-related G-protein coupled receptor member X3 (Sensory neuron-specific G-protein coupled receptor 1/2) [MRGPRX3; MRGX3; SNSR1; SNSR2] - Human
+Orphan receptors::MRGX4_HUMAN (Q96LA9)  Mas-related G-protein coupled receptor member X4 (Sensory neuron-specific G-protein coupled receptor 5/6) [MRGPRX4; MRGX4; SNSR5; SNSR6] - Human
+Orphan receptors::CML1_HUMAN  (Q99788)  Chemokine-like receptor 1 (G-protein coupled receptor DEZ) (ChemR23) [CMKLR1; DEZ] - Human
+Orphan receptors::G37L1_HUMAN (O60883)  Endothelin B receptor-like protein-2 (ETBR-LP-2) [GPR37L1; ETBRLP2] - Human
+Orphan receptors::LGR4_HUMAN  (Q9BXB1)  Leucine-rich repeat-containing G-protein coupled receptor 4 [LGR4; GPR48] - Human
+Orphan receptors::LGR5_HUMAN  (O75473)  Leucine-rich repeat-containing G-protein coupled receptor 5 (Orphan G-protein coupled receptor HG38) [LGR5; GPR49; GPR67] - Human
+Orphan receptors::LGR6_HUMAN  (Q9HBX8)  Leucine-rich repeat-containing G-protein coupled receptor 6 [LGR6] - Human
+Orphan receptors::OGR1_HUMAN  (Q15743)  Ovarian cancer G-protein coupled receptor 1 (OGR-1) G-protein coupled receptor 68 (Sphingosylphosphorylcholine receptor) [GPR68; OGR1] - Human
+Orphan receptors::GPR1_HUMAN  (P46091)  Probable G-protein coupled receptor 1 [GPR1] - Human
+Orphan receptors::GPR3_HUMAN  (P46089)  G-protein coupled receptor 3 [GPR3] - Human
+Orphan receptors::GPR4_HUMAN  (P46093)  G-protein coupled receptor 4 (G-protein coupled receptor 19) (GPR19) [GPR4; GPR19] - Human
+Orphan receptors::GPR12_HUMAN (P47775)  Probable G-protein coupled receptor 12 [GPR12] - Human
+Orphan receptors::GPR15_HUMAN (P49685)  Probable G-protein coupled receptor 15 [GPR15] - Human
+Orphan receptors::GPR19_HUMAN (Q15760)  Probable G-protein coupled receptor 19 (GPR-NGA) [GPR19] - Human
+Orphan receptors::GPR20_HUMAN (Q99678)  G-protein coupled receptor 20 [GPR20] - Human
+Orphan receptors::GPR21_HUMAN (Q99679)  Probable G-protein coupled receptor 21 [GPR21] - Human
+Orphan receptors::GPR22_HUMAN (Q99680)  Probable G-protein coupled receptor 22 [GPR22] - Human
+Orphan receptors::GPR25_HUMAN (O00155)  Probable G-protein coupled receptor 25 [GPR25] - Human
+Orphan receptors::GPR26_HUMAN (Q8NDV2)  G-protein coupled receptor 26 [GPR26] - Human
+Orphan receptors::GPR27_HUMAN (Q9NS67)  Probable G-protein coupled receptor 27 (Super conserved receptor expressed in brain 1) [GPR27; SREB1] - Human
+Orphan receptors::GPR31_HUMAN (O00270)  12-(S)-hydroxy-5,8,10,14-eicosatetraenoic acid receptor [GPR31] - Human
+Orphan receptors::GPR32_HUMAN (O75388)  Probable G-protein coupled receptor 32 [GPR32] - Human
+Orphan receptors::GPR33_HUMAN (Q49SQ1)  Probable G-protein coupled receptor 33 [GPR33] - Human
+Orphan receptors::GPR34_HUMAN (Q9UPC5)  Probable G-protein coupled receptor 34 [GPR34] - Human
+Orphan receptors::GPR35_HUMAN (Q9HC97)  Probable G-protein coupled receptor 35 [GPR35] - Human
+Orphan receptors::GPR37_HUMAN (O15354)  Probable G-protein coupled receptor 37 (Endothelin B receptor-like protein-1) (ETBR-LP-1) (Parkin-associated endothelin-like receptor) (PAELR) [GPR37] - Human
+Orphan receptors::GPR39_HUMAN (O43194)  G-protein coupled receptor 39 [GPR39] - Human
+Orphan receptors::GPR42_HUMAN (O15529)  G-protein coupled receptor 42 [GPR42P; GPR42] - Human
+Orphan receptors::GPR45_HUMAN (Q9Y5Y3)  Probable G-protein coupled receptor 45 (PSP24-alpha) (PSP24-1) [GPR45] - Human
+Orphan receptors::GPR52_HUMAN (Q9Y2T5)  Probable G-protein coupled receptor 52 [GPR52] - Human
+Orphan receptors::GPR55_HUMAN (Q9Y2T6)  Probable G-protein coupled receptor 55 [GPR55] - Human
+Orphan receptors::GPR61_HUMAN (Q9BZJ8)  Probable G-protein coupled receptor 61 [GPR61; BALGR] - Human
+Orphan receptors::GPR62_HUMAN (Q9BZJ7)  Probable G-protein coupled receptor 62 [GPR62] - Human
+Orphan receptors::GPR63_HUMAN (Q9BZJ6)  Probable G-protein coupled receptor 63 (PSP24-beta) (PSP24-2) [GPR63] - Human
+Orphan receptors::GPR75_HUMAN (O95800)  Probable G-protein coupled receptor 75 [GPR75] - Human
+Orphan receptors::GPR78_HUMAN (Q96P69)  G-protein coupled receptor 78 [GPR78] - Human
+Orphan receptors::GPR82_HUMAN (Q96P67)  Probable G-protein coupled receptor 82 [GPR82] - Human
+Orphan receptors::GPR83_HUMAN (Q9NYM4)  Probable G-protein coupled receptor 83 [GPR83; GPR72; KIAA1540] - Human
+Orphan receptors::GPR84_HUMAN (Q9NQS5)  Probable G-protein coupled receptor 84 (Inflammation-related G-protein coupled receptor EX33) [GPR84; EX33] - Human
+Orphan receptors::GPR85_HUMAN (P60893)  Probable G-protein coupled receptor 85 (Super conserved receptor expressed in brain 2) [GPR85; SREB2] - Human
+Orphan receptors::GPR87_HUMAN (Q9BY21)  G-protein coupled receptor 87 (G-protein coupled receptor 95) [GPR87; GPR95] - Human
+Orphan receptors::GPR88_HUMAN (Q9GZN0)  Probable G-protein coupled receptor 88 (Striatum-specific G-protein coupled receptor) [GPR88; STRG] - Human
+Orphan receptors::GP101_HUMAN (Q96P66)  Probable G-protein coupled receptor 101 [GPR101] - Human
+Orphan receptors::GP132_HUMAN (Q9UNW8)  Probable G-protein coupled receptor 132 (G2 accumulation protein) [GPR132; G2A] - Human
+Orphan receptors::GP135_HUMAN (Q8IZ08)  Probable G-protein coupled receptor 135 [GPR135] - Human
+Orphan receptors::GP139_HUMAN (Q6DWJ6)  Probable G-protein coupled receptor 139 (G(q)-coupled orphan receptor GPRg1) (G-protein coupled receptor PGR3) [GPR139; GPRG1; PGR3] - Human
+Orphan receptors::GP141_HUMAN (Q7Z602)  Probable G-protein coupled receptor 141 (G-protein coupled receptor PGR13) [GPR141; PGR13] - Human
+Orphan receptors::GP142_HUMAN (Q7Z601)  Probable G-protein coupled receptor 142 (G-protein coupled receptor PGR2) [GPR142; PGR2] - Human
+Orphan receptors::GP146_HUMAN (Q96CH1)  Probable G-protein coupled receptor 146 (G-protein coupled receptor PGR8) [GPR146; PGR8] - Human
+Orphan receptors::GP148_HUMAN (Q8TDV2)  Probable G-protein coupled receptor 148 (G-protein coupled receptor PGR6) (Brain and testis restricted GPCR) [GPR148; BTR; PGR6] - Human
+Orphan receptors::GP149_HUMAN (Q86SP6)  Probable G-protein coupled receptor 149 (G-protein coupled receptor PGR10) [GPR149; PGR10] - Human
+Orphan receptors::GP150_HUMAN (Q8NGU9)  Probable G-protein coupled receptor 150 [GPR150] - Human
+Orphan receptors::GP151_HUMAN (Q8TDV0)  Probable G-protein coupled receptor 151 (G-protein coupled receptor PGR7) (GPCR-2037) [GPR151; PGR7] - Human
+Orphan receptors::GP152_HUMAN (Q8TDT2)  Probable G-protein coupled receptor 152 (G-protein coupled receptor PGR5) [GPR152; PGR5] - Human
+Orphan receptors::GP153_HUMAN (Q6NV75)  Probable G-protein coupled receptor 153 (G-protein coupled receptor PGR1) [GPR153; PGR1] - Human
+Orphan receptors::GP160_HUMAN (Q9UJ42)  Probable G-protein coupled receptor 160 [GPR160; GPCR150] - Human
+Orphan receptors::GP161_HUMAN (Q8N6U8)  G-protein coupled receptor 161 (G-protein coupled receptor RE2) [GPR161] - Human
+Orphan receptors::GP162_HUMAN (Q16538)  Probable G-protein coupled receptor 162 (Gene-rich cluster gene A protein) [GPR162] - Human
+Orphan receptors::GP171_HUMAN (O14626)  Probable G-protein coupled receptor 171 (G-protein coupled receptor H963) [GPR171; H963] - Human
+Orphan receptors::GP173_HUMAN (Q9NS66)  Probable G-protein coupled receptor 173 (Super conserved receptor expressed in brain 3) [GPR173; SREB3] - Human
+Orphan receptors::GP176_HUMAN (Q14439)  G-protein coupled receptor 176 (HB-954) [GPR176] - Human
+Orphan receptors::GP182_HUMAN (O15218)  G-protein coupled receptor 182 [GPR182; ADMR] - Human
+Orphan receptors::GP183_HUMAN (P32249)  G-protein coupled receptor 183 (EBV-induced G-protein coupled receptor 2) (EBI2) [GPR183; EBI2] - Human
+Orphan receptors::G32P1_HUMAN (Q8NGA4)  Putative G-protein coupled receptor GPCR39 [GPCR39] - Human
+Orphan receptors::FFAR4_HUMAN (Q5NUL3)  Omega-3 fatty acid receptor 1 (G-protein coupled receptor 120) (G-protein coupled receptor 129) (G-protein coupled receptor GT01) (G-protein coupled receptor PGR4) [O3FAR1; GPR120; GPR129; PGR4] - Human
+Orphan receptors::PD2R2_HUMAN (Q9Y5Y4)  Prostaglandin D2 receptor 2 (Probable G-protein coupled receptor 44) (CD294 antigen) [PTGDR2; GPR44; CRTH2] - Human
+Family 2 (B) receptors::CALCR_HUMAN (P30988)  Calcitonin (CT-R) [CALCR] - Human
+Family 2 (B) receptors::CALRL_HUMAN (Q16602)  Calcitonin gene-related peptide type 1 (CGRP type 1) (Calcitonin receptor-like receptor) [CALCRL; CGRPR] - Human
+Family 2 (B) receptors::CRFR1_HUMAN (P34998)  Corticotropin-releasing factor 1 (CRF1) [CRHR1; CRHR; CRFR] - Human
+Family 2 (B) receptors::CRFR2_HUMAN (Q13324)  Corticotropin-releasing factor 2 (CRF2) [CRHR2; CRF2R] - Human
+Family 2 (B) receptors::GIPR_HUMAN  (P48546)  Gastric inhibitory peptide (GIP-R) (Glucose-dependent insulinotropic polypeptide receptor)[GIPR] - Human
+Family 2 (B) receptors::GLR_HUMAN   (P47871)  Glucagon (GL-R) [GCGR] - Human
+Family 2 (B) receptors::GLP1R_HUMAN (P43220)  Glucagon-like peptide 1 (GLP-1-R) [GLP1R] - Human
+Family 2 (B) receptors::GLP2R_HUMAN (O95838)  Glucagon-like peptide 2 (GLP-2 receptor) (GLP-2-R) (GLP-2R) [GLP2R] - Human
+Family 2 (B) receptors::GHRHR_HUMAN (Q02643)  Growth hormone-releasing hormone (GRFR) [GHRHR] - Human
+Family 2 (B) receptors::PTH1R_HUMAN (Q03431)  Parathyroid hormone/parathyroid hormone-related peptide receptor (Parathyroid hormone 1 receptor) (PTH1 receptor) (PTH/PTHr receptor) (PTH/PTHrP type I receptor) [PTH1R; PTHR1; PTHR] - Human
+Family 2 (B) receptors::PTH2R_HUMAN (P49190)  Parathyroid hormone 2 receptor (PTH2 receptor) [PTH2R; PTHR2] - Human
+Family 2 (B) receptors::PACR_HUMAN  (P41586)  Pituitary adenylate cyclase-activating polypeptide type I [ADCYAP1R1] - Human
+Family 2 (B) receptors::SCTR_HUMAN  (P47872)  Secretin (SCT-R) [SCTR] - Human
+Family 2 (B) receptors::VIPR1_HUMAN (P32241)  Vasoactive intestinal polypeptide 1 (VIP-R-1) [VIPR1] - Human
+Family 2 (B) receptors::VIPR2_HUMAN (P41587)  Vasoactive intestinal polypeptide 2 (VIP-R-2) (PACAP-R-3) [VIPR2] - Human
+Family 2 (B) receptors::AGRA1_HUMAN (Q86SQ6)  Adhesion G protein-coupled receptor A1 (G-protein coupled receptor 123) [ADGRA1, GPR123] - Human
+Family 2 (B) receptors::AGRA2_HUMAN (Q96PE1)  Adhesion G protein-coupled receptor A2 (G-protein coupled receptor 124) (Tumor endothelial marker 5) [ADGRA2; GPR124; TEM5] - Human
+Family 2 (B) receptors::AGRA3_HUMAN (Q8IWK6)  Adhesion G protein-coupled receptor A3 (G-protein coupled receptor 125) [ADGRA3; GPR125] - Human
+Family 2 (B) receptors::AGRB2_HUMAN (O60241)  Adhesion G protein-coupled receptor B2 (Brain-specific angiogenesis inhibitor 2 [ADGRB2; BAI2] - Human
+Family 2 (B) receptors::AGRB3_HUMAN (O60242)  Adhesion G protein-coupled receptor B3 (Brain-specific angiogenesis inhibitor 3) [ADGRB3; BAI3] - Human
+Family 2 (B) receptors::AGRD1_HUMAN (Q6QNK2)  Adhesion G-protein coupled receptor D1 (G-protein coupled receptor 133) (G-protein coupled receptor PGR25) [ADGRD1; GPR133; PGR25] - Human
+Family 2 (B) receptors::AGRD2_HUMAN (Q7Z7M1)  Adhesion G-protein coupled receptor D2 (G-protein coupled receptor 144) (G-protein coupled receptor PGR24) [ADGRD2; GPR144; PGR24] - Human
+Family 2 (B) receptors::AGRE1_HUMAN (Q14246)  Adhesion G protein-coupled receptor E1 (EGF-like module-containing mucin-like hormone receptor-like 1) (Cell surface glycoprotein EMR1) (EMR1 hormone receptor) [ADGRE1; EMR1] - Human
+Family 2 (B) receptors::AGRE2_HUMAN (Q9UHX3)  Adhesion G protein-coupled receptor E2 (EGF-like module-containing mucin-like hormone receptor-like 2) (CD312 antigen) [ADGRE2; EMR2] - Human
+Family 2 (B) receptors::AGRE3_HUMAN (Q9BY15)  Adhesion G protein-coupled receptor E3 (EGF-like module-containing mucin-like hormone receptor-like 3) [ADGRE3; EMR3] - Human
+Family 2 (B) receptors::AGRE4_HUMAN (Q86SQ3)  Adhesion G protein-coupled receptor E4 (EGF-like module-containing mucin-like hormone receptor-like 4) (G-protein coupled receptor 127) (G-protein coupled receptor PGR16) [ADGRE4P; EMR4P; EMR4; GPR127; PGR16] - Human
+Family 2 (B) receptors::AGRF1_HUMAN (Q5T601)  Adhesion G-protein coupled receptor F1 (G-protein coupled receptor 110) (G-protein coupled receptor PGR19) [ADGRF1; GPR110; PGR19] - Human
+Family 2 (B) receptors::AGRF2_HUMAN (Q8IZF7)  Adhesion G-protein coupled receptor F2 (G-protein coupled receptor 111) (G-protein coupled receptor PGR20) [ADGRF2; GPR111; PGR20] - Human
+Family 2 (B) receptors::AGRF3_HUMAN (Q8IZF5)  Adhesion G-protein coupled receptor F3 (G-protein coupled receptor 113) (G-protein coupled receptor PGR23) [ADGRF3; GPR113; PGR23] - Human
+Family 2 (B) receptors::AGRF4_HUMAN (Q8IZF3)  Adhesion G-protein coupled receptor F4 (G-protein coupled receptor 115) (G-protein coupled receptor PGR18) [ADGRF4; GPR115; PGR18] - Human
+Family 2 (B) receptors::AGRF5_HUMAN (Q8IZF2)  Adhesion G protein-coupled receptor F5 (G-protein coupled receptor 116) [ADGRF5; GPR116; KIAA0758] - Human
+Family 2 (B) receptors::AGRG1_HUMAN (Q9Y653)  Adhesion G-protein coupled receptor G1 (G-protein coupled receptor 56) (TM7XN1 protein) (UNQ540/GPR56) [ADGRG1; GPR56; TM7LN4; TM7XN1] - Human
+Family 2 (B) receptors::AGRG2_HUMAN (Q8IZP9)  Adhesion G-protein coupled receptor G2 (G-protein coupled receptor 64) (Epididymis-specific protein 6) (He6 receptor) [ADGRG2; GPR64; HE6; TM7LN2] - Human
+Family 2 (B) receptors::AGRG3_HUMAN (Q86Y34)  Adhesion G protein-coupled receptor G3 (Probable G-protein coupled receptor 97) (G-protein coupled receptor PGR26) [ADGRG3; GPR97; PGR26] - Human
+Family 2 (B) receptors::AGRG4_HUMAN (Q8IZF6)  Adhesion G-protein coupled receptor G4 (G-protein coupled receptor 112) [ADGRG5; GPR112] - Human
+Family 2 (B) receptors::AGRG5_HUMAN (Q8IZF4)  Adhesion G-protein coupled receptor G5 (G-protein coupled receptor 114) (G-protein coupled receptor PGR27) [ADGRG5; GPR114; PGR27] - Human
+Family 2 (B) receptors::AGRG6_HUMAN (Q86SQ4)  Adhesion G-protein coupled receptor G6 (G-protein coupled receptor 126) (Developmentally regulated G-protein-coupled receptor) (Vascular inducible G protein-coupled receptor) [ADGRG6; GPR126; DREG; VIGR] - Human
+Family 2 (B) receptors::AGRG7_HUMAN (Q96K78)  Adhesion G-protein coupled receptor G7 (G-protein coupled receptor 128) [ADGRG7; GPR128] - Human
+Family 2 (B) receptors::AGRB1_HUMAN (O14514)  Brain-specific angiogenesis inhibitor 1 [BAI1] - Human
+Family 2 (B) receptors::AGRV1_HUMAN (Q8WXG9)  G-protein coupled receptor 98 (Monogenic audiogenic seizure susceptibility protein 1 homolog) (Very large G-protein coupled receptor 1) (Usher syndrome type-2C protein) (G-protein coupled receptor 98) [GPR98; KIAA0686; MASS1; VLGR1] - Human
+Family 2 (B) receptors::CD97_HUMAN  (P48960)  CD97 antigen (Leukocyte antigen CD97) [CD97] - Human
+Family 2 (B) receptors::GP157_HUMAN (Q5UAW9)  G-protein coupled receptor 157 [GPR157] - Human
+Family 2 (B) receptors::AGRL1_HUMAN (O94910)  Adhesion G protein-coupled receptor L1 (Latrophilin-1) (Calcium-independent alpha-latrotoxin receptor 1) (Lectomedin-2) [ADGRL1; LPHN1; LEC2; KIAA0821] - Human
+Family 2 (B) receptors::AGRL2_HUMAN (O95490)  Adhesion G protein-coupled receptor L2 (Latrophilin-2) (Calcium-independent alpha-latrotoxin receptor 2) (Latrophilin homolog 1) (Lectomedin 1) [ADGRL2; LPHN2; LPHH1; LEC1; KIAA0786] - Human
+Family 2 (B) receptors::AGRL3_HUMAN (Q9HAR2)  Adhesion G protein-coupled receptor L3 (Latrophilin-3) (Calcium-independent alpha-latrotoxin receptor 3) (Lectomedin-3) [ADGRL3; LPHN3; LEC3; KIAA0768] - Human
+Family 2 (B) receptors::AGRL4_HUMAN (Q9HBW9)  Adhesion G protein-coupled receptor L4 (EGF, latrophilin and seven transmembrane domain-containing protein 1) (EGF-TM7-latrophilin-related protein) (ETL protein) [ADGRL4; ELTD1; ETL] - Human
+Family 2 (B) receptors::CELR1_HUMAN (Q9NYQ6)  Cadherin EGF LAG seven-pass G-type receptor 1 (Flamingo homolog 2) (hFmi2) [CELSR1; CDHF9; FMI2] - Human
+Family 2 (B) receptors::CELR2_HUMAN (Q9HCU4)  Cadherin EGF LAG seven-pass G-type receptor 2 (Epidermal growth factor-like 2) (Multiple epidermal growth factor-like domains 3) (Flamingo 1) [CELSR2; CDHF10; EGFL2; MEGF3; KIAA0279] - Human
+Family 2 (B) receptors::CELR3_HUMAN (Q9NYQ7)  Cadherin EGF LAG seven-pass G-type receptor 3 (Flamingo homolog 1) (hFmi1) (Multiple epidermal growth factor-like domains 2) (Epidermal growth factor-like 1) [CELSR3; CDHF11; FMI1; EGFL1; MEGF2; KIAA1812] - Human
+Family 3 (C) receptors (metabotropic glutamate and calcium receptors)::GRM1_HUMAN  (Q13255)  Metabotropic glutamate 1 (mGluR1) [GRM1; GPRC1A; MGLUR1] - Human
+Family 3 (C) receptors (metabotropic glutamate and calcium receptors)::GRM2_HUMAN  (Q14416)  Metabotropic glutamate 2 (mGluR2) [GRM2; GPRC1B; MGLUR2] - Human
+Family 3 (C) receptors (metabotropic glutamate and calcium receptors)::GRM3_HUMAN  (Q14832)  Metabotropic glutamate 3 (mGluR3) [GRM3; GPRC1C; MGLUR3] - Human
+Family 3 (C) receptors (metabotropic glutamate and calcium receptors)::GRM4_HUMAN  (Q14833)  Metabotropic glutamate 4 (mGluR4) [GRM4; GPRC1D; MGLUR4] - Human
+Family 3 (C) receptors (metabotropic glutamate and calcium receptors)::GRM5_HUMAN  (P41594)  Metabotropic glutamate 5 (mGluR5) [GRM5; GPRC1E; MGLUR5] - Human
+Family 3 (C) receptors (metabotropic glutamate and calcium receptors)::GRM6_HUMAN  (O15303)  Metabotropic glutamate 6 (mGluR6) [GRM6; GPRC1F; MGLUR6] - Human
+Family 3 (C) receptors (metabotropic glutamate and calcium receptors)::GRM7_HUMAN  (Q14831)  Metabotropic glutamate 7 (mGluR7) [GRM7; GPRC1G; MGLUR7] - Human
+Family 3 (C) receptors (metabotropic glutamate and calcium receptors)::GRM8_HUMAN  (O00222)  Metabotropic glutamate 8 (mGluR8) [GRM8; GPRC1H; MGLUR8] - Human
+Family 3 (C) receptors (metabotropic glutamate and calcium receptors)::CASR_HUMAN  (P41180)  Extracellular calcium-sensing receptor [CASR; GPRC2A; PCAR1] - Human
+Family 3 (C) receptors (metabotropic glutamate and calcium receptors)::GABR1_HUMAN (Q9UBS5)  Gamma-aminobutyric acid type B receptor subunit 1 (GABA-B receptor 1) (GABA-B-R1) (Gb1) [GABBR1; GPRC3A] - Human
+Family 3 (C) receptors (metabotropic glutamate and calcium receptors)::GABR2_HUMAN (O75899)  Gamma-aminobutyric acid type B receptor subunit 2 (GABA-B receptor 2) (GABA-B-R2) (Gb2) (GABABR2) (G-protein coupled receptor 51) [GABBR2; GPR51; GPRC3B] - Human
+Family 3 (C) receptors (metabotropic glutamate and calcium receptors)::TS1R1_HUMAN (Q7RTX1)  Taste receptor type 1 member 1 (G protein coupled receptor 70) [TAS1R1; GPR70; T1R1; TR1] - Human
+Family 3 (C) receptors (metabotropic glutamate and calcium receptors)::TS1R2_HUMAN (Q8TE23)  Taste receptor type 1 member 2 (Sweet taste receptor T1R2) (G protein coupled receptor 71) [TAS1R2; GPR71; T1R2; TR2] - Human
+Family 3 (C) receptors (metabotropic glutamate and calcium receptors)::TS1R3_HUMAN (Q7RTX0)  Taste receptor type 1 member 3 (Sweet taste receptor T1R3) [TAS1R3; T1R3; TR3] - Human
+Family 3 (C) receptors (metabotropic glutamate and calcium receptors)::RAI3_HUMAN  (Q8NFJ5)  Retinoic acid-induced protein 3 (G-protein coupled receptor family C group 5 member A) (Retinoic acid-induced gene 1 protein) (RAIG-1) [RAI3; GPRC5A; RAIG1] - Human
+Family 3 (C) receptors (metabotropic glutamate and calcium receptors)::GPC5B_HUMAN (Q9NZH0)  G-protein coupled receptor family C group 5 member B (Retinoic acid-induced gene 2 protein) (RAIG-2) (A-69G12.1) [GPRC5B; RAIG2] - Human
+Family 3 (C) receptors (metabotropic glutamate and calcium receptors)::GPC5C_HUMAN (Q9NQ84)  G-protein coupled receptor family C group 5 member C (Retinoic acid-induced gene 3 protein) (RAIG-3) [GPRC5C; RAIG3] - Human
+Family 3 (C) receptors (metabotropic glutamate and calcium receptors)::GPC5D_HUMAN (Q9NZD1)  G-protein coupled receptor family C group 5 member D [GPRC5D] - Human
+Family 3 (C) receptors (metabotropic glutamate and calcium receptors)::GPC6A_HUMAN (Q5T6X5)  G-protein coupled receptor family C group 6 member A (hGPRC6A) (G-protein coupled receptor 33) (hGPCR33) [GPRC6A; GPCR33] - Human
+Family 3 (C) receptors (metabotropic glutamate and calcium receptors)::GP156_HUMAN (Q8NFN8)  Probable G-protein coupled receptor 156 (GABAB-related G-protein coupled receptor) (G-protein coupled receptor PGR28) [GPR156; GABABL; PGR28] - Human
+Family 3 (C) receptors (metabotropic glutamate and calcium receptors)::GP158_HUMAN (Q5T848)  Probable G-protein coupled receptor 158 [GPR158; KIAA1136] - Human
+Family 3 (C) receptors (metabotropic glutamate and calcium receptors)::GP179_HUMAN (Q6PRD1)  Probable G-protein coupled receptor 179 (Probable G-protein coupled receptor 158-like 1) [GPR179; GPR158L1] - Human
+Family T2R receptors (taste receptors)::TA2R1_HUMAN (Q9NYW7)  Taste receptor type 2 member 1 (T2R1) (Taste receptor family B member 7) (TRB7) [TAS2R1] - Human
+Family T2R receptors (taste receptors)::TA2R3_HUMAN (Q9NYW6)  Taste receptor type 2 member 3 (T2R3) [TAS2R3] - Human
+Family T2R receptors (taste receptors)::TA2R4_HUMAN (Q9NYW5)  Taste receptor type 2 member 4 (T2R4) [TAS2R4] - Human
+Family T2R receptors (taste receptors)::TA2R5_HUMAN (Q9NYW4)  Taste receptor type 2 member 5 (T2R5) [TAS2R5] - Human
+Family T2R receptors (taste receptors)::TA2R7_HUMAN (Q9NYW3)  Taste receptor type 2 member 7 (T2R7) (Taste receptor family B member 4) (TRB4) [TAS2R7] - Human
+Family T2R receptors (taste receptors)::TA2R8_HUMAN (Q9NYW2)  Taste receptor type 2 member 8 (T2R8) (Taste receptor family B member 5) (TRB5) [TAS2R8] - Human
+Family T2R receptors (taste receptors)::TA2R9_HUMAN (Q9NYW1)  Taste receptor type 2 member 9 (T2R9) (Taste receptor family B member 6) (TRB6) [TAS2R9] - Human
+Family T2R receptors (taste receptors)::T2R10_HUMAN (Q9NYW0)  Taste receptor type 2 member 10 (T2R10) (Taste receptor family B member 2) (TRB2) [TAS2R10] - Human
+Family T2R receptors (taste receptors)::T2R13_HUMAN (Q9NYV9)  Taste receptor type 2 member 13 (T2R13) (Taste receptor family B member 3) (TRB3) [TAS2R13] - Human
+Family T2R receptors (taste receptors)::T2R14_HUMAN (Q9NYV8)  Taste receptor type 2 member 14 (T2R14) (Taste receptor family B member 1) (TRB1) [TAS2R14] - Human
+Family T2R receptors (taste receptors)::T2R16_HUMAN (Q9NYV7)  Taste receptor type 2 member 16 (T2R16) [TAS2R16] - Human
+Family T2R receptors (taste receptors)::T2R19_HUMAN (P59542)  Taste receptor type 2 member 19 (Taste receptor type 2 member 48) (T2R48) (Taste receptor type 2 member 23) [TAS2R19; TAS2R23; TAS2R48, ] - Human
+Family T2R receptors (taste receptors)::T2R20_HUMAN (P59543)  Taste receptor type 2 member 20 (Taste receptor type 2 member 49) (T2R49) (Taste receptor type 2 member 56) (T2R56) [TAS2R20; TAS2R49] - Human
+Family T2R receptors (taste receptors)::T2R30_HUMAN (P59541)  Taste receptor type 2 member 30 (Taste receptor type 2 member 47) (T2R47) [TAS2R30; TAS2R47] - Human
+Family T2R receptors (taste receptors)::T2R31_HUMAN (P59538)  Taste receptor type 2 member 31 (T2R31) (Taste receptor type 2 member 44) (T2R44) (T2R53) [TAS2R31; TAS2R44] - Human
+Family T2R receptors (taste receptors)::T2R38_HUMAN (P59533)  Taste receptor type 2 member 38 (T2R38) (T2R61) (PTC bitter taste receptor) [TAS2R38] - Human
+Family T2R receptors (taste receptors)::T2R39_HUMAN (P59534)  Taste receptor type 2 member 39 (T2R39) (T2R57) [TAS2R39] - Human
+Family T2R receptors (taste receptors)::T2R40_HUMAN (P59535)  Taste receptor type 2 member 40 (T2R40) (T2R58) (G-protein coupled receptor 60) [TAS2R40; GPR60] - Human
+Family T2R receptors (taste receptors)::T2R41_HUMAN (P59536)  Taste receptor type 2 member 41 (T2R41) (T2R59) [TAS2R41] - Human
+Family T2R receptors (taste receptors)::T2R42_HUMAN (Q7RTR8)  Taste receptor type 2 member 42 (T2R42) (T2R55) [TAS2R42; TAS2R55] - Human
+Family T2R receptors (taste receptors)::T2R43_HUMAN (P59537)  Taste receptor type 2 member 43 (T2R43) (T2R52) [TAS2R43] - Human
+Family T2R receptors (taste receptors)::T2R45_HUMAN (P59539)  Taste receptor type 2 member 45 (T2R45) (G-protein coupled receptor 59) [TAS2R45; GPR59] - Human
+Family T2R receptors (taste receptors)::T2R46_HUMAN (P59540)  Taste receptor type 2 member 46 (T2R46) (T2R54) [TAS2R46] - Human
+Family T2R receptors (taste receptors)::T2R50_HUMAN (P59544)  Taste receptor type 2 member 50 (T2R50) (T2R51) [TAS2R50] - Human
+Family T2R receptors (taste receptors)::T2R60_HUMAN (P59551)  Taste receptor type 2 member 60 (T2R60) (T2R56) [TAS2R60] - Human
+Family fz/smo receptors::FZD1_HUMAN  (Q9UP38)  Frizzled-1 (Fz-1) (hFz1) (FzE1) [FZD1] - Human
+Family fz/smo receptors::FZD2_HUMAN  (Q14332)  Frizzled-2 (Fz-2) (hFz2) (FzE2) [FZD2] - Human
+Family fz/smo receptors::FZD3_HUMAN  (Q9NPG1)  Frizzled-3 (Fz-3) (hFz3) [FZD3] - Human
+Family fz/smo receptors::FZD4_HUMAN  (Q9ULV1)  Frizzled-4 (Fz-4) (hFz4) (FzE4) (CD344 antigen) [FZD4] - Human
+Family fz/smo receptors::FZD5_HUMAN  (Q13467)  Frizzled-5 (Fz-5) (hFz5) (FzE5) [FZD5] - Human
+Family fz/smo receptors::FZD6_HUMAN  (O60353)  Frizzled-6 (Fz-6) (hFz6) [FZD6] - Human
+Family fz/smo receptors::FZD7_HUMAN  (O75084)  Frizzled-7 (Fz-7) (hFz7) (FzE3) [FZD7] - Human
+Family fz/smo receptors::FZD8_HUMAN  (Q9H461)  Frizzled-8 (Fz-8) (hFz8) [FZD8] - Human
+Family fz/smo receptors::FZD9_HUMAN  (O00144)  Frizzled-9 (Fz-9) (hFz9) (FzE6) (CD349 antigen) [FZD9] - Human
+Family fz/smo receptors::FZD10_HUMAN (Q9ULW2)  Frizzled-10 (Fz-10) (hFz10) (FzE7)  (CD350 antigen) [FZD10] - Human
+Family fz/smo receptors::SMO_HUMAN   (Q99835)  Smoothened homolog (SMO) [SMO; SMOH] - Human
+Family OA::GP143_HUMAN (P51810)  G-protein coupled receptor 143 (Ocular albinism type 1 protein) [GPR143; OA1] - Human

@@ -1,0 +1,4127 @@
+{
+    "P11229": {
+        "gpcr_class": "Acetylcholine (muscarinic) receptors",
+        "gpcr_name": "Muscarinic acetylcholine M1",
+        "gpcr_id": "CHRM1"
+    },
+    "P08172": {
+        "gpcr_class": "Acetylcholine (muscarinic) receptors",
+        "gpcr_name": "Muscarinic acetylcholine M2",
+        "gpcr_id": "CHRM2"
+    },
+    "P20309": {
+        "gpcr_class": "Acetylcholine (muscarinic) receptors",
+        "gpcr_name": "Muscarinic acetylcholine M3",
+        "gpcr_id": "CHRM3"
+    },
+    "P08173": {
+        "gpcr_class": "Acetylcholine (muscarinic) receptors",
+        "gpcr_name": "Muscarinic acetylcholine M4",
+        "gpcr_id": "CHRM4"
+    },
+    "P08912": {
+        "gpcr_class": "Acetylcholine (muscarinic) receptors",
+        "gpcr_name": "Muscarinic acetylcholine M5",
+        "gpcr_id": "CHRM5"
+    },
+    "P30542": {
+        "gpcr_class": "Adenosine and adenine nucleotide receptors",
+        "gpcr_name": "Adenosine A1",
+        "gpcr_id": "ADORA1"
+    },
+    "P29274": {
+        "gpcr_class": "Adenosine and adenine nucleotide receptors",
+        "gpcr_name": "Adenosine A2A",
+        "gpcr_id": "ADORA2A; ADORA2"
+    },
+    "P29275": {
+        "gpcr_class": "Adenosine and adenine nucleotide receptors",
+        "gpcr_name": "Adenosine A2B",
+        "gpcr_id": "ADORA2B"
+    },
+    "P0DMS8": {
+        "gpcr_class": "Adenosine and adenine nucleotide receptors",
+        "gpcr_name": "Adenosine A3",
+        "gpcr_id": "ADORA3"
+    },
+    "P47900": {
+        "gpcr_class": "Adenosine and adenine nucleotide receptors",
+        "gpcr_name": "P2Y purinoceptor 1 (ATP receptor) (P2Y1)",
+        "gpcr_id": "P2RY1"
+    },
+    "P41231": {
+        "gpcr_class": "Adenosine and adenine nucleotide receptors",
+        "gpcr_name": "P2Y purinoceptor 2 (P2Y2) (P2U purinoceptor 1) (P2U1) (ATP receptor)",
+        "gpcr_id": "P2RY2; P2RU1"
+    },
+    "P51582": {
+        "gpcr_class": "Adenosine and adenine nucleotide receptors",
+        "gpcr_name": "P2Y purinoceptor 4 (P2Y4) (Uridine nucleotide) (UNR) (P2P)",
+        "gpcr_id": "P2RY4"
+    },
+    "Q15077": {
+        "gpcr_class": "Adenosine and adenine nucleotide receptors",
+        "gpcr_name": "P2Y purinoceptor 6 (P2Y6)",
+        "gpcr_id": "P2RY6"
+    },
+    "Q86VZ1": {
+        "gpcr_class": "Adenosine and adenine nucleotide receptors",
+        "gpcr_name": "P2Y purinoceptor 8 (P2Y8)",
+        "gpcr_id": "P2RY8"
+    },
+    "O00398": {
+        "gpcr_class": "Adenosine and adenine nucleotide receptors",
+        "gpcr_name": "Putative P2Y purinoceptor 10 (P2Y10) (P2Y-like receptor)",
+        "gpcr_id": "P2RY10"
+    },
+    "Q96G91": {
+        "gpcr_class": "Adenosine and adenine nucleotide receptors",
+        "gpcr_name": "P2Y purinoceptor 11 (P2Y11)",
+        "gpcr_id": "P2RY11"
+    },
+    "Q9H244": {
+        "gpcr_class": "Adenosine and adenine nucleotide receptors",
+        "gpcr_name": "P2Y purinoceptor 12 (P2Y12) (P2Y(ADP)) (ADP-glucose receptor) (ADPG-R) (P2Y(AC)) (P2Y(cyc)) (P2T(AC))",
+        "gpcr_id": "P2RY12; HORK3"
+    },
+    "Q9BPV8": {
+        "gpcr_class": "Adenosine and adenine nucleotide receptors",
+        "gpcr_name": "P2Y purinoceptor 13 (P2Y13) (G-protein coupled receptor 86) (G-protein coupled receptor 94)",
+        "gpcr_id": "P2RY13; GPR86; GPR94; FKSG77"
+    },
+    "Q15391": {
+        "gpcr_class": "Adenosine and adenine nucleotide receptors",
+        "gpcr_name": "P2Y purinoceptor 14 (P2Y14) (UDP-glucose receptor) (G-protein coupled receptor 105)",
+        "gpcr_id": "P2RY14; GPR105; KIAA0001"
+    },
+    "Q9BXC1": {
+        "gpcr_class": "Adenosine and adenine nucleotide receptors",
+        "gpcr_name": "Probable G-protein coupled receptor 174 (Putative P2Y purinoceptor FKSG79)",
+        "gpcr_id": "GPR174; FKSG79"
+    },
+    "Q15722": {
+        "gpcr_class": "Adenosine and adenine nucleotide receptors",
+        "gpcr_name": "Leukotriene B4 1 (LTB4-R 1) (P2Y purinoceptor 7) (P2Y7) (Chemoattractant receptor-like 1) (G-protein coupled receptor 16)",
+        "gpcr_id": "LTB4R; P2RY7; GPR16; CMKRL1: BLT; BLTR"
+    },
+    "Q9NPC1": {
+        "gpcr_class": "Adenosine and adenine nucleotide receptors",
+        "gpcr_name": "Leukotriene B4 2 (LTB4-R2) (Seven transmembrane receptor BLTR2) (Leukotriene B4 receptor BLT2) (LTB4 receptor JULF2)",
+        "gpcr_id": "LTB4R2; BLT2R; BLTR2"
+    },
+    "P35348": {
+        "gpcr_class": "Adrenergic receptors",
+        "gpcr_name": "Alpha-1a adrenergic (Alpha-1C)",
+        "gpcr_id": "ADRA1A; ADRA1C"
+    },
+    "P35368": {
+        "gpcr_class": "Adrenergic receptors",
+        "gpcr_name": "Alpha-1b adrenergic",
+        "gpcr_id": "ADRA1B"
+    },
+    "P25100": {
+        "gpcr_class": "Adrenergic receptors",
+        "gpcr_name": "Alpha-1d adrenergic (Alpha-1D)",
+        "gpcr_id": "ADRA1D; ADRA1A"
+    },
+    "P08913": {
+        "gpcr_class": "Adrenergic receptors",
+        "gpcr_name": "Alpha-2a adrenergic (Subtype C10)",
+        "gpcr_id": "ADRA2A; ADRA2R; ADRAR"
+    },
+    "P18089": {
+        "gpcr_class": "Adrenergic receptors",
+        "gpcr_name": "Alpha-2b adrenergic (Subtype C2)",
+        "gpcr_id": "ADRA2B"
+    },
+    "P18825": {
+        "gpcr_class": "Adrenergic receptors",
+        "gpcr_name": "Alpha-2c adrenergic (Subtype C4)",
+        "gpcr_id": "ADRA2C"
+    },
+    "P08588": {
+        "gpcr_class": "Adrenergic receptors",
+        "gpcr_name": "Beta-1 adrenergic",
+        "gpcr_id": "ADRB1; ADRB1R; B1AR"
+    },
+    "P07550": {
+        "gpcr_class": "Adrenergic receptors",
+        "gpcr_name": "Beta-2 adrenergic",
+        "gpcr_id": "ADRB2; ADRB2R; B2AR"
+    },
+    "P13945": {
+        "gpcr_class": "Adrenergic receptors",
+        "gpcr_name": "Beta-3 adrenergic",
+        "gpcr_id": "ADRB3; ADRB3R; B3AR"
+    },
+    "P30556": {
+        "gpcr_class": "Angiotensin receptors",
+        "gpcr_name": "Type-1 angiotensin II (AT1)",
+        "gpcr_id": "AGTR1; AGTR1A; AGTR1B; AT2R1; AT2R1B"
+    },
+    "P50052": {
+        "gpcr_class": "Angiotensin receptors",
+        "gpcr_name": "Type-2 angiotensin II (AT2)",
+        "gpcr_id": "AGTR2"
+    },
+    "P35414": {
+        "gpcr_class": "Apelin receptors",
+        "gpcr_name": "Apelin receptor (G-protein coupled receptor APJ) (Angiotensin receptor-like 1) (HG11)",
+        "gpcr_id": "APLNR; AGTRL1; APJ"
+    },
+    "Q14330": {
+        "gpcr_class": "Arachidonyl glycine receptors",
+        "gpcr_name": "N-arachidonyl glycine receptor (NAGly receptor) (G-protein coupled receptor 18)",
+        "gpcr_id": "GPR18; GPCRW"
+    },
+    "Q8TDU6": {
+        "gpcr_class": "Bile acid receptors",
+        "gpcr_name": "G-protein coupled bile acid receptor 1 (Membrane-type receptor for bile acids) (M-BAR) (hGPCR19) (BG37) (hBG37)",
+        "gpcr_id": "GPBAR1; TGR5"
+    },
+    "P28336": {
+        "gpcr_class": "Bombesin receptors",
+        "gpcr_name": "Neuromedin-B (NMB-R) (Neuromedin-B-preferring bombesin)",
+        "gpcr_id": "NMBR"
+    },
+    "P30550": {
+        "gpcr_class": "Bombesin receptors",
+        "gpcr_name": "Gastrin-releasing peptide (GRP-R) (GRP-preferring bombesin)",
+        "gpcr_id": "GRPR"
+    },
+    "P32247": {
+        "gpcr_class": "Bombesin receptors",
+        "gpcr_name": "Bombesin subtype-3 (BRS-3)",
+        "gpcr_id": "BRS3"
+    },
+    "P46663": {
+        "gpcr_class": "Bradykinin receptors",
+        "gpcr_name": "B1 bradykinin (BK-1R) (B1R)",
+        "gpcr_id": "BDKRB1"
+    },
+    "P30411": {
+        "gpcr_class": "Bradykinin receptors",
+        "gpcr_name": "B2 bradykinin (BK-2R) (B2R)",
+        "gpcr_id": "BDKRB2; BKR2"
+    },
+    "P21554": {
+        "gpcr_class": "Cannabinoids receptors",
+        "gpcr_name": "Cannabinoid 1 (CB1) (CB-R)",
+        "gpcr_id": "CNR1; CNR"
+    },
+    "P34972": {
+        "gpcr_class": "Cannabinoids receptors",
+        "gpcr_name": "Cannabinoid 2 (CB-2) (CB2) (CX5)",
+        "gpcr_id": "CNR2"
+    },
+    "Q16570": {
+        "gpcr_class": "Chemokines and chemotactic factors receptors",
+        "gpcr_name": "Duffy antigen/chemokine receptor (Atypical chemokine receptor 1) (Fy glycoprotein) (GpFy) (Glycoprotein D) (CD234 antigen)",
+        "gpcr_id": "DARC; ACKR1; FY; GPD"
+    },
+    "O00590": {
+        "gpcr_class": "Chemokines and chemotactic factors receptors",
+        "gpcr_name": "Atypical chemokine receptor 2 (Chemokine-binding protein 2 (Chemokine-binding protein D6) (C-C chemokine receptor D6) (CCR-9) (CCR-10)",
+        "gpcr_id": "ACKR2; CCBP2; CMBRK9; CCR10"
+    },
+    "P25106": {
+        "gpcr_class": "Chemokines and chemotactic factors receptors",
+        "gpcr_name": "Atypical chemokine receptor 3 (C-X-C chemokine receptor type 7) (CXC-R7) (CXCR-7) (G-protein coupled receptor RDC1 homolog) (RDC-1) (Chemokine orphan receptor 1) (G-protein coupled receptor 159)",
+        "gpcr_id": "ACKR3; CXCR7; CMKOR1; GPR159; RDC1"
+    },
+    "Q9NPB9": {
+        "gpcr_class": "Chemokines and chemotactic factors receptors",
+        "gpcr_name": "Atypical chemokine receptor 4 (C-C chemokine receptor type 11) (C-C CKR-11) (CCR-11) (CC chemokine receptor-like 1)",
+        "gpcr_id": "ACKR4; CCRL1; CCR11; CCBP2; VSHK1"
+    },
+    "Q16581": {
+        "gpcr_class": "Chemokines and chemotactic factors receptors",
+        "gpcr_name": "C3a anaphylatoxin chemotactic (C3a-R) (C3AR)",
+        "gpcr_id": "C3AR1; C3R1; AZ3B; HNFAG09"
+    },
+    "P21730": {
+        "gpcr_class": "Chemokines and chemotactic factors receptors",
+        "gpcr_name": "C5a anaphylatoxin chemotactic (C5a-R) (CD88 antigen)",
+        "gpcr_id": "C5AR1; C5R1; C5AR"
+    },
+    "Q9P296": {
+        "gpcr_class": "Chemokines and chemotactic factors receptors",
+        "gpcr_name": "C5a anaphylatoxin chemotactic receptor C5L2 (G-protein coupled receptor 77)",
+        "gpcr_id": "C5L2; GPR77"
+    },
+    "P21462": {
+        "gpcr_class": "Chemokines and chemotactic factors receptors",
+        "gpcr_name": "fMet-Leu-Phe (fMLP-R) (N-formyl peptide) (FPR)",
+        "gpcr_id": "FPR1"
+    },
+    "P25090": {
+        "gpcr_class": "Chemokines and chemotactic factors receptors",
+        "gpcr_name": "N-formyl peptide receptor 2 (FMLP-related I) (FMLP-R-I) (Formyl peptide receptor-like 1) (Lipoxin A4 receptor) (LXA4 receptor) (RFP) (HM63)",
+        "gpcr_id": "FPR2; FPRL1; FPRH2; LXA4R"
+    },
+    "P25089": {
+        "gpcr_class": "Chemokines and chemotactic factors receptors",
+        "gpcr_name": "N-formyl peptide receptor 3 (FMLP-related II) (FMLP-R-II) (Formyl peptide receptor-like 2)",
+        "gpcr_id": "FPR3; FPRL2; FPRH1"
+    },
+    "P25024": {
+        "gpcr_class": "Chemokines and chemotactic factors receptors",
+        "gpcr_name": "High affinity interleukin-8 A (IL-8R A) (CXCR-1) (CD181 antigen) (CDw128a antigen)",
+        "gpcr_id": "IL8RA; CXCR1"
+    },
+    "P25025": {
+        "gpcr_class": "Chemokines and chemotactic factors receptors",
+        "gpcr_name": "High affinity interleukin-8 B (IL-8R B) (CXCR-2) (CD182 antigen)",
+        "gpcr_id": "IL8RB; CXCR2"
+    },
+    "P49682": {
+        "gpcr_class": "Chemokines and chemotactic factors receptors",
+        "gpcr_name": "C-X-C chemokine receptor type 3 (CXC-R3) (CXCR-3) (CD183 antigen) (G protein-coupled receptor 9)",
+        "gpcr_id": "CXCR3; GPR9"
+    },
+    "P61073": {
+        "gpcr_class": "Chemokines and chemotactic factors receptors",
+        "gpcr_name": "C-X-C chemokine receptor type 4 (CXC-R4) (CXCR-4) (Stromal cell-derived factor 1) (SDF-1 receptor) (Fusin) (LESTR) (LCR1) (FB22) (NPYRL) (CD184 antigen)",
+        "gpcr_id": "CXCR4"
+    },
+    "P32302": {
+        "gpcr_class": "Chemokines and chemotactic factors receptors",
+        "gpcr_name": "C-X-C chemokine receptor type 5 (CXC-R5) (CXCR-5) (Burkitt lymphoma receptor 1) (Monocyte-derived receptor 15) (MDR-15) (CD185 antigen)",
+        "gpcr_id": "CXCR5; BLR1; MDR15"
+    },
+    "O00574": {
+        "gpcr_class": "Chemokines and chemotactic factors receptors",
+        "gpcr_name": "C-X-C chemokine receptor type 6 (CXC-R6) (CXCR-6) (G-protein coupled receptor bonzo) (CD186 antigen) (CDw186)",
+        "gpcr_id": "CXCR6; BONZO; STRL33; TYMSTR"
+    },
+    "P32246": {
+        "gpcr_class": "Chemokines and chemotactic factors receptors",
+        "gpcr_name": "C-C chemokine receptor type 1 (C-C CKR-1) (CCR-1) (CD191 antigen)",
+        "gpcr_id": "CCR1; CMKBR1; CMKR1"
+    },
+    "P41597": {
+        "gpcr_class": "Chemokines and chemotactic factors receptors",
+        "gpcr_name": "C-C chemokine receptor type 2 (C-C CKR-2) (CCR-2) (MCP-1-R) (CD192 antigen)",
+        "gpcr_id": "CCR2; CMKBR2"
+    },
+    "P51677": {
+        "gpcr_class": "Chemokines and chemotactic factors receptors",
+        "gpcr_name": "C-C chemokine receptor type 3 (C-C CKR-3) (CCR-3) (CD193 antigen)",
+        "gpcr_id": "CCR3; CMKBR3"
+    },
+    "P51679": {
+        "gpcr_class": "Chemokines and chemotactic factors receptors",
+        "gpcr_name": "C-C chemokine receptor type 4 (C-C CKR-4) (CCR-4) (CD194 antigen)",
+        "gpcr_id": "CCR4; CMKBR4"
+    },
+    "P51681": {
+        "gpcr_class": "Chemokines and chemotactic factors receptors",
+        "gpcr_name": "C-C chemokine receptor type 5 (C-C CKR-5) (CCR-5) (CD195 antigen)",
+        "gpcr_id": "CCR5; CMKBR5"
+    },
+    "P51684": {
+        "gpcr_class": "Chemokines and chemotactic factors receptors",
+        "gpcr_name": "C-C chemokine receptor type 6 (C-C CKR-6) (CCR-6) (GPR-CY4) (GPRCY4) (Chemokine receptor-like 3) (CKR-L3) (G-protein coupled receptor 29) (CD196 antigen)",
+        "gpcr_id": "CCR6; CMKBR6; STRL22; GPR29; CKRL3"
+    },
+    "P32248": {
+        "gpcr_class": "Chemokines and chemotactic factors receptors",
+        "gpcr_name": "C-C chemokine receptor type 7 (C-C CKR-7) (CCR-7) (EBV-induced G-protein coupled receptor 1) (EBI1) (BLR2) (CD197 antigen) (CDw197)",
+        "gpcr_id": "CCR7; CMKBR7; EBI1; EVI1"
+    },
+    "P51685": {
+        "gpcr_class": "Chemokines and chemotactic factors receptors",
+        "gpcr_name": "C-C chemokine receptor type 8 (C-C CKR-8) (CCR-8) (GPR-CY6) (GPRCY6) (Chemokine receptor-like 1) (CKR-L1) (TER1)",
+        "gpcr_id": "CCR8; CMKBR8; CKRL1"
+    },
+    "P51686": {
+        "gpcr_class": "Chemokines and chemotactic factors receptors",
+        "gpcr_name": "C-C chemokine receptor type 9 (C-C CKR-9) (CCR-9) (GPR-9-6) (G-protein coupled receptor 28) (CDw199 antigen)",
+        "gpcr_id": "CCR9; GPR28"
+    },
+    "P46092": {
+        "gpcr_class": "Chemokines and chemotactic factors receptors",
+        "gpcr_name": "C-C chemokine receptor type 10 (C-C CKR-10) (CCR-10)",
+        "gpcr_id": "CCR10; GPR2"
+    },
+    "O00421": {
+        "gpcr_class": "Chemokines and chemotactic factors receptors",
+        "gpcr_name": "C-C chemokine receptor-like 2 (Putative MCP-1 chemokine receptor) (Chemokine receptor CCR11) (Chemokine receptor X)",
+        "gpcr_id": "CCRL2; CCR11; CCR6; CKRX; CRAM; HCR"
+    },
+    "P46094": {
+        "gpcr_class": "Chemokines and chemotactic factors receptors",
+        "gpcr_name": "Chemokine XC receptor 1 (XC chemokine receptor 1) (Lymphotactin receptor)",
+        "gpcr_id": "CCXCR1; XCR1; GPR5"
+    },
+    "P49238": {
+        "gpcr_class": "Chemokines and chemotactic factors receptors",
+        "gpcr_name": "CX3C chemokine receptor 1 (C-X3-C CKR-1) (CX3CR1) (Fractalkine receptor) (G-protein coupled receptor 13) (V28) (CMK-BRL-1)",
+        "gpcr_id": "CX3CR1; GPR13"
+    },
+    "P32238": {
+        "gpcr_class": "Cholecystokinin / gastrin receptors",
+        "gpcr_name": "Cholecystokinin type A (CCK-A-R)",
+        "gpcr_id": "CCKAR; CCKRA"
+    },
+    "P32239": {
+        "gpcr_class": "Cholecystokinin / gastrin receptors",
+        "gpcr_name": "Gastrin/cholecystokinin type B (CCK-B-R)",
+        "gpcr_id": "CCKBR; CCKRB"
+    },
+    "Q9Y271": {
+        "gpcr_class": "Cysteinyl leukotriene receptors",
+        "gpcr_name": "Cysteinyl leukotriene 1 (CysLTR1) (Cysteinyl leukotriene D4 receptor) (LTD4 receptor) (HG55) (HMTMF81)",
+        "gpcr_id": "CYSLTR1; CYSLT1"
+    },
+    "Q9NS75": {
+        "gpcr_class": "Cysteinyl leukotriene receptors",
+        "gpcr_name": "Cysteinyl leukotriene 2 (CysLTR2) (PSEC0146) (HG57) (HPN321)",
+        "gpcr_id": "CYSLTR2; CYSLT2; CYSLT2R"
+    },
+    "Q13304": {
+        "gpcr_class": "Cysteinyl leukotriene receptors",
+        "gpcr_name": "Uracil nucleotide/cysteinyl leukotriene receptor (UDP/CysLT receptor) (G-protein coupled receptor 17) (P2Y-like receptor) (R12)",
+        "gpcr_id": "GPR17"
+    },
+    "P21728": {
+        "gpcr_class": "Dopamine receptors",
+        "gpcr_name": "D(1A) dopamine",
+        "gpcr_id": "DRD1"
+    },
+    "P21918": {
+        "gpcr_class": "Dopamine receptors",
+        "gpcr_name": "D(1B) dopamine (D(5) dopamine)",
+        "gpcr_id": "DRD5; DRD1B"
+    },
+    "P14416": {
+        "gpcr_class": "Dopamine receptors",
+        "gpcr_name": "D(2) dopamine",
+        "gpcr_id": "DRD2"
+    },
+    "P35462": {
+        "gpcr_class": "Dopamine receptors",
+        "gpcr_name": "D(3) dopamine",
+        "gpcr_id": "DRD3"
+    },
+    "P21917": {
+        "gpcr_class": "Dopamine receptors",
+        "gpcr_name": "D(4) dopamine (D(2C) dopamine)",
+        "gpcr_id": "DRD4"
+    },
+    "Q8TDS5": {
+        "gpcr_class": "Eicosanoid receptors",
+        "gpcr_name": "Oxoeicosanoid receptor 1 (G-protein coupled receptor TG1019) (5-oxo-ETE G-protein coupled receptor) (G-protein coupled receptor 170) (G-protein coupled receptor R527)",
+        "gpcr_id": "OXER1; GPR170; TG1019"
+    },
+    "P25101": {
+        "gpcr_class": "Endothelin receptors",
+        "gpcr_name": "Endothelin-1 (ET-A)",
+        "gpcr_id": "EDNRA; ETRA"
+    },
+    "P24530": {
+        "gpcr_class": "Endothelin receptors",
+        "gpcr_name": "Endothelin B (ET-B) (Endothelin non-selective type)",
+        "gpcr_id": "EDNRB; ETRB"
+    },
+    "Q99527": {
+        "gpcr_class": "Estrogen receptors",
+        "gpcr_name": "G-protein coupled estrogen receptor 1 (Membrane estrogen receptor) (mER) (G-protein coupled receptor 30) (Chemokine receptor-like 2) (IL8-related receptor DRY12) (Flow-induced endothelial G-protein coupled receptor 1) (FEG-1) (Lymphocyte derived G-protein-coupled receptor) (LYGPR) (GPCR-BR)",
+        "gpcr_id": "GPER; GPR30; CMKRL2; DRY12; CEPR"
+    },
+    "O14842": {
+        "gpcr_class": "Free fatty acid receptors",
+        "gpcr_name": "Free fatty acid receptor 1 (G-protein coupled receptor 40)",
+        "gpcr_id": "FFAR1; GPR40"
+    },
+    "O15552": {
+        "gpcr_class": "Free fatty acid receptors",
+        "gpcr_name": "Free fatty acid receptor 2 (G-protein coupled receptor 43)",
+        "gpcr_id": "FFAR2; GPR43"
+    },
+    "O14843": {
+        "gpcr_class": "Free fatty acid receptors",
+        "gpcr_name": "Free fatty acid receptor 3 (G-protein coupled receptor 41)",
+        "gpcr_id": "FFAR3; GPR41"
+    },
+    "P23945": {
+        "gpcr_class": "Glycoprotein hormones receptors",
+        "gpcr_name": "Follicle-stimulating hormone (FSH-R) (Follitropin receptor)",
+        "gpcr_id": "FSHR; LGR1"
+    },
+    "P22888": {
+        "gpcr_class": "Glycoprotein hormones receptors",
+        "gpcr_name": "Lutropin-choriogonadotropic hormone (LH/CG-R) (LSH-R)",
+        "gpcr_id": "LHCGR; LHRHR; LGCR; LGR2"
+    },
+    "P16473": {
+        "gpcr_class": "Glycoprotein hormones receptors",
+        "gpcr_name": "Thyrotropin (TSH-R) (Thyroid-stimulating hormone)",
+        "gpcr_id": "TSHR; LGR3"
+    },
+    "P35367": {
+        "gpcr_class": "Histamine receptors",
+        "gpcr_name": "Histamine H1",
+        "gpcr_id": "HRH1"
+    },
+    "P25021": {
+        "gpcr_class": "Histamine receptors",
+        "gpcr_name": "Histamine H2 (Gastric receptor I)",
+        "gpcr_id": "HRH2"
+    },
+    "Q9Y5N1": {
+        "gpcr_class": "Histamine receptors",
+        "gpcr_name": "Histamine H3 receptor (HH3R)",
+        "gpcr_id": "HRH3; GPCR97"
+    },
+    "Q9H3N8": {
+        "gpcr_class": "Histamine receptors",
+        "gpcr_name": "Histamine H4 (HH4R) (GPRv53) (G-protein coupled receptor 105) (SP9144) (AXOR35)",
+        "gpcr_id": "HRH4; GPCR105"
+    },
+    "Q969F8": {
+        "gpcr_class": "Kisspeptins receptors",
+        "gpcr_name": "KiSS-1 receptor (KiSS-1R) (Kisspeptins receptor) (Metastin receptor) (G-protein coupled receptor 54 (Hypogonadotropin-1) (hOT7T175)",
+        "gpcr_id": "KISS1R; GPR54; AXOR12; OT7T175"
+    },
+    "Q96P68": {
+        "gpcr_class": "Krebs cycle intermediates receptors",
+        "gpcr_name": "2-oxoglutarate receptor 1 (Alpha-ketoglutarate receptor 1) (G-protein coupled receptor 80) (G-protein coupled receptor 99) (P2Y purinoceptor 15) (P2Y-like nucleotide receptor) (P2Y-like GPCR)",
+        "gpcr_id": "OXGR1; GPR80; GPR99; P2RY15; P2Y15"
+    },
+    "Q9BXA5": {
+        "gpcr_class": "Krebs cycle intermediates receptors",
+        "gpcr_name": "Succinate receptor 1 (G-protein coupled receptor 91) (P2Y purinoceptor 1-like)",
+        "gpcr_id": "SUCNR1; GPR91"
+    },
+    "Q92633": {
+        "gpcr_class": "Lysolipids receptors",
+        "gpcr_name": "Lysophosphatidic acid receptor 1 (LPA receptor 1) (LPA-1) (Lysophosphatidic acid receptor Edg-2)",
+        "gpcr_id": "LPAR1; EDG2; LPA1"
+    },
+    "Q9HBW0": {
+        "gpcr_class": "Lysolipids receptors",
+        "gpcr_name": "Lysophosphatidic acid receptor 2 (LPA receptor 2) (LPA-2) (Lysophosphatidic acid receptor Edg-4)",
+        "gpcr_id": "LPAR2; EDG4; LPA2"
+    },
+    "Q9UBY5": {
+        "gpcr_class": "Lysolipids receptors",
+        "gpcr_name": "Lysophosphatidic acid receptor 3 (LPA receptor 3) (LPA-3) (Lysophosphatidic acid receptor Edg-7)",
+        "gpcr_id": "LPAR3; EDG7; LPA3"
+    },
+    "Q99677": {
+        "gpcr_class": "Lysolipids receptors",
+        "gpcr_name": "Lysophosphatidic acid receptor 4 (LPA receptor 4) (LPA-4) (P2Y purinoceptor 9) (P2Y9) (Purinergic receptor 9) (G-protein coupled receptor 23) (P2Y5-like receptor)",
+        "gpcr_id": "LPAR4; GPR23; LPA4; P2RY9"
+    },
+    "Q9H1C0": {
+        "gpcr_class": "Lysolipids receptors",
+        "gpcr_name": "Lysophosphatidic acid receptor 5 (LPA receptor 5) (LPA-5) (G-protein coupled receptor 92)",
+        "gpcr_id": "LPAR5; GPR92; GPR93"
+    },
+    "P21453": {
+        "gpcr_class": "Lysolipids receptors",
+        "gpcr_name": "Sphingosine 1-phosphate receptor 1 (S1P receptor 1) (S1P1) (Sphingosine 1-phosphate receptor Edg-1) (S1P receptor Edg-1) (Endothelial differentiation G-protein coupled receptor 1)",
+        "gpcr_id": "S1PR1; EDG1"
+    },
+    "O95136": {
+        "gpcr_class": "Lysolipids receptors",
+        "gpcr_name": "Sphingosine 1-phosphate receptor 2 (S1P receptor 2) (S1P2) (Sphingosine 1-phosphate receptor Edg-5) (S1P receptor Edg-5) (Endothelial differentiation G-protein coupled receptor 5)",
+        "gpcr_id": "S1PR2; EDG5"
+    },
+    "Q99500": {
+        "gpcr_class": "Lysolipids receptors",
+        "gpcr_name": "Sphingosine 1-phosphate receptor 3 (S1P receptor 3) (S1P3) (Sphingosine 1-phosphate receptor Edg-3) (S1P receptor Edg-3) (Endothelial differentiation G-protein coupled receptor 3)",
+        "gpcr_id": "S1PR3; EDG3"
+    },
+    "O95977": {
+        "gpcr_class": "Lysolipids receptors",
+        "gpcr_name": "Sphingosine 1-phosphate receptor 4 (S1P receptor 4) (S1P4) (Sphingosine 1-phosphate receptor Edg-6) (S1P receptor Edg-6) (Endothelial differentiation G-protein coupled receptor 6)",
+        "gpcr_id": "S1PR4; EDG6"
+    },
+    "Q9H228": {
+        "gpcr_class": "Lysolipids receptors",
+        "gpcr_name": "Sphingosine 1-phosphate receptor 5 (S1P receptor 5) (S1P5) (Sphingosine 1-phosphate receptor Edg-8) (S1P receptor Edg-8) (Endothelial differentiation G-protein-coupled receptor 8)",
+        "gpcr_id": "S1PR5; EDG8"
+    },
+    "P46095": {
+        "gpcr_class": "Lysolipids receptors",
+        "gpcr_name": "G-protein coupled receptor 6 (Sphingosine 1-phosphate receptor GPR6)",
+        "gpcr_id": "GPR6"
+    },
+    "P43657": {
+        "gpcr_class": "Lysolipids receptors",
+        "gpcr_name": "Oleoyl-L-alpha-lysophosphatidic acid receptor (P2Y purinoceptor 5) (P2Y5) (RB intron encoded)",
+        "gpcr_id": "LPAR6; P2RY5"
+    },
+    "Q8IYL9": {
+        "gpcr_class": "Lysolipids receptors",
+        "gpcr_name": "Psychosine receptor (G-protein coupled receptor 65) (T cell-death associated protein 8)",
+        "gpcr_id": "GPR65; TDAG8"
+    },
+    "Q8TDV5": {
+        "gpcr_class": "Lysolipids receptors",
+        "gpcr_name": "Glucose-dependent insulinotropic receptor (G-protein coupled receptor 119)",
+        "gpcr_id": "GPR119"
+    },
+    "Q99705": {
+        "gpcr_class": "Melanin-concentrating hormone receptors",
+        "gpcr_name": "Melanin-concentrating hormone receptor 1 (MCH receptor 1) (MCHR-1) (MCH-R1) (MCH1R) (MCH-1R) (MCHR) (G protein coupled receptor 24) (Somatostatin receptor-like protein) (SLC-1)",
+        "gpcr_id": "MCHR1; GPR24; SLC1"
+    },
+    "Q969V1": {
+        "gpcr_class": "Melanin-concentrating hormone receptors",
+        "gpcr_name": "Melanin-concentrating hormone receptor 2 (MCH receptor 2) (MCHR-2) (MCH-R2) (MCH2R) (MCH-2R) (MCH2) (G protein coupled receptor 145) (GPRv17)",
+        "gpcr_id": "MCHR2; GPR145; ; SLT"
+    },
+    "Q01718": {
+        "gpcr_class": "Melanocortins receptors",
+        "gpcr_name": "Adrenocorticotropic hormone (ACTH-R) (MC2-R)",
+        "gpcr_id": "MC2R; ACTHR"
+    },
+    "Q01726": {
+        "gpcr_class": "Melanocortins receptors",
+        "gpcr_name": "Melanocyte-stimulating hormone (MSH-R) (Melanotropin receptor) (Melanocortin receptor 1) (MC1-R)",
+        "gpcr_id": "MC1R; MSHR"
+    },
+    "P41968": {
+        "gpcr_class": "Melanocortins receptors",
+        "gpcr_name": "Melanocortin 3 (MC3-R)",
+        "gpcr_id": "MC3R"
+    },
+    "P32245": {
+        "gpcr_class": "Melanocortins receptors",
+        "gpcr_name": "Melanocortin 4 (MC4-R)",
+        "gpcr_id": "MC4R"
+    },
+    "P33032": {
+        "gpcr_class": "Melanocortins receptors",
+        "gpcr_name": "Melanocortin 5 (MC5-R) (MC-2)",
+        "gpcr_id": "MC5R"
+    },
+    "P48039": {
+        "gpcr_class": "Melanotonin receptors",
+        "gpcr_name": "Melatonin type 1A (Mel-1A-R)",
+        "gpcr_id": "MTNR1A"
+    },
+    "P49286": {
+        "gpcr_class": "Melanotonin receptors",
+        "gpcr_name": "Melatonin type 1B (Mel-1B-R)",
+        "gpcr_id": "MTNR1B"
+    },
+    "Q13585": {
+        "gpcr_class": "Melanotonin receptors",
+        "gpcr_name": "Melatonin-related (G protein-coupled receptor 50)",
+        "gpcr_id": "GPR50"
+    },
+    "Q9HB89": {
+        "gpcr_class": "Neuromedin U receptors",
+        "gpcr_name": "Neuromedin-U receptor 1 (NMU-R1) (G-protein coupled receptor 66) (G protein-coupled receptor FM-3)",
+        "gpcr_id": "NMUR1; GPR66"
+    },
+    "Q9GZQ4": {
+        "gpcr_class": "Neuromedin U receptors",
+        "gpcr_name": "Neuromedin-U receptor 2 (NMU-R2) (G-protein coupled receptor TGR-1) (G-protein coupled receptor FM-4)",
+        "gpcr_id": "NMUR2; TGR1"
+    },
+    "P48145": {
+        "gpcr_class": "Neuropeptides B/W receptors",
+        "gpcr_name": "Neuropeptides B/W receptor type 1 (G-protein coupled receptor 7)",
+        "gpcr_id": "NPBWR1; GPR7"
+    },
+    "P48146": {
+        "gpcr_class": "Neuropeptides B/W receptors",
+        "gpcr_name": "Neuropeptides B/W receptor type 2 (G-protein coupled receptor 8)",
+        "gpcr_id": "NPBWR2; GPR8"
+    },
+    "Q9GZQ6": {
+        "gpcr_class": "Neuropeptide FF receptors",
+        "gpcr_name": "Neuropeptide FF receptor 1 (G-protein coupled receptor 147) (RFamide-related peptide receptor OT7T022)",
+        "gpcr_id": "NPFFR1; GPR147; NPFF1"
+    },
+    "Q9Y5X5": {
+        "gpcr_class": "Neuropeptide FF receptors",
+        "gpcr_name": "Neuropeptide FF receptor 2 (G-protein coupled receptor 74)",
+        "gpcr_id": "NPFFR2; GPR74; NPGPR; NPFF2"
+    },
+    "Q6W5P4": {
+        "gpcr_class": "Neuropeptide S receptor",
+        "gpcr_name": "Neuropeptide S receptor (G-protein coupled receptor 154) (G-protein coupled receptor for asthma susceptibility) (G-protein coupled receptor PGR14)",
+        "gpcr_id": "NPSR1; GPR154; GPRA; PGR14"
+    },
+    "P25929": {
+        "gpcr_class": "Neuropeptide Y receptors",
+        "gpcr_name": "Neuropeptide Y type 1 (NPY1-R)",
+        "gpcr_id": "NPY1R; NPYR; NPYY1"
+    },
+    "P49146": {
+        "gpcr_class": "Neuropeptide Y receptors",
+        "gpcr_name": "Neuropeptide Y type 2 (NPY2-R)",
+        "gpcr_id": "NPY2R"
+    },
+    "P50391": {
+        "gpcr_class": "Neuropeptide Y receptors",
+        "gpcr_name": "Neuropeptide Y type 4 (NPY4-R)",
+        "gpcr_id": "PPYR1; NPY4R"
+    },
+    "Q15761": {
+        "gpcr_class": "Neuropeptide Y receptors",
+        "gpcr_name": "Neuropeptide Y type 5 (NPY5-R)",
+        "gpcr_id": "NPY5R; NPYR5"
+    },
+    "Q99463": {
+        "gpcr_class": "Neuropeptide Y receptors",
+        "gpcr_name": "Putative neuropeptide Y type 6 (NPY6-R) (Pancreatic polypeptide receptor 2) (PP2)",
+        "gpcr_id": "NPY6R; NPY1RL; Y2B"
+    },
+    "P30989": {
+        "gpcr_class": "Neurotensin receptors",
+        "gpcr_name": "Neurotensin type 1 (NT-R-1)",
+        "gpcr_id": "NTSR1; NTRR"
+    },
+    "O95665": {
+        "gpcr_class": "Neurotensin receptors",
+        "gpcr_name": "Neurotensin type 2 (NT-R-2)",
+        "gpcr_id": "NTSR2"
+    },
+    "Q9BXC0": {
+        "gpcr_class": "Nicotinic acid receptors",
+        "gpcr_name": "G-protein coupled receptor 81 (G-protein coupled receptor 104)",
+        "gpcr_id": "GPR81; GPR104; FKSG80"
+    },
+    "Q8TDS4": {
+        "gpcr_class": "Nicotinic acid receptors",
+        "gpcr_name": "G-protein coupled receptor 109A (Niacin receptor 1) (Nicotinic acid receptor) (G-protein coupled receptor HM74A)",
+        "gpcr_id": "GPR109A; NIACR1"
+    },
+    "P49019": {
+        "gpcr_class": "Nicotinic acid receptors",
+        "gpcr_name": "G-protein coupled receptor 109B (Niacin receptor 2) (Nicotinic acid receptor 2) (G-protein coupled receptor HM74) (G-protein coupled receptor HM74B)",
+        "gpcr_id": "NIACR2; GPR109B"
+    },
+    "Q9P1Q5": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 1A1 (Olfactory receptor OR17-11) (Olfactory receptor 17-7) (OR17-7)",
+        "gpcr_id": "OR1A1"
+    },
+    "Q9Y585": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 1A2 (Olfactory receptor OR17-10) (Olfactory receptor 17-6) (OR17-6)",
+        "gpcr_id": "OR1A2"
+    },
+    "Q8NGR6": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 1B1 (Olfactory receptor OR9-26) (Olfactory receptor 9-B) (OR9-B)",
+        "gpcr_id": "OR1B1"
+    },
+    "Q15619": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 1C1 (Olfactory receptor OR1-42) (Olfactory receptor TPCR27)",
+        "gpcr_id": "OR1C1"
+    },
+    "P34982": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 1D2 (Olfactory receptor OR17-6) (Olfactory receptor-like protein HGMP07E) (Olfactory receptor 17-4) (OR17-4)",
+        "gpcr_id": "OR1D2; OLFR1"
+    },
+    "P47884": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 1D4 (Olfactory receptor 17-30) (OR17-30)",
+        "gpcr_id": "OR1D4"
+    },
+    "P58170": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 1D5 (Olfactory receptor 17-31) (OR17-31)",
+        "gpcr_id": "OR1D5"
+    },
+    "P30953": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 1E1 (Olfactory receptor OR17-18) (Olfactory receptor-like protein HGMP07I) (Olfactory receptor 17-2/17-32) (OR17-2) (OR17-32)",
+        "gpcr_id": "OR1E1; OR1E5; OR1E6; OR1E9P"
+    },
+    "P47887": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 1E2 (Olfactory receptor 17-93/17-135/17-136) (OR17-93) (OR17-135) (OR17-136)",
+        "gpcr_id": "OR1E2; OR1E4"
+    },
+    "Q8WZA6": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 1E3 (Olfactory receptor OR17-7) (Olfactory receptor 17-210) (OR17-210)",
+        "gpcr_id": "OR1E3; OR1E3P"
+    },
+    "O43749": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 1F1 (Olfactory receptor OR16-4) (Olfactory receptor 16-35) (OR16-35)",
+        "gpcr_id": "OR1F1; OLFMF; OR1F4; OR1F5; OR1F6; OR1F7; OR1F8; OR1F9; OR1F10"
+    },
+    "Q96R84": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 1F2 (OLFmf2)",
+        "gpcr_id": "OR1F2"
+    },
+    "Q8NHA8": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 1F12 (Hs6M1-35P)",
+        "gpcr_id": "OR1F12P; OR1F12P"
+    },
+    "P47890": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 1G1 (Olfactory receptor OR17-8) (Olfactory receptor 17-209) (OR17-209)",
+        "gpcr_id": "OR1G1; OR1G2"
+    },
+    "O60431": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 1I1 (Olfactory receptor 19-20) (OR19-20)",
+        "gpcr_id": "OR1I1"
+    },
+    "Q8NGS3": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 1J1 (Olfactory receptor OR9-18)",
+        "gpcr_id": "OR1J1"
+    },
+    "Q8NGS2": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 1J2 (Olfactory receptor OR9-19) (OST044) (HSA5) (HTPCRX15)",
+        "gpcr_id": "OR1J2; OR1J3; OR1J5"
+    },
+    "Q8NGS1": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 1J4 (Olfactory receptor OR9-21) (HTPCRX01)",
+        "gpcr_id": "OR1J4"
+    },
+    "Q8NGR3": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 1K1",
+        "gpcr_id": "OR1K1"
+    },
+    "Q8NH94": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 1L1 (Olfactory receptor OR9-27) (Olfactory receptor 9-C) (OR9-C)",
+        "gpcr_id": "OR1L1; OR1L2"
+    },
+    "Q8NH93": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 1L3 (Olfactory receptor OR9-28) (Olfactory receptor 9-D) (OR9-D)",
+        "gpcr_id": "OR1L3"
+    },
+    "Q8NGR5": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 1L4 (Olfactory receptor OR9-29) (Olfactory receptor 9-E) (OR9-E) (OST046)",
+        "gpcr_id": "OR1L4; OR1L5"
+    },
+    "Q8NGR2": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 1L6 (Olfactory receptor OR9-30)",
+        "gpcr_id": "OR1L6; OR1L7"
+    },
+    "Q8NGR8": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 1L8 (Olfactory receptor OR9-24)",
+        "gpcr_id": "OR1L8"
+    },
+    "Q8NGA1": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 1M1 (Olfactory receptor OR19-5) (Olfactory receptor 19-6) (OR19-6)",
+        "gpcr_id": "OR1M1"
+    },
+    "Q8NGS0": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 1N1 (Olfactory receptor OR9-22) (Olfactory receptor 1-26) (OR1-26)",
+        "gpcr_id": "OR1N1; OR1N3"
+    },
+    "Q8NGR9": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 1N2 (Olfactory receptor OR9-23)",
+        "gpcr_id": "OR1N2"
+    },
+    "Q8NH06": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 1P1 (Olfactory receptor 17-208) (OR17-208) (Olfactory receptor OR17-9)",
+        "gpcr_id": "OR1P1; OR1P1P"
+    },
+    "Q15612": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 1Q1 (Olfactory receptor OR9-25) (Olfactory receptor TPCR106) (Olfactory receptor 9-A) (OR9-A) (OST226)",
+        "gpcr_id": "OR1Q1; OR1Q2; OR1Q3"
+    },
+    "Q8NH92": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 1S1 (Olfactory receptor OR11-232)",
+        "gpcr_id": "OR1S1"
+    },
+    "Q8NGQ3": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 1S2 (Olfactory receptor OR11-231)",
+        "gpcr_id": "OR1S2"
+    },
+    "Q8NGT9": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 2A1/2A42 (Olfactory receptor OR7-16) (Olfactory receptor OR7-19)",
+        "gpcr_id": "OR2A1; OR2A42"
+    },
+    "Q6IF42": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 2A2 (Olfactory receptor OR7-11)",
+        "gpcr_id": "OR2A2; OR2A17P; OR2A2P"
+    },
+    "O95047": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 2A4 (Olfactory receptor OR6-37)",
+        "gpcr_id": "OR2A4; OR2A10"
+    },
+    "Q96R48": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 2A5 (Olfactory receptor 7-138/7-141) (OR7-138) (OR7-141)",
+        "gpcr_id": "OR2A5; OR2A26; OR2A8"
+    },
+    "Q96R45": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 2A7 (Olfactory receptor OR7-18)",
+        "gpcr_id": "OR2A7"
+    },
+    "Q8NGT7": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 2A12 (Olfactory receptor OR7-10)",
+        "gpcr_id": "OR2A12; OR2A12P"
+    },
+    "Q96R47": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 2A14 (Olfactory receptor OR7-12) (OST182)",
+        "gpcr_id": "OR2A14; OR2A14P; OR2A6"
+    },
+    "A4D2G3": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 2A25",
+        "gpcr_id": "OR2A25; OR2A25P; OR2A27"
+    },
+    "Q8NHA4": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 2AE1",
+        "gpcr_id": "OR2AE1; OR2AE2"
+    },
+    "Q9H205": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 2AG1 (Olfactory receptor OR11-79) (HT3)",
+        "gpcr_id": "OR2AG1; OR2AG3"
+    },
+    "A6NM03": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 2AG2",
+        "gpcr_id": "OR2AG2; OR2AG2P"
+    },
+    "Q8NGZ0": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 2AJ1",
+        "gpcr_id": "OR2AJ1; OR2AJ1P"
+    },
+    "Q8NG84": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 2AK2",
+        "gpcr_id": "OR2AK2; OR2AK1P"
+    },
+    "Q8NGE2": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 2AP1 (Olfactory receptor OR12-9)",
+        "gpcr_id": "OR2AP1; OR2AP1P"
+    },
+    "A6NND4": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 2AT4 (Olfactory receptor OR11-265)",
+        "gpcr_id": "OR2AT4"
+    },
+    "Q9GZK3": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 2B2 (Olfactory receptor 6-1) (OR6-1) (Hs6M1-10)",
+        "gpcr_id": "OR2B2; OR2B9"
+    },
+    "O76000": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 2B3 (Olfactory receptor OR6-14) (Olfactory receptor 6-4) (OR6-4) (Hs6M1-1)",
+        "gpcr_id": "OR2B3; OR2B3P"
+    },
+    "P58173": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 2B6 (Olfactory receptor OR6-4) (Olfactory receptor 6-31) (OR6-31) (Hs6M1-32) (Olfactory receptor 5-40) (OR5-40)",
+        "gpcr_id": "OR2B6; OR2B1; OR2B1P; OR2B5; OR2B6P"
+    },
+    "P59922": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 2B8 (Hs6M1-29P)",
+        "gpcr_id": "OR2B8P; OR2B8"
+    },
+    "Q5JQS5": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 2B11",
+        "gpcr_id": "OR2B1"
+    },
+    "O95371": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 2C1 (Olfactory receptor OR16-1) (OLFmf3)",
+        "gpcr_id": "OR2C1; OR2C2P"
+    },
+    "Q8N628": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 2C3 (Olfactory receptor OR1-30)",
+        "gpcr_id": "OR2C3; OR2C4; OR2C5P"
+    },
+    "Q9H210": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 2D2 (Olfactory receptor OR11-88) (Olfactory receptor 11-610) (OR11-610) (HB2)",
+        "gpcr_id": "OR2D2; OR2D1"
+    },
+    "Q8NGH3": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 2D3 (Olfactory receptor OR11-89)",
+        "gpcr_id": "OR2D3"
+    },
+    "Q13607": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 2F1 (Olfactory receptor-like protein OLF3)",
+        "gpcr_id": "OR2F1; OLF3; OR2F3; OR2F3P; OR2F4; OR2F5"
+    },
+    "O95006": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 2F2 (Olfactory receptor OR7-6) (Olfactory receptor 7-1) (OR7-1)",
+        "gpcr_id": "OR2F2"
+    },
+    "Q8NGZ5": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 2G2",
+        "gpcr_id": "OR2G2"
+    },
+    "Q8NGZ4": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 2G3",
+        "gpcr_id": "OR2G3"
+    },
+    "Q5TZ20": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 2G6",
+        "gpcr_id": "OR2G6"
+    },
+    "Q9GZK4": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 2H1 (Olfactory receptor OR6-32) (Hs6M1-16) (Olfactory receptor 6-2) (OR6-2) (OLFR42A-9004.14/9026.2)",
+        "gpcr_id": "OR2H1; OR2H6; OR2H8"
+    },
+    "O95918": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 2H2 (Hs6M1-12) (Olfactory receptor-like protein FAT11)",
+        "gpcr_id": "OR2H2; FAT11; OLFR2; OR2H3"
+    },
+    "Q8NGU4": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 2I1",
+        "gpcr_id": "OR2I1P; OR2I2; OR2I3P; OR2I4P"
+    },
+    "Q9GZK6": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 2J1 (Olfactory receptor 6-5) (OR6-5) (Hs6M1-4)",
+        "gpcr_id": "OR2J1; OR2J1P"
+    },
+    "O76002": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 2J2 (Olfactory receptor OR6-19) (Olfactory receptor 6-8) (OR6-8) (Hs6M1-6)",
+        "gpcr_id": "OR2J2"
+    },
+    "O76001": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 2J3 (Olfactory receptor OR6-16) (Olfactory receptor 6-6) (OR6-6) (Hs6M1-3)",
+        "gpcr_id": "OR2J3"
+    },
+    "Q8NGT1": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 2K2 (Olfactory receptor OR9-17) (HTPCRH06)",
+        "gpcr_id": "OR2K2; OR2AR1P"
+    },
+    "Q8NH16": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 2L2 (HTPCRH07)",
+        "gpcr_id": "OR2L2; OR2L4P; OR2L12"
+    },
+    "Q8NG85": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 2L3",
+        "gpcr_id": "OR2L3"
+    },
+    "Q8NG80": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 2L5 (Olfactory receptor OR1-53)",
+        "gpcr_id": "OR2L5; OR2L11"
+    },
+    "Q8NGY9": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 2L8 (Olfactory receptor OR1-46)",
+        "gpcr_id": "OR2L8"
+    },
+    "Q8N349": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 2L13",
+        "gpcr_id": "OR2L13; OR2L14"
+    },
+    "Q96R28": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 2M2 (OST423)",
+        "gpcr_id": "OR2M2"
+    },
+    "Q8NG83": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 2M3 (Olfactory receptor OR1-54)",
+        "gpcr_id": "OR2M3; OR2M3P; OR2M6"
+    },
+    "Q96R27": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 2M4 (Olfactory receptor OR1-55) (Olfactory receptor TPCR100) (OST710) (HTPCRX18)",
+        "gpcr_id": "OR2M4"
+    },
+    "A3KFT3": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 2M5",
+        "gpcr_id": "OR2M5"
+    },
+    "Q8NG81": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 2M7",
+        "gpcr_id": "OR2M7"
+    },
+    "Q9NQN1": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 2S2",
+        "gpcr_id": "OR2S2"
+    },
+    "O43869": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 2T1 (Olfactory receptor OR1-61) (Olfactory receptor 1-25) (OR1-25)",
+        "gpcr_id": "OR2T1"
+    },
+    "Q6IF00": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 2T2 (Olfactory receptor OR1-43)",
+        "gpcr_id": "OR2T2; OR2T2P"
+    },
+    "Q8NH03": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 2T3",
+        "gpcr_id": "OR2T3"
+    },
+    "Q8NH00": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 2T4 (Olfactory receptor OR1-60)",
+        "gpcr_id": "OR2T4"
+    },
+    "Q6IEZ7": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 2T5 (Olfactory receptor OR1-62)",
+        "gpcr_id": "OR2T5"
+    },
+    "Q8NHC8": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 2T6 (OST703)",
+        "gpcr_id": "OR2T6; OR2T6P; OR2T9"
+    },
+    "P0C7T2": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 2T7 (Olfactory receptor OR1-44) (OST723)",
+        "gpcr_id": "OR2T7; OR2T7P"
+    },
+    "A6NH00": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 2T8",
+        "gpcr_id": "OR2T8; OR2T8P"
+    },
+    "Q8NGZ9": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 2T10 (Olfactory receptor OR1-64)",
+        "gpcr_id": "OR2T10"
+    },
+    "Q8NH01": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 2T11",
+        "gpcr_id": "OR2T11"
+    },
+    "Q8NG77": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 2T12 (Olfactory receptor OR1-57)",
+        "gpcr_id": "OR2T12"
+    },
+    "Q8NH04": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 2T27 (Olfactory receptor OR1-67)",
+        "gpcr_id": "OR2T27"
+    },
+    "Q8NH02": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 2T29",
+        "gpcr_id": "OR2T29"
+    },
+    "Q8NG76": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 2T33 (Olfactory receptor OR1-56)",
+        "gpcr_id": "OR2T33"
+    },
+    "Q8NGX1": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 2T34 (Olfactory receptor OR1-63)",
+        "gpcr_id": "OR2T34"
+    },
+    "Q8NGX2": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 2T35 (Olfactory receptor OR1-66)",
+        "gpcr_id": "OR2T35"
+    },
+    "Q8NHB1": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 2V1",
+        "gpcr_id": "OR2V1"
+    },
+    "Q96R30": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 2V2",
+        "gpcr_id": "OR2V2; OR2V3"
+    },
+    "Q9Y3N9": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 2W1 (Olfactory receptor OR6-13) (Hs6M1-15)",
+        "gpcr_id": "OR2W1"
+    },
+    "Q7Z3T1": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 2W3",
+        "gpcr_id": "OR2W3; OR2W3P; OR2W8P"
+    },
+    "A6NFC9": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Putative olfactory receptor 2W5",
+        "gpcr_id": "OR2W5; OR2W5P"
+    },
+    "Q8NHA6": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 2W6 (Olfactory receptor OR6-3)",
+        "gpcr_id": "OR2W6P; OR2W7P"
+    },
+    "Q8NGV0": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 2Y1",
+        "gpcr_id": "OR2Y1"
+    },
+    "Q8NG97": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 2Z1",
+        "gpcr_id": "OR2Z1; OR2Z2"
+    },
+    "P47881": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 3A1 (Olfactory receptor OR17-15) (Olfactory receptor 17-40) (OR17-40)",
+        "gpcr_id": "OR3A1; OLFRA03"
+    },
+    "P47893": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 3A2 (Olfactory receptor OR17-14) (Olfactory receptor 17-228) (OR17-228)",
+        "gpcr_id": "OR3A2; OLFRA04"
+    },
+    "P47888": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 3A3 (Olfactory receptor OR17-22) (Olfactory receptor 17-201) (OR17-201)",
+        "gpcr_id": "OR3A3; OR3A6; OR3A7; OR3A8P"
+    },
+    "P47883": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 3A4 (Olfactory receptor 17-24) (OR17-24)",
+        "gpcr_id": "OR3A4; OR3A4P; OR3A5P"
+    },
+    "Q8NGN8": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 4A4 (Olfactory receptor OR11-107)",
+        "gpcr_id": "OR4A4P"
+    },
+    "Q8NH83": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 4A5 (Olfactory receptor OR11-111)",
+        "gpcr_id": "OR4A5"
+    },
+    "P0C604": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Putative olfactory receptor 4A8 (Olfactory receptor OR11-110)",
+        "gpcr_id": "OR4A8P; OR4A8"
+    },
+    "Q8NGL6": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 4A15 (Olfactory receptor OR11-118)",
+        "gpcr_id": "OR4A15"
+    },
+    "Q8NH70": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 4A16 (Olfactory receptor OR11-117)",
+        "gpcr_id": "OR4A16"
+    },
+    "Q6IF82": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 4A47 (Olfactory receptor OR11-113)",
+        "gpcr_id": "OR4A47"
+    },
+    "Q8NGF8": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 4B1 (Olfactory receptor OR11-106) (OST208)",
+        "gpcr_id": "OR4B1"
+    },
+    "Q8NH37": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 4C3 (Olfactory receptor OR11-98)",
+        "gpcr_id": "OR4C3"
+    },
+    "Q8NGB2": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 4C5 (Olfactory receptor OR11-99)",
+        "gpcr_id": "OR4C5"
+    },
+    "Q8NH72": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 4C6 (Olfactory receptor OR11-138)",
+        "gpcr_id": "OR4C6"
+    },
+    "Q6IEV9": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 4C11 (Olfactory receptor OR11-136)",
+        "gpcr_id": "OR4C11; OR4C11P"
+    },
+    "Q96R67": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 4C12 (Olfactory receptor OR11-259)",
+        "gpcr_id": "OR4C12"
+    },
+    "Q8NGP0": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 4C13 (Olfactory receptor OR11-260)",
+        "gpcr_id": "OR4C13"
+    },
+    "Q8NGM1": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 4C15 (Olfactory receptor OR11-127) (Olfactory receptor OR11-134)",
+        "gpcr_id": "OR4C15"
+    },
+    "Q8NGL9": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 4C16 (Olfactory receptor OR11-135)",
+        "gpcr_id": "OR4C16"
+    },
+    "A6NMZ5": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 4C45",
+        "gpcr_id": "OR4C45"
+    },
+    "A6NHA9": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 4C46",
+        "gpcr_id": "OR4C46"
+    },
+    "Q15615": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 4D1 (Olfactory receptor TPCR16)",
+        "gpcr_id": "OR4D1; OR4D3"
+    },
+    "P58180": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 4D2 (Olfactory receptor OR17-24) (B-lymphocyte membrane protein BC2009)",
+        "gpcr_id": "OR4D2"
+    },
+    "Q8NGN0": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 4D5 (Olfactory receptor OR11-276)",
+        "gpcr_id": "OR4D5"
+    },
+    "Q8NGJ1": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 4D6 (Olfactory receptor OR11-250)",
+        "gpcr_id": "OR4D6"
+    },
+    "Q8NGE8": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 4D9 (Olfactory receptor OR11-253)",
+        "gpcr_id": "OR4D9"
+    },
+    "Q8NGI6": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 4D10 (Olfactory receptor OR11-251)",
+        "gpcr_id": "OR4D10; OR4D10P"
+    },
+    "Q8NGI4": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 4D11",
+        "gpcr_id": "OR4D11; OR4D11P"
+    },
+    "P0C645": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 4E1 (Olfactory receptor OR14-43)",
+        "gpcr_id": "OR4E1; OR4E1P"
+    },
+    "Q8NGC2": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 4E2 (Olfactory receptor OR14-42)",
+        "gpcr_id": "OR4E2"
+    },
+    "Q6IEY1": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 4F3/4F16/4F29 (Olfactory receptor OR1-1)",
+        "gpcr_id": "OR4F3; OR4F16; OR4F29"
+    },
+    "Q96R69": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 4F4 (Olfactory receptor OR19-3) (HS14a-1-A)",
+        "gpcr_id": "OR4F4"
+    },
+    "Q8NH21": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 4F5",
+        "gpcr_id": "OR4F5"
+    },
+    "Q8NGB9": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 4F6 (Olfactory receptor OR15-15)",
+        "gpcr_id": "OR4F6; OR4F12"
+    },
+    "Q8NGB8": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 4F15 (Olfactory receptor OR15-14)",
+        "gpcr_id": "OR4F15"
+    },
+    "Q8NGA8": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 4F17",
+        "gpcr_id": "OR4F17; OR4F11P; ORF4F18; OR4F19"
+    },
+    "O95013": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 4F21",
+        "gpcr_id": "OR4F21; OR4F21P"
+    },
+    "Q8NGD4": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 4K1 (Olfactory receptor OR14-19)",
+        "gpcr_id": "OR4K1"
+    },
+    "Q8NGD2": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 4K2 (Olfactory receptor OR14-15)",
+        "gpcr_id": "OR4K2"
+    },
+    "Q96R72": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 4K3 (Olfactory receptor OR14-14)",
+        "gpcr_id": "OR4K3; OR4K3P"
+    },
+    "Q8NGD3": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 4K5 (Olfactory receptor OR14-16)",
+        "gpcr_id": "OR4K5"
+    },
+    "Q8NH42": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 4K13 (Olfactory receptor OR14-27)",
+        "gpcr_id": "OR4K13"
+    },
+    "Q8NGD5": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 4K14 (Olfactory receptor OR14-22)",
+        "gpcr_id": "OR4K14"
+    },
+    "Q8NH41": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 4K15 (Olfactory receptor OR14-20)",
+        "gpcr_id": "OR4K15"
+    },
+    "Q8NGC6": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 4K17 (Olfactory receptor OR14-29)",
+        "gpcr_id": "OR4K17"
+    },
+    "Q8NH43": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 4L1 (Olfactory receptor OR14-28)",
+        "gpcr_id": "OR4L1; OR4L2P"
+    },
+    "Q8NGD0": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 4M1 (Olfactory receptor OR14-7)",
+        "gpcr_id": "OR4M1"
+    },
+    "Q8NGB6": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 4M2 (Olfactory receptor OR15-3)",
+        "gpcr_id": "OR4M2"
+    },
+    "Q8NGD1": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 4N2 (Olfactory receptor OR14-8) (Olfactory receptor OR14-13)",
+        "gpcr_id": "OR4N2"
+    },
+    "Q8N0Y3": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 4N4 (Olfactory receptor OR15-1) (Olfactory receptor OR15-5)",
+        "gpcr_id": "OR4N4"
+    },
+    "Q8IXE1": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 4N5 (Olfactory receptor OR14-33)",
+        "gpcr_id": "OR4N5"
+    },
+    "Q8NGL7": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 4P4",
+        "gpcr_id": "OR4P4; OR4P3P"
+    },
+    "P0C623": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 4Q2 (Olfactory receptor OR14-21)",
+        "gpcr_id": "OR4Q2; OR4Q2P"
+    },
+    "Q8NH05": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 4Q3 (Olfactory receptor OR14-3)",
+        "gpcr_id": "OR4Q3; OR4Q4; C14orf13"
+    },
+    "Q8NGB4": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 4S1 (Olfactory receptor OR11-100)",
+        "gpcr_id": "OR4S1"
+    },
+    "Q8NH73": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 4S2 (Olfactory receptor OR11-137)",
+        "gpcr_id": "OR4S2; OR4S2P"
+    },
+    "Q8NH49": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 4X1 (Olfactory receptor OR11-104)",
+        "gpcr_id": "OR4X1"
+    },
+    "Q8NGF9": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 4X2 (Olfactory receptor OR11-105)",
+        "gpcr_id": "OR4X2"
+    },
+    "Q8NGJ0": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 5A1 (Olfactory receptor OR11-249) (OST181)",
+        "gpcr_id": "OR5A1; OR5A1P"
+    },
+    "Q8NGI9": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 5A2 (Olfactory receptor OR11-248)",
+        "gpcr_id": "OR5A2"
+    },
+    "P0C628": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 5AC1 (Olfactory receptor OR3-2)",
+        "gpcr_id": "OR5AC1; OR5AC1P"
+    },
+    "Q9NZP5": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 5AC2 (HSA1)",
+        "gpcr_id": "OR5AC2"
+    },
+    "Q8NH90": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 5AK2",
+        "gpcr_id": "OR5AK2"
+    },
+    "Q8NH89": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 5AK3",
+        "gpcr_id": "OR5AK3P; OR5AK3"
+    },
+    "P0C617": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 5AL1 (Olfactory receptor OR11-184)",
+        "gpcr_id": "OR5AL1; OR5AL1P"
+    },
+    "Q8NGI8": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 5AN1 (Olfactory receptor OR11-244)",
+        "gpcr_id": "OR5AN1"
+    },
+    "Q8NGF4": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 5AP2",
+        "gpcr_id": "OR5AP2"
+    },
+    "Q8NGP9": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 5AR1 (Olfactory receptor OR11-209)",
+        "gpcr_id": "OR5AR1"
+    },
+    "Q8N127": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 5AS1 (Olfactory receptor OR11-168)",
+        "gpcr_id": "OR5AS1"
+    },
+    "Q8NGC0": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 5AU1 (Olfactory receptor OR14-38)",
+        "gpcr_id": "OR5AU1"
+    },
+    "Q96R09": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 5B2 (Olfactory receptor OR11-240) (OST073)",
+        "gpcr_id": "OR5B2"
+    },
+    "Q8NH48": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 5B3 (Olfactory receptor OR11-239)",
+        "gpcr_id": "OR5B3; OR5B13"
+    },
+    "Q96R08": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 5B12 (Olfactory receptor OR11-241)",
+        "gpcr_id": "OR5B12; OR5B12P; OR5B16"
+    },
+    "Q8NGF7": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 5B17 (Olfactory receptor OR11-237)",
+        "gpcr_id": "OR5B17; OR5B20P"
+    },
+    "A6NL26": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 5B21",
+        "gpcr_id": "OR5B21"
+    },
+    "Q8NGR4": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 5C1 (Olfactory receptor 9-F) (OR9-F)",
+        "gpcr_id": "OR5C1; OR5C2P"
+    },
+    "Q8NGL4": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 5D13 (Olfactory receptor OR11-142) (Olfactory receptor OR11-148)",
+        "gpcr_id": "OR5D13"
+    },
+    "Q8NGL3": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 5D14 (Olfactory receptor OR11-141) (Olfactory receptor OR11-150)",
+        "gpcr_id": "OR5D14"
+    },
+    "Q8NGK9": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 5D16 (Olfactory receptor OR11-154)",
+        "gpcr_id": "OR5D16"
+    },
+    "Q8NGL1": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 5D18 (Olfactory receptor OR11-143) (Olfactory receptor OR11-152)",
+        "gpcr_id": "OR5D18"
+    },
+    "O95221": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 5F1 (Olfactory receptor OR11-167) (Olfactory receptor 11-10) (OR11-10)",
+        "gpcr_id": "OR5F1"
+    },
+    "P0C626": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 5G3 (Olfactory receptor OR11-213)",
+        "gpcr_id": "OR5G3; OR5G3P; OR5G6P"
+    },
+    "A6NKK0": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 5H1 (HTPCRX14)",
+        "gpcr_id": "OR5H1"
+    },
+    "Q8NGV7": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 5H2 (Olfactory receptor OR3-10)",
+        "gpcr_id": "OR5H2"
+    },
+    "Q8NGV6": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 5H6 (Olfactory receptor OR3-11)",
+        "gpcr_id": "OR5H6"
+    },
+    "A6NHG9": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 5H14",
+        "gpcr_id": "OR5H14"
+    },
+    "A6NDH6": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 5H15",
+        "gpcr_id": "OR5H15"
+    },
+    "Q13606": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 5I1 (Olfactory receptor OR11-159) (Olfactory receptor-like protein OLF1)",
+        "gpcr_id": "OR5I1; OLF1"
+    },
+    "Q8NH18": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 5J2 (Olfactory receptor OR11-166)",
+        "gpcr_id": "OR5J2"
+    },
+    "Q8NHB7": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 5K1 (Olfactory receptor OR3-8) (HTPCRX10)",
+        "gpcr_id": "OR5K1"
+    },
+    "Q8NHB8": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 5K2 (Olfactory receptor OR3-9)",
+        "gpcr_id": "OR5K2"
+    },
+    "A6NET4": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 5K3",
+        "gpcr_id": "OR5K3"
+    },
+    "A6NMS3": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 5K4",
+        "gpcr_id": "OR5K4"
+    },
+    "Q8NGL2": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 5L1 (Olfactory receptor OR11-151) (OST262)",
+        "gpcr_id": "OR5L1"
+    },
+    "Q8NGL0": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 5L2 (Olfactory receptor OR11-153) (HTPCRX16)",
+        "gpcr_id": "OR5L2"
+    },
+    "Q8NGP8": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 5M1 (Olfactory receptor OR11-208) (OST050)",
+        "gpcr_id": "OR5M1"
+    },
+    "Q8NGP4": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 5M3 (Olfactory receptor OR11-191)",
+        "gpcr_id": "OR5M3"
+    },
+    "Q8NGP6": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 5M8 (Olfactory receptor OR11-194)",
+        "gpcr_id": "OR5M8"
+    },
+    "Q8NGP3": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 5M9 (Olfactory receptor OR11-190)",
+        "gpcr_id": "OR5M9"
+    },
+    "Q6IEU7": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 5M10 (Olfactory receptor OR11-207)",
+        "gpcr_id": "OR5M10"
+    },
+    "Q96RB7": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 5M11",
+        "gpcr_id": "OR5M11"
+    },
+    "Q8WZ92": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 5P2 (Olfactory receptor-like protein JCG3)",
+        "gpcr_id": "OR5P2"
+    },
+    "Q8WZ94": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 5P3 (Olfactory receptor OR11-94) (Olfactory receptor-like protein JCG1)",
+        "gpcr_id": "OR5P3"
+    },
+    "Q8NH85": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 5R1 (Olfactory receptor OR11-185)",
+        "gpcr_id": "OR5R1; OR5R1P"
+    },
+    "Q8NG75": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 5T1 (Olfactory receptor OR11-179)",
+        "gpcr_id": "OR5T1; OR5T1P"
+    },
+    "Q8NGG2": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 5T2 (Olfactory receptor OR11-177)",
+        "gpcr_id": "OR5T2"
+    },
+    "Q8NGG3": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 5T3 (Olfactory receptor OR11-178)",
+        "gpcr_id": "OR5T3"
+    },
+    "Q9UGF6": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 5V1 (Olfactory receptor OR6-26) (Hs6M1-21)",
+        "gpcr_id": "OR5V1"
+    },
+    "Q8NH69": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 5W2 (Olfactory receptor OR11-155)",
+        "gpcr_id": "OR5W2; OR5W2P; OR5W3P"
+    },
+    "O95222": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 6A2 (Olfactory receptor OR11-83) (Olfactory receptor 11-55) (OR11-55)",
+        "gpcr_id": "OR6A2; OR6A1; OR6A2P"
+    },
+    "O95007": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 6B1 (Olfactory receptor OR7-9) (Olfactory receptor 7-3) (OR7-3)",
+        "gpcr_id": "OR6B1"
+    },
+    "Q6IFH4": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 6B2 (Olfactory receptor OR2-1)",
+        "gpcr_id": "OR6B2; OR6B2P"
+    },
+    "Q8NGW1": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 6B3 (Olfactory receptor OR2-2)",
+        "gpcr_id": "OR6B3; OR6B3P"
+    },
+    "Q96RD1": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 6C1 (OST267)",
+        "gpcr_id": "OR6C1"
+    },
+    "Q9NZP2": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 6C2 (HSA3)",
+        "gpcr_id": "OR6C2"
+    },
+    "Q9NZP0": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 6C3 (HSA8)",
+        "gpcr_id": "OR6C3"
+    },
+    "Q8NGE1": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 6C4 (Olfactory receptor OR12-10)",
+        "gpcr_id": "OR6C4"
+    },
+    "A6NF89": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 6C6",
+        "gpcr_id": "OR6C6"
+    },
+    "A6NJZ3": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 6C65",
+        "gpcr_id": "OR6C65"
+    },
+    "A6NDL8": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 6C68",
+        "gpcr_id": "OR6C68"
+    },
+    "A6NIJ9": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 6C70",
+        "gpcr_id": "OR6C70"
+    },
+    "A6NCV1": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 6C74",
+        "gpcr_id": "OR6C74"
+    },
+    "A6NL08": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 6C75",
+        "gpcr_id": "OR6C75"
+    },
+    "A6NM76": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 6C76",
+        "gpcr_id": "OR6C76"
+    },
+    "Q8NGZ6": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 6F1 (Olfactory receptor OR1-38)",
+        "gpcr_id": "OR6F1"
+    },
+    "Q8NGC5": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 6J1",
+        "gpcr_id": "OR6J1; OR6J2"
+    },
+    "Q8NGY2": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 6K2 (Olfactory receptor OR1-17)",
+        "gpcr_id": "OR6K2"
+    },
+    "Q8NGY3": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 6K3 (Olfactory receptor OR1-18)",
+        "gpcr_id": "OR6K3"
+    },
+    "Q8NGW6": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 6K6 (Olfactory receptor OR1-21)",
+        "gpcr_id": "OR6K6"
+    },
+    "Q8NGM8": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 6M1 (Olfactory receptor OR11-271)",
+        "gpcr_id": "OR6M1"
+    },
+    "Q8NGY5": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 6N1",
+        "gpcr_id": "OR6N1"
+    },
+    "Q8NGY6": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 6N2 (Olfactory receptor OR1-23)",
+        "gpcr_id": "OR6N2"
+    },
+    "Q8NGX9": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 6P1 (Olfactory receptor OR1-12)",
+        "gpcr_id": "OR6P1"
+    },
+    "Q8NGQ2": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 6Q1 (Olfactory receptor OR11-226)",
+        "gpcr_id": "OR6Q1"
+    },
+    "Q8NH40": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 6S1 (Olfactory receptor OR14-37)",
+        "gpcr_id": "OR6S1"
+    },
+    "Q8NGN1": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 6T1 (Olfactory receptor OR11-277)",
+        "gpcr_id": "OR6T1"
+    },
+    "Q8N148": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 6V1 (Olfactory receptor OR7-3)",
+        "gpcr_id": "OR6V1"
+    },
+    "Q8NH79": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 6X1 (Olfactory receptor OR11-270)",
+        "gpcr_id": "OR6X1"
+    },
+    "Q8NGX8": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 6Y1 (Olfactory receptor OR1-11)",
+        "gpcr_id": "OR6Y1; OR6Y2"
+    },
+    "Q8NGA2": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 7A2",
+        "gpcr_id": "OR7A2P; OR7A2; OR7A7"
+    },
+    "Q15622": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 7A5 (Olfactory receptor OR19-17) (Olfactory receptor TPCR92)",
+        "gpcr_id": "OR7A5"
+    },
+    "O76100": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 7A10 (Olfactory receptor OR19-18) (OST027)",
+        "gpcr_id": "OR7A10"
+    },
+    "O14581": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 7A17",
+        "gpcr_id": "OR7A17"
+    },
+    "O76099": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 7C1 (Olfactory receptor OR19-16) (Olfactory receptor TPCR86)",
+        "gpcr_id": "OR7C1; OR7C4"
+    },
+    "O60412": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 7C2 (Olfactory receptor OR19-22) (Olfactory receptor 19-18) (OR19-18)",
+        "gpcr_id": "OR7C2; OR7C3"
+    },
+    "Q96RA2": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 7D2 (Olfactory receptor OR19-10) (Olfactory receptor 19-4) (OR19-4) (HTPCRH03)",
+        "gpcr_id": "OR7D2"
+    },
+    "Q8NG98": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 7D4 (Olfactory receptor OR19-7) (Odorant receptor family subfamily D member 4RT) (OR19-B)",
+        "gpcr_id": "OR7D4; OR7D4P"
+    },
+    "Q6IFN5": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 7E24 (Olfactory receptor OR19-14)",
+        "gpcr_id": "OR7E24; OR7E24P"
+    },
+    "Q8NGA0": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 7G1 (Olfactory receptor OR19-8) (Olfactory receptor 19-15) (OR19-15)",
+        "gpcr_id": "OR7G1; OR7G1P"
+    },
+    "Q8NG99": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 7G2 (Olfactory receptor OR19-6) (Olfactory receptor 19-13) (OR19-13) (OST260)",
+        "gpcr_id": "OR7G2"
+    },
+    "Q8NG95": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 7G3 (Olfactory receptor OR19-9) (OST085)",
+        "gpcr_id": "OR7G3"
+    },
+    "Q8NGG7": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 8A1 (Olfactory receptor OR11-318) (OST025)",
+        "gpcr_id": "OR8A1"
+    },
+    "Q96RD0": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 8B2 (Olfactory receptor OR11-309)",
+        "gpcr_id": "OR8B2"
+    },
+    "Q8NGG8": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 8B3 (Olfactory receptor OR11-311)",
+        "gpcr_id": "OR8B3"
+    },
+    "Q96RC9": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 8B4 (Olfactory receptor OR11-315)",
+        "gpcr_id": "OR8B4; OR8B4P"
+    },
+    "Q15620": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 8B8 (Olfactory receptor TPCR85) (Olfactory-like receptor JCG8)",
+        "gpcr_id": "OR8B8"
+    },
+    "Q8NGG6": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 8B12 (Olfactory receptor OR11-317)",
+        "gpcr_id": "OR8B12"
+    },
+    "Q8WZ84": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 8D1 (Olfactory receptor OR11-301) (Olfactory receptor-like protein JCG9) (OST004)",
+        "gpcr_id": "OR8D1; OR8D3"
+    },
+    "Q9GZM6": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 8D2 (Olfactory receptor OR11-303) (Olfactory receptor-like protein JCG2)",
+        "gpcr_id": "OR8D2"
+    },
+    "Q8NGM9": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 8D4 (Olfactory receptor OR11-275)",
+        "gpcr_id": "OR8D4"
+    },
+    "Q15617": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 8G1 (Olfactory receptor OR11-281) (Olfactory receptor TPCR25)",
+        "gpcr_id": "OR8G1; OR8G1P"
+    },
+    "Q6IF36": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Putative olfactory receptor 8G2 (Olfactory receptor OR11-297) (Olfactory receptor TPCR120)",
+        "gpcr_id": "OR8G2; OR8G2P; OR8G4"
+    },
+    "Q8NG78": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 8G6 (Olfactory receptor OR11-298)",
+        "gpcr_id": "OR8G5; OR8G5P; OR8G6"
+    },
+    "Q8NGG4": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 8H1 (Olfactory receptor OR11-180)",
+        "gpcr_id": "OR8H1"
+    },
+    "Q8N162": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 8H2 (Olfactory receptor OR11-171)",
+        "gpcr_id": "OR8H2"
+    },
+    "Q8N146": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 8H3 (Olfactory receptor OR11-172)",
+        "gpcr_id": "OR8H3"
+    },
+    "Q8N0Y5": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 8I2 (Olfactory receptor OR11-170)",
+        "gpcr_id": "OR8I2"
+    },
+    "Q8NGP2": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 8J1 (Olfactory receptor OR11-183)",
+        "gpcr_id": "OR8J1"
+    },
+    "Q8NGG1": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 8J2",
+        "gpcr_id": "OR8J2; OR8J2P"
+    },
+    "Q8NGG0": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 8J3 (Olfactory receptor OR11-173)",
+        "gpcr_id": "OR8J3"
+    },
+    "Q8NGG5": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 8K1 (Olfactory receptor OR11-182)",
+        "gpcr_id": "OR8K1"
+    },
+    "Q8NH51": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 8K3 (Olfactory receptor OR11-181)",
+        "gpcr_id": "OR8K3"
+    },
+    "Q8NH50": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 8K5 (Olfactory receptor OR11-174)",
+        "gpcr_id": "OR8K5"
+    },
+    "Q8NH09": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 8S1",
+        "gpcr_id": "OR8S1"
+    },
+    "Q8NH10": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 8U1",
+        "gpcr_id": "OR8U1"
+    },
+    "P0C7N1": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 8U8",
+        "gpcr_id": "OR8U8"
+    },
+    "P0C7N5": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 8U9",
+        "gpcr_id": "OR8U9"
+    },
+    "Q8NGU1": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Putative olfactory receptor 9A1",
+        "gpcr_id": "OR9A1P; OR9A1"
+    },
+    "Q8NGT5": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 9A2 (Olfactory receptor OR7-2)",
+        "gpcr_id": "OR9A2"
+    },
+    "Q8NGU2": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 9A4 (Olfactory receptor OR7-1)",
+        "gpcr_id": "OR9A4"
+    },
+    "Q8NH87": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 9G1 (Olfactory receptor 9G5) (Olfactory receptor OR11-114)",
+        "gpcr_id": "OR9G1; OR9G5"
+    },
+    "Q8NGQ1": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 9G4 (Olfactory receptor OR11-216)",
+        "gpcr_id": "OR9G4"
+    },
+    "P0C7N8": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 9G9",
+        "gpcr_id": "OR9G9"
+    },
+    "Q8NGQ6": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 9I1 (Olfactory receptor OR11-228)",
+        "gpcr_id": "OR9I1"
+    },
+    "Q8NGE7": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 9K2 (Olfactory receptor OR12-2)",
+        "gpcr_id": "OR9K2"
+    },
+    "Q8NGQ5": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 9Q1",
+        "gpcr_id": "OR9Q1"
+    },
+    "Q8NGE9": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 9Q2",
+        "gpcr_id": "OR9Q2; OR9Q2P"
+    },
+    "Q9H208": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 10A2 (Olfactory receptor 11-86) (HP4)",
+        "gpcr_id": "OR10A2; OR10A2P"
+    },
+    "P58181": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 10A3 (Olfactory receptor OR11-97) (HTPCRX12)",
+        "gpcr_id": "OR10A3"
+    },
+    "Q9H209": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 10A4 (HP2) (Olfactory receptor-like protein JCG5)",
+        "gpcr_id": "OR10A4; OR10A4P"
+    },
+    "Q9H207": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 10A5 (HP3) (Olfactory receptor-like protein JCG6) (Olfactory receptor 11-403) (OR11-403)",
+        "gpcr_id": "OR10A5; OR10A1"
+    },
+    "Q8NH74": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 10A6 (Olfactory receptor OR11-96)",
+        "gpcr_id": "OR10A6"
+    },
+    "Q8NGE5": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 10A7 (Olfactory receptor OR12-6)",
+        "gpcr_id": "OR10A7"
+    },
+    "Q8NH08": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 10AC1 (Olfactory receptor OR7-5)",
+        "gpcr_id": "OR10AC1P; OR10AC1"
+    },
+    "Q8NGE0": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 10AD1 (Olfactory receptor OR12-1)",
+        "gpcr_id": "OR10AD1; OR10AD1P"
+    },
+    "Q8NH19": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 10AG1 (Olfactory receptor OR11-160)",
+        "gpcr_id": "OR10AG1"
+    },
+    "Q96KK4": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 10C1 (Hs6M1-17)",
+        "gpcr_id": "OR10C1; OR10C2"
+    },
+    "Q8NH80": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 10D3 (Olfactory receptor OR11-293) (HTPCRX09)",
+        "gpcr_id": "OR10D3P; OR10D3"
+    },
+    "Q8NGN7": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 10D4",
+        "gpcr_id": "OR10D4P; OR10D4"
+    },
+    "Q8NGC3": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 10G2",
+        "gpcr_id": "OR10G2"
+    },
+    "Q8NGC4": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 10G3 (Olfactory receptor OR14-40)",
+        "gpcr_id": "OR10G3"
+    },
+    "Q8NGN3": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 10G4 (Olfactory receptor OR11-278)",
+        "gpcr_id": "OR10G4"
+    },
+    "Q8NH81": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 10G6 (Olfactory receptor OR11-280)",
+        "gpcr_id": "OR10G6; OR10G6P"
+    },
+    "Q8NGN6": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 10G7 (Olfactory receptor OR11-283)",
+        "gpcr_id": "OR10G7"
+    },
+    "Q8NGN5": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 10G8 (Olfactory receptor OR11-282)",
+        "gpcr_id": "OR10G8"
+    },
+    "Q8NGN4": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 10G9",
+        "gpcr_id": "OR10G9; OR10G10P"
+    },
+    "Q9Y4A9": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 10H1 (Olfactory receptor OR19-27)",
+        "gpcr_id": "OR10H1"
+    },
+    "O60403": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 10H2 (Olfactory receptor OR19-23)",
+        "gpcr_id": "OR10H2"
+    },
+    "O60404": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 10H3 (Olfactory receptor OR19-24)",
+        "gpcr_id": "OR10H3"
+    },
+    "Q8NGA5": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 10H4 (Olfactory receptor OR19-28)",
+        "gpcr_id": "OR10H4"
+    },
+    "Q8NGA6": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 10H5 (Olfactory receptor OR19-25) (Olfactory receptor OR19-26)",
+        "gpcr_id": "OR10H5"
+    },
+    "P30954": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 10J1 (Olfactory receptor OR1-26) (Olfactory receptor-like protein HGMP07J)",
+        "gpcr_id": "OR10J1"
+    },
+    "Q5JRS4": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 10J3",
+        "gpcr_id": "OR10J3; OR10J3P"
+    },
+    "P0C629": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 10J4",
+        "gpcr_id": "OR10J4; OR10J4P"
+    },
+    "Q8NHC4": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 10J5 (Olfactory receptor OR1-28)",
+        "gpcr_id": "OR10J5"
+    },
+    "Q8NGY7": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 10J6",
+        "gpcr_id": "OR10J6P; OR10J6"
+    },
+    "Q8NGX5": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 10K1 (Olfactory receptor OR1-6)",
+        "gpcr_id": "OR10K1"
+    },
+    "Q6IF99": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 10K2 (Olfactory receptor OR1-4)",
+        "gpcr_id": "OR10K2"
+    },
+    "Q8NGE3": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 10P1 (Olfactory receptor OR12-7)",
+        "gpcr_id": "OR10P1; OR10P2P; OR10P3P"
+    },
+    "Q8NGQ4": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 10Q1 (Olfactory receptor OR11-233)",
+        "gpcr_id": "OR10Q1"
+    },
+    "Q8NGX6": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 10R2 (Olfactory receptor OR1-8)",
+        "gpcr_id": "OR10R2"
+    },
+    "Q8NGN2": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 10S1 (Olfactory receptor OR11-279)",
+        "gpcr_id": "OR10S1"
+    },
+    "Q8NGX3": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 10T2 (Olfactory receptor OR1-3)",
+        "gpcr_id": "OR10T2"
+    },
+    "Q8NGI7": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 10V1 (Olfactory receptor OR11-256)",
+        "gpcr_id": "OR10V1"
+    },
+    "Q8NGF6": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 10W1 (Olfactory receptor OR11-236)",
+        "gpcr_id": "OR10W1; OR10W1P"
+    },
+    "Q8NGY0": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 10X1 (Olfactory receptor OR1-14)",
+        "gpcr_id": "OR10X1; OR10X1P"
+    },
+    "Q8NGY1": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 10Z1 (Olfactory receptor OR1-15)",
+        "gpcr_id": "OR10Z1"
+    },
+    "Q9GZK7": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 11A1 (Olfactory receptor OR6-30) (Hs6M1-18)",
+        "gpcr_id": "OR11A1; OR11A2"
+    },
+    "Q8NGC1": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 11G2 (Olfactory receptor OR14-34)",
+        "gpcr_id": "OR11G2"
+    },
+    "Q8NG94": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 11H1 (Olfactory receptor OR22-1)",
+        "gpcr_id": "OR11H1"
+    },
+    "Q8NH07": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 11H2 (Olfactory receptor OR1-31)",
+        "gpcr_id": "OR11H2; OR11H2P"
+    },
+    "Q8NGC9": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 11H4 (Olfactory receptor OR14-36)",
+        "gpcr_id": "OR11H4"
+    },
+    "Q8NGC7": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 11H6 (Olfactory receptor OR14-35)",
+        "gpcr_id": "OR11H6"
+    },
+    "Q8NGC8": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 11H7 (Olfactory receptor OR14-32)",
+        "gpcr_id": "OR11H7; OR11H7P"
+    },
+    "B2RN74": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 11H12",
+        "gpcr_id": "OR11H12"
+    },
+    "Q8NGX0": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 11L1",
+        "gpcr_id": "OR11L1"
+    },
+    "P58182": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 12D2 (Olfactory receptor OR6-28) (Hs6M1-20)",
+        "gpcr_id": "OR12D2"
+    },
+    "Q9UGF7": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 12D3 (Olfactory receptor OR6-27) (Hs6M1-27)",
+        "gpcr_id": "OR12D3"
+    },
+    "Q8NGR1": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 13A1 (Olfactory receptor OR10-3)",
+        "gpcr_id": "OR13A1"
+    },
+    "Q8NGS9": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 13C2 (Olfactory receptor OR9-12)",
+        "gpcr_id": "OR13C2"
+    },
+    "Q8NGS6": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 13C3 (Olfactory receptor OR9-8)",
+        "gpcr_id": "OR13C3"
+    },
+    "Q8NGS5": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 13C4 (Olfactory receptor OR9-7)",
+        "gpcr_id": "OR13C4"
+    },
+    "Q8NGS8": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 13C5 (Olfactory receptor OR9-11)",
+        "gpcr_id": "OR13C5"
+    },
+    "Q8NGS7": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 13C8",
+        "gpcr_id": "OR13C8"
+    },
+    "Q8NGT0": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 13C9 (Olfactory receptor OR9-13)",
+        "gpcr_id": "OR13C9"
+    },
+    "Q8NGV5": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 13D1 (Olfactory receptor OR9-15)",
+        "gpcr_id": "OR13D1"
+    },
+    "Q8NGS4": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 13F1 (Olfactory receptor OR9-6)",
+        "gpcr_id": "OR13F1"
+    },
+    "Q8NGZ3": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 13G1 (Olfactory receptor OR1-37)",
+        "gpcr_id": "OR13G1"
+    },
+    "Q8NG92": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 13H1 (Olfactory receptor ORX-1)",
+        "gpcr_id": "OR13H1"
+    },
+    "Q8NGT2": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 13J1 (Olfactory receptor OR9-2)",
+        "gpcr_id": "OR13J1"
+    },
+    "Q96R54": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 14A2 (Olfactory receptor 5AX1) (Olfactory receptor OR1-31)",
+        "gpcr_id": "OR14A2; OR5AX1; OR5AX1P"
+    },
+    "Q8NHC5": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 14A16 (Olfactory receptor 5AT1) (Olfactory receptor OR1-45)",
+        "gpcr_id": "OR14A6; OR5AT1"
+    },
+    "Q8NHC7": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 14C36 (Olfactory receptor 5BF1) (Olfactory receptor OR1-59)",
+        "gpcr_id": "OR14C36; OR5BF1"
+    },
+    "A6ND48": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 14I1 (Olfactory receptor 5BU1)",
+        "gpcr_id": "OR14I1; OR5BU1; OR5BU1P"
+    },
+    "Q9UGF5": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 14J1 (Olfactory receptor 5U1) (Olfactory receptor OR6-25) (Hs6M1-28)",
+        "gpcr_id": "OR14J1; OR5U1"
+    },
+    "Q8NGZ2": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 14K1 (Olfactory receptor 5AY1) (Olfactory receptor OR1-39)",
+        "gpcr_id": "OR14K1; OR5AY1"
+    },
+    "Q8NHC6": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 14L1 (Olfactory receptor 5AV1)",
+        "gpcr_id": "OR14L1P; OR5AV1P"
+    },
+    "Q8NGJ7": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 51A2",
+        "gpcr_id": "OR51A2"
+    },
+    "Q8NGJ6": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 51A4",
+        "gpcr_id": "OR51A4"
+    },
+    "Q8NH64": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 51A7 (Olfactory receptor OR11-27)",
+        "gpcr_id": "OR51A7"
+    },
+    "Q9Y5P1": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 51B2 (HOR5'beta3)",
+        "gpcr_id": "OR51B2; OR51B1P"
+    },
+    "Q9Y5P0": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 51B4 (HOR5'beta1)",
+        "gpcr_id": "OR51B4"
+    },
+    "Q9H339": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 51B5 (Olfactory receptor OR11-37) (HOR5'beta5)",
+        "gpcr_id": "OR51B5"
+    },
+    "Q9H340": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 51B6 (HOR5'beta6)",
+        "gpcr_id": "OR51B6"
+    },
+    "Q8NGF3": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 51D1 (Olfactory receptor OR11-14)",
+        "gpcr_id": "OR51D1"
+    },
+    "Q8TCB6": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 51E1 (Prostate overexpressed G protein-coupled receptor) (Prostate-specific G protein-coupled receptor 2) (G-protein coupled receptor 164) (D-GPCR)",
+        "gpcr_id": "OR51E1; GPR164; OR51E1P; OR52A3P; POGR; PSGR2"
+    },
+    "Q9H255": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 51E2 (Olfactory receptor OR11-16) (Prostate specific G-protein coupled receptor) (HPRAJ)",
+        "gpcr_id": "OR51E2; PSGR"
+    },
+    "A6NGY5": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 51F1",
+        "gpcr_id": "OR51F1; OR51F1P"
+    },
+    "Q8NH61": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 51F2 (Olfactory receptor OR11-23)",
+        "gpcr_id": "OR51F2"
+    },
+    "Q8NGK1": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 51G1 (Olfactory receptor OR11-29)",
+        "gpcr_id": "OR51G1; OR51G3P"
+    },
+    "Q8NGK0": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 51G2 (Olfactory receptor OR11-28)",
+        "gpcr_id": "OR51G2"
+    },
+    "Q8NH63": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 51H1 (Olfactory receptor OR11-25)",
+        "gpcr_id": "OR51H1P; OR51H1"
+    },
+    "Q9H343": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 51I1 (Olfactory receptor OR11-39) (HOR5'beta11)",
+        "gpcr_id": "OR51I1"
+    },
+    "Q9H344": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 51I2 (Olfactory receptor OR11-38) (HOR5'beta12)",
+        "gpcr_id": "OR51I2"
+    },
+    "Q9H342": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 51J1 (Odorant receptor HOR5'beta8)",
+        "gpcr_id": "OR51J1; OR51J1P; OR51J2"
+    },
+    "Q8NGJ5": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 51L1 (Olfactory receptor OR11-32)",
+        "gpcr_id": "OR51L1"
+    },
+    "Q9H341": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 51M1 (Olfactory receptor OR11-40) (HOR5'beta7)",
+        "gpcr_id": "OR51M1; OR52M1P"
+    },
+    "Q8NH59": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 51Q1",
+        "gpcr_id": "OR51Q1"
+    },
+    "Q8NGJ8": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 51S1 (Olfactory receptor OR11-24)",
+        "gpcr_id": "OR51S1"
+    },
+    "Q8NGJ9": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 51T1 (Olfactory receptor OR11-26)",
+        "gpcr_id": "OR51T1"
+    },
+    "Q9H2C8": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 51V1 (Olfactory receptor OR11-36) (HOR3'beta1)",
+        "gpcr_id": "OR51V1"
+    },
+    "Q9UKL2": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 52A1 (Olfactory receptor OR11-319) (HPFH1OR) (HOR3'beta4)",
+        "gpcr_id": "OR52A1"
+    },
+    "A6NMU1": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 52A4",
+        "gpcr_id": "OR52A4"
+    },
+    "Q9H2C5": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 52A5 (Olfactory receptor OR11-33) (HOR3'beta5)",
+        "gpcr_id": "OR52A5"
+    },
+    "Q96RD2": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 52B2 (Olfactory receptor OR11-70)",
+        "gpcr_id": "OR52B2"
+    },
+    "Q8NGK2": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 52B4 (Olfactory receptor OR11-3)",
+        "gpcr_id": "OR52B4"
+    },
+    "Q8NGF0": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 52B6 (Olfactory receptor OR11-47)",
+        "gpcr_id": "OR52B6"
+    },
+    "Q9H346": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 52D1 (Olfactory receptor OR11-43) (HOR5'beta14)",
+        "gpcr_id": "OR52D1"
+    },
+    "Q8NGJ3": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 52E1",
+        "gpcr_id": "OR52E1; OR52E1P"
+    },
+    "Q8NGJ4": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 52E2",
+        "gpcr_id": "OR52E2"
+    },
+    "Q8NGH9": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 52E4 (Olfactory receptor OR11-55)",
+        "gpcr_id": "OR52E4"
+    },
+    "Q8NH55": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 52E5",
+        "gpcr_id": "OR52E5"
+    },
+    "Q96RD3": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 52E6 (Olfactory receptor OR11-58)",
+        "gpcr_id": "OR52E6"
+    },
+    "Q6IFG1": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 52E8 (Olfactory receptor OR11-54)",
+        "gpcr_id": "OR52E8"
+    },
+    "Q8NGJ2": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 52H1 (Olfactory receptor OR11-45)",
+        "gpcr_id": "OR52H1"
+    },
+    "Q8NGK6": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 52I1 (Olfactory receptor OR11-13)",
+        "gpcr_id": "OR52I1"
+    },
+    "Q8NH67": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 52I2 (Olfactory receptor OR11-12)",
+        "gpcr_id": "OR52I2"
+    },
+    "Q8NH60": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 52J3 (Olfactory receptor OR11-94)",
+        "gpcr_id": "OR52J3"
+    },
+    "Q8NGK4": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 52K1 (Olfactory receptor OR11-8)",
+        "gpcr_id": "OR52K1"
+    },
+    "Q8NGK3": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 52K2 (Olfactory receptor OR11-7)",
+        "gpcr_id": "OR52K2"
+    },
+    "Q8NGH7": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 52L1 (Olfactory receptor OR11-50)",
+        "gpcr_id": "OR52L1"
+    },
+    "Q8NGH6": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 52L2 (Olfactory receptor OR11-74)",
+        "gpcr_id": "OR52L2P; OR52L2"
+    },
+    "Q8NGK5": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 52M1 (Olfactory receptor OR11-11)",
+        "gpcr_id": "OR52M1"
+    },
+    "Q8NH53": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 52N1 (Olfactory receptor OR11-61)",
+        "gpcr_id": "OR52N1"
+    },
+    "Q8NGI0": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 52N2 (Olfactory receptor OR11-57)",
+        "gpcr_id": "OR52N2"
+    },
+    "Q8NGI2": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 52N4 (Olfactory receptor OR11-64)",
+        "gpcr_id": "OR52N4"
+    },
+    "Q8NH56": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 52N5 (Olfactory receptor OR11-62)",
+        "gpcr_id": "OR52N5"
+    },
+    "Q8NH57": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 52P1",
+        "gpcr_id": "OR52P1P; OR52P1"
+    },
+    "Q8NGF1": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 52R1 (Olfactory receptor OR11-22)",
+        "gpcr_id": "OR52R1"
+    },
+    "Q6IF63": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 52W1 (Olfactory receptor OR11-71)",
+        "gpcr_id": "OR52W1; OR52W1P"
+    },
+    "P0C646": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 52Z1",
+        "gpcr_id": "OR52Z1; OR52Z1P"
+    },
+    "Q8NGH5": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 56A1 (Olfactory receptor OR11-75)",
+        "gpcr_id": "OR56A1"
+    },
+    "Q8NH54": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 56A3",
+        "gpcr_id": "OR56A3; OR56A3P; OR56A6"
+    },
+    "Q8NGH8": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 56A4 (Olfactory receptor OR11-49)",
+        "gpcr_id": "OR56A4"
+    },
+    "P0C7T3": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 56A5",
+        "gpcr_id": "OR56A5; OR56A5P"
+    },
+    "Q8NGI3": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 56B1 (Olfactory receptor OR11-65)",
+        "gpcr_id": "OR56B1; OR56B1P"
+    },
+    "Q8NGI1": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 56B2",
+        "gpcr_id": "OR56B2P"
+    },
+    "Q8NH76": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Olfactory receptor 56B4 (Olfactory receptor OR11-67)",
+        "gpcr_id": "OR56B4"
+    },
+    "Q8NH95": {
+        "gpcr_class": "Odorant/olfactory and gustatory receptors",
+        "gpcr_name": "Putative olfactory receptor 13C6 - Human",
+        "gpcr_id": ""
+    },
+    "P41143": {
+        "gpcr_class": "Opioid peptides receptors",
+        "gpcr_name": "Delta-type opioid (DOR-1)",
+        "gpcr_id": "OPRD1; OPRD"
+    },
+    "P41145": {
+        "gpcr_class": "Opioid peptides receptors",
+        "gpcr_name": "Kappa-type opioid (KOR-1)",
+        "gpcr_id": "OPKR1; OPKR"
+    },
+    "P35372": {
+        "gpcr_class": "Opioid peptides receptors",
+        "gpcr_name": "Mu-type opioid (MOR-1)",
+        "gpcr_id": "OPRM1; MOR1"
+    },
+    "P41146": {
+        "gpcr_class": "Opioid peptides receptors",
+        "gpcr_name": "Nociceptin (Orphanin FQ) (Kappa-type 3 opioid) (KOR-3)",
+        "gpcr_id": "OPRL1; ORL1; OOR"
+    },
+    "P08100": {
+        "gpcr_class": "Opsins",
+        "gpcr_name": "Rhodopsin (Opsin-2)",
+        "gpcr_id": "RHO; OPN2"
+    },
+    "P03999": {
+        "gpcr_class": "Opsins",
+        "gpcr_name": "Blue-sensitive opsin",
+        "gpcr_id": "OPN1SW; BCP"
+    },
+    "P04001": {
+        "gpcr_class": "Opsins",
+        "gpcr_name": "Green-sensitive opsin",
+        "gpcr_id": "OPN1MW; GCP"
+    },
+    "P04000": {
+        "gpcr_class": "Opsins",
+        "gpcr_name": "Red-sensitive opsin",
+        "gpcr_id": "OPN1LW; RCP"
+    },
+    "Q9H1Y3": {
+        "gpcr_class": "Opsins",
+        "gpcr_name": "Opsin-3 (Encephalopsin) (Panopsin)",
+        "gpcr_id": "OPN3; ECPN"
+    },
+    "Q9UHM6": {
+        "gpcr_class": "Opsins",
+        "gpcr_name": "Melanopsin (Opsin-4)",
+        "gpcr_id": "OPN4; MOP"
+    },
+    "Q6U736": {
+        "gpcr_class": "Opsins",
+        "gpcr_name": "Opsin-5 (Neuropsin) (G-protein coupled receptor 136) (G-protein coupled receptor PGR12) (Transmembrane protein 13)",
+        "gpcr_id": "OPN5; GPR136; PGR12; TMEM13"
+    },
+    "O14718": {
+        "gpcr_class": "Opsins",
+        "gpcr_name": "Visual pigment-like receptor peropsin",
+        "gpcr_id": "RRH"
+    },
+    "P47804": {
+        "gpcr_class": "Opsins",
+        "gpcr_name": "RPE-retinal G-protein coupled receptor",
+        "gpcr_id": "RGR"
+    },
+    "O43613": {
+        "gpcr_class": "Orexins receptors",
+        "gpcr_name": "Orexin type 1 (OX1R) (Hypocretin type 1)",
+        "gpcr_id": "HCRTR1"
+    },
+    "O43614": {
+        "gpcr_class": "Orexins receptors",
+        "gpcr_name": "Orexin type 2 (OX2R) (Hypocretin type 2)",
+        "gpcr_id": "HCRTR2"
+    },
+    "Q9GZP7": {
+        "gpcr_class": "Pheromone receptors",
+        "gpcr_name": "Vomeronasal type-1 receptor 1 (V1r-like 1) (Vomeronasal olfactory receptor chromosome 19 subtype I member 1) (V3r-related gene)",
+        "gpcr_id": "VN1R1; V1RL1; VNR19I1"
+    },
+    "Q8NFZ6": {
+        "gpcr_class": "Pheromone receptors",
+        "gpcr_name": "Vomeronasal type-1 receptor 2 (V1r-like 2)",
+        "gpcr_id": "VN1R2; V1RL2"
+    },
+    "Q9BXE9": {
+        "gpcr_class": "Pheromone receptors",
+        "gpcr_name": "Vomeronasal type-1 receptor 3 (V1r-like 3) (FKSG46 protein)",
+        "gpcr_id": "VN1R3; V1RL3"
+    },
+    "Q7Z5H5": {
+        "gpcr_class": "Pheromone receptors",
+        "gpcr_name": "Vomeronasal type-1 receptor 4 (V1r-like 4)",
+        "gpcr_id": "VN1R4; V1RL4"
+    },
+    "Q7Z5H4": {
+        "gpcr_class": "Pheromone receptors",
+        "gpcr_name": "Vomeronasal type-1 receptor 5 (V1r-like 5)",
+        "gpcr_id": "VN1R5; V1RL5"
+    },
+    "Q8TDU5": {
+        "gpcr_class": "Pheromone receptors",
+        "gpcr_name": "Putative vomeronasal receptor-like protein 4 (hGPCR23)",
+        "gpcr_id": "VNRL4"
+    },
+    "P25105": {
+        "gpcr_class": "Platelet-activating factor receptors",
+        "gpcr_name": "Platelet-activating factor (PAF-R)",
+        "gpcr_id": "PTAFR; PAFR"
+    },
+    "Q8TCW9": {
+        "gpcr_class": "Prokineticin receptors",
+        "gpcr_name": "Prokineticin 1 (PK-R1) (G-protein coupled receptor 73) (GPR73a) (G-protein coupled receptor ZAQ)",
+        "gpcr_id": "PROKR1; GPR73; PKR1"
+    },
+    "Q8NFJ6": {
+        "gpcr_class": "Prokineticin receptors",
+        "gpcr_name": "Prokineticin 2 (PK-R2) (G-protein coupled receptor 73-like 1) (GPR73b) (GPRg2)",
+        "gpcr_id": "PROKR2; GPR73L1; PKR2"
+    },
+    "Q13258": {
+        "gpcr_class": "Prostanoids receptors",
+        "gpcr_name": "Prostaglandin D2 receptor (Prostanoid DP receptor) (PGD receptor)",
+        "gpcr_id": "PTGDR"
+    },
+    "P34995": {
+        "gpcr_class": "Prostanoids receptors",
+        "gpcr_name": "Prostaglandin E2 EP1 subtype (Prostanoid EP1)",
+        "gpcr_id": "PTGER1"
+    },
+    "P43116": {
+        "gpcr_class": "Prostanoids receptors",
+        "gpcr_name": "Prostaglandin E2 EP2 subtype (Prostanoid EP2)",
+        "gpcr_id": "PTGER2"
+    },
+    "P43115": {
+        "gpcr_class": "Prostanoids receptors",
+        "gpcr_name": "Prostaglandin E2 EP3 subtype (Prostanoid EP3)",
+        "gpcr_id": "PTGER3"
+    },
+    "P35408": {
+        "gpcr_class": "Prostanoids receptors",
+        "gpcr_name": "Prostaglandin E2 EP4 subtype (Prostanoid EP4)",
+        "gpcr_id": "PTGER4; PTGER2"
+    },
+    "P43088": {
+        "gpcr_class": "Prostanoids receptors",
+        "gpcr_name": "Prostaglandin F2-alpha (Prostanoid FP)",
+        "gpcr_id": "PTGFR"
+    },
+    "P43119": {
+        "gpcr_class": "Prostanoids receptors",
+        "gpcr_name": "Prostacyclin (Prostanoid IP)",
+        "gpcr_id": "PTGIR; PRIPR"
+    },
+    "P21731": {
+        "gpcr_class": "Prostanoids receptors",
+        "gpcr_name": "Thromboxane A2 (TXA2-R) (Prostanoid TP)",
+        "gpcr_id": "TBXA2R"
+    },
+    "P25116": {
+        "gpcr_class": "Proteinase-activated receptors",
+        "gpcr_name": "Proteinase-activated receptor 1 (PAR-1) (Thrombin receptor)",
+        "gpcr_id": "F2R; PAR1; TR; CF2R"
+    },
+    "P55085": {
+        "gpcr_class": "Proteinase-activated receptors",
+        "gpcr_name": "Proteinase-activated receptor 2 (PAR-2) (Thrombin receptor-like 1) (G-protein coupled receptor 11)",
+        "gpcr_id": "F2RL1; PAR2; GPR11"
+    },
+    "O00254": {
+        "gpcr_class": "Proteinase-activated receptors",
+        "gpcr_name": "Proteinase-activated receptor 3 (PAR-3) (Thrombin receptor-like 2)",
+        "gpcr_id": "F2RL2; PAR3"
+    },
+    "Q96RI0": {
+        "gpcr_class": "Proteinase-activated receptors",
+        "gpcr_name": "Proteinase-activated receptor 4 (PAR-4) (Thrombin receptor-like 3)",
+        "gpcr_id": "F2RL3; PAR4"
+    },
+    "Q9NSD7": {
+        "gpcr_class": "Relaxin receptors",
+        "gpcr_name": "Relaxin-3 receptor 1 (Relaxin family peptide receptor 3) (Somatostatin- and angiogenin-like peptide receptor) (G-protein coupled receptor SALPR) (GPCR135)",
+        "gpcr_id": "RXFP3; RLN3R1; SALPR"
+    },
+    "Q8TDU9": {
+        "gpcr_class": "Relaxin receptors",
+        "gpcr_name": "Relaxin-3 receptor 2 (Relaxin family peptide receptor 4) (G-protein coupled receptor 100) (GPCR142)",
+        "gpcr_id": "RXFP4; RLN3R2; GPR100"
+    },
+    "Q9HBX9": {
+        "gpcr_class": "Relaxin receptors",
+        "gpcr_name": "Relaxin receptor 1 (Relaxin family peptide receptor 1) (Leucine-rich repeat-containing G-protein coupled receptor 7)",
+        "gpcr_id": "RXFP1; LGR7"
+    },
+    "Q8WXD0": {
+        "gpcr_class": "Relaxin receptors",
+        "gpcr_name": "Relaxin receptor 2 (Relaxin family peptide receptor 2) (Leucine-rich repeat-containing G-protein coupled receptor 8) (G-protein coupled receptor 106)",
+        "gpcr_id": "RXFP2; LGR8; GREAT; GPR106"
+    },
+    "P30968": {
+        "gpcr_class": "Releasing hormones receptors",
+        "gpcr_name": "Gonadotropin-releasing hormone (GnRH receptor) (GnRH-R)",
+        "gpcr_id": "GNRHR"
+    },
+    "Q96P88": {
+        "gpcr_class": "Releasing hormones receptors",
+        "gpcr_name": "Gonadotropin-releasing hormone II (Type II GnRH receptor) (GnRH-II-R)",
+        "gpcr_id": "GNRHR2"
+    },
+    "P34981": {
+        "gpcr_class": "Releasing hormones receptors",
+        "gpcr_name": "Thyrotropin-releasing hormone (TRH-R)",
+        "gpcr_id": "TRHR"
+    },
+    "Q92847": {
+        "gpcr_class": "Releasing hormones receptors",
+        "gpcr_name": "Growth hormone secretagogue receptor type 1 (GHS-R) (GH-releasing peptide receptor) (Ghrelin receptor)",
+        "gpcr_id": "GHSR"
+    },
+    "O43193": {
+        "gpcr_class": "Releasing hormones receptors",
+        "gpcr_name": "Motilin",
+        "gpcr_id": "MLNR; MTLR1; MTLR; GPR38"
+    },
+    "P08908": {
+        "gpcr_class": "Serotonin receptors",
+        "gpcr_name": "5-hydroxytryptamine 1A receptor (5-HT-1A)",
+        "gpcr_id": "HTR1A"
+    },
+    "P28222": {
+        "gpcr_class": "Serotonin receptors",
+        "gpcr_name": "5-hydroxytryptamine 1B receptor (5-HT-1B) (5-HT-1D-beta) (S12)",
+        "gpcr_id": "HTR1B; HTR1DB"
+    },
+    "P28221": {
+        "gpcr_class": "Serotonin receptors",
+        "gpcr_name": "5-hydroxytryptamine 1D receptor (5-HT-1D) (5-HT-1D-alpha)",
+        "gpcr_id": "HTR1D; HTR1DA"
+    },
+    "P28566": {
+        "gpcr_class": "Serotonin receptors",
+        "gpcr_name": "5-hydroxytryptamine 1E receptor (5-HT-1E) (S31)",
+        "gpcr_id": "HTR1E"
+    },
+    "P30939": {
+        "gpcr_class": "Serotonin receptors",
+        "gpcr_name": "5-hydroxytryptamine 1F receptor (5-HT-1F)",
+        "gpcr_id": "HTR1F"
+    },
+    "P28223": {
+        "gpcr_class": "Serotonin receptors",
+        "gpcr_name": "5-hydroxytryptamine 2A receptor (5-HT-2A)",
+        "gpcr_id": "HTR2A; HTR2"
+    },
+    "P41595": {
+        "gpcr_class": "Serotonin receptors",
+        "gpcr_name": "5-hydroxytryptamine 2B receptor (5-HT-2B)",
+        "gpcr_id": "HTR2B"
+    },
+    "P28335": {
+        "gpcr_class": "Serotonin receptors",
+        "gpcr_name": "5-hydroxytryptamine 2C receptor (5-HT-2C) (5-HT-1C)",
+        "gpcr_id": "HTR2C; HTR1C"
+    },
+    "Q13639": {
+        "gpcr_class": "Serotonin receptors",
+        "gpcr_name": "5-hydroxytryptamine 4 receptor (5-HT-4)",
+        "gpcr_id": "HTR4"
+    },
+    "P47898": {
+        "gpcr_class": "Serotonin receptors",
+        "gpcr_name": "5-hydroxytryptamine 5A receptor (5-HT-5A)",
+        "gpcr_id": "HTR5A"
+    },
+    "P50406": {
+        "gpcr_class": "Serotonin receptors",
+        "gpcr_name": "5-hydroxytryptamine 6 receptor (5-HT-6)",
+        "gpcr_id": "HTR6"
+    },
+    "P34969": {
+        "gpcr_class": "Serotonin receptors",
+        "gpcr_name": "5-hydroxytryptamine 7 receptor (5-HT-7) (5-HT-X)",
+        "gpcr_id": "HTR7"
+    },
+    "P30872": {
+        "gpcr_class": "Somatostatin and urotensin receptors",
+        "gpcr_name": "Somatostatin type 1 (SS1R) (SRIF-2)",
+        "gpcr_id": "SSTR1"
+    },
+    "P30874": {
+        "gpcr_class": "Somatostatin and urotensin receptors",
+        "gpcr_name": "Somatostatin type 2 (SS2R) (SRIF-1)",
+        "gpcr_id": "SSTR2"
+    },
+    "P32745": {
+        "gpcr_class": "Somatostatin and urotensin receptors",
+        "gpcr_name": "Somatostatin type 3 (SS3R)",
+        "gpcr_id": "SSTR3"
+    },
+    "P31391": {
+        "gpcr_class": "Somatostatin and urotensin receptors",
+        "gpcr_name": "Somatostatin type 4 (SS4R)",
+        "gpcr_id": "SSTR4"
+    },
+    "P35346": {
+        "gpcr_class": "Somatostatin and urotensin receptors",
+        "gpcr_name": "Somatostatin type 5 (SS5R)",
+        "gpcr_id": "SSTR5"
+    },
+    "Q9UKP6": {
+        "gpcr_class": "Somatostatin and urotensin receptors",
+        "gpcr_name": "Urotensin II (UR-II-R)",
+        "gpcr_id": "UTS2R; GPR14"
+    },
+    "P25103": {
+        "gpcr_class": "Tachykinin receptors",
+        "gpcr_name": "Substance-P (SPR) (NK-1R)",
+        "gpcr_id": "TACR1; TAC1R; NK1R"
+    },
+    "P21452": {
+        "gpcr_class": "Tachykinin receptors",
+        "gpcr_name": "Substance-K (SKR) (Neurokinin A) (NK-2R)",
+        "gpcr_id": "TACR2; TAC2R; NK2R"
+    },
+    "P29371": {
+        "gpcr_class": "Tachykinin receptors",
+        "gpcr_name": "Neuromedin-K (NKR) (Neurokinin B) (NK-3R)",
+        "gpcr_id": "TACR3; TAC3R; NK3R"
+    },
+    "Q96RJ0": {
+        "gpcr_class": "Trace amine receptors",
+        "gpcr_name": "Trace amine-associated receptor 1 (Trace amine receptor 1) (TaR-1)",
+        "gpcr_id": "TAAR1; TRAR1; TAR1; TA1"
+    },
+    "Q9P1P5": {
+        "gpcr_class": "Trace amine receptors",
+        "gpcr_name": "Trace amine-associated receptor 2 (G-protein coupled receptor 58)",
+        "gpcr_id": "TAAR2; GPR58"
+    },
+    "Q9P1P4": {
+        "gpcr_class": "Trace amine receptors",
+        "gpcr_name": "Putative trace amine-associated receptor 3 (G-protein coupled receptor 57)",
+        "gpcr_id": "TAAR3; GPR57"
+    },
+    "O14804": {
+        "gpcr_class": "Trace amine receptors",
+        "gpcr_name": "Trace amine-associated receptor 5",
+        "gpcr_id": "TAAR5; PNR"
+    },
+    "Q96RI8": {
+        "gpcr_class": "Trace amine receptors",
+        "gpcr_name": "Trace amine-associated receptor 6 (Trace amine receptor 4) (TaR-4)",
+        "gpcr_id": "TAAR6; TRAR4; TAR4; TA4"
+    },
+    "Q969N4": {
+        "gpcr_class": "Trace amine receptors",
+        "gpcr_name": "Trace amine-associated receptor 8 (Trace amine receptor 5) (TaR-5) (G-protein coupled receptor 102)",
+        "gpcr_id": "TAAR8; TRAR5; GPR102; TAR5; TA5"
+    },
+    "Q96RI9": {
+        "gpcr_class": "Trace amine receptors",
+        "gpcr_name": "Trace amine-associated receptor 9 (Trace amine receptor 3) (TaR-3)",
+        "gpcr_id": "TAAR9; TRAR3; TAR3; TA3"
+    },
+    "P37288": {
+        "gpcr_class": "Vasopressin / oxytocin receptors",
+        "gpcr_name": "Vasopressin V1a (Vascular/hepatic-type arginine vasopressin) (AVPR V1a)",
+        "gpcr_id": "AVPR1A; AVPR1"
+    },
+    "P47901": {
+        "gpcr_class": "Vasopressin / oxytocin receptors",
+        "gpcr_name": "Vasopressin V1b (AVPR V1b) (Vasopressin V3) (AVPR V3)",
+        "gpcr_id": "AVPR1B; AVPR3"
+    },
+    "P30518": {
+        "gpcr_class": "Vasopressin / oxytocin receptors",
+        "gpcr_name": "Vasopressin V2 (Renal-type arginine vasopressin) (AVPR V2)",
+        "gpcr_id": "AVPR2; ADHR; V2R"
+    },
+    "P30559": {
+        "gpcr_class": "Vasopressin / oxytocin receptors",
+        "gpcr_name": "Oxytocin (OTR)",
+        "gpcr_id": "OXTR"
+    },
+    "P47211": {
+        "gpcr_class": "Other receptors",
+        "gpcr_name": "Galanin type 1 (GAL1-R) (GALR1)",
+        "gpcr_id": "GALR1; GALNR1; GALNR"
+    },
+    "O43603": {
+        "gpcr_class": "Other receptors",
+        "gpcr_name": "Galanin type 2 (GAL2-R) (GALR2)",
+        "gpcr_id": "GALR2; GALNR2"
+    },
+    "O60755": {
+        "gpcr_class": "Other receptors",
+        "gpcr_name": "Galanin type 3 (GAL3-R) (GALR3)",
+        "gpcr_id": "GALR3; GALNR3"
+    },
+    "Q96P65": {
+        "gpcr_class": "Other receptors",
+        "gpcr_name": "Pyroglutamylated RFamide peptide receptor (Orexigenic neuropeptide QRFP receptor) (G-protein coupled receptor 103) (SP9155) (AQ27)",
+        "gpcr_id": "GPR103"
+    },
+    "P49683": {
+        "gpcr_class": "Other receptors",
+        "gpcr_name": "Prolactin-releasing peptide receptor (PrRP receptor) (PrRPR) (G-protein coupled receptor 10)",
+        "gpcr_id": "PRLHR; GPR10"
+    },
+    "P04201": {
+        "gpcr_class": "Orphan receptors",
+        "gpcr_name": "Mas proto-oncogene",
+        "gpcr_id": "MAS1; MAS"
+    },
+    "P35410": {
+        "gpcr_class": "Orphan receptors",
+        "gpcr_name": "Mas-related MRG (MAS-R) (MAS1-like)",
+        "gpcr_id": "MAS1L; MRG"
+    },
+    "Q8TDS7": {
+        "gpcr_class": "Orphan receptors",
+        "gpcr_name": "Mas-related G-protein coupled receptor member D (Beta-alanine receptor) (G-protein coupled receptor TGR7)",
+        "gpcr_id": "MRGPRD; MRGD"
+    },
+    "Q86SM8": {
+        "gpcr_class": "Orphan receptors",
+        "gpcr_name": "Mas-related G-protein coupled receptor member E (G-protein coupled receptor 167)",
+        "gpcr_id": "MRGPRE; MRGE; GPR167"
+    },
+    "Q96AM1": {
+        "gpcr_class": "Orphan receptors",
+        "gpcr_name": "Mas-related G-protein coupled receptor member F (Mas-related gene F protein) (G-protein coupled receptor 140) (G-protein coupled receptor 168)",
+        "gpcr_id": "MRGPRF; MRGF; GPR140; GPR168"
+    },
+    "Q86SM5": {
+        "gpcr_class": "Orphan receptors",
+        "gpcr_name": "Mas-related G-protein coupled receptor member G (G-protein coupled receptor 169)",
+        "gpcr_id": "MRGPRG; MRGG; GPR169"
+    },
+    "Q96LB2": {
+        "gpcr_class": "Orphan receptors",
+        "gpcr_name": "Mas-related G-protein coupled receptor member X1 (Sensory neuron-specific G-protein coupled receptor 3/4)",
+        "gpcr_id": "MRGPRX1; MRGX1; SNSR3; SNSR4"
+    },
+    "Q96LB1": {
+        "gpcr_class": "Orphan receptors",
+        "gpcr_name": "Mas-related G-protein coupled receptor member X2",
+        "gpcr_id": "MRGPRX2; MRGX2"
+    },
+    "Q96LB0": {
+        "gpcr_class": "Orphan receptors",
+        "gpcr_name": "Mas-related G-protein coupled receptor member X3 (Sensory neuron-specific G-protein coupled receptor 1/2)",
+        "gpcr_id": "MRGPRX3; MRGX3; SNSR1; SNSR2"
+    },
+    "Q96LA9": {
+        "gpcr_class": "Orphan receptors",
+        "gpcr_name": "Mas-related G-protein coupled receptor member X4 (Sensory neuron-specific G-protein coupled receptor 5/6)",
+        "gpcr_id": "MRGPRX4; MRGX4; SNSR5; SNSR6"
+    },
+    "Q99788": {
+        "gpcr_class": "Orphan receptors",
+        "gpcr_name": "Chemokine-like receptor 1 (G-protein coupled receptor DEZ) (ChemR23)",
+        "gpcr_id": "CMKLR1; DEZ"
+    },
+    "O60883": {
+        "gpcr_class": "Orphan receptors",
+        "gpcr_name": "Endothelin B receptor-like protein-2 (ETBR-LP-2)",
+        "gpcr_id": "GPR37L1; ETBRLP2"
+    },
+    "Q9BXB1": {
+        "gpcr_class": "Orphan receptors",
+        "gpcr_name": "Leucine-rich repeat-containing G-protein coupled receptor 4",
+        "gpcr_id": "LGR4; GPR48"
+    },
+    "O75473": {
+        "gpcr_class": "Orphan receptors",
+        "gpcr_name": "Leucine-rich repeat-containing G-protein coupled receptor 5 (Orphan G-protein coupled receptor HG38)",
+        "gpcr_id": "LGR5; GPR49; GPR67"
+    },
+    "Q9HBX8": {
+        "gpcr_class": "Orphan receptors",
+        "gpcr_name": "Leucine-rich repeat-containing G-protein coupled receptor 6",
+        "gpcr_id": "LGR6"
+    },
+    "Q15743": {
+        "gpcr_class": "Orphan receptors",
+        "gpcr_name": "Ovarian cancer G-protein coupled receptor 1 (OGR-1) G-protein coupled receptor 68 (Sphingosylphosphorylcholine receptor)",
+        "gpcr_id": "GPR68; OGR1"
+    },
+    "P46091": {
+        "gpcr_class": "Orphan receptors",
+        "gpcr_name": "Probable G-protein coupled receptor 1",
+        "gpcr_id": "GPR1"
+    },
+    "P46089": {
+        "gpcr_class": "Orphan receptors",
+        "gpcr_name": "G-protein coupled receptor 3",
+        "gpcr_id": "GPR3"
+    },
+    "P46093": {
+        "gpcr_class": "Orphan receptors",
+        "gpcr_name": "G-protein coupled receptor 4 (G-protein coupled receptor 19) (GPR19)",
+        "gpcr_id": "GPR4; GPR19"
+    },
+    "P47775": {
+        "gpcr_class": "Orphan receptors",
+        "gpcr_name": "Probable G-protein coupled receptor 12",
+        "gpcr_id": "GPR12"
+    },
+    "P49685": {
+        "gpcr_class": "Orphan receptors",
+        "gpcr_name": "Probable G-protein coupled receptor 15",
+        "gpcr_id": "GPR15"
+    },
+    "Q15760": {
+        "gpcr_class": "Orphan receptors",
+        "gpcr_name": "Probable G-protein coupled receptor 19 (GPR-NGA)",
+        "gpcr_id": "GPR19"
+    },
+    "Q99678": {
+        "gpcr_class": "Orphan receptors",
+        "gpcr_name": "G-protein coupled receptor 20",
+        "gpcr_id": "GPR20"
+    },
+    "Q99679": {
+        "gpcr_class": "Orphan receptors",
+        "gpcr_name": "Probable G-protein coupled receptor 21",
+        "gpcr_id": "GPR21"
+    },
+    "Q99680": {
+        "gpcr_class": "Orphan receptors",
+        "gpcr_name": "Probable G-protein coupled receptor 22",
+        "gpcr_id": "GPR22"
+    },
+    "O00155": {
+        "gpcr_class": "Orphan receptors",
+        "gpcr_name": "Probable G-protein coupled receptor 25",
+        "gpcr_id": "GPR25"
+    },
+    "Q8NDV2": {
+        "gpcr_class": "Orphan receptors",
+        "gpcr_name": "G-protein coupled receptor 26",
+        "gpcr_id": "GPR26"
+    },
+    "Q9NS67": {
+        "gpcr_class": "Orphan receptors",
+        "gpcr_name": "Probable G-protein coupled receptor 27 (Super conserved receptor expressed in brain 1)",
+        "gpcr_id": "GPR27; SREB1"
+    },
+    "O00270": {
+        "gpcr_class": "Orphan receptors",
+        "gpcr_name": "12-(S)-hydroxy-5,8,10,14-eicosatetraenoic acid receptor",
+        "gpcr_id": "GPR31"
+    },
+    "O75388": {
+        "gpcr_class": "Orphan receptors",
+        "gpcr_name": "Probable G-protein coupled receptor 32",
+        "gpcr_id": "GPR32"
+    },
+    "Q49SQ1": {
+        "gpcr_class": "Orphan receptors",
+        "gpcr_name": "Probable G-protein coupled receptor 33",
+        "gpcr_id": "GPR33"
+    },
+    "Q9UPC5": {
+        "gpcr_class": "Orphan receptors",
+        "gpcr_name": "Probable G-protein coupled receptor 34",
+        "gpcr_id": "GPR34"
+    },
+    "Q9HC97": {
+        "gpcr_class": "Orphan receptors",
+        "gpcr_name": "Probable G-protein coupled receptor 35",
+        "gpcr_id": "GPR35"
+    },
+    "O15354": {
+        "gpcr_class": "Orphan receptors",
+        "gpcr_name": "Probable G-protein coupled receptor 37 (Endothelin B receptor-like protein-1) (ETBR-LP-1) (Parkin-associated endothelin-like receptor) (PAELR)",
+        "gpcr_id": "GPR37"
+    },
+    "O43194": {
+        "gpcr_class": "Orphan receptors",
+        "gpcr_name": "G-protein coupled receptor 39",
+        "gpcr_id": "GPR39"
+    },
+    "O15529": {
+        "gpcr_class": "Orphan receptors",
+        "gpcr_name": "G-protein coupled receptor 42",
+        "gpcr_id": "GPR42P; GPR42"
+    },
+    "Q9Y5Y3": {
+        "gpcr_class": "Orphan receptors",
+        "gpcr_name": "Probable G-protein coupled receptor 45 (PSP24-alpha) (PSP24-1)",
+        "gpcr_id": "GPR45"
+    },
+    "Q9Y2T5": {
+        "gpcr_class": "Orphan receptors",
+        "gpcr_name": "Probable G-protein coupled receptor 52",
+        "gpcr_id": "GPR52"
+    },
+    "Q9Y2T6": {
+        "gpcr_class": "Orphan receptors",
+        "gpcr_name": "Probable G-protein coupled receptor 55",
+        "gpcr_id": "GPR55"
+    },
+    "Q9BZJ8": {
+        "gpcr_class": "Orphan receptors",
+        "gpcr_name": "Probable G-protein coupled receptor 61",
+        "gpcr_id": "GPR61; BALGR"
+    },
+    "Q9BZJ7": {
+        "gpcr_class": "Orphan receptors",
+        "gpcr_name": "Probable G-protein coupled receptor 62",
+        "gpcr_id": "GPR62"
+    },
+    "Q9BZJ6": {
+        "gpcr_class": "Orphan receptors",
+        "gpcr_name": "Probable G-protein coupled receptor 63 (PSP24-beta) (PSP24-2)",
+        "gpcr_id": "GPR63"
+    },
+    "O95800": {
+        "gpcr_class": "Orphan receptors",
+        "gpcr_name": "Probable G-protein coupled receptor 75",
+        "gpcr_id": "GPR75"
+    },
+    "Q96P69": {
+        "gpcr_class": "Orphan receptors",
+        "gpcr_name": "G-protein coupled receptor 78",
+        "gpcr_id": "GPR78"
+    },
+    "Q96P67": {
+        "gpcr_class": "Orphan receptors",
+        "gpcr_name": "Probable G-protein coupled receptor 82",
+        "gpcr_id": "GPR82"
+    },
+    "Q9NYM4": {
+        "gpcr_class": "Orphan receptors",
+        "gpcr_name": "Probable G-protein coupled receptor 83",
+        "gpcr_id": "GPR83; GPR72; KIAA1540"
+    },
+    "Q9NQS5": {
+        "gpcr_class": "Orphan receptors",
+        "gpcr_name": "Probable G-protein coupled receptor 84 (Inflammation-related G-protein coupled receptor EX33)",
+        "gpcr_id": "GPR84; EX33"
+    },
+    "P60893": {
+        "gpcr_class": "Orphan receptors",
+        "gpcr_name": "Probable G-protein coupled receptor 85 (Super conserved receptor expressed in brain 2)",
+        "gpcr_id": "GPR85; SREB2"
+    },
+    "Q9BY21": {
+        "gpcr_class": "Orphan receptors",
+        "gpcr_name": "G-protein coupled receptor 87 (G-protein coupled receptor 95)",
+        "gpcr_id": "GPR87; GPR95"
+    },
+    "Q9GZN0": {
+        "gpcr_class": "Orphan receptors",
+        "gpcr_name": "Probable G-protein coupled receptor 88 (Striatum-specific G-protein coupled receptor)",
+        "gpcr_id": "GPR88; STRG"
+    },
+    "Q96P66": {
+        "gpcr_class": "Orphan receptors",
+        "gpcr_name": "Probable G-protein coupled receptor 101",
+        "gpcr_id": "GPR101"
+    },
+    "Q9UNW8": {
+        "gpcr_class": "Orphan receptors",
+        "gpcr_name": "Probable G-protein coupled receptor 132 (G2 accumulation protein)",
+        "gpcr_id": "GPR132; G2A"
+    },
+    "Q8IZ08": {
+        "gpcr_class": "Orphan receptors",
+        "gpcr_name": "Probable G-protein coupled receptor 135",
+        "gpcr_id": "GPR135"
+    },
+    "Q6DWJ6": {
+        "gpcr_class": "Orphan receptors",
+        "gpcr_name": "Probable G-protein coupled receptor 139 (G(q)-coupled orphan receptor GPRg1) (G-protein coupled receptor PGR3)",
+        "gpcr_id": "GPR139; GPRG1; PGR3"
+    },
+    "Q7Z602": {
+        "gpcr_class": "Orphan receptors",
+        "gpcr_name": "Probable G-protein coupled receptor 141 (G-protein coupled receptor PGR13)",
+        "gpcr_id": "GPR141; PGR13"
+    },
+    "Q7Z601": {
+        "gpcr_class": "Orphan receptors",
+        "gpcr_name": "Probable G-protein coupled receptor 142 (G-protein coupled receptor PGR2)",
+        "gpcr_id": "GPR142; PGR2"
+    },
+    "Q96CH1": {
+        "gpcr_class": "Orphan receptors",
+        "gpcr_name": "Probable G-protein coupled receptor 146 (G-protein coupled receptor PGR8)",
+        "gpcr_id": "GPR146; PGR8"
+    },
+    "Q8TDV2": {
+        "gpcr_class": "Orphan receptors",
+        "gpcr_name": "Probable G-protein coupled receptor 148 (G-protein coupled receptor PGR6) (Brain and testis restricted GPCR)",
+        "gpcr_id": "GPR148; BTR; PGR6"
+    },
+    "Q86SP6": {
+        "gpcr_class": "Orphan receptors",
+        "gpcr_name": "Probable G-protein coupled receptor 149 (G-protein coupled receptor PGR10)",
+        "gpcr_id": "GPR149; PGR10"
+    },
+    "Q8NGU9": {
+        "gpcr_class": "Orphan receptors",
+        "gpcr_name": "Probable G-protein coupled receptor 150",
+        "gpcr_id": "GPR150"
+    },
+    "Q8TDV0": {
+        "gpcr_class": "Orphan receptors",
+        "gpcr_name": "Probable G-protein coupled receptor 151 (G-protein coupled receptor PGR7) (GPCR-2037)",
+        "gpcr_id": "GPR151; PGR7"
+    },
+    "Q8TDT2": {
+        "gpcr_class": "Orphan receptors",
+        "gpcr_name": "Probable G-protein coupled receptor 152 (G-protein coupled receptor PGR5)",
+        "gpcr_id": "GPR152; PGR5"
+    },
+    "Q6NV75": {
+        "gpcr_class": "Orphan receptors",
+        "gpcr_name": "Probable G-protein coupled receptor 153 (G-protein coupled receptor PGR1)",
+        "gpcr_id": "GPR153; PGR1"
+    },
+    "Q9UJ42": {
+        "gpcr_class": "Orphan receptors",
+        "gpcr_name": "Probable G-protein coupled receptor 160",
+        "gpcr_id": "GPR160; GPCR150"
+    },
+    "Q8N6U8": {
+        "gpcr_class": "Orphan receptors",
+        "gpcr_name": "G-protein coupled receptor 161 (G-protein coupled receptor RE2)",
+        "gpcr_id": "GPR161"
+    },
+    "Q16538": {
+        "gpcr_class": "Orphan receptors",
+        "gpcr_name": "Probable G-protein coupled receptor 162 (Gene-rich cluster gene A protein)",
+        "gpcr_id": "GPR162"
+    },
+    "O14626": {
+        "gpcr_class": "Orphan receptors",
+        "gpcr_name": "Probable G-protein coupled receptor 171 (G-protein coupled receptor H963)",
+        "gpcr_id": "GPR171; H963"
+    },
+    "Q9NS66": {
+        "gpcr_class": "Orphan receptors",
+        "gpcr_name": "Probable G-protein coupled receptor 173 (Super conserved receptor expressed in brain 3)",
+        "gpcr_id": "GPR173; SREB3"
+    },
+    "Q14439": {
+        "gpcr_class": "Orphan receptors",
+        "gpcr_name": "G-protein coupled receptor 176 (HB-954)",
+        "gpcr_id": "GPR176"
+    },
+    "O15218": {
+        "gpcr_class": "Orphan receptors",
+        "gpcr_name": "G-protein coupled receptor 182",
+        "gpcr_id": "GPR182; ADMR"
+    },
+    "P32249": {
+        "gpcr_class": "Orphan receptors",
+        "gpcr_name": "G-protein coupled receptor 183 (EBV-induced G-protein coupled receptor 2) (EBI2)",
+        "gpcr_id": "GPR183; EBI2"
+    },
+    "Q8NGA4": {
+        "gpcr_class": "Orphan receptors",
+        "gpcr_name": "Putative G-protein coupled receptor GPCR39",
+        "gpcr_id": "GPCR39"
+    },
+    "Q5NUL3": {
+        "gpcr_class": "Orphan receptors",
+        "gpcr_name": "Omega-3 fatty acid receptor 1 (G-protein coupled receptor 120) (G-protein coupled receptor 129) (G-protein coupled receptor GT01) (G-protein coupled receptor PGR4)",
+        "gpcr_id": "O3FAR1; GPR120; GPR129; PGR4"
+    },
+    "Q9Y5Y4": {
+        "gpcr_class": "Orphan receptors",
+        "gpcr_name": "Prostaglandin D2 receptor 2 (Probable G-protein coupled receptor 44) (CD294 antigen)",
+        "gpcr_id": "PTGDR2; GPR44; CRTH2"
+    },
+    "P30988": {
+        "gpcr_class": "Family 2 (B) receptors",
+        "gpcr_name": "Calcitonin (CT-R)",
+        "gpcr_id": "CALCR"
+    },
+    "Q16602": {
+        "gpcr_class": "Family 2 (B) receptors",
+        "gpcr_name": "Calcitonin gene-related peptide type 1 (CGRP type 1) (Calcitonin receptor-like receptor)",
+        "gpcr_id": "CALCRL; CGRPR"
+    },
+    "P34998": {
+        "gpcr_class": "Family 2 (B) receptors",
+        "gpcr_name": "Corticotropin-releasing factor 1 (CRF1)",
+        "gpcr_id": "CRHR1; CRHR; CRFR"
+    },
+    "Q13324": {
+        "gpcr_class": "Family 2 (B) receptors",
+        "gpcr_name": "Corticotropin-releasing factor 2 (CRF2)",
+        "gpcr_id": "CRHR2; CRF2R"
+    },
+    "P48546": {
+        "gpcr_class": "Family 2 (B) receptors",
+        "gpcr_name": "Gastric inhibitory peptide (GIP-R) (Glucose-dependent insulinotropic polypeptide receptor)",
+        "gpcr_id": "GIPR"
+    },
+    "P47871": {
+        "gpcr_class": "Family 2 (B) receptors",
+        "gpcr_name": "Glucagon (GL-R)",
+        "gpcr_id": "GCGR"
+    },
+    "P43220": {
+        "gpcr_class": "Family 2 (B) receptors",
+        "gpcr_name": "Glucagon-like peptide 1 (GLP-1-R)",
+        "gpcr_id": "GLP1R"
+    },
+    "O95838": {
+        "gpcr_class": "Family 2 (B) receptors",
+        "gpcr_name": "Glucagon-like peptide 2 (GLP-2 receptor) (GLP-2-R) (GLP-2R)",
+        "gpcr_id": "GLP2R"
+    },
+    "Q02643": {
+        "gpcr_class": "Family 2 (B) receptors",
+        "gpcr_name": "Growth hormone-releasing hormone (GRFR)",
+        "gpcr_id": "GHRHR"
+    },
+    "Q03431": {
+        "gpcr_class": "Family 2 (B) receptors",
+        "gpcr_name": "Parathyroid hormone/parathyroid hormone-related peptide receptor (Parathyroid hormone 1 receptor) (PTH1 receptor) (PTH/PTHr receptor) (PTH/PTHrP type I receptor)",
+        "gpcr_id": "PTH1R; PTHR1; PTHR"
+    },
+    "P49190": {
+        "gpcr_class": "Family 2 (B) receptors",
+        "gpcr_name": "Parathyroid hormone 2 receptor (PTH2 receptor)",
+        "gpcr_id": "PTH2R; PTHR2"
+    },
+    "P41586": {
+        "gpcr_class": "Family 2 (B) receptors",
+        "gpcr_name": "Pituitary adenylate cyclase-activating polypeptide type I",
+        "gpcr_id": "ADCYAP1R1"
+    },
+    "P47872": {
+        "gpcr_class": "Family 2 (B) receptors",
+        "gpcr_name": "Secretin (SCT-R)",
+        "gpcr_id": "SCTR"
+    },
+    "P32241": {
+        "gpcr_class": "Family 2 (B) receptors",
+        "gpcr_name": "Vasoactive intestinal polypeptide 1 (VIP-R-1)",
+        "gpcr_id": "VIPR1"
+    },
+    "P41587": {
+        "gpcr_class": "Family 2 (B) receptors",
+        "gpcr_name": "Vasoactive intestinal polypeptide 2 (VIP-R-2) (PACAP-R-3)",
+        "gpcr_id": "VIPR2"
+    },
+    "Q86SQ6": {
+        "gpcr_class": "Family 2 (B) receptors",
+        "gpcr_name": "Adhesion G protein-coupled receptor A1 (G-protein coupled receptor 123)",
+        "gpcr_id": "ADGRA1, GPR123"
+    },
+    "Q96PE1": {
+        "gpcr_class": "Family 2 (B) receptors",
+        "gpcr_name": "Adhesion G protein-coupled receptor A2 (G-protein coupled receptor 124) (Tumor endothelial marker 5)",
+        "gpcr_id": "ADGRA2; GPR124; TEM5"
+    },
+    "Q8IWK6": {
+        "gpcr_class": "Family 2 (B) receptors",
+        "gpcr_name": "Adhesion G protein-coupled receptor A3 (G-protein coupled receptor 125)",
+        "gpcr_id": "ADGRA3; GPR125"
+    },
+    "O60241": {
+        "gpcr_class": "Family 2 (B) receptors",
+        "gpcr_name": "Adhesion G protein-coupled receptor B2 (Brain-specific angiogenesis inhibitor 2",
+        "gpcr_id": "ADGRB2; BAI2"
+    },
+    "O60242": {
+        "gpcr_class": "Family 2 (B) receptors",
+        "gpcr_name": "Adhesion G protein-coupled receptor B3 (Brain-specific angiogenesis inhibitor 3)",
+        "gpcr_id": "ADGRB3; BAI3"
+    },
+    "Q6QNK2": {
+        "gpcr_class": "Family 2 (B) receptors",
+        "gpcr_name": "Adhesion G-protein coupled receptor D1 (G-protein coupled receptor 133) (G-protein coupled receptor PGR25)",
+        "gpcr_id": "ADGRD1; GPR133; PGR25"
+    },
+    "Q7Z7M1": {
+        "gpcr_class": "Family 2 (B) receptors",
+        "gpcr_name": "Adhesion G-protein coupled receptor D2 (G-protein coupled receptor 144) (G-protein coupled receptor PGR24)",
+        "gpcr_id": "ADGRD2; GPR144; PGR24"
+    },
+    "Q14246": {
+        "gpcr_class": "Family 2 (B) receptors",
+        "gpcr_name": "Adhesion G protein-coupled receptor E1 (EGF-like module-containing mucin-like hormone receptor-like 1) (Cell surface glycoprotein EMR1) (EMR1 hormone receptor)",
+        "gpcr_id": "ADGRE1; EMR1"
+    },
+    "Q9UHX3": {
+        "gpcr_class": "Family 2 (B) receptors",
+        "gpcr_name": "Adhesion G protein-coupled receptor E2 (EGF-like module-containing mucin-like hormone receptor-like 2) (CD312 antigen)",
+        "gpcr_id": "ADGRE2; EMR2"
+    },
+    "Q9BY15": {
+        "gpcr_class": "Family 2 (B) receptors",
+        "gpcr_name": "Adhesion G protein-coupled receptor E3 (EGF-like module-containing mucin-like hormone receptor-like 3)",
+        "gpcr_id": "ADGRE3; EMR3"
+    },
+    "Q86SQ3": {
+        "gpcr_class": "Family 2 (B) receptors",
+        "gpcr_name": "Adhesion G protein-coupled receptor E4 (EGF-like module-containing mucin-like hormone receptor-like 4) (G-protein coupled receptor 127) (G-protein coupled receptor PGR16)",
+        "gpcr_id": "ADGRE4P; EMR4P; EMR4; GPR127; PGR16"
+    },
+    "Q5T601": {
+        "gpcr_class": "Family 2 (B) receptors",
+        "gpcr_name": "Adhesion G-protein coupled receptor F1 (G-protein coupled receptor 110) (G-protein coupled receptor PGR19)",
+        "gpcr_id": "ADGRF1; GPR110; PGR19"
+    },
+    "Q8IZF7": {
+        "gpcr_class": "Family 2 (B) receptors",
+        "gpcr_name": "Adhesion G-protein coupled receptor F2 (G-protein coupled receptor 111) (G-protein coupled receptor PGR20)",
+        "gpcr_id": "ADGRF2; GPR111; PGR20"
+    },
+    "Q8IZF5": {
+        "gpcr_class": "Family 2 (B) receptors",
+        "gpcr_name": "Adhesion G-protein coupled receptor F3 (G-protein coupled receptor 113) (G-protein coupled receptor PGR23)",
+        "gpcr_id": "ADGRF3; GPR113; PGR23"
+    },
+    "Q8IZF3": {
+        "gpcr_class": "Family 2 (B) receptors",
+        "gpcr_name": "Adhesion G-protein coupled receptor F4 (G-protein coupled receptor 115) (G-protein coupled receptor PGR18)",
+        "gpcr_id": "ADGRF4; GPR115; PGR18"
+    },
+    "Q8IZF2": {
+        "gpcr_class": "Family 2 (B) receptors",
+        "gpcr_name": "Adhesion G protein-coupled receptor F5 (G-protein coupled receptor 116)",
+        "gpcr_id": "ADGRF5; GPR116; KIAA0758"
+    },
+    "Q9Y653": {
+        "gpcr_class": "Family 2 (B) receptors",
+        "gpcr_name": "Adhesion G-protein coupled receptor G1 (G-protein coupled receptor 56) (TM7XN1 protein) (UNQ540/GPR56)",
+        "gpcr_id": "ADGRG1; GPR56; TM7LN4; TM7XN1"
+    },
+    "Q8IZP9": {
+        "gpcr_class": "Family 2 (B) receptors",
+        "gpcr_name": "Adhesion G-protein coupled receptor G2 (G-protein coupled receptor 64) (Epididymis-specific protein 6) (He6 receptor)",
+        "gpcr_id": "ADGRG2; GPR64; HE6; TM7LN2"
+    },
+    "Q86Y34": {
+        "gpcr_class": "Family 2 (B) receptors",
+        "gpcr_name": "Adhesion G protein-coupled receptor G3 (Probable G-protein coupled receptor 97) (G-protein coupled receptor PGR26)",
+        "gpcr_id": "ADGRG3; GPR97; PGR26"
+    },
+    "Q8IZF6": {
+        "gpcr_class": "Family 2 (B) receptors",
+        "gpcr_name": "Adhesion G-protein coupled receptor G4 (G-protein coupled receptor 112)",
+        "gpcr_id": "ADGRG5; GPR112"
+    },
+    "Q8IZF4": {
+        "gpcr_class": "Family 2 (B) receptors",
+        "gpcr_name": "Adhesion G-protein coupled receptor G5 (G-protein coupled receptor 114) (G-protein coupled receptor PGR27)",
+        "gpcr_id": "ADGRG5; GPR114; PGR27"
+    },
+    "Q86SQ4": {
+        "gpcr_class": "Family 2 (B) receptors",
+        "gpcr_name": "Adhesion G-protein coupled receptor G6 (G-protein coupled receptor 126) (Developmentally regulated G-protein-coupled receptor) (Vascular inducible G protein-coupled receptor)",
+        "gpcr_id": "ADGRG6; GPR126; DREG; VIGR"
+    },
+    "Q96K78": {
+        "gpcr_class": "Family 2 (B) receptors",
+        "gpcr_name": "Adhesion G-protein coupled receptor G7 (G-protein coupled receptor 128)",
+        "gpcr_id": "ADGRG7; GPR128"
+    },
+    "O14514": {
+        "gpcr_class": "Family 2 (B) receptors",
+        "gpcr_name": "Brain-specific angiogenesis inhibitor 1",
+        "gpcr_id": "BAI1"
+    },
+    "Q8WXG9": {
+        "gpcr_class": "Family 2 (B) receptors",
+        "gpcr_name": "G-protein coupled receptor 98 (Monogenic audiogenic seizure susceptibility protein 1 homolog) (Very large G-protein coupled receptor 1) (Usher syndrome type-2C protein) (G-protein coupled receptor 98)",
+        "gpcr_id": "GPR98; KIAA0686; MASS1; VLGR1"
+    },
+    "P48960": {
+        "gpcr_class": "Family 2 (B) receptors",
+        "gpcr_name": "CD97 antigen (Leukocyte antigen CD97)",
+        "gpcr_id": "CD97"
+    },
+    "Q5UAW9": {
+        "gpcr_class": "Family 2 (B) receptors",
+        "gpcr_name": "G-protein coupled receptor 157",
+        "gpcr_id": "GPR157"
+    },
+    "O94910": {
+        "gpcr_class": "Family 2 (B) receptors",
+        "gpcr_name": "Adhesion G protein-coupled receptor L1 (Latrophilin-1) (Calcium-independent alpha-latrotoxin receptor 1) (Lectomedin-2)",
+        "gpcr_id": "ADGRL1; LPHN1; LEC2; KIAA0821"
+    },
+    "O95490": {
+        "gpcr_class": "Family 2 (B) receptors",
+        "gpcr_name": "Adhesion G protein-coupled receptor L2 (Latrophilin-2) (Calcium-independent alpha-latrotoxin receptor 2) (Latrophilin homolog 1) (Lectomedin 1)",
+        "gpcr_id": "ADGRL2; LPHN2; LPHH1; LEC1; KIAA0786"
+    },
+    "Q9HAR2": {
+        "gpcr_class": "Family 2 (B) receptors",
+        "gpcr_name": "Adhesion G protein-coupled receptor L3 (Latrophilin-3) (Calcium-independent alpha-latrotoxin receptor 3) (Lectomedin-3)",
+        "gpcr_id": "ADGRL3; LPHN3; LEC3; KIAA0768"
+    },
+    "Q9HBW9": {
+        "gpcr_class": "Family 2 (B) receptors",
+        "gpcr_name": "Adhesion G protein-coupled receptor L4 (EGF, latrophilin and seven transmembrane domain-containing protein 1) (EGF-TM7-latrophilin-related protein) (ETL protein)",
+        "gpcr_id": "ADGRL4; ELTD1; ETL"
+    },
+    "Q9NYQ6": {
+        "gpcr_class": "Family 2 (B) receptors",
+        "gpcr_name": "Cadherin EGF LAG seven-pass G-type receptor 1 (Flamingo homolog 2) (hFmi2)",
+        "gpcr_id": "CELSR1; CDHF9; FMI2"
+    },
+    "Q9HCU4": {
+        "gpcr_class": "Family 2 (B) receptors",
+        "gpcr_name": "Cadherin EGF LAG seven-pass G-type receptor 2 (Epidermal growth factor-like 2) (Multiple epidermal growth factor-like domains 3) (Flamingo 1)",
+        "gpcr_id": "CELSR2; CDHF10; EGFL2; MEGF3; KIAA0279"
+    },
+    "Q9NYQ7": {
+        "gpcr_class": "Family 2 (B) receptors",
+        "gpcr_name": "Cadherin EGF LAG seven-pass G-type receptor 3 (Flamingo homolog 1) (hFmi1) (Multiple epidermal growth factor-like domains 2) (Epidermal growth factor-like 1)",
+        "gpcr_id": "CELSR3; CDHF11; FMI1; EGFL1; MEGF2; KIAA1812"
+    },
+    "Q13255": {
+        "gpcr_class": "Family 3 (C) receptors (metabotropic glutamate and calcium receptors)",
+        "gpcr_name": "Metabotropic glutamate 1 (mGluR1)",
+        "gpcr_id": "GRM1; GPRC1A; MGLUR1"
+    },
+    "Q14416": {
+        "gpcr_class": "Family 3 (C) receptors (metabotropic glutamate and calcium receptors)",
+        "gpcr_name": "Metabotropic glutamate 2 (mGluR2)",
+        "gpcr_id": "GRM2; GPRC1B; MGLUR2"
+    },
+    "Q14832": {
+        "gpcr_class": "Family 3 (C) receptors (metabotropic glutamate and calcium receptors)",
+        "gpcr_name": "Metabotropic glutamate 3 (mGluR3)",
+        "gpcr_id": "GRM3; GPRC1C; MGLUR3"
+    },
+    "Q14833": {
+        "gpcr_class": "Family 3 (C) receptors (metabotropic glutamate and calcium receptors)",
+        "gpcr_name": "Metabotropic glutamate 4 (mGluR4)",
+        "gpcr_id": "GRM4; GPRC1D; MGLUR4"
+    },
+    "P41594": {
+        "gpcr_class": "Family 3 (C) receptors (metabotropic glutamate and calcium receptors)",
+        "gpcr_name": "Metabotropic glutamate 5 (mGluR5)",
+        "gpcr_id": "GRM5; GPRC1E; MGLUR5"
+    },
+    "O15303": {
+        "gpcr_class": "Family 3 (C) receptors (metabotropic glutamate and calcium receptors)",
+        "gpcr_name": "Metabotropic glutamate 6 (mGluR6)",
+        "gpcr_id": "GRM6; GPRC1F; MGLUR6"
+    },
+    "Q14831": {
+        "gpcr_class": "Family 3 (C) receptors (metabotropic glutamate and calcium receptors)",
+        "gpcr_name": "Metabotropic glutamate 7 (mGluR7)",
+        "gpcr_id": "GRM7; GPRC1G; MGLUR7"
+    },
+    "O00222": {
+        "gpcr_class": "Family 3 (C) receptors (metabotropic glutamate and calcium receptors)",
+        "gpcr_name": "Metabotropic glutamate 8 (mGluR8)",
+        "gpcr_id": "GRM8; GPRC1H; MGLUR8"
+    },
+    "P41180": {
+        "gpcr_class": "Family 3 (C) receptors (metabotropic glutamate and calcium receptors)",
+        "gpcr_name": "Extracellular calcium-sensing receptor",
+        "gpcr_id": "CASR; GPRC2A; PCAR1"
+    },
+    "Q9UBS5": {
+        "gpcr_class": "Family 3 (C) receptors (metabotropic glutamate and calcium receptors)",
+        "gpcr_name": "Gamma-aminobutyric acid type B receptor subunit 1 (GABA-B receptor 1) (GABA-B-R1) (Gb1)",
+        "gpcr_id": "GABBR1; GPRC3A"
+    },
+    "O75899": {
+        "gpcr_class": "Family 3 (C) receptors (metabotropic glutamate and calcium receptors)",
+        "gpcr_name": "Gamma-aminobutyric acid type B receptor subunit 2 (GABA-B receptor 2) (GABA-B-R2) (Gb2) (GABABR2) (G-protein coupled receptor 51)",
+        "gpcr_id": "GABBR2; GPR51; GPRC3B"
+    },
+    "Q7RTX1": {
+        "gpcr_class": "Family 3 (C) receptors (metabotropic glutamate and calcium receptors)",
+        "gpcr_name": "Taste receptor type 1 member 1 (G protein coupled receptor 70)",
+        "gpcr_id": "TAS1R1; GPR70; T1R1; TR1"
+    },
+    "Q8TE23": {
+        "gpcr_class": "Family 3 (C) receptors (metabotropic glutamate and calcium receptors)",
+        "gpcr_name": "Taste receptor type 1 member 2 (Sweet taste receptor T1R2) (G protein coupled receptor 71)",
+        "gpcr_id": "TAS1R2; GPR71; T1R2; TR2"
+    },
+    "Q7RTX0": {
+        "gpcr_class": "Family 3 (C) receptors (metabotropic glutamate and calcium receptors)",
+        "gpcr_name": "Taste receptor type 1 member 3 (Sweet taste receptor T1R3)",
+        "gpcr_id": "TAS1R3; T1R3; TR3"
+    },
+    "Q8NFJ5": {
+        "gpcr_class": "Family 3 (C) receptors (metabotropic glutamate and calcium receptors)",
+        "gpcr_name": "Retinoic acid-induced protein 3 (G-protein coupled receptor family C group 5 member A) (Retinoic acid-induced gene 1 protein) (RAIG-1)",
+        "gpcr_id": "RAI3; GPRC5A; RAIG1"
+    },
+    "Q9NZH0": {
+        "gpcr_class": "Family 3 (C) receptors (metabotropic glutamate and calcium receptors)",
+        "gpcr_name": "G-protein coupled receptor family C group 5 member B (Retinoic acid-induced gene 2 protein) (RAIG-2) (A-69G12.1)",
+        "gpcr_id": "GPRC5B; RAIG2"
+    },
+    "Q9NQ84": {
+        "gpcr_class": "Family 3 (C) receptors (metabotropic glutamate and calcium receptors)",
+        "gpcr_name": "G-protein coupled receptor family C group 5 member C (Retinoic acid-induced gene 3 protein) (RAIG-3)",
+        "gpcr_id": "GPRC5C; RAIG3"
+    },
+    "Q9NZD1": {
+        "gpcr_class": "Family 3 (C) receptors (metabotropic glutamate and calcium receptors)",
+        "gpcr_name": "G-protein coupled receptor family C group 5 member D",
+        "gpcr_id": "GPRC5D"
+    },
+    "Q5T6X5": {
+        "gpcr_class": "Family 3 (C) receptors (metabotropic glutamate and calcium receptors)",
+        "gpcr_name": "G-protein coupled receptor family C group 6 member A (hGPRC6A) (G-protein coupled receptor 33) (hGPCR33)",
+        "gpcr_id": "GPRC6A; GPCR33"
+    },
+    "Q8NFN8": {
+        "gpcr_class": "Family 3 (C) receptors (metabotropic glutamate and calcium receptors)",
+        "gpcr_name": "Probable G-protein coupled receptor 156 (GABAB-related G-protein coupled receptor) (G-protein coupled receptor PGR28)",
+        "gpcr_id": "GPR156; GABABL; PGR28"
+    },
+    "Q5T848": {
+        "gpcr_class": "Family 3 (C) receptors (metabotropic glutamate and calcium receptors)",
+        "gpcr_name": "Probable G-protein coupled receptor 158",
+        "gpcr_id": "GPR158; KIAA1136"
+    },
+    "Q6PRD1": {
+        "gpcr_class": "Family 3 (C) receptors (metabotropic glutamate and calcium receptors)",
+        "gpcr_name": "Probable G-protein coupled receptor 179 (Probable G-protein coupled receptor 158-like 1)",
+        "gpcr_id": "GPR179; GPR158L1"
+    },
+    "Q9NYW7": {
+        "gpcr_class": "Family T2R receptors (taste receptors)",
+        "gpcr_name": "Taste receptor type 2 member 1 (T2R1) (Taste receptor family B member 7) (TRB7)",
+        "gpcr_id": "TAS2R1"
+    },
+    "Q9NYW6": {
+        "gpcr_class": "Family T2R receptors (taste receptors)",
+        "gpcr_name": "Taste receptor type 2 member 3 (T2R3)",
+        "gpcr_id": "TAS2R3"
+    },
+    "Q9NYW5": {
+        "gpcr_class": "Family T2R receptors (taste receptors)",
+        "gpcr_name": "Taste receptor type 2 member 4 (T2R4)",
+        "gpcr_id": "TAS2R4"
+    },
+    "Q9NYW4": {
+        "gpcr_class": "Family T2R receptors (taste receptors)",
+        "gpcr_name": "Taste receptor type 2 member 5 (T2R5)",
+        "gpcr_id": "TAS2R5"
+    },
+    "Q9NYW3": {
+        "gpcr_class": "Family T2R receptors (taste receptors)",
+        "gpcr_name": "Taste receptor type 2 member 7 (T2R7) (Taste receptor family B member 4) (TRB4)",
+        "gpcr_id": "TAS2R7"
+    },
+    "Q9NYW2": {
+        "gpcr_class": "Family T2R receptors (taste receptors)",
+        "gpcr_name": "Taste receptor type 2 member 8 (T2R8) (Taste receptor family B member 5) (TRB5)",
+        "gpcr_id": "TAS2R8"
+    },
+    "Q9NYW1": {
+        "gpcr_class": "Family T2R receptors (taste receptors)",
+        "gpcr_name": "Taste receptor type 2 member 9 (T2R9) (Taste receptor family B member 6) (TRB6)",
+        "gpcr_id": "TAS2R9"
+    },
+    "Q9NYW0": {
+        "gpcr_class": "Family T2R receptors (taste receptors)",
+        "gpcr_name": "Taste receptor type 2 member 10 (T2R10) (Taste receptor family B member 2) (TRB2)",
+        "gpcr_id": "TAS2R10"
+    },
+    "Q9NYV9": {
+        "gpcr_class": "Family T2R receptors (taste receptors)",
+        "gpcr_name": "Taste receptor type 2 member 13 (T2R13) (Taste receptor family B member 3) (TRB3)",
+        "gpcr_id": "TAS2R13"
+    },
+    "Q9NYV8": {
+        "gpcr_class": "Family T2R receptors (taste receptors)",
+        "gpcr_name": "Taste receptor type 2 member 14 (T2R14) (Taste receptor family B member 1) (TRB1)",
+        "gpcr_id": "TAS2R14"
+    },
+    "Q9NYV7": {
+        "gpcr_class": "Family T2R receptors (taste receptors)",
+        "gpcr_name": "Taste receptor type 2 member 16 (T2R16)",
+        "gpcr_id": "TAS2R16"
+    },
+    "P59542": {
+        "gpcr_class": "Family T2R receptors (taste receptors)",
+        "gpcr_name": "Taste receptor type 2 member 19 (Taste receptor type 2 member 48) (T2R48) (Taste receptor type 2 member 23)",
+        "gpcr_id": "TAS2R19; TAS2R23; TAS2R48,"
+    },
+    "P59543": {
+        "gpcr_class": "Family T2R receptors (taste receptors)",
+        "gpcr_name": "Taste receptor type 2 member 20 (Taste receptor type 2 member 49) (T2R49) (Taste receptor type 2 member 56) (T2R56)",
+        "gpcr_id": "TAS2R20; TAS2R49"
+    },
+    "P59541": {
+        "gpcr_class": "Family T2R receptors (taste receptors)",
+        "gpcr_name": "Taste receptor type 2 member 30 (Taste receptor type 2 member 47) (T2R47)",
+        "gpcr_id": "TAS2R30; TAS2R47"
+    },
+    "P59538": {
+        "gpcr_class": "Family T2R receptors (taste receptors)",
+        "gpcr_name": "Taste receptor type 2 member 31 (T2R31) (Taste receptor type 2 member 44) (T2R44) (T2R53)",
+        "gpcr_id": "TAS2R31; TAS2R44"
+    },
+    "P59533": {
+        "gpcr_class": "Family T2R receptors (taste receptors)",
+        "gpcr_name": "Taste receptor type 2 member 38 (T2R38) (T2R61) (PTC bitter taste receptor)",
+        "gpcr_id": "TAS2R38"
+    },
+    "P59534": {
+        "gpcr_class": "Family T2R receptors (taste receptors)",
+        "gpcr_name": "Taste receptor type 2 member 39 (T2R39) (T2R57)",
+        "gpcr_id": "TAS2R39"
+    },
+    "P59535": {
+        "gpcr_class": "Family T2R receptors (taste receptors)",
+        "gpcr_name": "Taste receptor type 2 member 40 (T2R40) (T2R58) (G-protein coupled receptor 60)",
+        "gpcr_id": "TAS2R40; GPR60"
+    },
+    "P59536": {
+        "gpcr_class": "Family T2R receptors (taste receptors)",
+        "gpcr_name": "Taste receptor type 2 member 41 (T2R41) (T2R59)",
+        "gpcr_id": "TAS2R41"
+    },
+    "Q7RTR8": {
+        "gpcr_class": "Family T2R receptors (taste receptors)",
+        "gpcr_name": "Taste receptor type 2 member 42 (T2R42) (T2R55)",
+        "gpcr_id": "TAS2R42; TAS2R55"
+    },
+    "P59537": {
+        "gpcr_class": "Family T2R receptors (taste receptors)",
+        "gpcr_name": "Taste receptor type 2 member 43 (T2R43) (T2R52)",
+        "gpcr_id": "TAS2R43"
+    },
+    "P59539": {
+        "gpcr_class": "Family T2R receptors (taste receptors)",
+        "gpcr_name": "Taste receptor type 2 member 45 (T2R45) (G-protein coupled receptor 59)",
+        "gpcr_id": "TAS2R45; GPR59"
+    },
+    "P59540": {
+        "gpcr_class": "Family T2R receptors (taste receptors)",
+        "gpcr_name": "Taste receptor type 2 member 46 (T2R46) (T2R54)",
+        "gpcr_id": "TAS2R46"
+    },
+    "P59544": {
+        "gpcr_class": "Family T2R receptors (taste receptors)",
+        "gpcr_name": "Taste receptor type 2 member 50 (T2R50) (T2R51)",
+        "gpcr_id": "TAS2R50"
+    },
+    "P59551": {
+        "gpcr_class": "Family T2R receptors (taste receptors)",
+        "gpcr_name": "Taste receptor type 2 member 60 (T2R60) (T2R56)",
+        "gpcr_id": "TAS2R60"
+    },
+    "Q9UP38": {
+        "gpcr_class": "Family fz/smo receptors",
+        "gpcr_name": "Frizzled-1 (Fz-1) (hFz1) (FzE1)",
+        "gpcr_id": "FZD1"
+    },
+    "Q14332": {
+        "gpcr_class": "Family fz/smo receptors",
+        "gpcr_name": "Frizzled-2 (Fz-2) (hFz2) (FzE2)",
+        "gpcr_id": "FZD2"
+    },
+    "Q9NPG1": {
+        "gpcr_class": "Family fz/smo receptors",
+        "gpcr_name": "Frizzled-3 (Fz-3) (hFz3)",
+        "gpcr_id": "FZD3"
+    },
+    "Q9ULV1": {
+        "gpcr_class": "Family fz/smo receptors",
+        "gpcr_name": "Frizzled-4 (Fz-4) (hFz4) (FzE4) (CD344 antigen)",
+        "gpcr_id": "FZD4"
+    },
+    "Q13467": {
+        "gpcr_class": "Family fz/smo receptors",
+        "gpcr_name": "Frizzled-5 (Fz-5) (hFz5) (FzE5)",
+        "gpcr_id": "FZD5"
+    },
+    "O60353": {
+        "gpcr_class": "Family fz/smo receptors",
+        "gpcr_name": "Frizzled-6 (Fz-6) (hFz6)",
+        "gpcr_id": "FZD6"
+    },
+    "O75084": {
+        "gpcr_class": "Family fz/smo receptors",
+        "gpcr_name": "Frizzled-7 (Fz-7) (hFz7) (FzE3)",
+        "gpcr_id": "FZD7"
+    },
+    "Q9H461": {
+        "gpcr_class": "Family fz/smo receptors",
+        "gpcr_name": "Frizzled-8 (Fz-8) (hFz8)",
+        "gpcr_id": "FZD8"
+    },
+    "O00144": {
+        "gpcr_class": "Family fz/smo receptors",
+        "gpcr_name": "Frizzled-9 (Fz-9) (hFz9) (FzE6) (CD349 antigen)",
+        "gpcr_id": "FZD9"
+    },
+    "Q9ULW2": {
+        "gpcr_class": "Family fz/smo receptors",
+        "gpcr_name": "Frizzled-10 (Fz-10) (hFz10) (FzE7)  (CD350 antigen)",
+        "gpcr_id": "FZD10"
+    },
+    "Q99835": {
+        "gpcr_class": "Family fz/smo receptors",
+        "gpcr_name": "Smoothened homolog (SMO)",
+        "gpcr_id": "SMO; SMOH"
+    },
+    "P51810": {
+        "gpcr_class": "Family OA",
+        "gpcr_name": "G-protein coupled receptor 143 (Ocular albinism type 1 protein)",
+        "gpcr_id": "GPR143; OA1"
+    }
+}
