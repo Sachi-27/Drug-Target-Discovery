@@ -1,482 +1,438 @@
-domain,frequency
-disordered::26484
-polar residues::12004
-basic and acidic residues::8620
-pro residues::2754
-acidic residues::1050
-ig-like c2-type::969
-fibronectin type-iii::849
-cadherin::831
-egf-like::793
-basic residues::677
-ig-like::670
-ef-hand::617
-nuclear localization signal::558
-protein kinase::504
-rrm::406
-krab::375
-sushi::349
-ph::321
-sh3::305
-tsp type-1::299
-pdz::271
-c2::250
-ldl-receptor class a::236
-olduvai::233
-iq::215
-collagen-like::207
-ig-like v-type::193
-laminin egf-like::192
-linker::189
-btb::168
-cub::162
-lim zinc-binding::161
-lrrct::147
-leucine-zipper::141
-laminin g-like::137
-vwfa::132
-cell attachment site::128
-nuclear export signal::125
-peptidase s1::124
-c-type lectin::117
-helicase atp-binding::117
-sh2::116
-sam::115
+domain::frequency
+disordered::11314
+polar residues::5623
+basic and acidic residues::4575
+pro residues::1730
+acidic residues::879
+basic residues::531
+protein kinase::489
+nuclear localization signal::471
+krab::369
+ig-like::346
+ig-like c2-type::311
+ph::279
+ef-hand::238
+rrm::235
+egf-like::225
+sh3::225
+fibronectin type-iii::204
+ig-like v-type::164
+btb::158
+pdz::153
+c2::147
+lrrct::130
+leucine-zipper::129
+peptidase s1::118
+cadherin::115
+helicase atp-binding::115
 bhlh::114
-calponin-homology (ch)::114
-lrrnt::112
-helicase c-terminal::110
-lxxll motif::105
-b30.2/spry::102
-pdz-binding::100
-vwfc::98
+linker::113
+helicase c-terminal::108
+nuclear export signal::107
+sh2::106
+iq::101
+lrrnt::100
+pdz-binding::99
 effector region::98
-ww::95
-kh::93
-tyrosine-protein phosphatase::91
-srcr::91
-sh3-binding::87
-aaa::83
-actin-binding::82
-beta/gamma crystallin 'greek key'::80
-abc transporter::80
-kazal-like::79
+b30.2/spry::96
+sam::95
+cell attachment site::87
+c-type lectin::86
+vwfa::86
+calponin-homology (ch)::81
+tyrosine-protein phosphatase::79
 usp::75
-itim motif::75
-ubiquitin-like::75
 if rod::74
 tail::74
-dh::72
 head::72
-selectivity filter::71
+lim zinc-binding::71
 f-box::71
+dh::70
+selectivity filter::69
 coil 1a::69
 coil 1b::69
-calmodulin-binding::69
 rho-gap::67
-interaction with dna::67
-ipt/tig::67
+actin-binding::66
+tsp type-1::66
 coil::63
-uba::61
+collagen-like::62
+laminin g-like::61
+sh3-binding::61
+ubiquitin-like::61
 scan box::60
-bipartite nuclear localization signal::59
-vwfd::59
-thioredoxin::59
+sushi::58
 egf-like 2; calcium-binding::57
 prevents secretion from er::57
 basic motif::56
-bromo::56
-calx-beta::56
 bzip::55
-tudor::55
+bipartite nuclear localization signal::55
 agc-kinase c-terminal::55
+calmodulin-binding::55
 rab-gap tbc::54
-ferm::54
-uim::54
-pas::53
+uba::53
+cub::53
+ferm::52
+ww::52
 set::51
-ig-like c1-type::50
-9aatad::49
-brct::49
+kazal-like::50
 j::49
 px::49
 nr lbd::48
-cx9c motif::48
-kringle::48
 deah box::48
-til::48
-dna-binding::47
-daz::47
+ldl-receptor class a::48
+abc transporter::48
+ig-like c1-type::46
 kinesin motor::45
-tb::45
+thioredoxin::45
+9aatad::44
 g1 motif::44
 g3 motif::44
 g4 motif::44
 cysteine switch::43
-cbs::43
 egf-like 5; calcium-binding::43
-abc transmembrane type-1::43
 back::42
-mir::42
-lfa::42
-ppxy motif::41
 disintegrin::41
-sea::41
-psi::41
-death::41
+bromo::41
+lxxll motif::41
 peptidase m12b::40
 connecting peptide::40
 ubc core::40
-mage::40
 microbody targeting signal::40
 myosin motor::39
-ras-associating::39
-drbm::39
+death::39
 socs box::38
-upar/ly6::38
-sant::38
+vwfc::38
+itim motif::38
+kh::38
 egf-like 3; calcium-binding::38
-rgs::37
-pid::37
 q motif::37
-chromo::37
-mam::37
-pkd::36
+mage::37
+ras-associating::37
 gps::36
-card::35
-plat::35
+rgs::35
 egf-like 4; calcium-binding::35
 g-patch::35
 gst c-terminal::35
-c1q::34
-wh2::34
+upar/ly6::34
 dead box::34
 fha::34
+pas::34
 jmjc::33
-nuclear localization signal (nls)::33
+pid::33
+c1q::33
+dna-binding::33
 fibrinogen c-terminal::32
+card::32
 bar::32
-marvel::31
 sema::31
 g2 motif::31
 g5 motif::31
-npa::31
-sm::30
-thyroglobulin type-1::30
-plastocyanin-like::30
+interaction with dna::31
+uim::30
+laminin egf-like::30
 arf-gap::29
 wsxws motif::29
+sant::29
+marvel::29
 ras-gef::29
-d-box::29
-hinge::28
-ricin b-type lectin::28
-lir::28
-sap::28
+sm::28
 hect::28
-t-snare coiled-coil homology::28
-pwwp::28
+chromo::28
 lish::28
-ff::28
 cral-trio::27
 nudix hydrolase::27
-bpti/kunitz inhibitor::27
-f5/8 type c::27
+tudor::27
+ricin b-type lectin::27
+wh2::27
+srcr::27
 n-acetyltransferase::27
+abc transmembrane type-1::27
 egf-like 7; calcium-binding::27
-rhodanese::26
+brct::26
+sap::26
 tir::26
-chch::26
 pac::26
-o-glycosylated at one site::26
 dhhc::26
-ppiase fkbp-type::26
 nudix box::25
+ppxy motif::25
 pci::25
-peptidase m14::25
+hinge::25
 ctck::25
 catalytic::25
-dep::25
 f-bar::25
-heparin-binding::25
+t-snare coiled-coil homology::25
+pwwp::25
 nacht::25
-gram::25
-spacer::25
-link::24
 ppiase cyclophilin-type::24
+rhodanese::24
 box 1 motif::24
-fz::24
+psi::24
+chch::24
+cx9c motif::24
+o-glycosylated at one site::24
 egf-like 8; calcium-binding::24
+spacer::24
 antp-type hexapeptide::23
 triple-helical region::23
+sea::23
+peptidase m14::23
 egf-like 6; calcium-binding::23
+fz::23
 ntr::23
 egf-like 1; calcium-binding::23
 pyrin::23
 gst n-terminal::23
 guanylate kinase-like::23
-yxxm motif::23
-wap::23
-required for nuclear localization::22
 n-terminal ras-gef::22
+dep::22
 udenn::22
 cdenn::22
 ddenn::22
 activation loop::22
-fibronectin type-ii::22
+ipt/tig::22
 fe2og dioxygenase::22
 ab hydrolase-1::22
-mrh::22
-fas1::22
-galectin::22
 pdease::21
-endocytosis signal::21
+plat::21
+f5/8 type c::21
+drbm::21
+d-box::21
 g3::21
-run::21
-rna-binding::21
-s1 motif::21
-cmp/dcmp-type deaminase::21
-ranbd1::20
+gram::21
 catalytic subdomain a::20
 catalytic subdomain b::20
 ppm-type phosphatase::20
-complementarity-determining-2::20
 igfbp n-terminal::20
-sh2-binding::20
 tr-type g::20
 g1::20
 g2::20
 g4::20
 g5::20
-zu5::20
 bh3::20
-l27::20
 gold::19
-globular::19
 myosin n-terminal sh3-like::19
+cbs::19
 framework-1::19
 complementarity-determining-1::19
 framework-2::19
+complementarity-determining-2::19
 framework-3::19
-eh::19
 fusion peptide::19
 pi3k/pi4k catalytic::19
 g-loop::19
 catalytic loop::19
-sti1::19
 fad-binding fr-type::19
-rem-1::19
 crib::19
+run::19
 plac::19
 dimerization::18
 'high' region::18
-hth myb-type::18
-ken box::18
-myb-like::18
-doublecortin::18
+required for nuclear localization::18
+kringle::18
+bpti/kunitz inhibitor::18
+mam::18
+ppiase fkbp-type::18
 pi-plc x-box::18
 emi::17
+vwfd::17
+olduvai::17
 mpn::17
-guanylate cyclase::17
+endocytosis signal::17
+thyroglobulin type-1::17
 g-alpha::17
 autoinhibitory domain::17
 hxxxxd motif::17
-atp-grasp::17
-cs::17
+heparin-binding::17
 di-lysine motif::17
-lxxll::17
+rna-binding::17
 alpha-carbonic anhydrase::17
 otu::17
-cap-gly::17
 parp catalytic::17
 pou-specific::16
+globular::16
 'kmsks' region::16
 complementarity-determining-3::16
-p-type::16
-nucleolar localization signal::16
 sec7::16
-homodimerization::16
-saposin b-type::16
 tlc::16
+cs::16
 egf-like 9; calcium-binding::16
 egf-like 12; calcium-binding::16
-h15::16
 post-set::16
-goloco::16
+npa::16
 oar::16
 alpha-1::16
 alpha-2::16
 laminin n-terminal::16
-wwe::16
-eama::16
+cmp/dcmp-type deaminase::16
+galectin::16
 stalk::15
+beta/gamma crystallin 'greek key'::15
 calpain catalytic::15
+lir::15
 gffkr motif::15
 zp::15
+ken box::15
 cnh::15
-lid::15
-cxxc::15
+homodimerization::15
+myb-like::15
+nuclear localization signal (nls)::15
 gla::15
 cyclin n-terminal::15
 modulating::15
 fh2::15
+atp-grasp::15
 cytochrome b5 heme-binding::15
-tudor-like domain::15
-smb::15
+zu5::15
 ras-gap::15
 arid::15
 scp::15
-itam::15
 start::15
 pa::15
 dagkc::15
 pi-plc y-box::15
-hma::15
-fibronectin type-i::15
-mn::15
+wap::15
 pb1::14
+link::14
 stem::14
-domain iii::14
+aaa::14
 myotubularin phosphatase::14
+nucleolar localization signal::14
 eph lbd::14
-interaction with calmodulin::14
-macro::14
 importin n-terminal::14
-gaf::14
-ffat::14
 triad supradomain::14
 peptidase a2::14
 egf-like 11; calcium-binding::14
 ttl::14
+h15::14
 dynamin-type g::14
-myth4::14
 histidine box-1::14
 histidine box-2::14
-hth ost-type::14
-csd::14
-wd40-like repeat::14
-required for transcriptional activation::13
-self-association::13
 mhd::13
 pentraxin (ptx)::13
 ubx::13
-transactivation domain::13
-nmp::13
+domain iii::13
 orange::13
+guanylate cyclase::13
 hth cenpb-type::13
-ben::13
+ffat::13
+fibronectin type-ii::13
 hth psq-type::13
 integrase catalytic::13
+til::13
+rem-1::13
 olfactomedin-like::13
-pld phosphodiesterase::13
-bah::13
+itam::13
 septin-type g::13
 elm2::13
 histidine box-3::13
-itsm::13
+l27::13
 beta::13
 alpha::13
 wh1::13
-nonhelical region::13
-albumin::12
+self-association::12
 rabbd::12
 ssd::12
+transactivation domain::12
 irs-type ptb::12
 membrane-binding amphipathic helix::12
+cxxc::12
 math::12
-dde-1::12
 pip-box::12
 v-snare coiled-coil homology::12
 cos::12
 reverse transcriptase::12
 egf-like 10; calcium-binding::12
 egf-like 16; calcium-binding::12
-nhr::12
-histone deacetylase::12
 bh2::12
+wwe::12
 hcfc1-binding motif (hbm)::12
-adf-h::12
-interaction with guide rna::12
-laminin iv type a::12
-mif4g::12
-ld motif::12
 r3h::11
-required for homodimerization::11
+required for transcriptional activation::11
+ranbd1::11
 grip::11
+p-type::11
 necessary for nuclear localization::11
 txy::11
+eh::11
+pkd::11
 fibrillar collagen nc1::11
+lid::11
 small gtpase-like::11
-sam-dependent mtase prmt-type::11
-dusp::11
+interaction with calmodulin::11
+dde-1::11
+sh2-binding::11
 rap-gap::11
 pnt::11
 egf-like 13; calcium-binding::11
-histone h3k4me3 and h3r8me2a binding::11
 c2 dock-type::11
 docker::11
 jmjn::11
 rnase h type-1::11
-tog::11
 krab-related::11
 gb1/rhd3-type g::11
-cue::11
+bah::11
 gbd/fh3::11
-mit::11
+histone deacetylase::11
 snag domain::11
 stas::11
 ferric oxidoreductase::11
 egf-like 14; calcium-binding::11
 egf-like 15; calcium-binding::11
-follistatin-like::11
 transcription activation::11
 mbd::11
-aig1-type g::10
 enth::10
 rwd::10
-glutaredoxin::10
 peptidase s8::10
 brichos::10
+nmp::10
 tfiis n-terminal::10
 wrpw motif::10
+mir::10
 rhd::10
+macro::10
 exonuclease::10
+smb::10
 pka-rii subunit binding domain::10
 lys-thr-x-x-x-trp motif, mediates interaction with the pdz domain of dvl family members::10
 macpf::10
 ctlh::10
+cue::10
 dad::10
-hotdog acot-type::10
+cap-gly::10
+mit::10
 peptidase a1::10
 vps9::10
 bh1::10
 vit::10
 alpha-3::10
 secondary area of contact::10
-anaphylatoxin-like::10
+s1 motif::10
 mrei motif::10
+adf-h::10
 comm::10
-dileucine internalization motif::10
 pik helical::10
-ded::10
+eama::10
+mif4g::10
 gar::9
 def box::9
-important for dimerization::9
+required for homodimerization::9
+glutaredoxin::9
+hth myb-type::9
 pipk::9
 sarah::9
 n-terminal::9
+sam-dependent mtase prmt-type::9
 vhs::9
 beta-1::9
 beta-2::9
+sti1::9
 cid::9
 fh1::9
-voc::9
-f5/8 type a::9
+ben::9
+tb::9
 c2 tensin-type::9
-hexokinase::9
-hexokinase small subdomain::9
-hexokinase large subdomain::9
 lpqg::9
-pap-associated::9
+doublecortin::9
 mcm::9
 ch1::9
 pxvxl motif::9
@@ -485,23 +441,20 @@ gxsxg::9
 dga/g::9
 pai subdomain::9
 red subdomain::9
-eif4ebp1/2/3 binding::9
-npxy motif::9
+myth4::9
 shsp::9
 flexible linker::9
 radical sam core::9
 a::9
-involved in metalloproteinase-binding::9
-bag::9
-rbd::9
-kow::9
 paz::9
+dileucine internalization motif::9
 nuclear export signal (nes)::9
-4fe-4s ferredoxin-type::9
+calx-beta::9
 beach::9
-gg-type lectin::9
 transactivation::8
 npxxy motif; important for ligand-induced conformation changes and signaling::8
+important for dimerization::8
+aig1-type g::8
 bmerb::8
 mrec motif::8
 sand::8
@@ -510,152 +463,126 @@ ntf2::8
 mh1::8
 mh2::8
 degh box::8
-adenylate kinase::8
 tfiis central::8
 ptb::8
 cx6cc::8
-rfxv motif::8
+saposin b-type::8
 interaction with tp53::8
 phosphatase sequence motif i::8
 phosphatase sequence motif ii::8
 phosphatase sequence motif iii::8
-apple::8
 c-type lysozyme::8
 chorein n-terminal::8
 ibb::8
-mitochondrion outer membrane (mom)-targeting sequence::8
 flavodoxin-like::8
 yxdd::8
 c-terminal domain::8
 th1::8
 peptidase m13::8
+npxy motif::8
 pp1-binding motif::8
 9aatad; inactive::8
 lrat::8
 interaction with ctnnb1::8
 ephrin rbd::8
 egf-like; calcium-binding::8
-lccl::8
 lem::8
-required for binding ppp1cc::8
 fcp1 homology::8
-polo box::8
+mrh::8
+csd::8
 piwi::8
 repressor domain::8
-pq-loop::8
 ged::8
-pah::8
+laminin iv type a::8
 domain ii and i::8
 beach-type ph::8
+nonhelical region::8
 c2 pi3k-type::8
-dihydropyridine binding::8
 phosphatase tensin-type::8
-beta-propeller::8
-substrate::8
 dry motif; important for ligand-induced conformation changes::7
 mhd1::7
 rnase nyn::7
 cp-type g::7
 n-terminal arm::7
 cn hydrolase::7
-clathrin box::7
 p/homo b::7
-microtubule-binding::7
-wsc::7
-wxxf motif::7
 gh18::7
 nac-a/b::7
 cks-17::7
 doc::7
 jamm motif::7
-whep-trs::7
 interactions with tjp1, tjp2 and tjp3::7
-transcription repression::7
+dusp::7
 nonhelical region (nc1)::7
 nonhelical region (nc2)::7
+gaf::7
 gp-pde::7
 ubiquitin-binding domain (ubd)::7
 vcp/p97-interacting motif (vim)::7
 triple-helical region 3 (col3)::7
 dix::7
-expera::7
 tgs::7
 5 x 4 aa repeats of p-x-x-p::7
-basolateral sorting signal::7
+pld phosphodiesterase::7
+pap-associated::7
+goloco::7
 n-terminal domain::7
-interaction with rb1::7
-zinc finger-like::7
 u-box::7
-interaction with target dna::7
 cys-loop::7
 variable-loop::7
 his-loop::7
 gxgxxg::7
 pre-set::7
-interaction with histone h3::7
 deacetylase sirtuin-type::7
 cbm21::7
 acb::7
 rna-binding rgg-box::7
-acidic::7
 pal::7
 domain iv::7
 protease::7
 gs::7
 interaction with ar::7
+rbd::7
 hth la-type rna-binding::7
 meis n-terminal::7
 di-leucine motif::7
-sec63::7
 egf-like 18; calcium-binding::7
 gtpase domain (globular)::7
 copi vesicle coat-binding::7
 copii vesicle coat-binding::7
+follistatin-like::7
 b::7
-act::7
 w2::7
 variable (v) domain, involved in antigen recognition::7
 constant (c) domain::7
 tldc::7
 spr::7
 nucleotide-binding domain (nbd)::7
-interaction with sin3a::7
 devh box::7
 pi3k-rbd::7
-mi::7
+gg-type lectin::7
 selectivity filter part_1::7
 selectivity filter part_2::7
 selectivity filter part_3::7
-sufficient for interaction with ago2::7
-mib/herc2::7
-dxd motif::7
-dm10::7
-wxxxf/y motif::7
-interaction with ubiquitin::7
-interaction with actin::7
+ded::7
 uba-like::7
-interaction with rna::6
 histidine kinase::6
 fip-rbd::6
-kind::6
+clathrin box::6
 preli/msf1::6
 pua::6
-cabit::6
 collagen iv nc1::6
+microtubule-binding::6
 dmap1-binding::6
-interaction with synm::6
 swib/mdm2::6
 required for dna-binding::6
 fba::6
 s4 rna-binding::6
 mit-interacting motif::6
-4 x approximate repeats::6
 interaction with calm::6
 smc hinge::6
-transferrin-like::6
-substrate binding::6
+transcription repression::6
 gat::6
-interaction with grb2::6
 dilute::6
 fad-binding pcmh-type::6
 n-domain::6
@@ -664,10 +591,11 @@ ddt::6
 a to i editase::6
 pla2c::6
 obg-type g::6
+daz::6
 pan::6
-n-acetylmuramoyl-l-alanine amidase::6
 nls binding site (major)::6
 nls binding site (minor)::6
+voc::6
 egf-like 19; calcium-binding::6
 repeat-rich region::6
 nonhelical region 3 (nc3)::6
@@ -682,39 +610,32 @@ histidine triad motif::6
 pet::6
 peptidase m12a::6
 interaction with brca1::6
-interaction with esr1::6
-part of a helix bundle domain, formed by helices from n-terminal and c-terminal regions::6
+interaction with rb1::6
+ff::6
+lxxll::6
 wdr5 interaction motif (win)::6
 ch2::6
 ocel::6
 lysm::6
 mansc::6
-lysosomal targeting motif::6
 linker region::6
 swirm::6
 lipoxygenase::6
-adenine-nucleotide binding in rna target::6
-uracil-nucleotide binding in rna target::6
 fatty acid hydroxylase::6
 bro1::6
 fat::6
 fatc::6
 ddhd::6
-npf::6
 lon n-terminal::6
-agenet-like::6
-c2hc::6
-g8::6
 s4-s5 linker::6
 2fe-2s ferredoxin-type::6
-laminin-binding::6
+lccl::6
+itsm::6
+anaphylatoxin-like::6
 sefir::6
 interaction with rad51::6
-cache::6
 c-mtbd region::6
 msp::6
-aaa-atpase protomer::6
-adomet binding motif::6
 grh/cp2 db::6
 interaction with dab2::6
 tudor-knot::6
@@ -724,26 +645,21 @@ interaction with pex19::6
 twin cx3c motif::6
 binding to the beta subunit::6
 glutamine amidotransferase type-1::6
-lipoyl-binding::6
 substrate-binding domain (sbd)::6
 pinc::6
-sis::6
-ubiquitin binding::6
+interaction with sin3a::6
 elmo::6
-interaction with the k-d-e-l motif on target proteins::6
+mi::6
 rap::6
-suel-type lectin::6
 cytochrome b561::6
 egf-like 21; calcium-binding::6
 egf-like 23; calcium-binding::6
 alpha-type protein kinase::6
 scd::6
-important for interaction with membranes::6
-interaction with trna::6
-3' overhang dna-binding::6
 lysyl-oxidase like::5
 mhd2::5
 hsr::5
+kind::5
 helix-loop-helix motif::5
 smp-ltd::5
 domain i::5
@@ -751,33 +667,40 @@ domain ii::5
 tafh::5
 yth::5
 interaction with sqstm1::5
+wsc::5
 hig1::5
 f-box-like::5
 sac::5
 yippee::5
-necessary for transcriptional repression::5
+whep-trs::5
+4 x approximate repeats::5
 proline-rich domain (prd)::5
+substrate binding::5
 calcineurin-binding::5
+interaction with grb2::5
 rii-binding::5
 sld::5
-lipid binding::5
 interaction with crebbp::5
-saposin a-type::5
 interdomain linker::5
 cdr1::5
 cdr2::5
 cdr3::5
-ctbp-binding motif::5
-rnase iii::5
+tudor-like domain::5
+histone h3k4me3 and h3r8me2a binding::5
 interaction with f-actin::5
 caax motif::5
 mhc class i alpha-1 like::5
 mhc class i alpha-2 like::5
 ferritin-like diiron::5
+plastocyanin-like::5
 riia::5
 pabpc1-interacting motif-2 (pam2)::5
 uma::5
+hexokinase::5
+hexokinase small subdomain::5
+hexokinase large subdomain::5
 3'-5' exonuclease::5
+expera::5
 ef-hand 1; degenerate::5
 nido::5
 dzf::5
@@ -785,55 +708,58 @@ bc-box::5
 pore-forming::5
 histone-fold::5
 slam-like motif::5
+basolateral sorting signal::5
 scp2::5
 ha-stretch; determines single-channel conductance in 5-ht3 receptors::5
 aws::5
-hin-200::5
 abc transmembrane type-2::5
 interaction with tgfb1i1::5
 arginine finger::5
-interaction with the prc2/eed-ezh2 complex::5
+zinc finger-like::5
 dsl::5
-rieske::5
 fyr n-terminal::5
 fyr c-terminal::5
 tsp c-terminal::5
 oligomerization::5
 hit::5
+interaction with histone h3::5
+nhr::5
 interaction with ranbp9::5
 upa domain::5
+hotdog acot-type::5
 internalization signal::5
 interaction with ncor1::5
-interaction with traf6::5
-interaction with cdk2::5
+lysosomal targeting motif::5
 regulatory n-terminal domain::5
+acidic::5
 imd::5
 domon::5
 parp alpha-helical::5
 d domain::5
 ltd::5
+bag::5
 biotin carboxylation::5
 biotinyl-binding::5
-transcriptional activation domain::5
 6 x 4 aa repeats of p-x-x-p::5
 lir motif::5
 whd1::5
 vca::5
 cide-n::5
+cache::5
 midas-like motif::5
 nonhelical region 4 (nc4)::5
+polo box::5
+act::5
 tos motif::5
 pabc::5
-interaction with nr3c1::5
 myst-type hat::5
-oas domain::5
 ah::5
 gae::5
 dcun1::5
 brix::5
-required for acceleration of g1 phase::5
-lr motif::5
 glutamine amidotransferase type-2::5
+lipoyl-binding::5
+4fe-4s ferredoxin-type::5
 c-cap/cofactor c-like::5
 shkt::5
 [il]-x-c-x-x-[de] motif::5
@@ -850,14 +776,12 @@ cobw c-terminal::5
 psi-pxlvp motif::5
 cxcc motif::5
 serine protease::5
-interaction with mettl3::5
 ccn domain::5
 mads-box::5
-necessary for interaction with single-stranded dna at the 3'-end of the g4-dna structure::5
-ndk::5
 ch3::5
 serta::5
 ka1::5
+suel-type lectin::5
 mabp::5
 clathrin-binding::5
 interaction with hipk2::5
@@ -866,78 +790,75 @@ egf-like 25; calcium-binding::5
 egf-like 30; calcium-binding::5
 egf-like 31; calcium-binding::5
 egf-like 32; calcium-binding::5
+mib/herc2::5
+dxd motif::5
 bh4::5
 carrier::5
-sumo interaction motif 1 (sim)::5
-interaction with dsrna::5
-traf6-binding::5
-d box::5
 g protein gamma::5
-rsxsxx motif::5
-linear diubiquitin binding::5
 c-terminal tail::4
 necessary for rna-binding::4
+interaction with rna::4
 microtubule tip localization signal::4
 c-terminal::4
 domain b::4
 sep::4
+albumin::4
 [de]-x(1,2)-f-x-x-[fl]-x-x-x-r motif::4
-gpalpp motif::4
 3 x 3 aa repeats of n-p-f::4
 asd2::4
 heparan sulfate n-deacetylase::4
 heparan sulfate n-sulfotransferase::4
+cabit::4
 sam-dependent mtase c5-type::4
 suz::4
 suz-c::4
-dxxll::4
 hhh::4
 hsa::4
+adenylate kinase::4
 required for repressor activity::4
 c-terminal autoinhibitory region::4
 af-2::4
 lxxil motif::4
 cx10c motif::4
 pinit::4
+necessary for transcriptional repression::4
 i/lweq::4
 sca7::4
+rfxv motif::4
 interaction with ccar2::4
 hydrophilic::4
 interaction with 5-mcpg dna::4
-interaction with pln::4
 required for mitochondrial localization::4
 interaction with hax1::4
 samd1-like winged helix (wh)::4
 spoc::4
+n-acetylmuramoyl-l-alanine amidase::4
 shr-bd::4
+ctbp-binding motif::4
 josephin::4
+mitochondrion outer membrane (mom)-targeting sequence::4
 his cluster::4
 kh; atypical::4
 interaction with pcna::4
-inhibitory::4
 interaction with e4f1::4
-phospholipase a2-like::4
 interaction with gsk3b::4
-kbm::4
 xlm::4
 interaction with kcnd2::4
-antigenic epitope::4
-helix bundle::4
 makorin-type cys-his::4
 vps37 c-terminal::4
 metalloprotease::4
 rck n-terminal::4
 nidogen g2 beta-barrel::4
-interaction with sumo2::4
 dimerization and phosphorylation::4
 cysb motif::4
-interaction with cetn2::4
-sirna-binding::4
+hin-200::4
+interaction with esr1::4
 deih box::4
-interaction with ttn::4
 add::4
 hcfc1-binding-motif (hbm)::4
+rieske::4
 umuc::4
+interaction with target dna::4
 teneurin n-terminal::4
 interaction with p53/tp53::4
 sah::4
@@ -947,10 +868,12 @@ phosphagen kinase c-terminal::4
 frip motif::4
 cric::4
 horma::4
+interaction with traf6::4
 pbc::4
 pbc-a::4
 pbc-b::4
-kkrrap::4
+interaction with cdk2::4
+hma::4
 interaction with rac1::4
 domain alpha::4
 interaction with microtubules::4
@@ -959,29 +882,31 @@ important for transport activity::4
 nucleotide carrier signature motif::4
 l/frrg motif::4
 kash::4
-rip homotypic interaction motif (rhim)::4
 interaction with cenpf::4
 pa14::4
+g8::4
 retinoblastoma protein binding::4
+involved in metalloproteinase-binding::4
 gpagtgkt motif::4
-interaction with ube2m n-terminus::4
 interaction with rela::4
-o-glycosylated at two sites::4
 yeats::4
+required for binding ppp1cc::4
 required for binding ppp1cc catalytic center, displacing metal ions and inhibition of ppp1cc catalytic activity::4
 coa carboxyltransferase n-terminal::4
 coa carboxyltransferase c-terminal::4
 carboxyltransferase::4
 calmodulin-binding subdomain a::4
+kow::4
+sec63::4
 endoplasmic reticulum retention signal::4
 spectrin--actin-binding::4
 c-terminal (ctd)::4
 sufficient for transactivation activity::4
+fas1::4
 c2 nt-type::4
 e1::4
 e2::4
 s-100-like::4
-cell attachment site; atypical::4
 traf-binding::4
 interaction with brca2::4
 h-s-h (helix-span-helix), dimerization::4
@@ -991,40 +916,33 @@ l-type lectin-like::4
 required for transcriptional repression::4
 interaction with nr1d1::4
 actin-like::4
-chord::4
 tpr repeat-binding::4
+lr motif::4
 vl9 epitope::4
 pxa::4
 interaction with hps5::4
-hyr::4
+pq-loop::4
 xexphe-motif::4
 ctnnb1-binding::4
-chrd::4
 cnnm transmembrane::4
-bsd::4
 pub::4
 trigger loop::4
 golgi-targeting domain::4
 6-phosphofructo-2-kinase::4
 fructose-2,6-bisphosphatase::4
 oca::4
-tnase-like::4
 tr mart core::4
-interaction with substrate rna::4
-loop::4
 mrg::4
-interaction with prkcz::4
 amop::4
 q domain::4
 gp domain::4
 sp domain::4
 rna binding::4
-sumo interaction motif::4
 required for insertion into the membrane::4
 interaction with vta1::4
 net::4
 cenp-v/gfa::4
-pest::4
+dihydropyridine binding::4
 phenylalkylamine binding::4
 reelin::4
 immunoglobulin-like::4
@@ -1039,13 +957,9 @@ ii::4
 iii::4
 iv (linker domain)::4
 v (cys-rich)::4
-akap cam-binding::4
 pi3k-abd::4
 transcriptional activation::4
 4 x 4 aa repeats of p-x-x-p::4
-fgf motif::4
-required for localization in the endoplasmic reticulum::4
-interaction with ezr::4
 thioredoxin fold::4
 roc::4
 interaction with ubqln1::4
@@ -1054,35 +968,17 @@ egf-like 24; calcium-binding::4
 egf-like 26; calcium-binding::4
 egf-like 27; calcium-binding::4
 egf-like 29; calcium-binding::4
-part of the peptide-binding site::4
 collagen-binding::4
-important for homodimerization::4
 pwi::4
 dek-c::4
-z-binding::4
-miro::4
-phosphodegron::4
-cyclin-like::4
 required for nucleolar localization::4
-antistasin-like::4
+fibronectin type-i::4
 interaction with axin1::4
 toprim::4
-glycosyl hydrolase-1::4
-golgi targeting::4
-nid::4
-ccp::4
-factor i module (fim)::4
+interaction with actin::4
+interaction with trna::4
 rej::4
-histone-binding::4
-interaction with dpf motifs-containing proteins::4
-pdz grasp-type::4
-interaction with csk::4
-kferq-like motif::4
 yxxxxlphi motif::4
-interaction with vcl::4
-interaction with substrate trna::4
-cystatin lxn-type::4
-repression domain::4
 catalytic domain::4
 egf-like 1; incomplete::3
 dfdf::3
@@ -1100,15 +996,17 @@ transactivation domain (tam)::3
 transactivation domain (tac)::3
 cbm20::3
 interaction with palb2::3
-lpa/pip2-binding site::3
 basic motif; degenerate::3
 required for phosphatidylinositol 4,5-bisphosphate-dependent location at the cell membrane::3
+dxxll::3
 dcb; dcb:dcb domain and dcb:hus domain interaction::3
 hus; dcb:hus domain interaction::3
 runt::3
 required for 11-cis-retinal regeneration::3
+wxxf motif::3
 involved in binding tnc::3
 involved in binding tnc and actin::3
+interaction with synm::3
 yjef n-terminal::3
 pseudo-crib::3
 interaction with pard3 and cdc42::3
@@ -1119,12 +1017,10 @@ letm1 rbd::3
 intramolecular interaction with c-terminus::3
 intramolecular interaction with n-terminus::3
 hypervariable region::3
-necessary for nucleolar localization::3
-required for maintaining the overall integrity of the ahr:arnt heterodimer and its transcriptional activity::3
 membrane (anion exchange)::3
 integrase domain-binding motif (ibm)::3
+transferrin-like::3
 mosc::3
-dwd box::3
 msrb::3
 interaction with ppib::3
 interaction with klhl3::3
@@ -1133,12 +1029,13 @@ sumo1-binding::3
 interaction with keap1::3
 rcl::3
 required for nuclear export::3
+lipid binding::3
 phospholipid binding::3
 3 x 9 aa tandem repeats of p-k-c-p-[eq]-p-c-p-p::3
 tbm::3
 surface protein::3
 transmembrane protein::3
-interaction with the mediator complex::3
+saposin a-type::3
 rgsl::3
 calcineurin b binding::3
 autoinhibitory segment::3
@@ -1154,45 +1051,47 @@ interaction with epb41l5::3
 f&h::3
 interaction with safb1::3
 menin-binding motif (mbm)::3
+rnase iii::3
 endothelin-like::3
-peptidase s68::3
+f5/8 type a::3
 rs::3
 i-domain::3
 bait region::3
-interaction with myc::3
 tankyrase-binding motif::3
 hrdc::3
+kbm::3
 pum-hd::3
 gyf::3
-lqqqiq motif::3
+antigenic epitope::3
 divergent helix-loop-helix motif::3
 rho-like::3
 chd1 helical c-terminal domain (chct)::3
-central sheet, part::3
-essential for interaction with hif1an::3
 interaction with suz12::3
 interaction with snrnp200::3
 extracellular/lumenal pore loop::3
+tog::3
 mediates association with membranes::3
 interaction with neb::3
 sbd::3
+interaction with ttn::3
+interaction with the prc2/eed-ezh2 complex::3
 important for receptor binding::3
 proline-rich sequence::3
 asd1::3
 interaction with nbn::3
 c2 b9-type::3
+eif4ebp1/2/3 binding::3
 interaction with sumo1::3
 interaction with ube2i::3
-p-domain; part::3
 rlr ctr::3
 dech box::3
 interaction with galactose moiety of substrate glycoprotein::3
 cardiolipin-binding::3
 duf1170::3
 trna-binding::3
+yxxm motif::3
 pbr::3
 tctp::3
-important for signaling::3
 sh2; atypical::3
 c-terminal transmembrane transporter domain::3
 interaction with cdc42::3
@@ -1203,34 +1102,32 @@ laminin egf-like 5; truncated::3
 laminin iv type b::3
 wgr::3
 smad interaction motif (sim)::3
-interaction with eed::3
 dvd domain::3
 neck or regulatory domain::3
 necessary for interaction with pnn::3
+hth ost-type::3
+npf::3
 sam-dependent mtase trm10-type::3
-peptidase m2::3
-interaction with sars-cov spike glycoprotein::3
 clustered o-linked oligosaccharides::3
+agenet-like::3
 b; linker::3
 c; actin-binding and synaptic-vesicle binding::3
 e::3
+rip homotypic interaction motif (rhim)::3
+c2hc::3
 interaction with ist1::3
 interaction with vps4b::3
 dma::3
-11 x approximate tandem repeats, ser/thr-rich::3
 interaction with uba3::3
-uvrd-like helicase atp-binding::3
 interaction with dnm2 and wasl::3
 involved in cyfip1- and nckap1-binding::3
 targeting to peroxisomes::3
 interaction with dynlt1::3
 c-terminal arm::3
-profilin-binding motif::3
-required for interaction with incenp::3
 calmodulin-binding subdomain b::3
 necessary for localization at the cell membrane::3
+transcriptional activation domain::3
 dph-type mb::3
-hif1an-binding::3
 ggq domain::3
 ggq::3
 required for wash complex assembly::3
@@ -1241,10 +1138,7 @@ thump::3
 5 x 10 aa approximate repeats::3
 8 x repeats starting with a trp in each unit::3
 sufficient for strong transactivation activity::3
-interaction with notch1::3
 interaction with sin3a and sin3b::3
-required for secretion::3
-[st]-q motif::3
 nonhelical region 10 (nc10)::3
 nonhelical region 9 (nc9)::3
 nonhelical region 8 (nc8)::3
@@ -1262,105 +1156,92 @@ involved in subunit assembly::3
 ckk::3
 gfld subdomain::3
 cubd subdomain::3
+cell attachment site; atypical::3
+interaction with guide rna::3
 mitochondrial-binding peptide (mbp)::3
-interaction with histone h3 not methylated at 'lys-4'::3
+interaction with nr3c1::3
 alms motif::3
 triggers pyroptosis::3
-core promoter dna-binding::3
 unstructured hinge::3
 soho::3
 activation segment::3
 mediates transcriptional activation::3
 interaction with cav1::3
-miu motif::3
 nop::3
 engrailed homology 1 repressor::3
 binds actin::3
 peripheral subunit-binding (psbd)::3
 7s domain::3
 pim motif::3
+hyr::3
 autoinhibitory::3
 mgs-like::3
 mdfi::3
 important for nuclear localization::3
-necessary for interaction with usp2::3
+sis::3
+ubiquitin binding::3
 kinase interacting site::3
 sufficient for interaction with microtubules::3
 interaction with gabarap::3
 litaf::3
-ubiquitin-conjugating enzyme e2 binding::3
-free ubiquitin binding::3
-f-actin-binding::3
 nuclear localization::3
+pah::3
 last loop motif::3
 self-association site, tail::3
-interaction with cdkn1a::3
+bsd::3
 interaction with cd2ap::3
-glyr1-binding::3
-histone h3-binding::3
 hsac2::3
+interaction with the k-d-e-l motif on target proteins::3
 important for recycling of cargo proteins with the sequence motif k-d-e-l from the golgi to the endoplasmic reticulum::3
 bridging helix::3
 kbd::3
 su::3
-antigenic peptide; presented by a*02:01::3
 dcb1::3
 dcb2::3
-vcpwe motif::3
-winged helix-turn-helix (whth)::3
 involved in homodimerization::3
 interaction with c1d::3
 ntad::3
-positively charged region required for rna-binding::3
+interaction with prkcz::3
+ld motif::3
 erv/alr sulfhydryl oxidase::3
 interaction with pafah1b1::3
-interaction with ndel1::3
-sufficient for interaction with prkra::3
 interaction with protein phosphatase::3
 autoregulatory region::3
 gtpase-binding::3
 8 x 4 aa repeats of c-c-x-p::3
 ampk pseudosubstrate::3
 transcriptional repression and interaction with ncor1 and sin3a::3
-ca2-binding::3
 interaction with tor1a::3
 fxdxf motif::3
 beta(2)beta(3) 'finger-like' loop::3
 sumo interaction motif 1 (sim); mediates the binding to polysumoylated substrates::3
 sumo interaction motif 2 (sim); mediates the binding to polysumoylated substrates::3
-interaction with murein::3
-sh3-binding; class i::3
-interaction with histone::3
 binding of phosphoribosylpyrophosphate::3
-ddb1-binding motif::3
 putative calmodulin-binding region::3
 pou-iv box::3
-cornr box::3
-reca-like domain::3
-important for cleavage of target proteins::3
+pest::3
+ndk::3
 triple-helical region 5 (col5)::3
 triple-helical region 6 (col6)::3
 hnf-p1::3
 pou-specific atypical::3
 required for interaction with pip5k1a::3
-interaction with actn2::3
 interaction with exo1::3
 kikl::3
 beta domain::3
 asch::3
-cystatin kininogen-type::3
+required for localization in the endoplasmic reticulum::3
 ripply homology domain::3
 hcy-binding::3
 n-terminal catalytic pfk domain::3
 c-terminal regulatory pfk domain::3
 interaction with cbfa2t3::3
-receptor binding::3
+interaction with ezr::3
 axh::3
 interaction with usp7::3
 interaction with ppp2ca::3
 required for dimerization upon membrane association::3
 cfdefnr motif::3
-spaz::3
 chromo 2; shadow subtype::3
 nuclease::3
 egf-like 33; calcium-binding::3
@@ -1375,8 +1256,6 @@ egf-like 41; calcium-binding::3
 egf-like 42; calcium-binding::3
 egf-like 43; calcium-binding::3
 egf-like 44; calcium-binding::3
-ptap motif::3
-interaction with alpha-actinin::3
 interaction with nf2::3
 evh2::3
 evh2 block a::3
@@ -1390,66 +1269,49 @@ domain a::3
 hydrophobic::3
 hap1 n-terminal::3
 interaction with hgs::3
-tudor-like::3
-interaction with mfap4::3
 flexible loop::3
 interaction with ppp1r15a::3
-mapre1-binding::3
 lbh::3
+important for homodimerization::3
 interaction with ap1g1::3
-dfxdf motif::3
 interaction with hcfc1::3
 interaction with ogt::3
 sufficient for nucleolar localization::3
-interaction with o-glycosylated substrate glycoprotein::3
 sox c-terminal::3
 interaction with pparg::3
 ewi motif::3
 irg-type g::3
-interaction with vasp::3
 6 x 4 aa repeats of c-c-x-p::3
-sufficient for self-association and interaction with tarbp2::3
+dm10::3
 cry binding domain::3
+phosphodegron::3
 abm::3
-interaction with flna::3
 interaction with gata1::3
 [kr]-[sta]-k motif::3
-essential for ubiquitin-binding::3
 topo iia-type catalytic::3
-necessary for interaction with hnrnpk::3
-gate loop::3
+interaction with dsrna::3
 atg16l1-binding motif::3
-tropomyosin-binding::3
 2 x approximate tandem repeats::3
+interaction with ubiquitin::3
 ad::3
-wks motif::3
 required for dimerization::3
 interaction with tbk1 and ikbke::3
+traf6-binding::3
 ran-gtp binding::3
 central fibrous rod domain::3
 kid::3
 hd::3
-inka box::3
 interaction with myo6::3
 interaction with bmi1::3
 ken::3
 eb1 c-terminal::3
 dctn1-binding::3
 apc-binding::3
+interaction with csk::3
 required for homooligomerization::3
-lypx(n)l motif::3
 dkfbh motif::3
-involved in dimerization::3
-cystatin::3
 apim motif::3
 hth hare-type::3
-ctbp-binding::3
-cx3cl1-binding::3
-pentapeptide repeat::3
-interaction with 5' end of substrate dna::3
-mitochondrial localization signal::3
-interaction with vti1b::3
-di-leucine internalization motif; mediates targeting to late endosome and lysosome membranes::3
 ffd box::2
 tfg box::2
 rb1 binding::2
@@ -1497,26 +1359,22 @@ required for nuclear import::2
 essential for determining substrate specificity::2
 rna recognition motif (rrm) domain::2
 zim::2
-important for autoinhibitory function::2
 interaction with vps4a::2
-interaction with stambp::2
+necessary for nucleolar localization::2
 phospho-regulated basic and hydrophobic (prbh) motif::2
 photolyase/cryptochrome alpha/beta::2
 required for inhibition of clock-bmal1-mediated transcription::2
 sprt-like::2
 shp-box::2
-bactericidal and antifungal activity::2
 interaction with lipopolysaccharide::2
-interaction with pspa::2
 wap; atypical::2
 transactivation domain a (tad-a)::2
 3 x sp repeats::2
 nuclear localization signal (nls1)::2
 important for actin binding::2
 interaction with peptide substrate::2
-membrane-binding domain::2
 interrupted collagenous region::2
-required for interaction with ddb1::2
+dwd box::2
 interaction with pik3r1::2
 interaction with plcg1::2
 required for membrane localization::2
@@ -1538,7 +1396,9 @@ melanin-concentrating hormone-like::2
 interaction with mdm2::2
 bis-his motif::2
 ng domain::2
-interaction with rara::2
+apple::2
+interaction with pln::2
+interaction with the mediator complex::2
 b12-binding::2
 proline-rich domain (prd); mediates interaction with the copii coat subunits sec23a and sec23b::2
 crd; required for [4fe-4s] cluster binding and localization to the spindle midzone and midbody during anaphase and telophase::2
@@ -1546,7 +1406,6 @@ ncd1::2
 ncd2::2
 required for the homodimerization of the c9orf72-smcr8 complex::2
 vitellogenin::2
-basic (possible receptor binding region)::2
 ldl receptor binding::2
 transcriptional activation (acidic)::2
 prospero-type homeo::2
@@ -1554,25 +1413,25 @@ prospero::2
 homeo-prospero::2
 stachel::2
 phosphoinositide-binding::2
-sh3-binding; interaction with crk::2
 interaction with htlv-1 tax::2
-interaction with tesc::2
-pi(4,5)p2-binding region::2
-interaction with ppp3ca::2
+peptidase s68::2
 interaction with nosip::2
+inhibitory::2
+interaction with myc::2
 mediates transcriptional activity::2
 hairpin::2
+phospholipase a2-like::2
 pabpc1-interacting motif-1 (pam1)::2
 interaction with siah1 and siah2::2
 interaction with ctbp2::2
 pcna-binding::2
-rbm7 binding::2
 kxhxx::2
 sh2-binding; to lcp2::2
 interaction with foxp3::2
 gs beta-grasp::2
 gs catalytic::2
 amphipathic helix::2
+essential for interaction with hif1an::2
 hd1::2
 interaction with calcineurin::2
 segment s7::2
@@ -1589,12 +1448,12 @@ trud::2
 interaction with tacc3::2
 maoc-like::2
 sufficient for e3 sumo-protein ligase activity::2
+interaction with sumo2::2
 mis18::2
-vcr::2
 2 approximate repeats::2
 interaction with smo::2
+interaction with cetn2::2
 syntrophin-binding region::2
-lxxl motif::2
 pg1 pseudogtpase::2
 pg2 pseudogtpase::2
 interaction with kat7::2
@@ -1602,12 +1461,11 @@ interaction with gopc::2
 ef-hand 2; degenerate::2
 obg::2
 transcription activation (acidic)::2
-crac domain::2
+part of a helix bundle domain, formed by helices from n-terminal and c-terminal regions::2
 required for interaction with cyth2::2
 required for phosphorylation by csnk1e and cytoplasmic localization::2
 abr (apc-binding region) domain::2
 important for allosteric inhibitor binding::2
-a-domain; part::2
 histone h3k9me binding::2
 acidic disordered region::2
 rg-rich region::2
@@ -1630,6 +1488,7 @@ second lumenal domain::2
 strong transcription activation domain::2
 xylosyltransferase activity::2
 glucuronyltransferase activity::2
+important for signaling::2
 interaction with cytokine/interferon/growth hormone receptors::2
 catalytic domain; necessary for arylsulfatase activity::2
 hydrophilic domain; necessary for endoglucosamine-6-sulfatase activity::2
@@ -1644,25 +1503,29 @@ transactivation af-1; required for ligand-independent transactivation function::
 transactivation af-2; required for ligand-dependent transactivation function; mediates interaction with ccar2::2
 winged-helix domain (whd)::2
 interaction with snapin::2
+adenine-nucleotide binding in rna target::2
+uracil-nucleotide binding in rna target::2
 non-specific-nucleotide binding in rna target::2
 guanine-nucleotide binding in rna target::2
 silencing domain; interaction with cnot1 and pan3::2
 required for interaction with pabpc1::2
 rxxxrr motif::2
+kkrrap::2
 mediates interaction with dzip1::2
 interaction with hap1::2
 rp domain::2
 required for self-association::2
 n-terminal region (ntr)::2
 cxc::2
+interaction with eed::2
 ocia::2
 interaction with hcv core protein::2
-required for galactolipase activity::2
 nemo-binding::2
 k-box::2
 interaction with traf2::2
 nuclear targeting sequence::2
 interaction with ddn::2
+peptidase m2::2
 collectrin-like::2
 mediates specificity for bmp ligand::2
 4 x 11 aa tandem repeats of [egs]-k-t-k-[eq]-[gq]-v-x(4)::2
@@ -1680,19 +1543,17 @@ interaction with kcnip2::2
 mediates dendritic targeting::2
 gon::2
 pisa::2
-interaction with nedd8::2
-interaction with nae1::2
-interaction with thrap3::2
+uvrd-like helicase atp-binding::2
 deaa box::2
-interaction with ncr3::2
+o-glycosylated at two sites::2
 13 x 2 aa repeats of cg::2
 interaction with yap1::2
 interaction with fancd2::2
 xrrm::2
 interaction with ppp1r16b::2
-histone h3k27cr binding::2
+laminin-binding::2
+required for interaction with incenp::2
 required for midbody localization::2
-required for interaction with microtubules::2
 ubiquitin-like (ubl) domain::2
 px; atypical::2
 mediates homooligomerization::2
@@ -1700,6 +1561,7 @@ interaction with nuclear receptors::2
 rod-like helical tail::2
 trm112::2
 interaction with runx1t1::2
+hif1an-binding::2
 dna-binding domain::2
 regulatory domain::2
 interaction with rbbp4::2
@@ -1712,11 +1574,13 @@ udenn fnip1/2-type::2
 cdenn fnip1/2-type::2
 ddenn fnip1/2-type::2
 decd box::2
-essential for calm1 interaction::2
 3 x approximate tandem repeats::2
+interaction with notch1::2
 nuclease domain::2
 required for interaction with foxo1::2
 mediates endoplasmic reticulum retention::2
+required for secretion::2
+[st]-q motif::2
 lmna-binding::2
 sufficient for interaction with syne1 and syne2::2
 7 x 4 aa repeats of c-c-x-p::2
@@ -1729,9 +1593,9 @@ d::2
 interaction with gphn::2
 interaction with hdac1::2
 interaction with plk4::2
-involved in itch interaction::2
 t cell receptor alpha joining::2
 t cell receptor alpha constant::2
+adomet binding motif::2
 cul-box::2
 interaction with krit1::2
 interaction with itgb1::2
@@ -1739,10 +1603,8 @@ ku::2
 eexxxdl motif::2
 ercc4::2
 tap-c::2
-zcchc8 binding::2
 interaction with dvl1, dvl2 and dvl3::2
 pppde::2
-tek-box::2
 rama::2
 acyl-coa binding::2
 interaction with nrxn1::2
@@ -1750,41 +1612,35 @@ kinase inhibitory region (kir)::2
 extended sh2 subdomain (ess)::2
 calmodulin-binding (domain-n)::2
 calmodulin-binding (domain-c)::2
+oas domain::2
 b domain::2
 subunit association domain (sad)::2
 interaction with asf1a::2
-interaction with pax3::2
 mediates interaction with ush1c and myo7b and is required for proper localization to microvilli tips and function in microvilli organization::2
 sufficient for monouridylation activity::2
 big2::2
 lxcxe motif::2
-required for activation of histone gene transcription and interaction with mizf::2
+chord::2
 umi motif::2
+miu motif::2
 lem-like::2
 mediates interaction with rpa2::2
 asparagine synthetase::2
 14 x 2 aa repeats of cg::2
-pro-acr binding::2
-interaction with ctbp1 and ctbp2::2
-interaction with p300/ep300::2
 fiind::2
 upa::2
-zakalpha motif::2
 interaction with katnb1::2
 interaction with per2::2
 agouti::2
-interaction with glis2::2
 4 x 10 aa approximate repeats::2
-harp::2
 interaction with mapk1::2
 dxtw::2
 mediates interaction with microtubules::2
-interaction with phf5a, sf3b1 and sf3b5::2
-interaction with sf3b1 and sf3b5::2
 homodimerization domain d::2
 required for down-regulation of snai1::2
 required for interaction with pcnt::2
 region ii::2
+necessary for interaction with usp2::2
 25 x 5 aa repeats of c-c-x(3)::2
 mediates membrane-binding::2
 interaction with dlg5::2
@@ -1797,12 +1653,11 @@ interaction with microtubules, mapre1 and mapre3::2
 glucosyltransferase::2
 required for interaction with histone h3::2
 cap::2
+f-actin-binding::2
 kinase activation loop::2
-wnt-binding::2
 topo ib-type catalytic::2
 trm1 methyltransferase::2
 required for interaction with fyn::2
-lysosomal/melanosomal membrane localization signal::2
 triple-helical region (col1)::2
 interaction with il1rapl1::2
 speedy/ringo box; required for cdk-binding::2
@@ -1814,31 +1669,26 @@ interaction with mef2a::2
 interaction with atg5::2
 ctbp1-binding::2
 interaction with tubulin::2
+interaction with cdkn1a::2
 interaction with the snare complex::2
-important for interaction with long-chain fatty acids::2
 interaction with rock1::2
-clamp::2
-essential to induce neural progenitor proliferation::2
 lim interaction domain (lid)::2
 middle domain::2
 required for interaction with tesk1::2
 g3bp1-binding::2
 oxidoreductase-like::2
-transactivation domain (gln-rich)::2
-interaction with upf1::2
 approximate repeats::2
 interaction with cebpa::2
 activation domain::2
 pif-pocket::2
-fork loop::2
 required for netrin-mediated axon repulsion of neuronal growth cones::2
+winged helix-turn-helix (whth)::2
 required for interaction with ezr, msn and rdx and for co-localization to microvilli::2
 hyb domain::2
 interaction with aurka::2
-interaction with tgfbr1::2
 mucin-like::2
-dna-binding; may bind to the undamaged single-strand dna of the dna repair bubble::2
 necessary for dimerization::2
+loop::2
 rad1-binding motif::2
 channel pore-region::2
 cysteine-rich::2
@@ -1849,24 +1699,22 @@ ctad::2
 n-terminal lobe::2
 n-terminal helix::2
 c-terminal lobe::2
-interaction with histone h4 n-terminus::2
+positively charged region required for rna-binding::2
 interaction with ptk2/fak1::2
 cx5r motif::2
 kap ntpase::2
+interaction with ndel1::2
 interaction with fbxw7::2
 interaction with pin1::2
 interaction with tgn38::2
 3 x 5 aa repeats of c-c-x(3)::2
 interaction with s100a10::2
-involved in ca(2+)-dependent inactivation::2
 19 x 5 aa repeats of c-c-x(3)::2
-acceptor-binding::2
+ca2-binding::2
 acetyltransferase::2
 ais::2
-(microbial infection) interaction with tula hantavirus::2
 sgs::2
 fha; atypical::2
-important for oligomerization and fiber formation::2
 5-phosphatase::2
 ash::2
 interaction with ywhab::2
@@ -1877,22 +1725,24 @@ egf-like 2; atypical::2
 interaction with naa15::2
 fdx-acb::2
 mediates interaction with sec14l1::2
+interaction with murein::2
+sh3-binding; class i::2
 truncated surface protein::2
 kix::2
 cbp/p300-type hat::2
+interaction with histone::2
 lon proteolytic::2
 pseudophosphorylation motif::2
 docking domain::2
+ddb1-binding motif::2
 ixm motif; signal for cargo packaging into copii-coated vesicles::2
 interaction with p53::2
-acylated histone binding::2
 interaction with mapre1::2
-nedd8-binding::2
-required for self-association and induction of membrane tubulation::2
 interaction with pde6g::2
 interaction with arhgap17, daam1, diaph1 and diaph2::2
 interaction with sin3a/b::2
 required for interaction with rara in the absence of its ligand::2
+reca-like domain::2
 selectivity filter of repeat i::2
 selectivity filter of repeat ii::2
 selectivity filter of repeat iii::2
@@ -1902,9 +1752,6 @@ interaction with ezh2::2
 nmpbind::2
 required for nucleolar location::2
 vlig-type g::2
-important for interaction with ik::2
-ppxy; mediates interaction with itch::2
-f-actin binding::2
 interaction with flnc::2
 required for interaction with zxdc::2
 mitochondrial targeting signal::2
@@ -1913,12 +1760,12 @@ p38 mapk-binding site::2
 c-terminal domain (ctd)::2
 transcription repressor::2
 uev::2
-sufficient for interaction with dlx1::2
 t cell receptor beta constant::2
 interaction with prkci and prkcz::2
 10 x 5 aa repeats of c-c-[cdpqrwg]-[aprs]-[cipstvd]::2
 enkurin::2
 s100a10-binding site::2
+akap cam-binding::2
 giy-yig::2
 9 x 4 aa repeats of c-c-x-p::2
 interaction with arhgef7::2
@@ -1927,10 +1774,10 @@ interaction with beta-tubulin::2
 interaction with gabrg2::2
 necessary for interaction with cbln3, and homotrimerization::2
 jnk-binding domain (jbd)::2
-important for interaction with dnm1l::2
 interaction with rho::2
 globular head::2
 required for atpase activity::2
+fgf motif::2
 phosphatase::2
 class a specific domain::2
 interaction with zfp90::2
@@ -1943,12 +1790,9 @@ interaction with hif1a::2
 interaction with supt6h::2
 interaction with parp1::2
 yrpw motif::2
-important for agonist binding::2
-histone h3k4me3 n-terminus binding::2
 7 x approximate tandem repeats::2
 interaction with atf2::2
 'kiik' region::2
-necessary for interaction with hsf1::2
 pith::2
 dxxll motif involved in the interaction with gga1::2
 deaq box::2
@@ -1956,11 +1800,13 @@ interaction with nherf1::2
 negative regulatory domain::2
 interaction with cep55::2
 interaction with arc::2
+spaz::2
 interaction with tdrd7::2
 interaction with abl1::2
 crm (cys-rich motif)::2
-ac::2
-immunoreceptor tyrosine-based inhibition motif (itim)::2
+ptap motif::2
+part of the peptide-binding site::2
+interaction with alpha-actinin::2
 required for membrane binding::2
 interaction with timeless::2
 dbb::2
@@ -1968,33 +1814,27 @@ mediates interaction with ddrgk1::2
 mediates interaction with trip4::2
 mediates interaction with cdk5rap3::2
 interaction with npm1::2
-involved in pp-1 inhibition::2
 pocket; binds t and e1a::2
 tetramerization domain::2
-interaction with rplp0::2
-interaction with tcf3::2
 interaction with syt1::2
-endocytosis signal; in isoform tgn51::2
 mediates nuclear export::2
-important for antibacterial activity::2
 lpxy motif; mediates binding to ww domain-containing proteins::2
 ppxy motif; mediates binding to ww domain-containing proteins::2
 rhobd::2
 interaction with ppp1r12a::2
 rhoa binding::2
 ydg::2
-histone h3r2me0 binding::2
-required for formation of a 5-methylcytosine-binding pocket::2
+tudor-like::2
 involved in binding clathrin heavy chain::2
 egf-like 28; calcium-binding::2
 egf-like 45; calcium-binding::2
 egf-like 46; calcium-binding::2
 egf-like 47; calcium-binding::2
+interaction with mfap4::2
 important for substrate binding::2
+important for interaction with membranes::2
 seg motif::2
 friede motif::2
-phr domain::2
-(s/t)x(i/l)p motif::2
 required and sufficient for interaction with kdm1a::2
 interaction with hsp70::2
 stop-transfer sequence::2
@@ -2007,12 +1847,10 @@ c region::2
 interaction with syvn1::2
 cad (involved in subunit assembly)::2
 interaction with cavin1::2
-cx2c motif::2
 interaction with dab1::2
 hepn-n::2
 roq::2
 hepn-c::2
-sufficient for interaction with vps29::2
 interaction with kdm5b::2
 interaction with fkbp1a::2
 tyrosine-based sorting signal::2
@@ -2020,8 +1858,6 @@ trove::2
 domain iv 1 (domain iv b)::2
 histone h2a::2
 interaction with bicd2::2
-rgg-box::2
-essential for activity::2
 nonhelical region (nc4)::2
 nonhelical region (nc3)::2
 sufficient for interaction with washc3, washc4 and washc5; required for interaction with washc1::2
@@ -2029,38 +1865,33 @@ sufficient for interaction with ccdc93::2
 interaction with vps35::2
 interaction with phospholipids::2
 required for interaction with f-actin-capping protein subunit alpha (capza1 or capza2 or capza3)::2
+lfa::2
 interacts with target acceptor peptide in protein substrate::2
 svse motif::2
 wwdyg motif::2
 dk motif::2
 apag::2
-collagenase-like::2
 interaction with rest::2
-ubiquitin-interacting::2
 helicase activity::2
-rxxxfsd motif::2
 4 x approximate tandem repeats::2
 tyrosine-based internalization motif::2
 zinc knuckle motif::2
-rpa1-binding motif::2
-interaction with dll4::2
 interaction with psen1::2
 pded::2
+z-binding::2
 interaction with stam::2
+miro::2
 interaction with kat7/hbo1 and histones::2
 interaction with itpr1::2
 wac::2
-interaction with mapk7::2
 type-2 mit-interacting motif::2
-transport core domain::2
 ion transport-like::2
+interaction with vasp::2
 n-terminal domain; may mediate the alkylhydroperoxide reductase activity::2
 extracellular domain (ecd)::2
 s5 drbm::2
-promotes p53/tp53 degradation::2
 pore-forming motif::2
 wif::2
-dpf::2
 beta-hairpin required for oligomerization::2
 required for targeting to the nucleus and nuclear pore complex::2
 cisternal side::2
@@ -2068,7 +1899,6 @@ pore side::2
 aspartate::2
 interaction with dnmt3a::2
 gsgfp motif::2
-mtn3/slv::2
 required for interaction with cav3::2
 involved in gsk-3 binding::2
 mediates interaction with calmodulin::2
@@ -2077,99 +1907,81 @@ peroxidase-like; mediates peroxidase activity::2
 interaction with txndc11::2
 required for stimulation of nucleotide exchange by rala::2
 pxxp::2
-pxy motif::2
+interaction with flna::2
+sumo interaction motif 1 (sim)::2
 triple-helical region 7 (col7)::2
 triple-helical region 8 (col8)::2
 triple-helical region 9 (col9)::2
+cyclin-like::2
 itam-like::2
 mental::2
 egtr motif::2
 microbody targeting signal; atypical::2
-interaction with mapk1 and mapk3::2
 interaction with pten::2
 mediates interaction with ufl1::2
-cd58 binding region::2
+essential for ubiquitin-binding::2
 interaction with sf3b1 and sf3b3::2
 interaction with plscr1::2
-interaction with mettl14::2
+necessary for interaction with hnrnpk::2
+gate loop::2
 sla c-terminal::2
-dna-binding; minor groove::2
 required for interaction with pcm1::2
 grr::2
-rna-interacting domain::2
-required for oligomerization::2
-chondroitin sulfate binding::2
 interaction with mphosph9::2
 interaction with rab7a::2
-represses transcription::2
-interaction with eny2::2
+tropomyosin-binding::2
 may mediate er retention::2
 sui1::2
-important for antimicrobial activity::2
 egf-like 1; atypical::2
+glycosyl hydrolase-1::2
+golgi targeting::2
 pip-box k+4 motif::2
 krnb::2
-interaction with the consensus sequence c-x-s-x-[pa]-c in peptide substrates::2
+nid::2
 linker loop domain::2
 carrier domain::2
 interaction with daxx::2
 nuclear localization signal 1 (nls1)::2
 thiamine pyrophosphate binding::2
 22 x 5 aa repeats of c-c-x(3)::2
-interaction with ube2i/ubc9::2
-epitope::2
 kh type-2::2
 required for interaction with stx17::2
 required for transcriptional activation activity and synergistic coactivation of transcriptional activity with pou3f2::2
-interaction with dmd and utrn::2
 interaction with bcl9::2
-required for interaction with the matrix protein ma of hiv-1::2
-hmx family specific domain::2
-cystatin fetuin-a-type::2
 4 x 16 aa repeats of c-x(10)-c-x-c-x(1,3)-c::2
-interaction with mlh1::2
 actin-severing::2
 interaction with actn::2
+beta-propeller::2
 pppsp motif a::2
 pppsp motif b::2
 pppsp motif c::2
 pppsp motif d::2
 pppsp motif e::2
 kinase::2
-pxp motif::2
-tqt motif::2
 bar-like::2
 dhfr::2
 mediates interaction with sart3::2
 prad::2
-important for enzyme activity::2
+ccp::2
+factor i module (fim)::2
 ammecr1::2
 interaction with sumo::2
 15 x 3 aa repeats of d-p-f::2
 interaction with fadd::2
-hybrid domain::2
 smp-lbd::2
-required for modulation of esr1 transcriptional activity::2
-sufficient for dimerization of proica512::2
 required for tmed10 and tmed2 cis-golgi network localization::2
+inka box::2
 interaction with atrip::2
-histone h3k9cr binding::2
-important for interaction with slc2a1 and slc2a3::2
-necessary for interaction with mdm4::2
+histone-binding::2
 pxdls motif::2
 uld::2
 cutl::2
 octapeptide motif::2
-required for interaction with hira::2
 interaction with wwp1::2
 integrin-binding motif::2
 8 x approximate tandem repeats::2
-interaction with rictor::2
 rgd::2
 interaction with rhpn1::2
-o-glycosylated at one site only in cerebrospinal fluid::2
-uev-like::2
-necessary for colocalization and binding with microtubules::2
 interaction with nfs1::2
 dpck::2
 xrn2-binding (xtbd)::2
@@ -2180,44 +1992,35 @@ interaction with srebf1::2
 bub1 n-terminal::2
 necessary for interaction with knl1::2
 required for ruffle localization::2
-interaction with gnas::2
 ngl discriminant loop i::2
 ngl discriminant loop ii::2
 ngl discriminant loop iii::2
 nonhelical region (n-terminal)::2
 er retention motif::2
 polyphosphoinositide-binding domain::2
-syt11 binding::2
+substrate::2
 interaction with kat6a::2
 interaction with kat6b::2
 interaction with siah1::2
 regulatory loop::2
-required for localization to the centrosome and induction of aggresome formation::2
 interaction with tropomyosin alpha::2
-2-5a binding (p-loop)::2
 deah::2
 csnk1e binding domain::2
+pdz grasp-type::2
 grasp::2
 necessary for interaction with zc3h12a::2
-(microbial infection) interaction with puumala hantavirus nucleoprotein::2
+mn::2
 necessary for oligomerization::2
 fisna::2
-required for 28s ribosomal rna processing::2
-cystatin fetuin-b-type::2
-c-terminal catalytic dehydrogenase domain::2
 interaction with cry1::2
 laminin egf-like 14; first part::2
 laminin egf-like 14; second part::2
-mitochondrial targeting sequence::2
-pxxp motif; required for interaction with cttn::2
 laminin egf-like 4; truncated::2
 interaction with prmt1::2
-intervening spacer sequence::2
 ariadne domain::2
 transactivation domain 1 (tad1)::2
 required for macropage invasion::2
 ketosynthase family 3 (ks3)::2
-interaction with dna substrate::2
 required for response to orexin-a::2
 required for mitochondrial location::2
 beta hairpin::2
@@ -2226,8 +2029,6 @@ zp-n::2
 zp-c::2
 internal hydrophobic patch (ihp)::2
 acylphosphatase-like::2
-required for interaction with prenylated rab3a and vamp2::2
-interaction with lsm14a::2
 nuclear localization signal 1 (nls 1)::2
 nuclear localization signal 2 (nls 2)::2
 pabpc1-binding::2
@@ -2236,97 +2037,49 @@ eif3/eif4a-binding::2
 eif4a-binding::2
 necessary but not sufficient for mknk1-binding::2
 globular terminal domain::2
+wd40-like repeat::2
 binding site for the uncoating atpase, involved in lattice disassembly::2
 heavy chain arm::2
 distal segment::2
 proximal segment::2
 involved in binding clathrin light chain::2
 trimerization::2
-involved in rab2a binding::2
-chemokine binding::2
+involved in dimerization::2
 cav1-binding::2
-interaction with snx3::2
 interaction with ppp1r8::2
 cvc::2
 c-terminal short (cts) helix::2
 disordered linker::2
-essential for cell membrane localization and transport activity::2
 cy::2
+cystatin::2
 endonuclease activity::2
-interaction with pde3b::2
+interaction with vcl::2
 mttase n-terminal::2
 tram::2
-interaction with krt5::2
-sin3 interacting domain::2
-heparan sulfate proteoglycan binding::2
-important for transcription repressor activity::2
-interaction with pol ii::2
-interaction with pp1::2
 hydrolase domain::2
 aldehyde dehydrogenase domain::2
-required for trans-golgi network localization::2
-necessary for targeting to peroxisomes and interaction with pex19::2
+cystatin lxn-type::2
 ppic::2
-interaction with znf366::2
-interaction with xiap::2
-interaction with csrp3::2
 autoinhibitory region::2
 required for interaction with senp3::2
+cx3cl1-binding::2
 interaction with itgb1bp1::2
-interaction with pml::2
-facilitates phospholipid membrane insertion::2
-interaction with phospholamban::2
 required for rab5a binding::2
 arg/ser-rich domain::2
-interaction with stim1::2
 topo ia-type catalytic::2
 interaction with inppl1::2
-interaction with grb2, grap2 and pik3r1::2
-trxb::2
-required for interaction with tab2::2
-sufficient for interaction with dapk3::2
-interaction with casp8::2
-necessary for localization of are-containing mrnas to processing bodies (pbs)::2
-interaction with dyl2::2
-induces experimental autoimmune encephalomyelitis (eae)::2
-interaction with gw182 family members::2
 interaction with clock::2
-important for interaction with target dna::2
-hyaluronic acid-binding::2
-necessary but not sufficient for spindle localization::2
-required for both high-affinity dna binding and pericentromeric heterochromatin localization::2
 interaction with scrib::2
 betatrcp degron motif::2
-interaction with kif21a::2
-fg repeats::2
-homodimer stabilization; interchain::2
 sufficient for interaction with mad2l2::2
-mediates interaction with ifnar2::2
 lim-binding domain (lid)::2
-atg8 family protein-binding::2
-sufficient for nuclear export::2
-necessary for transcriptional transactivation::2
-required for localization to centrosomes::2
-required for recruitment to preautophagosomal structure in response to mitophagy::2
-multimerization domain::2
+mitochondrial localization signal::2
 bms1-type g::2
-interaction with phosphatidylinositides::2
-mediates motor neuron attachment::2
-interaction with phf5a::2
-neurite growth inhibition::2
 pxvxl/i motif::2
 interaction with ncoa1::2
-necessary for rna-binding, tnnt2 exon 5 and nmda r1 exon 21 inclusion::2
-interaction with gpihbp1::2
-annulus domain::2
-interacts with spry1, spry2, spry3 and spry4::2
-interaction with clint1::2
 interaction with map3k7::2
-atypical ring finger domain::2
 necessary for homooligomerization::2
 er-retrieval signal::2
-hyaluronan-binding motif involved in chondroitin sulfate c-binding::2
-important for interaction with cdk6::2
 4 x 4 aa tandem repeats of [gs]-s-r-[ar]::1
 cyclin a:cdk2 binding::1
 interaction with birc2/c-iap1::1
@@ -2361,6 +2114,7 @@ ligase::1
 ap-2 complex binding::1
 required for ubiquitin ligase activity and for protection against er stress-induced cell death::1
 mediates cell adhesion::1
+gpalpp motif::1
 5 x 3 aa repeats of [de]-p-w::1
 pqa::1
 nucleolar localization::1
@@ -2375,6 +2129,7 @@ important for interaction with arhgap26 and arhgap10::1
 important for interaction with rab11a::1
 ffat-like motif::1
 necessary for homodimerization::1
+lpa/pip2-binding site::1
 important for the formation of tight-junction strand-like structures::1
 heparin- and hyaluronan-binding::1
 rassf1-binding::1
@@ -2456,6 +2211,9 @@ interaction with cep85::1
 necessary for interaction with mad1l1::1
 required for microtubule binding and for localization to the centrosomes::1
 interaction with sav1 and stk3/mst2::1
+important for autoinhibitory function::1
+interaction with stambp::1
+required for maintaining the overall integrity of the ahr:arnt heterodimer and its transcriptional activity::1
 non-canonical er retention motif::1
 mediates interaction with limk1::1
 cask-binding::1
@@ -2476,8 +2234,10 @@ interaction with cep290, bbs1, bbs2, bbs4, bbs5, bbs7, bbs8 and bbs9::1
 interaction with bbs1, bbs2, bbs4, bbs7, bbs8 and bbs9::1
 3 x 7 aa tandem repeats of r-e-a-a-p-r-g::1
 atpase activity domain::1
+bactericidal and antifungal activity::1
 critical for glycosaminoglycan, lipid a, lysozyme and dna binding::1
 important for full bactericidal and antifungal activities::1
+interaction with pspa::1
 involved in glycosaminoglycan binding::1
 targeting to microtubules::1
 interaction with ccdc61::1
@@ -2496,12 +2256,14 @@ important for enzyme activity, localization to cytoplasmic vesicles, and protein
 lipopolysaccharide binding::1
 interaction with supt5h::1
 head (globular)::1
+membrane-binding domain::1
 tail (globular)::1
 4.1-binding domain::1
 tubulin-binding domain::1
 gpsm2-binding domain::1
 tankyrase-binding domain::1
 kazal-like 1; atypical::1
+required for interaction with ddb1::1
 photolesion recognition::1
 interaction with epb41l1::1
 interactions with homer1 and nf2::1
@@ -2552,6 +2314,7 @@ rna gate::1
 mediates interaction with alpha-catenin::1
 substrate-binding apical domain::1
 interaction with vp16::1
+interaction with rara::1
 interaction with med1 and ccar1::1
 required for interaction with zfpm1::1
 interaction with calcoco1::1
@@ -2590,6 +2353,7 @@ important for normal n-type inactivation::1
 5 x approximate repeats::1
 required for late endosome/lysosome localization::1
 interaction with ret::1
+basic (possible receptor binding region)::1
 2 x 5 aa tandem repeats of s-l-d-i-q::1
 interactions with cstf3 and sympk::1
 12 x 5 aa tandem repeats of m-e-a-r-[ag]::1
@@ -2622,6 +2386,7 @@ interaction with pdzk1::1
 interaction with nck2 second and third sh3 domain (minor)::1
 interaction with nck2 third sh3 domain (major)::1
 interaction with nck2 (minor)::1
+sh3-binding; interaction with crk::1
 interaction with mapk8ip3/jip3::1
 required for interaction with and acetylation by ep300::1
 gh84::1
@@ -2629,9 +2394,12 @@ necessary for interaction with mdfic and transcriptional activation or repressio
 pp2a-binding::1
 interaction with grin2a::1
 interaction with ppp1r12a, ppp1r12b and ppp1r12c::1
+interaction with tesc::1
+pi(4,5)p2-binding region::1
 interaction with chp2::1
 confers ph-dependent pi(4,5)p2 binding::1
 interaction with calm1::1
+interaction with ppp3ca::1
 important for lpl transport to the lumenal surface of endothelial cells::1
 important for interaction with lpl::1
 epitope; recognized by if-specific monoclonal antibody::1
@@ -2662,6 +2430,7 @@ beta-like import receptor binding (bib) domain::1
 ha-8::1
 hggxw::1
 interaction with macf1::1
+rbm7 binding::1
 mtrex binding::1
 sufficient for interaction with aifm1::1
 interaction with zfp91::1
@@ -2678,13 +2447,16 @@ interaction with page4::1
 required for interaction with csnk2b::1
 required for interaction with htlv-1 tax::1
 required for interaction with ppp2ca and ppp2r1a::1
+lqqqiq motif::1
 ntf2; truncated::1
 interaction with rab9::1
 14 x 8 aa approximate tandem repeats::1
 vwfa-like::1
 ef-hand 1; atypical::1
+helix bundle::1
 3 x 5 aa repeats of h-s-d-h-r::1
 interaction with nsmce1::1
+central sheet, part::1
 n-terminal barrel::1
 cleavage sites for elastase::1
 c-terminal barrel::1
@@ -2726,6 +2498,7 @@ interaction with stk11/lkb1::1
 interaction with hiv-1 vpr::1
 interaction with gle1::1
 k-loop::1
+vcr::1
 interaction with cryab::1
 msl2-cxc::1
 sufficient for interaction with msl1::1
@@ -2738,11 +2511,13 @@ af3; mediates transcriptional activation (in isoform b)::1
 mediates transcriptional transrepression (in isoform a)::1
 af1; mediates transcriptional activation::1
 af2; mediates transcriptional activation::1
+lxxl motif::1
 has gtpase activity, required for proper localization::1
 required for phospholipid binding and regulation of the substrate preference::1
 interaction with dnjc9::1
 interaction with eif3b::1
 25 x 10 aa approximate tandem repeats of [de]-[de]-[de]-r-[sevgfpilv]-[hpsn]-[rsw]-[rl]-[drgtihn]-[epmanlgdt]::1
+sirna-binding::1
 necessary for interaction with rna polymerase ii holoenzyme::1
 necessary for interaction with h2ax::1
 mtad::1
@@ -2775,6 +2550,7 @@ yxxl::1
 interaction with nr2f6::1
 integrase-binding domain (ibd)::1
 hhv-1 vhs binding site::1
+crac domain::1
 may mediate interaction with psmc5::1
 bromo; divergent::1
 interaction with histone h3k4me3::1
@@ -2795,6 +2571,8 @@ critical for end-to-end subunit interaction::1
 e3 ubiquitin-protein ligase activity::1
 required for sumoylation and localization to discrete nuclear foci::1
 interaction with top1::1
+a-domain; part::1
+p-domain; part::1
 arm-like::1
 membrane anchorage region::1
 u-box-like::1
@@ -2935,6 +2713,7 @@ interaction with ccnt1, hexim1 and hexim2::1
 required for endoplasmic reticulum targeting::1
 endoplasmic reticulum targeting::1
 e6-binding::1
+required for galactolipase activity::1
 interaction with zc3hav1::1
 mediates interaction with rnf135::1
 receptor binding site::1
@@ -2945,6 +2724,7 @@ interaction with ikbkg/nemo::1
 b-box::1
 interaction with rhod and rab5a::1
 required for interaction with tlk1 and dynll1/lc8::1
+interaction with sars-cov spike glycoprotein::1
 essential for cleavage by adam17::1
 essential for cleavage by tmprss11d and tmprss2::1
 endocytic sorting signal::1
@@ -2975,6 +2755,7 @@ interaction with hspa5 and localization to the endoplasmic reticulum::1
 n-terminal globular domain::1
 c-terminal globular domain::1
 7 x cys-rich subdomain repeats::1
+11 x approximate tandem repeats, ser/thr-rich::1
 17 x approximate tandem repeats, ser/thr-rich::1
 23 x approximate tandem repeats, ser/thr-rich::1
 required for interaction with cbx5 and tbpl1::1
@@ -2984,6 +2765,9 @@ leutx region::1
 mediates interaction with xrcc5/ku80 and xrcc6/ku70 and association with the non-homologous end joining core complex::1
 mediates interaction with cbfa2t3::1
 required for association with membranes and function in neurite spine formation::1
+interaction with ube2m n-terminus::1
+interaction with nedd8::1
+interaction with nae1::1
 interaction with ube2m core domain::1
 required for interaction with klc1::1
 mediates interaction with gls::1
@@ -3000,9 +2784,11 @@ essential for slc39a4 endocytosis::1
 inactivation gate::1
 interactions with sin3a and hdac1::1
 interaction with map3k14/nik::1
+interaction with thrap3::1
 13 x 2 aa tandem repeats of g-q::1
 interaction with dnm1::1
 interaction with daam1, diaph1 and diaph2::1
+interaction with ncr3::1
 retroviral-gag-like::1
 required for mitochondrial import::1
 mediates interaction with chuk/ikka and ikbkb/ikkb::1
@@ -3030,8 +2816,10 @@ required and sufficient for interaction with bag6::1
 a-domain (tetramerization)::1
 pxlpxi/l motif; mediates interaction with ankra2 and rfxank::1
 required for interaction with cidec::1
+histone h3k27cr binding::1
 ubiquitin-binding 1 (ubm1)::1
 ubiquitin-binding 2 (ubm2)::1
+profilin-binding motif::1
 rlrk::1
 wasp-binding motif::1
 m6 cassette::1
@@ -3041,6 +2829,7 @@ required for interaction with rtn1::1
 required for interaction with atl1::1
 required for interaction with ssna1 and microtubules::1
 sufficient for interaction with chmp1b::1
+required for interaction with microtubules::1
 sufficient for microtubule severing::1
 required for interaction with microtubules and microtubule severing::1
 interaction with 14-3-3 epsilon::1
@@ -3122,6 +2911,7 @@ involved in orai1, stim1, ppp2ca and ppp2r1a interaction::1
 involved in akap5 and prkar2a interaction::1
 involved in calm1 interaction::1
 required for both calcium stimulation and maintenance of autoinhibition::1
+essential for calm1 interaction::1
 mediates microtubule-binding and homooligomerization::1
 ectodomain g::1
 interaction with the n-terminus of ndc80::1
@@ -3202,7 +2992,9 @@ glebs::1
 11 x 2 aa repeats of g-[ycgs]::1
 required for interaction with msx1::1
 4 x 4 aa repeats of n-t-s-l::1
+aaa-atpase protomer::1
 4 x 17 aa approximate tandem repeats of p-g-p-r-g-e-a-g-g-q-a-e-a-[kr]-g-d-a::1
+involved in itch interaction::1
 interaction with ppia/cypa::1
 interaction with fyn when phosphorylated at tyr-284::1
 t cell receptor alpha variable::1
@@ -3242,9 +3034,11 @@ interaction with calm; calcium-dependent::1
 interaction with kcne1 c-terminus::1
 interaction with akap9::1
 c-terminal assembly domain::1
+zcchc8 binding::1
 4 x 33 aa approximate tandem repeats::1
 interaction with znf296::1
 minimal region for the interaction with pkd2::1
+tek-box::1
 dimerization with nsun4::1
 localization to mrna processing bodies (p-bodies)::1
 interaction with m6a-containing mrnas::1
@@ -3256,6 +3050,7 @@ glycosaminoglycan-binding site::1
 4 x 7 aa repeats of p-[lv]-t-[il]-t-[st]-p::1
 mediates interaction with tnik::1
 interaction with brme1::1
+interaction with histone h3 not methylated at 'lys-4'::1
 implicated in the circadian rhythmicity::1
 dlg4 binding (pdz)::1
 necessary for centriole targeting and microtubule association::1
@@ -3271,11 +3066,13 @@ a domain::1
 c domain::1
 hexose-6-phosphate dehydrogenase::1
 6-phosphogluconolactonase::1
+core promoter dna-binding::1
 necessary for tata box-bound tbp complex formation::1
 binds to arf1 (in long isoform)::1
 interaction with ccna1::1
 required for repression of histone gene transcription::1
 interaction with histone h2b::1
+interaction with pax3::1
 interaction with histone h4::1
 loop-1::1
 loop-7::1
@@ -3313,6 +3110,8 @@ rna binding thumb loop::1
 involved in the ligation of specific target proteins::1
 lrlrgg::1
 interaction with mizf::1
+required for activation of histone gene transcription and interaction with mizf::1
+required for acceleration of g1 phase::1
 interaction with sh3gl2::1
 interaction with dst (isoform 1)::1
 interaction with cyfip2::1
@@ -3350,6 +3149,7 @@ interaction with ctbp1, ctbp2 and znf516::1
 mediates interaction with ski and regulation of tgf-beta signaling::1
 necessary for interaction with ap2 complex and clathrin, interaction with clathrin is necessary for its targeting to the tgn and endosomal membranes::1
 vrr-nuc::1
+pro-acr binding::1
 interaction with mapk8ip1::1
 required for interaction with smarca5::1
 interaction with nipbl::1
@@ -3357,13 +3157,16 @@ interaction with wapl and pds5b::1
 interaction with stag1::1
 regulates protein turnover upon amino acid deprivation::1
 required for plasma membrane localization of usp12/wdr20::1
+interaction with ctbp1 and ctbp2::1
 32 x approximate tandem repeats, ser/thr-rich::1
 required for interaction with bag6::1
 sufficient for interaction with aicda::1
+interaction with p300/ep300::1
 sufficient for interaction with kif5b::1
 sufficient for interaction with stx1a::1
 miu::1
 zubd/zha::1
+zakalpha motif::1
 tim barrel::1
 beta barrel::1
 2 x 2 aa tandem repeats of g-q::1
@@ -3403,6 +3206,7 @@ rna-binding (rbd)::1
 minor non-specific rna-binding::1
 major non-specific rna-binding::1
 interaction with ubxn6::1
+interaction with glis2::1
 interaction with amyloid-beta peptide::1
 interaction with thoc7::1
 interaction with csf1r::1
@@ -3415,6 +3219,7 @@ interaction with lrr-1::1
 glycogen-binding motif::1
 substrate-binding motif::1
 15 x 5 aa repeats of c-c-x(3)::1
+harp::1
 desh box::1
 interaction with ube1c::1
 anthranilate phosphoribosyltransferase homolog::1
@@ -3425,6 +3230,8 @@ interaction with chmp1b::1
 pka-rii subunit binding::1
 centrosome localization domain (cld)::1
 rnase h type-2::1
+interaction with phf5a, sf3b1 and sf3b5::1
+interaction with sf3b1 and sf3b5::1
 interaction with sf3b1::1
 interaction with sf3b5::1
 14 x 2 aa repeats of f-g::1
@@ -3485,9 +3292,12 @@ interaction with clip2::1
 interaction with phldb2 and rsn::1
 localization to kinetochores::1
 psap motif; important for interaction with tsg101::1
+ubiquitin-conjugating enzyme e2 binding::1
+free ubiquitin binding::1
 interaction with fstl3::1
 transactivation domain; required for dot1l-binding::1
 required for er localization::1
+wnt-binding::1
 t-loop::1
 15 x 5 aa repeats of s/p-p-p-e/p-e/a::1
 cryptic mitochondrial signal peptide::1
@@ -3496,6 +3306,7 @@ required for interaction with dag1::1
 a-domain::1
 pip-box (pcna interacting peptide)::1
 interaction with gys1::1
+chrd::1
 necessary for interaction with cbp80::1
 sufficient for poly u rna-binding::1
 necessary for poly u rna-binding and snrna export::1
@@ -3507,6 +3318,7 @@ mediates regulation of adenylate cyclase activity by c5 alpha-induced g- beta an
 mediates regulation of adenylate cyclase activity by sphingosine 1-phosphate-induced g alpha 13 pathway::1
 modulates adenylate cyclase activity by modulating the binding of g(s)alpha to the high-affinity g(s)alpha binding site in 7c1a/7c2::1
 necessary for its g protein-activation ability and normal distribution of melanosomes::1
+lysosomal/melanosomal membrane localization signal::1
 spx::1
 exs::1
 important for inositol polyphosphate binding::1
@@ -3576,16 +3388,21 @@ interaction with trimethylated histone h3 (h3k4)::1
 essential for homodimerization::1
 sufficient for interaction with ephb1::1
 required for ubiquitination of spred2::1
+glyr1-binding::1
+histone h3-binding::1
+important for interaction with long-chain fatty acids::1
 pdz-binding; involved in localization to the apical cell membrane::1
 interaction with azi2, tank and tbkbp1::1
 required for homodimerization, interaction with pex11g, and peroxisomal localization::1
 interaction with ppp1r9b::1
 interactions with dusp26, mapk1 and mapk2::1
+clamp::1
 rudder::1
 involved in rrn3 binding to pol i complex::1
 funnel::1
 mediates the interaction with top2a::1
 say::1
+essential to induce neural progenitor proliferation::1
 interaction with rbl1 and rbl2::1
 interaction with c9orf78 and wbp4::1
 interaction with tssc4::1
@@ -3610,15 +3427,18 @@ pp2a subunit b binding::1
 polyoma small and medium t antigens binding::1
 sv40 small t antigen binding::1
 pp2a subunit c binding::1
+transactivation domain (gln-rich)::1
 sufficient for interaction with upf1::1
 sufficient for interaction with upf3a and upf3b::1
 sufficient for interaction with eif4a1 and eif1::1
 binds to upf3b::1
 sufficient for interaction with upf1 c-terminus::1
 necessary for interaction with upf1::1
+interaction with upf1::1
 required for transcriptional activity::1
 interaction with nfkb1/p50::1
 amyloidogenic unit::1
+antigenic peptide; presented by a*02:01::1
 12 x 13 aa approximate tandem repeats, rpt domain::1
 kringle-like fold::1
 enhances binding of rb protein to e2f::1
@@ -3627,6 +3447,7 @@ required for interaction with nmi::1
 interaction with tuba1a::1
 low charge region::1
 interacting with elongin bc complex::1
+tnase-like::1
 repressive function::1
 involved in post-transcriptional down-regulation of slc5a1::1
 chaperone domain::1
@@ -3639,12 +3460,14 @@ mediates the interaction with rab13 and rab35 and intramolecular interaction wit
 necessary and sufficient to associate with tubular recycling endosome membranes, mediate phosphatidic acid-binding and membrane tubulation::1
 loop b::1
 loop a::1
+fork loop::1
 required for interaction with drg1::1
 hyaluronan-binding::1
 phagocytosis uptake signal::1
 interaction with lire1::1
 important for interaction with pirna::1
 required for interaction with mcoln1::1
+vcpwe motif::1
 comp n-terminal::1
 mediates cell survival and induction of the iap family of survival proteins::1
 crambin-like::1
@@ -3656,8 +3479,10 @@ fpl::1
 interaction with aurka and fbxw7::1
 required for homodimer formation::1
 required for enzyme activity::1
+interaction with tgfbr1::1
 5.5 x 8 aa tandem repeats of [ps]-p-d-t-t-s-[qp]-e::1
 3 x 5 aa tandem repeats of g-y-p-p-x::1
+dna-binding; may bind to the undamaged single-strand dna of the dna repair bubble::1
 spacer region::1
 dna-binding; h2th (helix-2turn-helix) motif which binds double-stranded dna::1
 dna-binding; may bind double-stranded dna::1
@@ -3673,6 +3498,7 @@ required for interaction with fat1::1
 hx repeat::1
 interaction with hnrnpa1::1
 interaction with zbtb7a::1
+interaction with substrate rna::1
 kip-binding::1
 may split the end of the dna molecule, with the two strands separating around the region::1
 involved in hax1 binding::1
@@ -3698,6 +3524,7 @@ interaction with dynein and ndel1::1
 interaction with ncor2::1
 interaction with tbl1xr1::1
 antigen-binding cleft::1
+interaction with histone h4 n-terminus::1
 interaction with cadh1::1
 interaction with polr2a. interaction with sfrs1; sfrs9 and sfrs10::1
 interaction with safb2::1
@@ -3705,6 +3532,7 @@ variable number of tandem repeats (vntr)::1
 egtc motif::1
 seven-bladed beta-propeller::1
 interaction with lztl1::1
+interaction with mettl3::1
 n-terminal bundle and brace (nbb); mediates insp6 binding::1
 localized in the mitochondria::1
 not localized in the mitochondria::1
@@ -3729,6 +3557,7 @@ cholinesterase-like (chel)::1
 interaction with cdc2-ccnb1::1
 membrane-association motif::1
 interaction with tgf-beta ligand::1
+sufficient for interaction with prkra::1
 sufficient for interaction with dicer1::1
 39 x 10 aa approximate tandem repeats of [lp]-[ekg]-[lhvyqek]-[plsqe]-[eqdv]-[qhekrga]-q-[emvqlp]-[gkle]-[qhvnld]::1
 interaction with d(2) dopamine receptor::1
@@ -3743,8 +3572,10 @@ mediates interaction with rela::1
 mediates interaction with smad4::1
 9 x 5 aa tandem repeats of m-e-t-r-[ag]::1
 9 x 5 aa tandem repeats of g-[at]-g-[mi]-q::1
+involved in ca(2+)-dependent inactivation::1
 necessary for targeting centrosomes::1
 ap1-binding::1
+acceptor-binding::1
 donor-binding::1
 interaction with asf1a/b::1
 interaction with membrane phospholipid headgroups::1
@@ -3766,12 +3597,15 @@ involved in nuclear speckle localization::1
 region c::1
 required for ubiquitination activity::1
 mediates interaction with trps1::1
+sumo interaction motif::1
 10 x 5 aa repeats of c-c-[cdpqrw]-[adprs]-[cipstv]::1
+(microbial infection) interaction with tula hantavirus::1
 ph-like::1
 ring-like domain; necessary for ubiqitination of ripk3::1
 involved in dlg4-binding::1
 smr::1
 required for tetramerization::1
+important for oligomerization and fiber formation::1
 interaction with spast::1
 interaction with vps4a, mitd1 and stambp::1
 mediates interaction with usp17l2::1
@@ -3869,6 +3703,7 @@ required for interaction with gsk3b::1
 required for interaction with beta- and gamma-catenins::1
 interaction with src and esr1::1
 required for interaction with ap1s2::1
+acylated histone binding::1
 2 x 53-55 aa tandem repeats::1
 3 x 6 aa repeats of d-r-[eq]-w-[nqk]-[fy]::1
 8 x 6 aa tandem repeats of p-s-[vs]-s-[viag]-[hnp]::1
@@ -3890,9 +3725,11 @@ interaction with nckap5l::1
 interaction with pcnt and akap9::1
 interaction with cdk5r1::1
 required for centrosomal attachment, golgi localization and calm1 interaction::1
+nedd8-binding::1
 deca-gx3 motif; required for interaction with yae1 and the cia complex::1
 ent::1
 interaction with zmynd11::1
+required for self-association and induction of membrane tubulation::1
 interaction with rnd2::1
 required for interaction with tnks::1
 interaction with dnm1 and dnm3::1
@@ -3902,11 +3739,13 @@ interaction with zbtb33 and hexim1::1
 interaction with eto::1
 id1::1
 id2::1
+cornr box::1
 necessary for nuclear and nucleolar caps localizations::1
 required for the pre-mir-134 transport::1
 required for recruitment to cytoplasmic stress granules::1
 required for g4-dna- and g4-rna-binding::1
 dsm (dhx36-specific motif)::1
+necessary for interaction with single-stranded dna at the 3'-end of the g4-dna structure::1
 wh domain::1
 ob-fold-like subdomains::1
 interaction with erp44::1
@@ -3950,6 +3789,7 @@ involved in ssdna binding::1
 basic, involved in binding of the rna primer::1
 deca-gx3 motif; required for interaction with lto1::1
 fkbp1a-binding::1
+important for cleavage of target proteins::1
 required for interaction with ctnnb1::1
 required for interaction with ctnnd2::1
 interaction with mtch1::1
@@ -3983,9 +3823,11 @@ interaction with pebp1/rkip::1
 methylenetetrahydrofolate dehydrogenase and cyclohydrolase::1
 formyltetrahydrofolate synthetase::1
 interaction with ass1::1
+important for interaction with ik::1
 necessary for interaction with nek2::1
 necessary for interaction with mad2l1::1
 mediates interaction with epn1::1
+ppxy; mediates interaction with itch::1
 rrm nup35-type::1
 4 x 67 aa tandem repeats::1
 af-2 motif::1
@@ -4008,6 +3850,8 @@ sla/lp epitope::1
 c-terminal domain; essential for histone methyltransferase activity, nuclear localization and mediates interaction with hsp90aa1::1
 required for interaction with nurd complex and for transcriptional repressor activity::1
 interaction with vps18::1
+interaction with actn2::1
+f-actin binding::1
 interaction with bag3::1
 f-actin bundling activity::1
 actin binding::1
@@ -4038,6 +3882,7 @@ sufficient for psap complex assembly::1
 necessary for interaction with ppig::1
 necessary for interaction with ss18l1/crest::1
 rna-binding region which is sufficient for binding to lncrna evf2::1
+sufficient for interaction with dlx1::1
 required for interaction with flna::1
 14 x 10 aa tandem repeats of [mt]-f-[ag]-r-l-[cs]-p-v-[si]-[et]::1
 interaction with cbfa2t2::1
@@ -4112,6 +3957,7 @@ involved in negatively regulating e2f activity::1
 necessary for interaction with fgf13::1
 interaction with bin2::1
 methionine segments (mets) motif::1
+important for interaction with dnm1l::1
 2 x tandem repeats of svp-1 like motif::1
 hinge domain::1
 interaction with mylk::1
@@ -4128,6 +3974,7 @@ interaction with nfkb1::1
 interaction with septin7::1
 self-association (via n-terminus) to polymerize octameric septin 12-7-6-2/4-2/4-6-7-12 filaments::1
 (microbial infection) interaction with glycoprotein n of andes and new york hantaviruses::1
+cystatin kininogen-type::1
 o-glycosylated at one site only::1
 interaction with ciart::1
 required for the lysosomal targeting::1
@@ -4200,6 +4047,7 @@ involved in alpha-l/beta-2 and alpha-m/beta-2 integrin binding::1
 interaction with kctd3::1
 important for interaction with ift27::1
 receptor and heparin binding::1
+receptor binding::1
 receptor activation motif::1
 interaction with ncs1::1
 mediates localization to the nucleus::1
@@ -4230,8 +4078,10 @@ necessary for the catalytic activity::1
 negatively regulates the responsiveness of the catalytic activity by cardiolipin and is required for optimal activation by the gtp-bound rhoa::1
 interaction with importin alpha-1::1
 interaction with ift20::1
+important for agonist binding::1
 interaction with rpgr::1
 sgf29 c-terminal::1
+histone h3k4me3 n-terminus binding::1
 histone h3k4me3 binding::1
 histone-lysine n-methyltransferase::1
 mariner transposase hsmar1::1
@@ -4247,6 +4097,7 @@ important for interaction with cep170::1
 involved in interaction with tmed10 c-terminus::1
 e-loop; essential for h2o2 generating catalytic activity::1
 mediates interaction with tlr4::1
+necessary for interaction with hsf1::1
 necessary for association to the npc::1
 sufficient and essential for mediating its nuclear import::1
 binds to hspa5/grp78::1
@@ -4322,16 +4173,19 @@ interaction with adrm1::1
 binds to gnai2 and gnai3::1
 interaction with argonaute family proteins::1
 sufficient for interaction with ago1, ago3 and ago4::1
+sufficient for interaction with ago2::1
 sufficient for interaction with ago1 and ago4::1
 interaction with magee1::1
 involved in cyth2-binding::1
 required for ubiquitination::1
 localization to the cleavage furrow::1
+ac::1
 essential for lipid droplet targeting::1
 interaction with lipe::1
 interaction with pnpla2 and abhd5::1
 recruits mitochondria at the lipid droplet surface::1
 involved in interaction with ppp1ca::1
+immunoreceptor tyrosine-based inhibition motif (itim)::1
 necessary for endoplasmic reticulum localization::1
 necessary for cytoplasmic retention::1
 protein kinase; inactive::1
@@ -4380,6 +4234,7 @@ interaction with krt14 and krt18::1
 important for cytoplasmic localization::1
 12 x approximate tandem repeats::1
 interaction with cdc5l, sf3b1 and melk::1
+involved in pp-1 inhibition::1
 involved in pp-1 binding::1
 interaction with arih2::1
 mediates interaction with gata1::1
@@ -4394,6 +4249,8 @@ interaction with pyhin1 and necessary for interaction with rffl and rnf34::1
 interaction with mtbp::1
 arf-binding::1
 required for interaction with ccnd1::1
+interaction with rplp0::1
+interaction with tcf3::1
 (microbial infection) c.botulinum neurotoxin type a-binding::1
 chemokine and involved in interaction with itgav:itgb3 and itga4:itgb1::1
 mucin-like stalk::1
@@ -4408,18 +4265,23 @@ homeodomain-like hth domain::1
 important for interaction with ctnnbl1::1
 required for interaction with rnf126::1
 14 x 14 aa tandem repeats::1
+endocytosis signal; in isoform tgn51::1
 endocytosis signal; in isoform tgn46 and isoform tgn48::1
 membrane targeting domain::1
 n-terminal region (nrd)::1
 may be involved in interaction with arf::1
 17 x 5 aa repeats of c-c-[rqvsge]-[sptq]-[tasp]::1
+important for antibacterial activity::1
 c-terminal basic extension::1
 qua1 domain; involved in homodimerization::1
 qua2 domain; involved in rna binding::1
+histone h3r2me0 binding::1
 required to promote base flipping::1
+required for formation of a 5-methylcytosine-binding pocket::1
 necessary and sufficient to mediate inhibition of nf-kappa-b downstream of activated tlrs; may mediate interaction with myd88 and tirap::1
 essential for interaction with ptprd::1
 interaction with trim3::1
+phr domain::1
 rae1 binding::1
 tandem cysteine domain::1
 required for homodimer formation and heterodimer formation with arl6ip1::1
@@ -4429,6 +4291,7 @@ interaction with eng::1
 involved in binding to ap-1::1
 mediates interaction with cdk5rap2 and is required for homodimerization and microtubule bundle formation::1
 mediates interaction with beta-tubulin and is required for microtubule bundle formation::1
+(s/t)x(i/l)p motif::1
 (s/t)x(i/l)p motif 3; required for interaction with mapre1::1
 lats2 binding::1
 required for fbxl14-triggered degradation::1
@@ -4439,6 +4302,7 @@ interaction with krt18::1
 interaction with hspa8::1
 interaction with mcm7::1
 kif2c-binding::1
+mapre1-binding::1
 iggfc-binding::1
 4 x 12 aa tandem repeats::1
 amphipathic::1
@@ -4450,6 +4314,7 @@ interaction with lmo4::1
 n-terminal sam-like domain::1
 fe-s binding site a::1
 fe-s binding site b::1
+cx2c motif::1
 npxy motif; contains endocytosis signal::1
 rid::1
 interaction with msx2::1
@@ -4466,6 +4331,7 @@ assembles ino80 complex module consisting of conserved components actr8, actl6a 
 assembles ino80 complex module consisting of conserved components ino80b, ino80c, actr5, rvbl1, rvbl2::1
 13 x 22 aa approximate tandem repeats::1
 sufficient for gef activity towards rab21::1
+sufficient for interaction with vps29::1
 interaction with rab32::1
 interaction with rab38::1
 required for interaction with vamp7::1
@@ -4502,12 +4368,14 @@ important for dna and phosphoinositide binding::1
 sg1::1
 interaction with atp6v1a::1
 necessary for interaction with zfyve27::1
+rgg-box::1
 interaction with arhgef5::1
 straightjacket domain::1
 arm domain::1
 bowtie tail::1
 interaction with alpha-tubulin::1
 interaction with sirt2::1
+essential for activity::1
 clpx-type zb::1
 triple-helical region (col3)::1
 triple-helical region (col2)::1
@@ -4534,12 +4402,15 @@ required for mrna-binding::1
 sufficient for homodimerization, interaction wit hook2, hook3 and ap4m1::1
 sufficient for interaction with aktip and vps18::1
 interaction with ap1g1, ap1g2 and gga1::1
+dfxdf motif::1
+collagenase-like::1
 required for inhibitor timp2 binding::1
 transmembrane domain::1
 interaction with sap30::1
 interaction with suds3 and sap130::1
 interaction with hdac1 and arid4b::1
 myc binding::1
+ubiquitin-interacting::1
 fam72a-binding::1
 nuclease activity::1
 uap56-binding motif::1
@@ -4553,6 +4424,7 @@ short helix h1-1::1
 short helix h2-1::1
 short helix h1-2::1
 short helix h2-2::1
+rxxxfsd motif::1
 glycopeptide (secretory piece)::1
 13 x 13 aa approximate tandem repeat of p-t-s-p-a-a-a-v-p-t-p-e-e::1
 sufficient for membrane localization::1
@@ -4563,10 +4435,13 @@ preferentially binds ssdna::1
 mim1-a::1
 mim1-b::1
 interaction with rpa1::1
+rpa1-binding motif::1
+interaction with dll4::1
 mediates localization to the spindle and the kinetochore and is required for the attachment of spindle microtubules to the kinetochore::1
 mediates localization to the chromosome and the spindle and negatively regulates chromosome alignment::1
 required for basolateral membrane targeting::1
 interaction with ywhag::1
+interaction with o-glycosylated substrate glycoprotein::1
 interaction with zfp36::1
 interaction with cnot6, cnot6l, cnot7 and cnot8::1
 gmps atp-ppase::1
@@ -4601,6 +4476,7 @@ n-smase activation domain (nsd)::1
 31 x 5 aa repeats of c-c-[grqvil]-[sptr]-[vstqpc]::1
 hth tfe/iiealpha-type::1
 c motif::1
+interaction with mapk7::1
 interaction with map3k2/map3k3::1
 gpa::1
 interaction with cfp1::1
@@ -4639,6 +4515,7 @@ interaction with etv6::1
 12 x 6 aa approximate tandem repeats of v-p-t-t-t-t]::1
 interaction with pias1::1
 interaction with cux1 and hdac1::1
+transport core domain::1
 dbhs::1
 mediates association with membranes and could form transmembrane domains::1
 mediates interaction with rala and ralb::1
@@ -4651,6 +4528,7 @@ interaction with ptk2, pxn and lyn::1
 necessary for interaction with cyfip1, cyfip2, fxr1 and fxr2::1
 required for nuclear retention::1
 interaction with mad2l1::1
+promotes p53/tp53 degradation::1
 represses p53/tp53 degradation::1
 interaction with zhx2::1
 24 x 5 aa repeats of c-c-x(3)::1
@@ -4663,6 +4541,7 @@ required for interaction with csk::1
 required for interaction with myo6::1
 required for interaction with grb2 and csk::1
 sufficient for interaction with sh3kbp1 sh3 domain::1
+dpf::1
 required for homodimerization and interaction with mtmr2::1
 cholesterol-binding sequence motif::1
 minimal region required to interact with taf12::1
@@ -4679,6 +4558,7 @@ auto-inhibitory::1
 interaction with pot1::1
 required for interaction with mapks::1
 8 x 3 aa repeats of [ed]-p-w::1
+sufficient for self-association and interaction with tarbp2::1
 binding site for the 3'-end of trna::1
 interaction with terf1::1
 n-terminal auto-inhibitory domain; necessary for interaction with smarca4/brg1::1
@@ -4723,6 +4603,7 @@ rrm 3; atypical::1
 inhibits homodimerization::1
 inhibits transcriptional repression, interaction with ercc3 and apoptosis induction::1
 sufficient for interaction with the prc2 complex::1
+mtn3/slv::1
 mediates interaction with trpv2::1
 interaction with fam120b::1
 peptidase s72::1
@@ -4773,6 +4654,7 @@ required for interaction with ptpn11 and ptpn6 and for control of phosphorylatio
 essential for interaction with ptpn11 and ptpn6::1
 transcriptional repression domain (trd)::1
 required for interaction with mapk8::1
+pxy motif::1
 important for interaction with prkar2a::1
 important for interaction with map2k3::1
 n-terminal ad (ctnnb1 binding site)::1
@@ -4836,6 +4718,7 @@ mediates interaction with ucp3::1
 required for itgb6 binding::1
 mediates interaction with e4f1::1
 moap1-binding::1
+antistasin-like::1
 interaction with copb1::1
 fibronectin type-iii 8; extra domain b::1
 fibronectin type-iii 13; extra domain a::1
@@ -4873,8 +4756,10 @@ interaction with ank3::1
 bw6 motif::1
 required for interaction with the pebow complex::1
 required for dna-binding and interaction with nfkbia::1
+interaction with mapk1 and mapk3::1
 calmodulin-binding (1-9-14 motif)::1
 calmodulin-binding (iq motif)::1
+cd58 binding region::1
 wipi-interacting::1
 nuclear export signal; masked by the interaction with brca2::1
 mediates interaction with map1b::1
@@ -4898,6 +4783,7 @@ involved in hax-1 binding::1
 cep97 binding::1
 required for interaction with cep290::1
 interaction with cep76::1
+interaction with mettl14::1
 interphase loop::1
 mediates interaction with rab3gap1, rab3gap2 and ubxn6::1
 er export motif::1
@@ -4916,6 +4802,7 @@ required for binding to microtubules and golgi apparatus location::1
 ob-fold domain::1
 required for interaction with dvl2 and suds3::1
 dna-binding; major groove::1
+dna-binding; minor groove::1
 necessary for interaction with rela::1
 necessary for interaction with replicase polyprotein 1ab nsp14 of ibv::1
 mediates modulation of th2 dominant cytokine production::1
@@ -4931,13 +4818,16 @@ pembrolizumab binding::1
 itsm motif::1
 hydrolytic domain::1
 shielding domain::1
+rna-interacting domain::1
 gq motif::1
 required for regulating specificity for telomeric dna and for processivity for primer elongation::1
+required for oligomerization::1
 qfp motif::1
 cp motif::1
 primer grip sequence::1
 cte::1
 tfly; involved in rna binding::1
+chondroitin sulfate binding::1
 chondroitin sulfate a binding::1
 required for interaction with traf6::1
 ccp110-binding::1
@@ -4948,6 +4838,7 @@ weak actin-binding::1
 interaction with eloa::1
 hiv-1 integrase-binding::1
 mediates interaction with trim28::1
+represses transcription::1
 required for transcriptional repression activity; probably mediates sequence-specific dna-binding::1
 dd1::1
 padr1 zinc-binding::1
@@ -4959,6 +4850,7 @@ ddnn motif::1
 cytoplasmic tail::1
 fg-repeats::1
 interaction with pcid2 and sem1::1
+interaction with eny2::1
 interaction with centrin::1
 interaction with limd1::1
 domain c; mediates interaction with e4f1::1
@@ -4984,6 +4876,7 @@ amphipathic helix 2 (ah2)::1
 amphipathic helix 3 (ah3)::1
 amphipathic helix 4 (ah4)::1
 lvxef motif::1
+wxxxf/y motif::1
 glucan phosphatase signature motif cxagxgr::1
 required for interaction with srp72::1
 required for ryr2 clustering::1
@@ -4993,6 +4886,7 @@ amphipathic helix h2::1
 amphipathic helix h3::1
 essential for protein stability::1
 required for naadp and tpcn2 binding::1
+important for antimicrobial activity::1
 dinnn-motif; mediates interaction with spsb1, spsb2 and spsb4::1
 mediates interaction with timp3::1
 intramolecular interaction with the ank repeats::1
@@ -5018,6 +4912,7 @@ interaction with the h2a.z/h2az1::1
 30 x 5 aa repeats of c-c-[irqvel]-[sptr]-[stvqrcp]::1
 necessary for interaction with rraga::1
 5 x knot repeats::1
+interaction with the consensus sequence c-x-s-x-[pa]-c in peptide substrates::1
 interaction with rcvrn::1
 necessary for interaction with pdcd7::1
 necessary for binding to m(7)g-capped u12 snrna::1
@@ -5082,12 +4977,15 @@ clathrin-binding domain (cbd)::1
 involved in heparin-binding and antiangiogenic activity::1
 increases helicase activity about 5-fold (in a fragment starting at residue 427)::1
 interaction with the elongin bc complex::1
+interaction with ube2i/ubc9::1
 dynll2 binding::1
 dynlrb1 binding::1
 41 x 10 aa approximate tandem repeats of [tn]-q-[gsa]-[krqt]-k-[atgsv]-[ed]-[gtas]-[atis]-[pqtas]::1
+wks motif::1
 interaction with ubiquitin. crossover loop which restricts access of large ubiquitin adducts to the active site::1
 sufficient for interaction with ros1::1
 interaction with rab4::1
+epitope::1
 epitope 3 (recognized by antibodies, including rituximab)::1
 era-type g::1
 pka-rii-alpha subunit binding domain::1
@@ -5116,6 +5014,7 @@ interaction with ppargc1a and thra::1
 mediates interaction with stat2 (and required for the recruitment of usp18)::1
 interaction with ank2::1
 mediates interaction with camsap1::1
+interaction with dmd and utrn::1
 interaction with tln1 and vcl::1
 substrate specificity::1
 interaction with caspase-7::1
@@ -5127,6 +5026,7 @@ rviald::1
 interaction with mid1::1
 involved in wound healing::1
 20 x 5 aa repeats of c-c-[gikrqvheml]-[sptrv]-[stvqrcp]::1
+required for interaction with the matrix protein ma of hiv-1::1
 dvl1-binding::1
 mediates transcriptional repression::1
 necessary for the localization and biological activity::1
@@ -5136,7 +5036,9 @@ required for induction of apoptosis::1
 mediates interaction with csnk1a1 and is required for fam83h activity in keratin cytoskeleton organization::1
 important for dna and nucleosome binding::1
 interaction with cdk2ap2::1
+hmx family specific domain::1
 interaction with inositol phospholipids::1
+cystatin fetuin-a-type::1
 interaction with srfbp1::1
 interaction with spag5::1
 required for interaction with rna-binding proteins ddx5, hnrnph2 and srsf1 and with mrnas::1
@@ -5171,6 +5073,7 @@ responsible for down-regulation of cd86 and mhc class ii cell surface expression
 10 x 30 aa tandem repeats::1
 23 x 26 aa approximate tandem repeats::1
 interaction with msh3::1
+interaction with mlh1::1
 interaction with msh2::1
 ctp-binding::1
 essential for high affinity interaction with rpl23a::1
@@ -5185,6 +5088,7 @@ mediates interaction with gli3 and localization to the cilium basal body::1
 mediates interaction with pcm1::1
 required for interaction with daz1::1
 mediates interaction with gdi2 and rab8a::1
+d box::1
 ca(2+)-dependent actin binding::1
 binding to intermediate filaments::1
 4 x 4 aa tandem repeats of g-s-r-x::1
@@ -5203,6 +5107,8 @@ foot loop::1
 required for methyltransferase activity::1
 3 x 3 aa repeats of r-g-g::1
 interaction with ddb1::1
+pxp motif::1
+tqt motif::1
 interaction with vps33a::1
 required for tetramer assembly::1
 4 x 12 aa imperfect repeats::1
@@ -5237,6 +5143,7 @@ nakap95-binding c::1
 necessary to inhibit mrtfa-induced srf transcriptional activity::1
 required for interaction with mrtfa::1
 sumo interaction motif 1 (sim); crucial for efficient sumoylation::1
+important for enzyme activity::1
 critical for tubulation activity::1
 critical for hydrolysis gm2 gangliosides::1
 sufficient for interaction with clu::1
@@ -5253,13 +5160,16 @@ binding region for e1a adenovirus::1
 interaction with ncoa2::1
 interaction with bace1::1
 fibrillin unique n-terminal (fun) domain::1
+hybrid domain::1
 nonhelical region (nc16)::1
 necessary for interaction with dst and for the recruitment of dst to hemidesmosome::1
+required for modulation of esr1 transcriptional activity::1
 ylyf motif::1
 interaction with gnas and gnai1::1
 required for ca(2+) binding::1
 catalytic site for iron oxidation::1
 resp18 homology domain::1
+sufficient for dimerization of proica512::1
 his-rich loop::1
 proline-rich domain (prd) which mediates interaction with vav1::1
 sh3-binding; class ii::1
@@ -5289,14 +5199,17 @@ metalloprotease domain; probably inactive::1
 nta::1
 addv motif::1
 interaction with mpl::1
+histone h3k9cr binding::1
 interaction with eif2ak2::1
 required for rna-binding::1
+important for interaction with slc2a1 and slc2a3::1
 interaction with skap1::1
 sh2-binding; to fyn::1
 13 x 9 aa approximate tandem-repeats of p-r-v-i-v-g-(s/t)-p-r::1
 necessary and sufficient for interaction with idas and cdt1::1
 homeodomain binding::1
 mediates effects on kcnd2::1
+necessary for interaction with mdm4::1
 ruva domain 2-like::1
 does not contribute to polymerase and exonuclease enzymatic activities::1
 accessory-interacting determinant::1
@@ -5312,6 +5225,7 @@ nuclear matrix targeting sequence (nmts)::1
 protein interaction::1
 interaction with taf4b::1
 interaction with histone h3, chaf1b, and hira::1
+required for interaction with hira::1
 3 x 5 aa repeats of s-e-h-[ga]-s::1
 4 x 4 aa repeats of s-g-e-h::1
 9 x 5 aa repeats of [sv]-g-e-q-[psa]::1
@@ -5362,6 +5276,7 @@ vwfa 1; binding site for platelet glycoprotein ib::1
 vwfa 3; main binding site for collagens type i and iii::1
 amino-terminal::1
 cx::1
+interaction with dpf motifs-containing proteins::1
 necessary and sufficient to mediate interaction with canx::1
 interaction with tax1bp1::1
 interaction with pals1::1
@@ -5372,6 +5287,7 @@ interaction with ube2c::1
 hect-like::1
 interaction with arid3a::1
 interaction with rad51c::1
+interaction with rictor::1
 important for interaction with bacterial ssph1 and ssph1-mediated polyubiquitination::1
 interaction with sf3b3::1
 2 approximate sp repeats::1
@@ -5386,6 +5302,7 @@ involved in homodimer formation::1
 inhibitory domain::1
 cgmp-binding, high affinity; camp-binding, moderate affinity::1
 cgmp-binding, high affinity; camp-binding, low affinity::1
+o-glycosylated at one site only in cerebrospinal fluid::1
 cryptic polo box 1 (cpb1)::1
 cryptic polo box 2 (cpb2)::1
 interaction with terf2ip::1
@@ -5399,8 +5316,10 @@ molybdenum cofactor biosynthesis protein a::1
 molybdenum cofactor biosynthesis protein c::1
 important for interaction with gck::1
 essential for interaction with gck::1
+uev-like::1
 interaction with rab5b::1
 necessary for self-assembly, microtubule bundling activity and apicobasal microtubule organization::1
+necessary for colocalization and binding with microtubules::1
 necessary for interaction with mark2 and apicobasal microtubule bundle formation in polarized epithelial cells::1
 interaction with ddx39b/uap56::1
 arg-rich; required for rna-binding::1
@@ -5443,6 +5362,7 @@ involved in interaction with h3c15 and h3c1::1
 involved in interaction with h3c15 and rnf2::1
 interaction with rnf2::1
 required for interaction with gpr78 and pak1::1
+interaction with gnas::1
 proline-rich region necessary for constitutive interaction with lyn::1
 interaction with tlr4::1
 interaction with rhog::1
@@ -5493,6 +5413,7 @@ required and sufficient for interaction with pomgnt1::1
 confers specificity for glucose/mannose-type carbohydrates::1
 high-affinity association with the preproteasome::1
 necessary for pink1-dependent localization to mitochondria::1
+syt11 binding::1
 rep::1
 sam2-like domain::1
 15 x 2 aa repeats of p-q::1
@@ -5518,6 +5439,7 @@ required for interaction with stk16::1
 required for rna binding::1
 iq-type::1
 15 x 20 aa approximate tandem repeats of p-p-g-k-p-q-g-p-p-p-q-g-[gd]-[nks]-[ksq]-[prs]-[qrs] [gps]-[psar]-[psr]::1
+required for localization to the centrosome and induction of aggresome formation::1
 sufficient for interaction with cntrl::1
 mtbd; microtubule-binding domain::1
 endoplasmic reticulum location::1
@@ -5536,6 +5458,7 @@ interaction with wnt proteins::1
 sufficient for inhibiting alpha-7 nachr currents::1
 ig-like v-type 1; required for binding to polymeric iga and igm::1
 interaction with lmo2::1
+2-5a binding (p-loop)::1
 interaction with sag::1
 'ionic lock' involved in activated form stabilization::1
 mediates localization to the golgi::1
@@ -5591,6 +5514,7 @@ interaction with histone h3.3::1
 necessary for interaction with usp7::1
 interaction with map3k5::1
 interaction with spop::1
+(microbial infection) interaction with puumala hantavirus nucleoprotein::1
 required for phosphatidylinositol 3,4,5-triphosphate binding::1
 dfp motif::1
 required for inhibition of hiv-1 virus production and vsv g protein expression::1
@@ -5612,8 +5536,10 @@ interaction with arl8b::1
 interaction with znf318::1
 interaction with lpxn::1
 interaction with ccar1::1
+required for 28s ribosomal rna processing::1
 sufficient for interaction with map1b::1
 required for interaction with lamtor2::1
+cystatin fetuin-b-type::1
 charged amino-acid region (car)::1
 q domain; interaction with pi4kb, tbc1d22a and tbc1d22b::1
 membrane-binding::1
@@ -5621,6 +5547,7 @@ required for proteolytic processing::1
 scf-binding::1
 interaction with hpv16 e7::1
 ef-hand 3; atypical; contains an insert of 28 residues::1
+c-terminal catalytic dehydrogenase domain::1
 n-terminal regulatory ef domain::1
 n-terminal lobe of n-terminal regulatory ef domain::1
 c-terminal lobe of n-terminal regulatory ef domain::1
@@ -5675,6 +5602,7 @@ interaction with klc1::1
 interaction with syne3::1
 devd box::1
 required for binding to phosphatidylinositol 4-phosphate (ptdins4p)::1
+kferq-like motif::1
 interaction with akt2::1
 switch ii region; involved in rap1gds1 isoform 2 binding::1
 interaction with layn::1
@@ -5703,6 +5631,7 @@ decreased nuclear import with localization in the nucleus but also in the cytopl
 activates transcription; inhibition of nuclear import due to lack of nls and kpna2 interaction::1
 repression domain; contains 3 sumoylation motifs and massively decrease transcription activity::1
 massively activates transcription::1
+mitochondrial targeting sequence::1
 kis::1
 interaction with cask::1
 neuroprotective peptide (nap)::1
@@ -5713,6 +5642,7 @@ primase-like domain::1
 maybe required for stable oligomeric structure::1
 might negatively regulate atpase activity::1
 interaction with ercc1::1
+pxxp motif; required for interaction with cttn::1
 6 x 10 aa repeats of y-[ilr]-[svpc]-[nrts]-[sntg]-x-[qhrp]-[psy]-[qsl]-[srk]::1
 gppx3y::1
 ejc-binding motif; may mediate interaction with the ejc::1
@@ -5723,6 +5653,7 @@ gar motif; involved in 5hmc binding::1
 tub::1
 ppay::1
 mediates interaction with scai and actb::1
+intervening spacer sequence::1
 oprtase::1
 domain linker::1
 ompdecase::1
@@ -5759,6 +5690,7 @@ interaction with lancl1::1
 winged-helix like domain::1
 actin filament-binding::1
 interactions with adprt/parp1 and ncl::1
+interaction with dna substrate::1
 mediates interaction with nedd4::1
 interaction with pbx1::1
 required for interaction with kpnb1 and eea1::1
@@ -5821,6 +5753,7 @@ atp-cone::1
 import sequence; necessary for mitochondrion outer membrane localization and integration in the tom complex::1
 tmd; necessary for mitochondrion outer membrane localization and integration in the tom complex::1
 c-tail signal; necessary for mitochondrion outer membrane localization and integration in the tom complex::1
+required for interaction with prenylated rab3a and vamp2::1
 required for interaction with gdi1::1
 required for acetyltransferase activity::1
 interaction with target proteins::1
@@ -5833,6 +5766,7 @@ interaction with cbln1 homotrimer::1
 interaction with ap4m1::1
 required for binding to wasf1::1
 3 x 12 aa approximate repeats::1
+lypx(n)l motif::1
 interacts with mbd3::1
 required for interaction with ik and with influenza a virus rna polymerase::1
 interaction with the c2hc rnf-type zinc finger::1
@@ -5845,6 +5779,7 @@ interaction with smn::1
 nxi motif::1
 interaction with csde1::1
 interaction with ddx6::1
+interaction with lsm14a::1
 interaction with patl1::1
 interaction with deaf1::1
 required for assuming the closed conformation and for interaction with cdc20::1
@@ -5872,6 +5807,7 @@ important for flexibility of dna ends that protrude from nucleosomes::1
 catd::1
 superoxide dismutase-like::1
 amphipathic lipid-packing sensor required for tethering of intra-golgi vesicles::1
+involved in rab2a binding::1
 m-domain::1
 required for mrna splicing activation::1
 required for mrna decay activity::1
@@ -5916,6 +5852,7 @@ nuclear receptor interaction motif::1
 mediates interaction with the adaptor protein complex ap-2::1
 mediates interaction with agfg1, calm, dab2, eps15, eps15r, itsn1 and clathrin::1
 important for chemokine binding, signaling and hiv-1 coreceptor activity::1
+chemokine binding::1
 involved in dimerization; when bound to chemokine::1
 chemokine binding, important for signaling and hiv-1 coreceptor activity::1
 interaction with rad23b::1
@@ -5953,6 +5890,7 @@ interaction with tbx21::1
 yxkxhxxxrp::1
 interaction with ube2l3::1
 interaction with itch::1
+interaction with snx3::1
 interaction with slc11a2::1
 interaction with igf2r cytoplasmic domain::1
 involved in the binding to lipid droplets::1
@@ -5989,6 +5927,7 @@ negatively regulates targeting to plasma membrane::1
 mediates interaction with stxbp3::1
 melanosome targeting signal::1
 interaction with relt::1
+essential for cell membrane localization and transport activity::1
 interaction with dpy30::1
 interaction with mcm2::1
 interaction with ddx5::1
@@ -6022,6 +5961,7 @@ hnh::1
 dna annealing helicase activity::1
 interaction with rad17::1
 19 x 2 aa repeats of cg::1
+interaction with pde3b::1
 necessary for interaction with cyth1::1
 necessary for tight junction and adherens junction localization; requires for interaction with pard3::1
 acidic tract a2::1
@@ -6035,7 +5975,9 @@ amino-acid kinase domain (aak)::1
 gor1-125 epitope::1
 required for association with the ift complex a (ift-a)::1
 interaction with trib1::1
+interaction with krt5::1
 interaction with krt14::1
+sin3 interacting domain::1
 required for binding to ddp4::1
 3 x 8 aa tandem repeats of p-g-p-g-p-g-p-s::1
 interaction with ubxn4::1
@@ -6050,6 +5992,7 @@ required for homodimerization and interaction with nfya::1
 interaction with nov::1
 interaction with ubqln4::1
 binds and tubulates liposomes::1
+interaction with substrate trna::1
 core aggregation region::1
 interaction with isopentenylpyrophosphate transferase::1
 card-binding motif (cbm)::1
@@ -6078,6 +6021,7 @@ required for interaction with mavs::1
 required for the repression of mavs-induced interferon signaling::1
 interaction with beta subunit::1
 interaction with ppl::1
+heparan sulfate proteoglycan binding::1
 interaction with traf5::1
 2 x 13 aa approximate repeats::1
 interaction with eif2s1/eif-2alpha::1
@@ -6087,6 +6031,8 @@ necessary for the translational pausing of its own mrna::1
 required for lps-binding::1
 26 x 5 aa repeats of c-c-[grqvchiek]-[sptr]-[vstqyc]::1
 involved in raf1-binding::1
+important for transcription repressor activity::1
+interaction with pol ii::1
 rrmj-type sam-dependent 2'-o-mtase::1
 required for cytoplasmic localization::1
 mediates heterotypic interactions between mlxip and mlx and is required for cytoplasmic localization::1
@@ -6094,6 +6040,7 @@ dicer dsrna-binding fold::1
 required for interaction with prkra and tarbp2::1
 required for interaction with gdf15::1
 interaction with dctn1::1
+interaction with pp1::1
 pgr::1
 insulin-binding::1
 important for interaction with irs1, shc1 and stat5b::1
@@ -6102,20 +6049,27 @@ kinesin-binding domain (kbd); essential for its function in axon elongation::1
 jnk-binding domain (jbd); essential for its function in axon elongation::1
 leucine zipper-like domain (lz); essential for its function in axon elongation::1
 interaction with ntrk2::1
+required for trans-golgi network localization::1
 interaction with unc13d and dynlt1::1
 interaction with unc13d::1
 alpha-helical linker::1
 globular domain::1
+necessary for targeting to peroxisomes and interaction with pex19::1
 peroxisome localization signal::1
 sufficient for interaction with xpo4::1
 inositol-(1,3,4,5)-tetrakisphosphate 1-binding::1
 3 x 4 aa approximate tandem repeats::1
+interaction with znf366::1
+repression domain::1
 required for targeting to small nuclear foci::1
 ctbp-binding; principal site::1
+ctbp-binding::1
 ligand-dependent nuclear receptor binding::1
 involved in the interaction with ccar2::1
 necessary for interaction with grb2::1
 required for wnt-signaling inhibition and lrp6 degradation::1
+interaction with xiap::1
+interaction with csrp3::1
 interaction with flot1::1
 interaction with prkg1::1
 necessary for targeting to centrosomes::1
@@ -6182,6 +6136,7 @@ necessary for interaction with flnc::1
 pcna-interaction protein motif (pip box)::1
 interaction with fchsd2::1
 required for activation of runx1-1::1
+interaction with pml::1
 interaction with runx1-1::1
 mediates interaction with brpf1, required for histone h3 acetyltransferase activity::1
 interaction with runx1-2::1
@@ -6191,9 +6146,11 @@ talin-interaction::1
 3 x 112 aa tandem repeats::1
 interaction with actn4::1
 linker (pro-rich)::1
+facilitates phospholipid membrane insertion::1
 laminin egf-like 4; first part::1
 laminin egf-like 4; second part::1
 laminin egf-like 8; truncated::1
+interaction with phospholamban::1
 interaction with dlc2::1
 required for ubiquitin ligase activity::1
 mediates dimerization, dna-binding, transcription repression of ccna2 and interaction with hmga2::1
@@ -6224,6 +6181,7 @@ required for interaction with esr1 and esr2::1
 interaction with nup155::1
 mediates the shuttling between the nucleus and the cytoplasm::1
 interaction with nup42::1
+interaction with stim1::1
 necessary for the association with the mrn complex::1
 epitope (recognized by cd8(+) cytotoxic t-lymphocytes)::1
 zrf1-ubd::1
@@ -6247,6 +6205,7 @@ microtubule binding::1
 transactivation inhibition::1
 interaction with clathrin; sufficient to induce clathrin assembly::1
 interaction with ptdins(4,5)p2-containing membranes::1
+interaction with grb2, grap2 and pik3r1::1
 interaction with cdk17::1
 interaction with cables1::1
 protein kinase; truncated::1
@@ -6257,19 +6216,25 @@ interaction with trim39::1
 interaction with slc9a7::1
 interaction with sec23::1
 kha::1
+pentapeptide repeat::1
 necessary for interaction with ehd2::1
+trxb::1
+required for interaction with tab2::1
+sufficient for interaction with dapk3::1
 required for homodimerization and kinase activation and localization to the nucleus::1
 tqe::1
 interaction with c1qbp::1
 sufficient for interaction with hira::1
 not proteolytically processed and involved in apoptosis inhibition::1
 interaction with casp8 propeptide::1
+interaction with casp8::1
 interaction with traf1 and traf2::1
 interaction with casp3::1
 interaction with casp8 subunits p18 and p10::1
 caspase::1
 ph 2; first part::1
 ph 2; second part::1
+necessary for localization of are-containing mrnas to processing bodies (pbs)::1
 necessary for nuclear export::1
 necessary for interaction with pabpn1::1
 interaction with cnot1::1
@@ -6292,7 +6257,9 @@ required to form a minimal cpc core complex that localizes to the central spindl
 required for interaction with incenp and birc5::1
 interaction with cdkn2a::1
 interaction with phosphoinosides::1
+interaction with dyl2::1
 binding to ctbp::1
+induces experimental autoimmune encephalomyelitis (eae)::1
 arg/ser tandem repeat-rich::1
 nuclear localization region::1
 nuclear focus formation::1
@@ -6300,6 +6267,7 @@ interaction with sptbn1::1
 pik3r1 binding site::1
 grb2 binding site::1
 purine nucleotide binding::1
+rsxsxx motif::1
 required for binding ctnnd1 and psen1::1
 required for binding alpha, beta and gamma catenins::1
 engb-type g::1
@@ -6308,6 +6276,7 @@ interaction with cyclic nucleotide-binding pocket::1
 necessary for association with the pre-rrnp complexes::1
 necessary for nuclear localization and dna-binding::1
 interaction with smg8 and smg9::1
+interaction with gw182 family members::1
 interaction with amn::1
 involved in proton transfer::1
 secondary eif4e binding site::1
@@ -6329,12 +6298,15 @@ allows a rapid multiple mono-ubiquitination of the apc substrate, but strongly i
 sufficient to suppress ube2s activity; essential for interaction with ube2s; competitively inhibits the rapide ubiquitin chain elongation by ube2d1 which blocks ube2d1 with apc; indispensable for recruitment and position of fbxo5 to the catalytic site of apc; abrogates the inhibition of ubiquitin chain assembly primarily catalyzed by ube2s; inhibits the ubiquitination by either ube2c or ube2d1::1
 ld motif; interaction with nsp3::1
 lyr motif::1
+important for interaction with target dna::1
 kts motif::1
 binds to ip3r3::1
 alpha-helical domain::1
 required for interaction with fam83d::1
+hyaluronic acid-binding::1
 interaction with hck::1
 hhhghxhx-motif::1
+necessary but not sufficient for spindle localization::1
 mediates non-covalent binding of poly-ubiquitin chains::1
 15 x 9 aa tandem repeats of p-p-x-x-p-x-p-p-x::1
 essential for deoxyribonuclease activity::1
@@ -6350,6 +6322,7 @@ beta-ketoacyl reductase::1
 thioesterase::1
 g; pro-rich linker::1
 h; pro/ser-rich linker::1
+required for both high-affinity dna binding and pericentromeric heterochromatin localization::1
 required for binding pp1cc::1
 dna polymerase activity::1
 important for protein stability::1
@@ -6416,12 +6389,14 @@ interaction with ate1::1
 caspase-like::1
 required for interaction with isl1::1
 ddex motif::1
+interaction with kif21a::1
 nuclear export signal 1 (nes 1)::1
 nuclear export signal 2 (nes 2)::1
 nuclear export signal 3 (nes 3)::1
 interaction with ssx2ip::1
 interaction with rab3ip::1
 peptidase s59::1
+fg repeats::1
 glebs; interaction with rae1::1
 lcn1-binding::1
 interaction with lgb::1
@@ -6431,6 +6406,7 @@ mediates interaction with tyk2 and gabbr1::1
 phosphopantetheine adenylyltransferase::1
 subfamily iii rtxk motif::1
 required to promote cell adhesion::1
+homodimer stabilization; interchain::1
 interaction with klhl18::1
 trfh dimerization::1
 sufficient for interaction with nipbl::1
@@ -6482,6 +6458,7 @@ interaction with bcl6::1
 necessary and sufficient for interaction with pcgf1::1
 required for pol iii complex stability::1
 required for high transcriptional activity of isoform alpha-c3::1
+mediates interaction with ifnar2::1
 mediates interaction with stat2::1
 mediates interaction with stat2 and necessary for the negative regulation of the type i ifn signaling pathway::1
 required for interaction with raf1 and for the function::1
@@ -6501,10 +6478,12 @@ interaction with tbc1d15::1
 necessary for interaction with tnpo1::1
 necessary for its nuclear import and export::1
 winged-helix domain::1
+interaction with 5' end of substrate dna::1
 required for its localization in the mitotic spindle and interaction with alpha-tubulin::1
 mediates interaction with the pdz domain of nos1::1
 interaction with pa::1
 sh2-like; required for interaction with growth factor receptors::1
+atg8 family protein-binding::1
 interaction with rab8::1
 interaction with hd::1
 uban::1
@@ -6516,13 +6495,16 @@ mid region::1
 mediates interaction with pde3a::1
 necessary for interaction with spidr::1
 necessary for dimerization and homooligomerization::1
+3' overhang dna-binding::1
 dna holliday junction binding::1
 necessary for ssdna and dna holliday junction binding::1
 necessary for interaction with elavl4 and binding to tau mrna::1
+sufficient for nuclear export::1
 interaction with tle5::1
 bind to rho promoter::1
 interaction with rab11a and rab11b::1
 interaction with hsf1::1
+necessary for transcriptional transactivation::1
 necessary for interaction with ell::1
 necessary for interaction with tcea1 and transactivation activity::1
 repression domain 1 (rd1)::1
@@ -6536,12 +6518,14 @@ required for interaction with kcnk2::1
 heme-binding motif::1
 calcium bowl::1
 sensing domain (s)::1
+required for localization to centrosomes::1
 interaction with pcm1::1
 ipt/tig 1; atypical::1
 ipt/tig 6; atypical::1
 ipt/tig 8; atypical::1
 ipt/tig 12; atypical::1
 ciliary targeting sequence (cst)::1
+required for recruitment to preautophagosomal structure in response to mitophagy::1
 important for interaction with atg13::1
 required for localization to kinetochores::1
 polo box domain (pbd)-binding::1
@@ -6553,6 +6537,7 @@ interaction with marchf6::1
 required for degradation in response to high membrane cholesterol levels::1
 sufficient for enzyme activity::1
 hydrophobic; mediates interaction with membranes::1
+multimerization domain::1
 binds to itpr1, itpr2 and itpr3::1
 pdz-binding domain::1
 required for interaction with septin4. required for migration of cortical neurons during corticogenesis::1
@@ -6578,6 +6563,7 @@ required for interaction with f-actin::1
 required for response to bacterial lipopolysaccharide (lps)::1
 3 x 9 aa tandem repeats of p-k-c-p-[eq]-p-c-p-[ps]::1
 interaction with socs2::1
+interaction with phosphatidylinositides::1
 27 x 6 aa repeats of [gevstpan]-[ilmv]-[de]-[rh]-[mlvi]-[gav]::1
 interaction with ndc80 and zw10::1
 required for interaction with human adenovirus early e1a protein::1
@@ -6595,6 +6581,7 @@ laminin egf-like 1; first part::1
 laminin egf-like 1; second part::1
 laminin egf-like 9; first part::1
 laminin egf-like 9; second part::1
+mediates motor neuron attachment::1
 sufficient for homodimerization::1
 mediates interaction with ofd1::1
 interaction with cul2::1
@@ -6607,6 +6594,7 @@ interaction with runx1::1
 zymogen activation region::1
 u2af homology region; mediates interaction with rbm39::1
 interaction with sf3b14::1
+interaction with phf5a::1
 interaction with sf3b3 and sf3b5::1
 mediates interaction with tln2::1
 sufficient for interaction with rab11a and for guanine nucleotide exchange activity::1
@@ -6616,6 +6604,7 @@ mhc class i alpha-2 like; down-regulates the cell surface expression of klrk1::1
 involved in binding to cct complex::1
 hiv-1 vpu-susceptibility domain::1
 globular or compact configuration stabilized by disulfide bonds::1
+neurite growth inhibition::1
 interaction with col6a2::1
 interaction with col5a1::1
 cysteine-containing::1
@@ -6669,12 +6658,14 @@ mediates interaction with plcg1; essential for bcr signaling; involved in restor
 mediates interaction with lat, grb2, and fgr; involved in translocation to the glycolipid-enriched microdomain and restoration of bcr-induced calcium response in blnk-deficient dt40 cells expressing lat::1
 kinase domain::1
 nuclear hormone receptor interaction::1
+necessary for rna-binding, tnnt2 exon 5 and nmda r1 exon 21 inclusion::1
 c5b-binding domain::1
 pdia3-binding site::1
 necessary for interaction with ybx1, binding to rna, npm1-dependent association with rrna, endoribonuclease activity on abasic rna and localization in the nucleoli::1
 necessary for interaction with npm1 and for efficient rrna binding::1
 mitochondrial targeting sequence (mts)::1
 required for interaction with nfatc2::1
+interaction with gpihbp1::1
 important for interaction with lipoprotein particles::1
 important for heparin binding::1
 laminin egf-like 15; truncated::1
@@ -6682,6 +6673,7 @@ domain v::1
 domain iii b::1
 domain iii a::1
 mediates interaction with the alpha subunit::1
+annulus domain::1
 gateway domain::1
 c-terminal subdomain a::1
 c-terminal subdomain b::1
@@ -6700,6 +6692,7 @@ fido::1
 inhibitory (s/t)xxxe(g/n) motif::1
 4 x 5 aa tandem repeats of q-k-a-[pas]-x::1
 2 x 3 aa tandem repeats of k-[ga]-q::1
+interaction with vti1b::1
 interaction with ap1g1, ap1g2 and gga2::1
 interaction with ap1g1 and ap1g2::1
 interaction with tnip1::1
@@ -6708,6 +6701,7 @@ required for proteasomal degradation of ube2n and ube2d3, traf6 deubiquitination
 sufficient for inhibitory activity of tnf-induced nf-kappa-b activity::1
 required for lysosomal localization and for traf2 lysosomal degradation::1
 interaction with cavin3::1
+interacts with spry1, spry2, spry3 and spry4::1
 interacts with spry1, spry2, and spry4::1
 binds scn2b::1
 required for irs1 activation and il4-induced cell growth::1
@@ -6715,6 +6709,7 @@ required for il4-induced gene expression::1
 10 x 10 aa tandem approximate repeats of p-a-k-p-q-p-q-q-p-x::1
 nuclear matrix binding::1
 mediates interaction with cacna1s::1
+interaction with clint1::1
 interaction with ank1 isoform mu17::1
 interaction with cul3::1
 interaction with usp21::1
@@ -6785,6 +6780,7 @@ interaction with znf106::1
 hemerythrin-like::1
 sumo interaction motif 2 (sim)::1
 sumo interaction motif 3 (sim)::1
+atypical ring finger domain::1
 17 x 5 aa repeats of c-c-[vgsreqh]-[sqtpn]-[stpai]::1
 interaction with casr::1
 interaction with skip::1
@@ -6826,6 +6822,7 @@ rbm2 motif::1
 required for association with golgi apparatus membrane::1
 lariat recognition loop::1
 highly conserved peptide sequence::1
+di-leucine internalization motif; mediates targeting to late endosome and lysosome membranes::1
 a; required for its colocalization with lamins at the nuclear envelope::1
 b; required for interaction with ran-gtp::1
 13 x 4 aa repeats of p-x-x-p::1
@@ -6837,6 +6834,7 @@ interaction with magi1::1
 interaction with chmp3::1
 tankyrase-binding::1
 hyaluronan-binding motif involved in chondroitin sulfate a-binding::1
+hyaluronan-binding motif involved in chondroitin sulfate c-binding::1
 hyaluronan-binding motif involved in chondroitin sulfate a- and c-binding::1
 hyaluronan-binding motif involved in chondroitin sulfate a- and c-binding motif::1
 required for early endosome targeting::1
@@ -6861,8 +6859,10 @@ globular n-terminal alpha domain::1
 globular c-terminal beta domain::1
 interaction with tjp1/zo1::1
 important for interaction with pink1::1
+important for interaction with cdk6::1
 important for dimerization and interaction with psmf1::1
 rfdp motif::1
+linear diubiquitin binding::1
 necessary for interaction with rab7a and rab34, lysosomal distribution and morphology::1
 important for association with membranes::1
 interaction with vav1::1

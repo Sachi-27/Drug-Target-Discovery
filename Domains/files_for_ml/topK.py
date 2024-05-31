@@ -2,7 +2,7 @@ import json
 import pandas as pd
 K = 20
 
-domains = pd.read_csv("unique_domains.csv", delimiter="::")
+domains = pd.read_csv("unique_domains.csv", delimiter="::", engine='python')
 domain_names = list(domains['domain'])[:K]
 
 with open("all_data.json") as f:
