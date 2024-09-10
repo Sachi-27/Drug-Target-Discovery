@@ -25,7 +25,23 @@ def get_drugbank_info(uniprot_id):
         drugs_ = {}
         for row in rows:
             cols = row.find_all('td')
+            # extract a tag from cols[0]
+            hlink = cols[0].find('a')
+            hlink = "https://go.drugbank.com" + hlink.get('href')
+            drugbank_id = hlink.split('/')[-1]
             cols = [ele.text.strip() for ele in cols[:-1]]
-            drugs_[cols[0]] = [ele for ele in cols[1:] if ele]
+            drugs_[drugbank_id] = {
+                'drug_name': cols[0],
+                'status': cols[1],
+                'pharmacological action?': cols[3],
+                'type': cols[4],
+                'hlink': hlink
+            }
         drugs[link] = drugs_
     return drugs
+
+
+if __name__ == '__main__':
+    uniprot_id = 'P05067'
+    drugs = get_drugbank_info(uniprot_id)
+    print(drugs)
