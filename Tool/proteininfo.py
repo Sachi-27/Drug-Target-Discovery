@@ -25,7 +25,7 @@ def get_protein_info(uniprot_id, source, retrieve_amount=30, mindate=0, maxdate=
             search_term += f') AND ((druggability[Title/Abstract] OR "drug target"[Title/Abstract] OR "protein target"[Title/Abstract] OR "drug discovery"[Title/Abstract] OR "drug binding"[Title/Abstract] OR "drug interaction"[Title/Abstract] OR "targeted therapy"[Title/Abstract]) OR ("cancer"[Title/Abstract] OR "tumor"[Title/Abstract] OR "neurodegenerative"[Title/Abstract] OR "disorders"[Title/Abstract] OR "metabolic disorders"[Title/Abstract] OR "cardiovascular"[Title/Abstract] OR "COPD"[Title/Abstract] OR "infectious"[Title/Abstract] OR "disease"[Title/Abstract]))'
 
         search_term += " AND Humans[MeSH Terms]"
-        # print(search_term)  
+        print(search_term)  
         encoded_search_term = requests.utils.quote(search_term)
         url = f"https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&retmax={retrieve_amount}&mindate={mindate}&maxdate={maxdate}&sort=pub+date&term={encoded_search_term}"
         response = requests.get(url)
@@ -66,9 +66,7 @@ if __name__ == '__main__':
     count, pubmed_ids = get_protein_info(uniprot_id, source, retrieve_amount=10, mindate=2014)
     print(count, pubmed_ids)
 
-    pmid_details = {}
-    for pmid in pubmed_ids:
-        pmid_details[pmid] = get_pmid_info(pmid)
-        print(pmid, pmid_details[pmid])
-
-
+    # pmid_details = {}
+    # for pmid in pubmed_ids:
+    #     pmid_details[pmid] = get_pmid_info(pmid)
+    #     print(pmid, pmid_details[pmid])
