@@ -1,0 +1,17 @@
+. Is it true that counts of number of drugs satisfy: all = biotech + nutraceutical + small_molecule?
+No, there can be intersections, because a small molecule can be nutraceutical. So all <= B+N+SM is true. Also, each drug in the all set must belong to atleast one of B,N and SM.
+
+
+Constructed drug class map as above. Note that the status of a drug the same across all of its targets. We have a total of 5954 drugs. DB12010 is the drug with largest number of targets = 303 human proteins
+
+179 drugs are approved, but also have a label of either withdrawn or illicit. Such drugs we do not consider as approved
+
+druginfo_updated.json contains information of drug status across different targets, based on March 2024 data
+protein_drug_map.json contains information of all drugs for a protein 
+
+2927 have non empty druglist for a protein, remainiing in the total of 20434 are categorised as non-druggable 
+when excluding the illciit and withdrawn drugs, we have 2915 proteins with non empty druglist
+of which 2233 have atleast one approved drug therefore categorising them as druggable
+, rest 682 are categorised as investigational
+
+Plots generated -- check DRUG_INFO/druggable.png and DRUG_INFO/investigational.png
